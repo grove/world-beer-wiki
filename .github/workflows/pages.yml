@@ -18,8 +18,8 @@ jobs:
     name: Validate and build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
           cache: pip
@@ -34,6 +34,13 @@ jobs:
         run: python tools/build_site.py
       - name: Build HTML and search index
         run: python -m mkdocs build --strict -f .build/mkdocs.yml
+      - name: Attach HTML preview for review
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: world-beer-wiki-preview
+          path: .build/site
+          retention-days: 7
       - name: Configure GitHub Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
