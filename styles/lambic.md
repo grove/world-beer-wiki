@@ -8,8 +8,8 @@ tags:
 - sour
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:39:23Z'
 sources:
 - id: bjcp-2021-23d
   resource: https://styles.bjcp.org/bjcp-2021-beer/23/23d-lambic
@@ -18,6 +18,13 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: wiki-lambic-barrels
+  resource: https://journals.asm.org/doi/10.1128/AEM.02226-18
+  title: The Interior Surfaces of Wooden Barrels Are an Additional Microbial Inoculation Source for Lambic Beer Production (2018 online; 2019 issue)
+  author: team:j-de-roos-d-van-der-veken-and-l-de-vuyst
+  source_kind: primary-microbiological-research
+  access_scope: publisher full text; abstract, introduction and results on six barrels in one traditional brewery
+  author_label: J. De Roos, D. Van der Veken and L. De Vuyst
 aliases:
 - Unblended lambic
 - Lambiek
@@ -25,7 +32,7 @@ regions:
 - Europe
 tradition_status: living
 scope: Modern reference description; historical statements are limited to the cited evidence.
-evidence_basis: official-style-guideline
+evidence_basis: official-style-guideline; primary-microbiological-research
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
@@ -59,9 +66,19 @@ Aged hops are used differently from the fresh aromatic hopping of an IPA. After 
 
 Lambic is not a generic synonym for every sour beer or every beer fermented outdoors. Gueuze is a blended and bottle-conditioned expression of this tradition, while fruit lambic adds another fermentation ingredient. The base tradition, its blends, and its fruit versions have related but distinct entries so their differences remain clear.[^bjcp-2021-23d]
 
+## The brewery environment is part of fermentation
+
+De Roos and colleagues examined six wooden barrels in one traditional brewery. Sequencing still detected fermentation-related organisms after cleaning, while few colonies remained culturable. The authors identify barrel surfaces as a possible additional inoculation source. This adds detail to the coolship story without claiming that all microorganisms come from outdoor air or that every brewery has the same community.[^wiki-lambic-barrels]
+
+For a related finished product, compare [Faro](faro.md), which makes sweetening a separate question from the base lambic tradition.
+
 ## Evidence note
 
-This profile paraphrases a modern judging reference. Its flavor description is better supported than any claim of a single origin or an unchanged historical recipe. It is not a complete brewing recipe.
+The sensory description follows BJCP 2021; the added microbial evidence comes from a study of six barrels in one brewery. Detection by sequencing is not identical to recovering viable cells in culture. Neither source supplies a universal microbial timetable, a complete recipe or proof of a single geographic mechanism.
+
+## Related ingredients and categories
+
+[Wheat](../ingredients/wheat.md) · [Hops](../ingredients/hops.md) · [Brewing bacteria](../ingredients/brewing-bacteria.md) · [Sour and mixed fermentation](../categories/sour-and-mixed-fermentation-beers.md)
 
 ## Compare and explore
 
@@ -74,3 +91,5 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^bjcp-2021-23d]: [BJCP 2021: Lambic](https://styles.bjcp.org/bjcp-2021-beer/23/23d-lambic). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^wiki-lambic-barrels]: [The Interior Surfaces of Wooden Barrels Are an Additional Microbial Inoculation Source for Lambic Beer Production (2018 online; 2019 issue)](https://journals.asm.org/doi/10.1128/AEM.02226-18). J. De Roos, D. Van der Veken and L. De Vuyst. Consulted 2026-10-27. Evidence used: publisher full text; abstract, introduction and results on six barrels in one traditional brewery.

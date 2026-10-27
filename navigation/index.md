@@ -1,7 +1,7 @@
 # Navigation
 
-[Names and aliases](all-names.md) · [Regions](by-region.md) · [Families, grains, and processes](by-family.md) · [Historical and modern scope](by-period.md)
+[Names and scoped aliases](all-names.md) · [By region](by-region.md) · [By family and process](by-family.md) · [By ingredient and culture](by-ingredient.md) · [By historical scope](by-period.md)
 
-These directories reference the [profile corpus](../styles/index.md). Classification and comparison routes are editorial aids, not claims of historical descent.
+[Category guides](../categories/index.md) explain the routes; [ingredient references](../ingredients/index.md) explain material roles. [All beer and tradition profiles](../styles/index.md) remains the canonical profile directory.
 
-[Home](../index.md) · [Coverage](../editorial/coverage-and-gaps.md)
+[Home](../index.md)

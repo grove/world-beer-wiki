@@ -1,55 +1,74 @@
 ---
 type: Validation Report
-title: Bundle validation report
+title: Bundle integrity and validation report
 description: Deterministic checks of the Markdown bundle, citations, metadata, and navigation.
 tags:
 - wiki-documentation
 - validation
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:13:06Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:46:40Z'
 sources:
 - id: corpus
   resource: /styles/index.md
-  title: Profile directory and linked files
+  title: Profile directory and linked article metadata
 - id: format
   resource: /editorial/format.md
   title: OKF 0.2 mapping
 - id: register
   resource: /references/source-register.md
   title: Source register
+- id: wiki-validator
+  resource: /tools/validate_wiki.py
+  title: Optional offline wiki validator
 ---
 
-# Bundle validation report
+# Bundle integrity and validation report
 
-**Edition 1.0 · 27 October 2026**
+**Edition 1.1 · 27 October 2026**
 
-This report records mechanical checks of the downloadable bundle. It does **not** certify historical accuracy, replace independent expert review, or elevate the articles' trust tier.
+The optional [offline validator](../tools/validate_wiki.py) checked the complete repository after the research expansion and navigation updates. These are structural checks, not a certification of historical truth or human review.
 
-## Checked successfully
+## Reproduce the check
+
+With Python 3.9 or later and PyYAML installed, run from the repository root:
+
+```bash
+python tools/validate_wiki.py
+python tools/validate_wiki.py --json
+```
+
+The checker makes no network requests and does not change files. It exits with a nonzero status if it finds an error. The wiki can be read without running it.
+
+## Final measured results
 
 | Check | Result |
 |---|---:|
-| UTF-8 Markdown files | 171 |
-| Canonical profile files | 153 |
-| Ordinary concept files with valid YAML and a non-empty type | 165 |
-| Internal Markdown link occurrences resolved | 2275 |
-| Comparison relations resolved | 495 |
-| Footnote citations matched to definitions and source identifiers | 622 |
-| Files reachable from the root index | 171 |
-| Broken internal links | 0 |
-| Unresolved footnote references | 0 |
-| Duplicate concept identifiers | 0 |
+| UTF-8 Markdown files | 218 |
+| Ordinary concept files | 210 |
+| Beer and tradition profiles | 166 |
+| Ingredient references | 17 |
+| Category guides | 13 |
+| Internal Markdown link occurrences resolved | 3521 |
+| Structured comparison relations resolved and linked in the body | 705 |
+| Footnote citation occurrences matched to definitions and source IDs | 872 |
+| Source identifiers across subject and editorial concepts | 296 |
+| Markdown files reachable from the root index | 218 |
+| Validation errors | 0 |
 
-The checks also confirm the root version declaration, reserved index and log conventions, timezone-bearing generation timestamps, lifecycle values, nonempty source references, internal source paths, and source metadata on every profile. Each profile's comparison targets exist and are also linked in its body. All files in the archive are Markdown; the ZIP was reopened and checked for CRC errors after writing.
+The [subject-source register](../references/source-register.md) separately counts **260 external source records** used by profiles, ingredients and category guides. The larger source-identifier total above also includes internal document references used by navigation and editorial pages; it is not a count of independent publications.
 
-## Scope and limits
+## What passed
 
-External references were consulted during research, but this report is not a live-health test of every external URL or a promise of continued availability. Source titles and links are not evidence that every historical interpretation is settled. The [source register](../references/source-register.md) records what was used; individual articles record access and scope limitations.
+YAML parsed with duplicate keys rejected. Ordinary concepts have nonempty type, title and status fields and timezone-bearing generation timestamps. The root declares OKF 0.2; reserved directory indexes and the release log follow the bundle's frontmatter convention.
 
-The corpus remains an AI-generated, source-checked research edition with `status: draft`. No `verified` metadata is asserted. Formatting validation is deliberately not represented as human verification of the contents.
+Local Markdown file and anchor targets, internal source paths and relation targets resolve. Structured relation targets are also linked in article bodies. Referenced footnotes have definitions and source metadata; definitions are not duplicated or left unused. Repeated source identifiers retain consistent resource URLs and titles. All subject articles appear in their corresponding directory index, and every Markdown file is reachable through links from the root.
 
-## References
+The checker handles the Markdown link and heading forms used here, including balanced URL parentheses, reference links, Unicode heading anchors and fenced code blocks. Focused temporary fixtures exercised its positive and negative paths. It is a utility for this corpus, not a full Markdown renderer or complete OKF schema validator.
 
-Results refer to the [profile corpus](../styles/index.md) and [OKF mapping](format.md). Read the [methodology](methodology.md) and [coverage limitations](coverage-and-gaps.md) alongside these results.
+## Research review and limits
+
+Independent AI editorial passes checked selected primary-source claims, including modern judging boundaries, regional process descriptions, microbial roles and archaeological interpretation. Resulting corrections are summarized in the [research update](research-update-1-1.md). All articles retain draft review status; no human historian, brewer, scientist or community approval is asserted.
+
+External sources were consulted during research. This report does not claim a live health check of every existing URL, full-text access to every publication or continued future availability. Abstract-only, indexed and partial access remain identified in source metadata. See [methodology](methodology.md), [coverage](coverage-and-gaps.md) and [format conventions](format.md).

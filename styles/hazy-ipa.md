@@ -1,15 +1,15 @@
 ---
 type: Beer Style
 title: Hazy IPA
-description: A sourced profile of Hazy IPA, its character, brewing context, and important distinctions.
+description: Hazy IPA as a sensory style, distinct from opacity alone, with research on why haze cannot identify a recipe.
 tags:
 - ale
 - hoppy
 - hazy
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:45:17Z'
 sources:
 - id: bjcp-2021-21c
   resource: https://styles.bjcp.org/bjcp-2021-beer/21/21c-hazy-ipa
@@ -18,6 +18,13 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: modern-haze-huismann
+  resource: https://doi.org/10.1080/03610470.2021.1937460
+  title: 'Unfilterable Beer Haze Part I: The Investigation of an India Pale Ale Haze'
+  author: team:huismann-et-al
+  source_kind: primary-research
+  access_scope: publisher abstract and Heriot-Watt publication record; full paper not inspected
+  author_label: Margaux Huismann, Fraser Gormley, Dzeti Dzait, R. Alex Speers and Dawn L. Maskell
 aliases:
 - New England IPA
 - NEIPA
@@ -26,7 +33,7 @@ regions:
 - North America
 tradition_status: contemporary
 scope: Modern reference description; historical statements are limited to the cited evidence.
-evidence_basis: official-style-guideline
+evidence_basis: official definitions with attributed primary accounts or primary research; access limits recorded per source
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
@@ -39,39 +46,43 @@ relations:
 - relation: compare_with
   target: styles/white-ipa
 - relation: compare_with
-  target: styles/catharina-sour
+  target: styles/west-coast-ipa
+- relation: compare_with
+  target: styles/session-ipa
 ---
 
 # Hazy IPA
 
-**Beer Style** · North America · contemporary
+Hazy IPA combines pronounced fruity hop aroma with a soft body and a less sharply bitter impression than many conventional American IPAs. It is BJCP 2021 category 21C; haze alone does not establish that identity.[^bjcp-2021-21c]
 
-Hazy IPA emphasizes vivid hop aroma, a soft mouthfeel, and a less sharply bitter impression than many conventional American IPAs. Its haze is part of the familiar appearance, but haze alone does not establish the style.[^bjcp-2021-21c]
+## Character and ingredients
 
-## Character
+The guideline emphasizes fruit-like hop expression, supportive pale grain character and smoothness. It allows neutral or fruity fermentation but rejects a heavy, viscous or harsh presentation. Grists commonly include flaked grains, with substantial late and dry hopping. Noticeable fruit, lactose or vanilla additions move a BJCP entry toward an appropriate specialty category instead of being requirements of ordinary Hazy IPA.[^bjcp-2021-21c]
 
-Hop character often suggests tropical fruit, citrus, or stone fruit. The body can feel rounded and smooth, with restrained caramel or toast. Fruity aroma does not necessarily mean that actual fruit was added.[^bjcp-2021-21c]
+“Juicy” is useful sensory language, not evidence of added juice. Likewise, a cloudy photograph cannot establish sweetness, attenuation, the amount of oats or the presence of lactose. Those require tasting or ingredient/process evidence.
 
-## Brewing and context
+## What haze can and cannot tell you
 
-Brewers commonly combine pale malt with grains such as oats or wheat and substantial late or dry hopping. Fermentation choices also affect the final aroma and texture. A cloudy beer can still finish reasonably dry rather than tasting like syrup.[^bjcp-2021-21c]
+Huismann and colleagues investigated sporadic, unfilterable haze in a commercial IPA. They compared high- and low-haze samples, examined protein, polyphenol and beta-glucan content, and used enzyme treatments. Their findings led them to propose a role for yeast cell-wall proteins in that particular haze.[^modern-haze-huismann]
 
-## History and interpretation
+This was an investigation of a specific brewing problem, not a universal recipe for desirable Hazy IPA. The useful inference is narrower: similar visible cloudiness can require more chemical and process information to explain. The study does not establish that all IPA haze is suspended yeast, nor that one grain always produces a predictable level of haze.
 
-The style is associated with modern New England brewing and has spread widely. It is not defined by adding flour, lactose, or fruit purée. Those additions may create other products, but they are not required here. Compare the whole balance, aroma, and mouthfeel instead of judging only opacity.[^bjcp-2021-21c]
+## Category boundaries and historical scope
+
+BJCP associates the style with modern New England brewing and distinguishes it from crisp, more bitter American IPA even when the latter has some haze.[^bjcp-2021-21c] Compare body, balance and finish as well as appearance. [White IPA](white-ipa.md) provides another reason not to classify solely by cloudiness.
 
 ## Evidence note
 
-This profile paraphrases a modern judging reference. Its flavor description is better supported than any claim of a single origin or an unchanged historical recipe. It is not a complete brewing recipe.
+The guideline is a style target; the research is evidence about an experimental sample. The paper's abstract and university bibliographic record were consulted, not its full experimental data. Neither source supports a claim that every contemporary beer marketed as “juicy” has identical ingredients or fermentation.
 
-## Compare and explore
+[Oats](../ingredients/oats.md) · [Wheat](../ingredients/wheat.md) · [Hops](../ingredients/hops.md) · [IPA family guide](../categories/ipa-and-hop-forward-beers.md) · [All beer entries](index.md)
 
-[American IPA](american-ipa.md) · [White IPA](white-ipa.md) · [Catharina Sour](catharina-sour.md)
+## Further comparisons
 
-Comparison links are not claims of direct ancestry.
-
-[All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
+[American IPA](american-ipa.md) · [West Coast IPA](west-coast-ipa.md) · [Session IPA](session-ipa.md)
 
 ## Source notes
 
 [^bjcp-2021-21c]: [BJCP 2021: Hazy IPA](https://styles.bjcp.org/bjcp-2021-beer/21/21c-hazy-ipa). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^modern-haze-huismann]: [Unfilterable Beer Haze Part I: The Investigation of an India Pale Ale Haze](https://doi.org/10.1080/03610470.2021.1937460). Margaux Huismann, Fraser Gormley, Dzeti Dzait, R. Alex Speers and Dawn L. Maskell. Consulted 2026-10-27. Evidence used: publisher abstract and Heriot-Watt publication record; full paper not inspected.

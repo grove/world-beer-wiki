@@ -8,8 +8,8 @@ tags:
 - smoked
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:39:23Z'
 sources:
 - id: bjcp-2021-6b
   resource: https://styles.bjcp.org/bjcp-2021-beer/6/6b-rauchbier
@@ -18,13 +18,27 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: wiki-schlenkerla-process
+  resource: https://www.schlenkerla.de/rauchbier/prozess/prozesse.html
+  title: Malting and brewing process of Schlenkerla Smoked Beer
+  author: team:schlenkerla
+  source_kind: firsthand-producer-account
+  access_scope: producer description of beechwood-fired kilning; not claims of global exclusivity
+  author_label: Schlenkerla
+- id: wiki-schlenkerla-oak
+  resource: https://www.schlenkerla.de/rauchbier/sorten/schlenkerlaeichee.html
+  title: Schlenkerla Oak Smoke
+  author: team:schlenkerla
+  source_kind: firsthand-producer-account
+  access_scope: oak-smoked malt for its double bock; product practice, not general historical assertions
+  author_label: Schlenkerla
 aliases:
 - Bamberg smoked Märzen
 regions:
 - Europe
 tradition_status: living
 scope: Modern reference description; historical statements are limited to the cited evidence.
-evidence_basis: official-style-guideline
+evidence_basis: firsthand-producer-account; official-style-guideline
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
@@ -58,9 +72,17 @@ Malt dried over beechwood smoke is the defining reference ingredient. The balanc
 
 Bamberg preserves a strong smoked-lager tradition, but smoking is also found in unrelated brewing cultures. Similar smoky aromas are not proof of a shared lineage. Compare this style with oak-smoked Polish wheat beer and Norwegian farmhouse beer to see how grain, wood, fermentation, and serving context create different results.[^bjcp-2021-6b]
 
+## How a producer introduces smoke
+
+Schlenkerla's process account locates its classic smoke character in the kiln: beechwood smoke reaches the germinated malt as it dries. Its Oak Smoke double bock uses a different smoking wood. These examples distinguish malt smoking from aging finished beer in a wooden vessel and show why the narrow Märzen reference is not the entire smoked-beer world.[^wiki-schlenkerla-process][^wiki-schlenkerla-oak]
+
 ## Evidence note
 
-This profile paraphrases a modern judging reference. Its flavor description is better supported than any claim of a single origin or an unchanged historical recipe. It is not a complete brewing recipe.
+BJCP 2021 defines the narrower Märzen-like category. Schlenkerla documents its own kilning and product practices. Producer descriptions are not independent evidence for worldwide exclusivity or a single origin of smoked beer.
+
+## Related ingredients and categories
+
+[Barley and malt](../ingredients/barley-and-malt.md) · [Smoke and wood categories](../categories/smoke-wood-and-specialty-beers.md) · [Stjørdalsøl](stjordalsol.md)
 
 ## Compare and explore
 
@@ -73,3 +95,7 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^bjcp-2021-6b]: [BJCP 2021: Rauchbier](https://styles.bjcp.org/bjcp-2021-beer/6/6b-rauchbier). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^wiki-schlenkerla-process]: [Malting and brewing process of Schlenkerla Smoked Beer](https://www.schlenkerla.de/rauchbier/prozess/prozesse.html). Schlenkerla. Consulted 2026-10-27. Evidence used: producer description of beechwood-fired kilning; not claims of global exclusivity.
+
+[^wiki-schlenkerla-oak]: [Schlenkerla Oak Smoke](https://www.schlenkerla.de/rauchbier/sorten/schlenkerlaeichee.html). Schlenkerla. Consulted 2026-10-27. Evidence used: oak-smoked malt for its double bock; product practice, not general historical assertions.

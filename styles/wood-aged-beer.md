@@ -8,8 +8,8 @@ tags:
 - aging
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:39:23Z'
 sources:
 - id: bjcp-2021-33a
   resource: https://styles.bjcp.org/bjcp-2021-beer/33/33a-wood-aged-beer
@@ -57,9 +57,19 @@ Wood variety and the degree of toasting or charring affect the result. The BJCP 
 
 This is a modern classification of a process, not a claim that every historical beer stored in wood tasted strongly woody. For comparison, record the base style and the actual treatment rather than treating “aged” as a complete description.[^bjcp-2021-33a]
 
+## A vessel does not guarantee a wood-flavor category
+
+BJCP's 33A description allows wood-based additions such as chips, staves or cubes, as well as barrels. It also allows a beer with only subtle background wood character to remain in its base-style category. The judging category concerns the perceptible result; it is not an inventory of every beer that touched wood.[^bjcp-2021-33a]
+
+Read [Lambic](lambic.md) for a different vessel-and-fermentation context and [Rauchbier](rauchbier.md) for smoke introduced through malt. These comparisons prevent wood, smoke and barrel history from becoming interchangeable labels.
+
 ## Evidence note
 
-This profile paraphrases a modern judging reference. Its flavor description is better supported than any claim of a single origin or an unchanged historical recipe. It is not a complete brewing recipe.
+This is a modern judging-category explanation, not a universal classification of cooperage or maturation. The type of wood, its treatment, the base beer and the intended sensory contribution need separate evidence.
+
+## Related ingredients and categories
+
+[Smoke, wood and specialty categories](../categories/smoke-wood-and-specialty-beers.md) · [Barley and malt](../ingredients/barley-and-malt.md)
 
 ## Compare and explore
 

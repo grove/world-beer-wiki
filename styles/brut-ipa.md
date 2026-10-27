@@ -1,15 +1,15 @@
 ---
 type: Beer Style
 title: Brut IPA
-description: A sourced profile of Brut IPA, its character, brewing context, and important distinctions.
+description: An extremely attenuated IPA whose sparkling-wine analogy concerns dryness and carbonation, with limits on historical trend claims.
 tags:
 - ale
 - hoppy
 - very-dry
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:45:17Z'
 sources:
 - id: bjcp-2021-21b-brut
   resource: https://www.bjcp.org/style/2021/21/21B/specialty-ipa-brut-ipa/
@@ -18,8 +18,7 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
-aliases:
-- Extra-dry IPA
+aliases: []
 regions:
 - North America
 tradition_status: contemporary
@@ -36,6 +35,8 @@ relations:
 - relation: compare_with
   target: styles/american-ipa
 - relation: compare_with
+  target: styles/cold-ipa
+- relation: compare_with
   target: styles/italian-grape-ale
 - relation: compare_with
   target: styles/belgian-golden-strong-ale
@@ -43,33 +44,31 @@ relations:
 
 # Brut IPA
 
-**Beer Style** · North America · contemporary
+Brut IPA is a very pale, exceptionally dry IPA interpretation with abundant carbonation and strong hop aroma. BJCP 2021 describes it under 21B Specialty IPA. Its sparkling-wine analogy concerns texture and dryness; grapes are not a defining ingredient.[^bjcp-2021-21b-brut]
 
-Brut IPA is an exceptionally dry, pale, highly carbonated IPA variant designed to feel almost sparkling-wine-like. The comparison concerns dryness and texture, not a requirement to contain grapes.[^bjcp-2021-21b-brut]
+## Character and brewing
 
-## Character
+The reference pairs a very lean body with restrained malt and relatively low measured bitterness. Aromatic late hopping is prominent. It identifies pale malt, optional adjuncts, neutral yeast and enzymes such as amyloglucosidase as characteristic tools. The point of the enzyme is greater fermentability, not a promise that any enzyme-treated IPA belongs to this style.[^bjcp-2021-21b-brut]
 
-Bright hop aromas can suggest citrus, tropical fruit, or white grape. Malt flavor is restrained, and perceived bitterness must stay balanced against the very lean body. The beer should not taste like a thick, sweet IPA.[^bjcp-2021-21b-brut]
+## Distinguish the neighboring ideas
 
-## Brewing and context
+For comparison, record finish, carbonation, hop aroma and perceived bitterness separately. This avoids the shortcut of calling every pale, dry IPA “Brut.” Read [Cold IPA](cold-ipa.md) for a producer-led process concept and [Italian Grape Ale](italian-grape-ale.md) for a family in which actual grape ingredients matter. Similar wine-like aroma language does not establish identical ingredients.
 
-Brewers commonly use enzymes to increase the amount of fermentable material, helping the beer finish extremely dry. Pale malt, sometimes other fermentables, and late hopping supply a light base with strong aroma.[^bjcp-2021-21b-brut]
+Dryness also is not an alcohol-content category. Preserve a beer's declared ABV rather than inferring [low alcohol](../categories/low-and-no-alcohol-beers.md) from “Brut,” “light body” or an exceptionally low final gravity. The label describes a different dimension of the beer.
 
-## History and interpretation
+## Historical evidence and its date
 
-The modern style is associated with San Francisco brewing in 2017. The cited guideline's comments about its popularity describe the guideline period, not a verified market assessment for today. Brut IPA is distinct from both a dry conventional American IPA and a grape ale: its defining combination is extreme attenuation, high carbonation, restrained malt, and aromatic hops.[^bjcp-2021-21b-brut]
+The 2021 guideline places the modern origin in San Francisco in 2017 and comments on the style's short-lived prominence in 2018–2019.[^bjcp-2021-21b-brut] That is a dated source account. It does not measure current sales or establish that no brewery still makes the style. This profile therefore retains the historical period without converting it into a contemporary market forecast.
 
 ## Evidence note
 
-This profile paraphrases a modern judging reference. Its flavor description is better supported than any claim of a single origin or an unchanged historical recipe. It is not a complete brewing recipe.
+This entry uses one modern judging reference. It does not supply a reconstructed original recipe or an independently corroborated inventor biography. Numerical brewing targets should be quoted from a named edition rather than treated as natural limits of the word “Brut.”
 
-## Compare and explore
+[Barley and malt](../ingredients/barley-and-malt.md) · [Sugars](../ingredients/sugars.md) · [IPA family guide](../categories/ipa-and-hop-forward-beers.md) · [All beer entries](index.md)
 
-[American IPA](american-ipa.md) · [Italian Grape Ale](italian-grape-ale.md) · [Belgian Golden Strong Ale](belgian-golden-strong-ale.md)
+## Further comparisons
 
-Comparison links are not claims of direct ancestry.
-
-[All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
+[American IPA](american-ipa.md) · [Belgian Golden Strong Ale](belgian-golden-strong-ale.md)
 
 ## Source notes
 

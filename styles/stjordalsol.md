@@ -1,7 +1,8 @@
 ---
 type: Beer Tradition
 title: Stjørdalsøl
-description: A sourced profile of Stjørdalsøl, its character, brewing context, and important distinctions.
+description: Stjørdal farmhouse brewing as a local malting and social tradition, with evidence for varied yeasts and boiled
+  or unboiled wort.
 tags:
 - farmhouse
 - smoked
@@ -9,8 +10,8 @@ tags:
 - regional
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:29:03Z'
 sources:
 - id: garshol-stjordal
   resource: https://www.garshol.priv.no/blog/369.html
@@ -19,9 +20,15 @@ sources:
   source_kind: firsthand-fieldwork
   access_scope: author’s field observations or documented comparison; not an exhaustive regional survey
   author_label: Lars Marius Garshol
+- id: trad-stjordal-nygard
+  resource: https://www.garshol.priv.no/blog/370.html
+  title: Svein, maltster and brewer (2017)
+  author: human:lars-marius-garshol
+  source_kind: firsthand-fieldwork
+  access_scope: full firsthand report of January 2016 visit to Svein Nygård’s shared malt house
+  author_label: Lars Marius Garshol
 aliases:
 - Stjordalsol
-- Stjørdalsøl
 regions:
 - Northern Europe
 - Norway
@@ -61,13 +68,25 @@ Brewers often share a malt house through an association. Barley is germinated an
 
 Baker's yeast, commercial ale yeast, and lager yeast all appeared in the documented beers. Calling every Stjørdalsøl a kveik beer would therefore be misleading. The evidence comes from a particular tasting and fieldwork, not a census of every brewer or a fixed historical specification.[^garshol-stjordal]
 
+## Malting as shared infrastructure
+
+A separate visit to Svein Nygård's malt house shows how the tradition is organized. A group of brewers built and used the building together, maintaining the equipment and skills needed to produce their own malt. The **såinnhus** is consequently part of the brewing system, not merely a picturesque historical backdrop.[^trad-stjordal-nygard]
+
+## One region, different heating methods
+
+Nygård's documented beer used a heated mash but no subsequent wort boil, baker's yeast, and some added sugar or syrup. He explained that he had stopped boiling to save time. This is a useful counterexample to the idea that traditional brewing must remain technologically unchanged: a brewer can preserve local malting while adapting another operation.[^trad-stjordal-nygard]
+
+It also shows why smoky beer and raw ale are overlapping descriptions. The first concerns malt treatment and flavour; the second concerns the wort-heating sequence. Neither alone tells the reader which yeast a Stjørdal brewer used.[^trad-stjordal-nygard]
+
 ## Evidence note
 
-The description is limited to the sources below. A local observation or laboratory sample does not establish one recipe, strength, or flavor for every community or period.
+The original tasting and the follow-up malt-house visit document related but different evidence: several finished beers versus one maker’s equipment and decisions. Both accounts come from the same researcher. They support local variation, not a compulsory level of smoke, a universal fermentation culture, or a current count of active brewers.
 
 ## Compare and explore
 
 [Rauchbier](rauchbier.md) · [Gotlandsdricke](gotlandsdricke.md) · [Vossaøl](vossaol.md) · [Kornøl](kornol.md)
+
+[Traditional and Indigenous brewing](../categories/traditional-and-indigenous-beers.md) · [Starch-fermentation boundaries](../categories/starch-fermentation-and-beer-boundaries.md)
 
 Comparison links are not claims of direct ancestry.
 
@@ -76,3 +95,5 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^garshol-stjordal]: [Stjørdalsøl — the tasting (2017)](https://www.garshol.priv.no/blog/369.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: author’s field observations or documented comparison; not an exhaustive regional survey.
+
+[^trad-stjordal-nygard]: [Svein, maltster and brewer (2017)](https://www.garshol.priv.no/blog/370.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: full firsthand report of January 2016 visit to Svein Nygård’s shared malt house.

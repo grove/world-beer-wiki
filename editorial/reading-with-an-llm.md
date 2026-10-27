@@ -6,8 +6,8 @@ tags:
 - wiki-documentation
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:58Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:45:17Z'
 sources:
 - id: corpus
   resource: /styles/index.md
@@ -42,6 +42,16 @@ Do not turn historical beverage descriptions into medical or food-safety assuran
 Keep canonical filenames stable where possible. Add aliases to the existing profile when they refer to the same scoped concept. For a genuinely different tradition or period, create a separate sourced file and explain the distinction. Update the directory and comparison links, record the change in the release log, and rerun structural checks.
 
 Do not promote a profile's review status merely because an LLM rewrote it. Preserve source access limits and disagreements rather than making the prose falsely certain.
+
+## Retrieval across the three article layers
+
+For a named beer, start with its `styles/` profile. Add the relevant `categories/` guide when the question is comparative, and the `ingredients/` reference when the question concerns material or microbial roles. Do not return an ingredient definition as if it establishes a complete style recipe.
+
+Keep the organization and edition alongside classification codes. Preserve the distinction between a named guideline entry and a suggested competition placement. Retain producer attribution, sample size and source access when summarizing technical results; an abstract-only citation does not support unseen methods or conclusions.
+
+Useful retrieval tasks include comparing rice lager with apong through their profiles and the rice reference; explaining Kölsch through its profile and the cold-conditioning guide; or comparing kveik isolates with the particular farmhouse practices described in Kornøl and Vossaøl. These are proposed reading routes, not implicit genealogies.
+
+For corpus counts, use the separate directories: beer/tradition profiles, ingredient references and category guides. Do not add aliases as entries or report the whole sum as universally standardized beer styles. Updates should run the [offline validator](../tools/validate_wiki.py) and refresh source and navigation indexes.
 
 ## References
 

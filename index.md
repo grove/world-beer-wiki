@@ -4,35 +4,40 @@ okf_version: "0.2"
 
 # World Beer Wiki
 
-## Historical styles · Modern styles · Living brewing traditions
+## Beer styles, living traditions, ingredients and brewing categories
 
-**Research edition 1.0 · 27 October 2026 · 153 linked profiles**
+**Research edition 1.1 · 27 October 2026 · 166 beer and tradition profiles · 17 ingredient references · 13 category guides**
 
-An English-language, source-referenced Markdown knowledge bundle. Each profile explains what the beer or tradition is, how it is made, what its character is where evidence permits, and what should not be assumed about its history.
+An English-language, source-referenced Markdown knowledge base for readers and LLM retrieval. Start with a named beer, explore its ingredients, then compare the traditions and processes around it. Articles distinguish current judging descriptions, local practice, related ferments and historical evidence.
 
-## Start reading
+## Choose a route
 
-| Route | What it offers |
+| Start here | What you will find |
 |---|---|
-| [All profiles](styles/index.md) | The complete alphabetical directory. |
-| [Names and aliases](navigation/all-names.md) | Local names, spelling variants, and canonical files. |
-| [By region](navigation/by-region.md) | Regional routes across the corpus. |
-| [By family and ingredients](navigation/by-family.md) | Lager, IPA, wheat, sour, grain, and process comparisons. |
-| [Historical and modern scope](navigation/by-period.md) | Archaeology, historical records, revivals, and current reference categories. |
-| [Reading guide](README.md) | Bundle layout and suggested use. |
+| [How beer categories work](categories/beer-classification.md) | Separate style, fermentation, ingredient, region, period and serving method. |
+| [All beer and tradition profiles](styles/index.md) | 166 canonical articles, with kinds, geographical focus and explicit judging references. |
+| [Category guides](categories/index.md) | 13 comparative guides covering familiar families and cross-cutting processes. |
+| [Ingredients and cultures](ingredients/index.md) | 17 references covering grains, water, hops, yeast, bacteria, starters and other additions. |
+| [Names and aliases](navigation/all-names.md) | Search titles and scoped alternative names across all three sections. |
+| [By region](navigation/by-region.md) | Geographical routes through the beer and tradition profiles. |
+| [By family](navigation/by-family.md) | Topic and tag routes, with links into the category explanations. |
+| [By ingredient](navigation/by-ingredient.md) | Connect ingredient references with example profiles. |
+| [By historical scope](navigation/by-period.md) | Separate archaeological inference, historical records, living practice and modern references. |
 
-## Three useful routes into the subject
+## Four worthwhile comparisons
 
-**Change through time:** [Historical London porter](styles/historical-london-porter.md) → [English Porter](styles/english-porter.md) → [American Porter](styles/american-porter.md) → [Baltic Porter](styles/baltic-porter.md).
+**One ingredient, different identities:** [Rice Lager](styles/rice-lager.md) · [Apong](styles/apong.md) · [Sake](styles/sake.md) · [Rice](ingredients/rice.md).
 
-**Farmhouse differences:** [Sahti](styles/sahti.md) → [Stjørdalsøl](styles/stjordalsol.md) → [Kornøl](styles/kornol.md) → [Keptinis](styles/keptinis.md).
+**Hop-forward neighbors:** [West Coast IPA](styles/west-coast-ipa.md) · [Hazy IPA](styles/hazy-ipa.md) · [Cold IPA](styles/cold-ipa.md) · [West Coast Pilsner](styles/west-coast-pilsner.md).
 
-**Different starches and traditions:** [Dolo](styles/dolo.md) → [Kodo ko jaanr](styles/kodo-ko-jaanr.md) → [Chicha de jora](styles/chicha-de-jora.md) → [Parakari](styles/parakari.md).
+**Farmhouse practice in context:** [Sahti](styles/sahti.md) · [Stjørdalsøl](styles/stjordalsol.md) · [Kornøl](styles/kornol.md) · [Keptinis](styles/keptinis.md) · [Kveik](ingredients/kveik.md).
 
-These routes invite comparison; arrows do not assert descent or influence.
+**Different kinds of historical evidence:** [Shangshan](styles/shangshan-beer.md) · [Mijiaya](styles/mijiaya-beer.md) · [Historical London porter](styles/historical-london-porter.md) · [Historical and revival guide](categories/historical-and-revival-beers.md).
+
+These are comparisons, not claims of direct descent or interchangeable cultural identities.
 
 ## Evidence and maintenance
 
-[Research method](editorial/methodology.md) · [Coverage and gaps](editorial/coverage-and-gaps.md) · [Terminology](editorial/glossary.md) · [LLM reading instructions](editorial/reading-with-an-llm.md) · [OKF format](editorial/format.md) · [Validation report](editorial/validation-report.md) · [Sources](references/source-register.md) · [Release log](log.md)
+[What changed in 1.1](editorial/research-update-1-1.md) · [Reading guide](README.md) · [Research method](editorial/methodology.md) · [Coverage and gaps](editorial/coverage-and-gaps.md) · [Terminology](editorial/glossary.md) · [LLM reading instructions](editorial/reading-with-an-llm.md) · [OKF format](editorial/format.md) · [Validation report](editorial/validation-report.md) · [Source register](references/source-register.md) · [Release log](log.md)
 
-This is an AI-researched, source-checked edition, not an independently peer-reviewed encyclopedia. Individual files identify their evidence and limits. The corpus includes related ferments and broad categories, clearly labeled; **153 profiles does not mean 153 interchangeable or equally standardized beer styles**.
+Articles remain AI-researched drafts with source-specific access limits. This is not a complete world census or an independently reviewed encyclopedia. The counts describe differently scoped reference articles; they are not a count of interchangeable, universally standardized beer styles.

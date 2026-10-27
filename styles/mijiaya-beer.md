@@ -9,8 +9,8 @@ tags:
 - mixed-starch
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:39:23Z'
 sources:
 - id: mijiaya-study
   resource: https://www.pnas.org/doi/10.1073/pnas.1601465113
@@ -29,7 +29,7 @@ countries:
 - China
 tradition_status: archaeological
 scope: Mijiaya archaeological material interpreted in a 2016 study, approximately 5,000 years old; not a recovered historical style name.
-evidence_basis: source-specific research
+evidence_basis: primary-archaeological-research
 source_checked_on: '2026-10-27'
 review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
 relations:
@@ -59,9 +59,17 @@ The researchers combined starch, plant-silica, and chemical-residue analyses of 
 
 The discovery shows why ancient brewing cannot be reduced to today's barley-and-hops model. However, the study's statements about the earliest evidence reflect its 2016 publication context. This wiki does not convert them into a claim that Mijiaya remains the oldest known beer in China.[^mijiaya-study]
 
+## Compare archaeological sites without a single origin claim
+
+The separate [Shangshan profile](shangshan-beer.md) covers a 2024 study interpreting earlier rice-based fermentation evidence. The two studies concern different regions, periods and analytical contexts. Reading them together is useful; treating them as an established continuous beer-style lineage is not.
+
 ## Evidence note
 
 Residues support an archaeological interpretation, not an exact written recipe. Flavor, original name, precise strength, and continuity to a living style remain unestablished here.
+
+## Related ingredients and categories
+
+[Sorghum and millet](../ingredients/sorghum-and-millet.md) · [Barley and malt](../ingredients/barley-and-malt.md) · [Historical evidence](../categories/historical-and-revival-beers.md)
 
 ## Compare and explore
 
