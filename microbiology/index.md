@@ -28,3 +28,8 @@ Existing overviews remain canonical: [brewing yeast](../ingredients/brewing-yeas
 - [Phenolic yeast and the clove-associated 4-vinylguaiacol pathway](phenolic-yeast-pof.md) — Microbial Flavor Mechanism
 - [What 2026 genomics revealed about Norwegian kveik](kveik-genomic-research-2026.md) — Microbial Research Synthesis
 - [Yeast acetate esters: biochemical flavor production](ester-producing-yeasts.md) — Microbial Flavor Mechanism
+## New in research edition 1.4
+
+- [Yeast flocculation and sedimentation](yeast-flocculation.md) — Brewing yeast aggregation, studied genes and environmental effects.
+- [Diacetyl: formation and removal during fermentation](diacetyl-formation-and-reduction.md) — Pathway-focused fermentation biochemistry review, not a universal flavor threshold.
+- [Yeast activity during bottle refermentation](refermentation-and-package-yeast.md) — Brewing review of residual yeast, aroma and oxygen use in selected refermented beers.

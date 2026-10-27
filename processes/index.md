@@ -25,3 +25,9 @@ These are explanations, not complete recipes or validated food-production proced
 - [Dry hopping, enzyme activity and hop creep](dry-hop-enzymes-and-refermentation.md) — Brewing Process Reference
 - [Gravity dispense and the changing architecture of pubs](cellar-and-gravity-dispense.md) — Serving Process Reference
 - [Malting, kilning and roasting as distinct operations](malting-and-kilning.md) — Brewing Process Reference
+## New in research edition 1.4
+
+- [Hop alpha-acid isomerization during wort heating](alpha-acid-isomerization.md) — Wort-heat conversion of hop compounds, excluding a full brewing recipe.
+- [Wort boiling, precursors and dimethyl sulfide](wort-boiling-and-dms.md) — Pilot-scale DMS precursor research and its brewing-energy tradeoffs.
+- [Clarification, haze and colloidal stability](beer-clarification-and-stability.md) — Review-based account of suspended particles, filtration and intentional turbidity.
+- [Packaging, oxygen, light and beer aging](packaging-and-aging.md) — Chemical and microbiological explanations of quality changes after filling.

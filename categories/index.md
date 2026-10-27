@@ -28,3 +28,7 @@ Each guide links to canonical profiles and preserves the scope of its sources. A
 - [Beer, work, markets, monasteries and the pub](beer-and-social-institutions.md) — Category Guide
 - [Beyond ale versus lager: fermentation ecosystems](fermentation-beyond-yeast-alone.md) — Category Guide
 - [Herbal beers, gruit and contemporary botanical revival](herbal-beer-and-gruit.md) — Category Guide
+## New in research edition 1.4
+
+- [Beer, agriculture and environmental trade-offs](beer-environment-and-agriculture.md) — Evidence-oriented map of climate exposure, energy, water and circular-material questions.
+- [Beer, food and sensory context](beer-food-and-sensory-context.md) — Comparative guide from expert interviews and small consumer pairing studies.

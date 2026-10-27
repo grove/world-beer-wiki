@@ -22,3 +22,7 @@ The [Zoigl account](../culture/zoigl-communal-brewing.md) adds a different calen
 - [Bryggjardøgra: the pre-Christmas brewing days](bryggjardogra.md) — Seasonal Historical Calendar
 - [Gawai Dayak: an annually dated public festival](gawai-dayak.md) — Recurring Festival Reference
 - [Harvest timing is not a world beer calendar](malt-and-grain-harvest.md) — Seasonal Agriculture Guide
+## New in research edition 1.4
+
+- [Beer in Ndau rain-petition ceremonies](ndau-rain-petitions-and-beer.md) — Ethnographic accounts in particular Ndau study sites; seasonal practice without asserted fixed dates.
+- [European hop ripening and changing seasonal timing](hop-harvest-and-changing-ripening.md) — Observed and projected seasonal shifts in selected hop-growing regions of Central Europe.

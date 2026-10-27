@@ -1,8 +1,8 @@
 ---
 type: Beer Tradition
 title: Sahti
-description: Finnish sahti as a living farmhouse tradition, with a modern judging reference and a twelve-sample analytical
-  study.
+description: Finnish sahti as a living farmhouse tradition, with a modern judging reference and a twelve-sample
+  analytical study.
 tags:
 - farmhouse
 - juniper
@@ -24,8 +24,16 @@ sources:
   title: Physicochemical characterization of sahti, an ‘ancient’ beer style indigenous to Finland (2015)
   author: team:trad-sahti-analysis-authors
   source_kind: primary-research
-  access_scope: full-text original research; twelve farmhouse samples, Journal of the Institute of Brewing 121, 464–473
+  access_scope: full-text original research; twelve farmhouse samples, Journal of the Institute of Brewing
+    121, 464–473
   author_label: Jukka Ekberg et al.
+- id: v14-sahti
+  resource: https://www.unesco.org/en/iggp/lauhanvuori-hameenkangas-unesco-global-geopark
+  title: Lauhanvuori-Hämeenkangas UNESCO Global Geopark
+  author_label: UNESCO
+  source_kind: institutional-geopark-account
+  access_scope: UNESCO geopark overview names sahti as local intangible tradition, not UNESCO inscription
+    of sahti itself.
 aliases:
 - Finnish sahti
 regions:
@@ -40,7 +48,8 @@ classification:
   code: '27'
   substyle: Sahti
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/gotlandsdricke
@@ -94,8 +103,14 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.4: Sahti in a living landscape
+
+UNESCO’s Lauhanvuori–Hämeenkangas Global Geopark overview describes sahti brewing as part of the region’s local heritage. The geopark designation is **not** a UNESCO inscription of sahti as its own intangible-heritage element. Compare [the situated cultural account](../culture/sahti-and-local-finnish-identity.md).[^v14-sahti]
+
 ## Source notes
 
 [^bjcp-2021-27i]: [BJCP 2021: Sahti](https://styles.bjcp.org/bjcp-2021-beer/27/27i-sahti). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 
 [^trad-sahti-analysis]: [Physicochemical characterization of sahti, an ‘ancient’ beer style indigenous to Finland (2015)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.246). Jukka Ekberg et al.. Consulted 2026-10-27. Evidence used: full-text original research; twelve farmhouse samples, Journal of the Institute of Brewing 121, 464–473.
+
+[^v14-sahti]: [Lauhanvuori-Hämeenkangas UNESCO Global Geopark](https://www.unesco.org/en/iggp/lauhanvuori-hameenkangas-unesco-global-geopark). UNESCO. Consulted 2026-10-27. Access: UNESCO geopark overview names sahti as local intangible tradition, not UNESCO inscription of sahti itself.

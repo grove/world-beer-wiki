@@ -23,3 +23,7 @@ The [validation report](editorial/validation-report.md) records the release chec
 ## Research edition 1.3 — 27 October 2026
 
 Added 55 researched reference articles across cultural practice, regional calendars, microbial ecology, historical evidence, botanical ingredients, process explanations and sensory interpretation. Created the `history/` section; extended fifteen established articles; updated atlas specification and tracked work items ATLAS-015–023. Added source-access notes, critical history and qualified comparisons, a deterministic offline timeline export, regression tests and reproducibility checks. Articles remain drafts without community or specialist review; licensed media and a live calendar remain deferred. See [release research note](editorial/research-update-1-3.md).
+
+## Research edition 1.4 — 27 October 2026
+
+Added 46 sourced entries across twelve subject areas including new environment and food sections; extended 19 existing profiles and technical references. Added 35 scoped source records and expanded progress tracking; kept all original 166 style URLs and the independently-reviewed status unchanged (not reviewed). See [research report](editorial/research-update-1-4.md), [validation](editorial/validation-report-1-4.md), [sources](references/atlas-sources-1-4.md).

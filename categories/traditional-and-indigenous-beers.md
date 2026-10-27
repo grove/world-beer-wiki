@@ -16,17 +16,22 @@ sources:
 - id: tradition-corpus
   resource: /styles/index.md
   title: Individually sourced tradition profiles
+  access_scope: 'Internal editorial navigation: individual profiles hold their own source and access
+    notes.'
 - id: tradition-method
   resource: /editorial/methodology.md
   title: Research and evidence method
+  access_scope: Internal methodology reference for scope and editorial comparisons; not an independent
+    external publication.
 - id: v13-belgium-unesco
   resource: https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062
   title: 'Beer culture in Belgium: Representative List inscription 01062 (2016)'
   author_label: UNESCO Intangible Cultural Heritage
   source_kind: institutional-heritage-record
-  access_scope: Official inscription and public summary viewed; describes cultural practices, not all individual
-    recipes.
-scope: An editorial comparison route, not a single beer style, cultural identity, or exhaustive world census.
+  access_scope: Official inscription and public summary viewed; describes cultural practices, not all
+    individual recipes.
+scope: An editorial comparison route, not a single beer style, cultural identity, or exhaustive world
+  census.
 evidence_basis: Synthesis of the linked profiles; each preserves its own sources and limits.
 source_checked_on: '2026-10-27'
 review_note: AI research draft; the category does not imply community endorsement.

@@ -22,12 +22,18 @@ from validate_wiki import UniqueLoader, links, without_fences
 SUBJECT_DIRS = (
     'styles', 'ingredients', 'categories', 'culture', 'calendar',
     'microbiology', 'processes', 'objects', 'stories', 'sensory', 'history',
+    'environment', 'food',
 )
 NEW_DIRS = SUBJECT_DIRS[3:]
 RELATIONS = {
     'compare_with', 'compares', 'uses_ingredient', 'uses_process', 'associated_with',
     'observed_organism', 'uses_object',
 }
+RELATION_TARGET_SECTIONS = {
+    'uses_ingredient': 'ingredients', 'uses_process': 'processes',
+    'observed_organism': 'microbiology', 'uses_object': 'objects',
+}
+
 STATES = {'planned', 'partial', 'implemented', 'deferred'}
 SPEC = 'editorial/atlas-specification.md'
 FRONT = re.compile(r'\A---\r?\n(.*?)\r?\n---(?:\r?\n|$)', re.S)
@@ -243,6 +249,9 @@ def validate(root, documents=None):
             kind = relation.get('relation')
             if not isinstance(kind, str) or kind not in RELATIONS:
                 error(f'unknown relation type {kind!r}')
+            expected = RELATION_TARGET_SECTIONS.get(kind) if isinstance(kind, str) else None
+            if expected and isinstance(relation.get('target'), str) and not relation['target'].startswith(expected + '/'):
+                error(f'{kind} must target {expected}/, not {relation["target"]}')
             try:
                 target = local_path(root, relation.get('target'), canonical=True)
                 if not target.is_file():
@@ -338,9 +347,43 @@ def timeline(documents):
             'events': events, 'editions': sorted(editions, key=lambda x:(x['start'],x['event']))}
 
 
+def source_audit(documents):
+    """Deterministic, offline index of citation provenance; no quality certification."""
+    records = {}
+    occurrence_counts = Counter()
+    checked = 0
+    limited = []
+    for path, document in sorted(documents.items()):
+        if path.split('/')[0] not in SUBJECT_DIRS or path.endswith('/index.md'):
+            continue
+        data = document['data']
+        for source in data.get('sources', []):
+            if not isinstance(source, dict) or not source.get('id'):
+                continue
+            key = str(source['id'])
+            occurrence_counts[key] += 1
+            if not source.get('access_scope'):
+                limited.append({'page': path, 'id': key, 'problem': 'no explicit access_scope'})
+            if key not in records:
+                records[key] = {
+                    'id': key, 'resource': source.get('resource'),
+                    'title': source.get('title'), 'source_kind': source.get('source_kind'),
+                    'access_scope': source.get('access_scope'), 'pages': [],
+                }
+            records[key]['pages'].append(path)
+            checked += 1
+    kinds = Counter(str(item.get('source_kind') or 'unclassified') for item in records.values())
+    return {'schema_version': '1.0',
+            'interpretation': 'Counts are catalog metadata and source reuse, not distinct publications or independent fact checking.',
+            'source_records': len(records), 'source_citation_occurrences': checked,
+            'source_kinds': dict(sorted(kinds.items())),
+            'missing_access_scopes': sorted(limited,key=lambda x:(x['page'],x['id'])),
+            'sources': [records[key] for key in sorted(records)]}
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['check', 'catalog', 'progress', 'timeline'])
+    parser.add_argument('command', choices=['check', 'catalog', 'progress', 'timeline', 'source-audit'])
     parser.add_argument('--root', type=Path, default=Path(__file__).resolve().parents[1])
     parser.add_argument('--json', action='store_true', help='JSON check report; exports are always JSON')
     args = parser.parse_args(argv)
@@ -363,7 +406,7 @@ def main(argv=None):
     if not report['ok']:
         print(json.dumps(report, ensure_ascii=False, sort_keys=True, indent=2), file=sys.stderr)
         return 1
-    payload = {'catalog': lambda: catalog(documents), 'progress': lambda: progress(documents), 'timeline': lambda: timeline(documents)}[args.command]()
+    payload = {'catalog': lambda: catalog(documents), 'progress': lambda: progress(documents), 'timeline': lambda: timeline(documents), 'source-audit': lambda: source_audit(documents)}[args.command]()
     print(json.dumps(payload, ensure_ascii=False, sort_keys=True, indent=2, default=str))
     return 0
 

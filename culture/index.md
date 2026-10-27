@@ -24,3 +24,12 @@ Read alongside [Calendar and seasons](../calendar/index.md), [Objects and servic
 - [Norwegian juleøl, shared bowls and visiting](norwegian-juleol-and-hospitality.md) — Historical Cultural Practice
 - [Sorghum beer: makers, markets and grain choices](sorghum-beer-markets-and-makers.md) — Cultural Economy
 - [The British pub and cask-beer stewardship](cask-beer-pub-community.md) — Serving and Community Practice
+## New in research edition 1.4
+
+- [Pito and women’s brewing enterprises in Wa](pito-enterprises-in-wa.md) — 2024 small-enterprise research in Wa municipality, Ghana; not a national census.
+- [Manyika brewing vessels and mhamba](manyika-clay-pots-and-mhamba.md) — Specific Manyika ethnohistorical observations in Zimbabwe, including named vessels and beverages.
+- [Chicha and labor reciprocity on Peru’s north coast](chicha-and-labor-reciprocity.md) — Archaeological interpretation of Chimu-period Manchan; not a universal Andean labor system.
+- [Dan in LoBir social and ritual life](lobir-dan-and-social-life.md) — Barbara Hagaman’s 1980 LoBir account, as characterized in its publisher abstract.
+- [Tuba, migration and the Torres Strait](tuba-and-torres-strait-mobility.md) — A historical account of Torres Strait tuba diffusion after nineteenth-century contact; a related ferment, not grain beer.
+- [Mahua flowers in a Santhal livelihood study](santhal-mahua-flowers-and-livelihood.md) — 2009 fieldwork around Chandbill, Odisha, described in a 2016 study index; mahuli is distilled.
+- [Sahti in a Finnish UNESCO geopark landscape](sahti-and-local-finnish-identity.md) — Local-identity description in UNESCO’s Finnish geopark overview, not a UNESCO inscription for sahti.

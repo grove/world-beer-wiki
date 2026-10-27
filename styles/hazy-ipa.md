@@ -1,7 +1,8 @@
 ---
 type: Beer Style
 title: Hazy IPA
-description: Hazy IPA as a sensory style, distinct from opacity alone, with research on why haze cannot identify a recipe.
+description: Hazy IPA as a sensory style, distinct from opacity alone, with research on why haze cannot
+  identify a recipe.
 tags:
 - ale
 - hoppy
@@ -25,6 +26,12 @@ sources:
   source_kind: primary-research
   access_scope: publisher abstract and Heriot-Watt publication record; full paper not inspected
   author_label: Margaux Huismann, Fraser Gormley, Dzeti Dzait, R. Alex Speers and Dawn L. Maskell
+- id: v14-haze
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/
+  title: Haze in Beer from a Protein-Polyphenol Perspective (2021)
+  author_label: Beer haze review authors
+  source_kind: open-science-review
+  access_scope: Open full review distinguishes biological and non-biological haze and colloid composition.
 aliases:
 - New England IPA
 - NEIPA
@@ -33,13 +40,15 @@ regions:
 - North America
 tradition_status: contemporary
 scope: Modern reference description; historical statements are limited to the cited evidence.
-evidence_basis: official definitions with attributed primary accounts or primary research; access limits recorded per source
+evidence_basis: official definitions with attributed primary accounts or primary research; access limits
+  recorded per source
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
   code: 21C
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/american-ipa
@@ -81,8 +90,14 @@ The guideline is a style target; the research is evidence about an experimental 
 
 [American IPA](american-ipa.md) · [West Coast IPA](west-coast-ipa.md) · [Session IPA](session-ipa.md)
 
+## Edition 1.4: Not all hazes have the same cause
+
+Research on beer turbidity distinguishes protein-polyphenol colloids, polysaccharides and microbial causes. An intentionally hazy IPA should not be diagnosed from its appearance alone. Read [haze and clarity](../sensory/beer-haze-and-clarity.md).[^v14-haze]
+
 ## Source notes
 
 [^bjcp-2021-21c]: [BJCP 2021: Hazy IPA](https://styles.bjcp.org/bjcp-2021-beer/21/21c-hazy-ipa). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 
 [^modern-haze-huismann]: [Unfilterable Beer Haze Part I: The Investigation of an India Pale Ale Haze](https://doi.org/10.1080/03610470.2021.1937460). Margaux Huismann, Fraser Gormley, Dzeti Dzait, R. Alex Speers and Dawn L. Maskell. Consulted 2026-10-27. Evidence used: publisher abstract and Heriot-Watt publication record; full paper not inspected.
+
+[^v14-haze]: [Haze in Beer from a Protein-Polyphenol Perspective (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/). Beer haze review authors. Consulted 2026-10-27. Access: Open full review distinguishes biological and non-biological haze and colloid composition.

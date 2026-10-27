@@ -1,22 +1,22 @@
 ---
 type: Expansion Specification
 title: World Beer Atlas expansion specification
-description: Scope, architecture, acceptance criteria and implementation tracking for the cultural and scientific
-  expansion.
+description: Scope, architecture, acceptance criteria and implementation tracking for the cultural and
+  scientific expansion.
 tags:
 - wiki-documentation
 - specification
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.2
-  at: '2026-10-27T20:40:00Z'
+  by: world-beer-wiki/1.4
+  at: '2026-10-27T22:55:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.1'
-implementation_status: second-installment-implemented
+specification_version: '1.2'
+implementation_status: third-installment-implemented
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -43,7 +43,8 @@ work_items:
   state: implemented
   paths:
   - microbiology/index.md
-  delivered_scope: Nine bounded references; some deliberately retain corpus-only or producer-specific evidence.
+  delivered_scope: Nine bounded references; some deliberately retain corpus-only or producer-specific
+    evidence.
 - id: ATLAS-005
   title: Botanicals and adjuncts
   state: implemented
@@ -80,8 +81,8 @@ work_items:
   paths:
   - tools/atlas.py
   - editorial/reading-with-an-llm.md
-  delivered_scope: Initial qualified relation vocabulary, source preservation and reverse-edge export; no
-    unsupported ancestry edges.
+  delivered_scope: Initial qualified relation vocabulary, source preservation and reverse-edge export;
+    no unsupported ancestry edges.
 - id: ATLAS-010
   title: Offline exports, validation and tests
   state: implemented
@@ -153,7 +154,8 @@ work_items:
   state: implemented
   paths:
   - categories/index.md
-  delivered_scope: Four new comparison guides, without collapsing local traditions into a global style ladder.
+  delivered_scope: Four new comparison guides, without collapsing local traditions into a global style
+    ladder.
 - id: ATLAS-021
   title: Meaningful updates to canonical existing profiles
   state: implemented
@@ -173,13 +175,68 @@ work_items:
   state: implemented
   paths:
   - tools/atlas.py
-  delivered_scope: Deterministic timeline export from metadata; does not predict future festival dates or
-    create notifications.
+  delivered_scope: Deterministic timeline export from metadata; does not predict future festival dates
+    or create notifications.
+- id: ATLAS-024
+  title: Broaden culturally located social and ritual accounts
+  state: implemented
+  paths:
+  - culture/index.md
+  delivered_scope: Seven located social and economic cases and two additional calendar references; no
+    community endorsement asserted.
+- id: ATLAS-025
+  title: Expand archeological and industrial-science histories
+  state: implemented
+  paths:
+  - history/index.md
+  delivered_scope: Six historical source-bound explanations; excludes unsourced direct lineage and precise
+    reconstructions.
+- id: ATLAS-026
+  title: Introduce climate and environmental research section
+  state: implemented
+  paths:
+  - environment/index.md
+  delivered_scope: Six cross-source articles on barley, hops, water, energy and spent grain; no universal
+    carbon ranking.
+- id: ATLAS-027
+  title: Introduce evidence-based food pairing section
+  state: implemented
+  paths:
+  - food/index.md
+  delivered_scope: Three experimental/interview-based articles; not prescriptive universal pairing lists.
+- id: ATLAS-028
+  title: Deepen fermentation, chemistry, beer stability and serving
+  state: implemented
+  paths:
+  - sensory/index.md
+  delivered_scope: Microbiology, ingredients, processes, objects and sensory material with traceable
+    references.
+- id: ATLAS-029
+  title: Revise canonical existing pages using new research
+  state: implemented
+  paths:
+  - styles/pito.md
+  delivered_scope: Nineteen existing subject pages updated with sourced context and citations; canonical
+    URLs kept.
+- id: ATLAS-030
+  title: Publish source provenance, tests and edition documentation
+  state: implemented
+  paths:
+  - references/atlas-sources-1-4.md
+  delivered_scope: 35 source records with actual access scopes; validators and CI remain separate from
+    expert review.
+- id: ATLAS-031
+  title: Improve queryable provenance and data checks
+  state: implemented
+  paths:
+  - tools/atlas.py
+  delivered_scope: Add portable source-audit output and typed-target relation validation with focused
+    regression tests.
 ---
 
 # World Beer Atlas expansion specification
 
-**Specification 1.1 · second installment implemented · 27 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.2 · third installment implemented · 27 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
 
 The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
@@ -189,7 +246,7 @@ The 1.1 baseline contains 166 beer/tradition profiles, 17 ingredient references 
 
 The expansion should answer not only *what is this beer?* but *who makes it, why, when, with what materials and organisms, using which techniques, and according to whose account?* Readers should be able to follow an ingredient, a fermentation practice, a celebration or an object across several articles without mistaking similarity for descent.
 
-The immediate release is a substantial, source-bounded first installment across the proposed layers. It is not a promise to complete an encyclopedia of every ritual, plant, organism or beer festival.
+This continuing release is a substantial, source-bounded installment across the proposed layers. It is not a promise to complete an encyclopedia of every ritual, plant, organism or beer festival.
 
 ## 2. Deliverable states and progress rules
 
@@ -298,3 +355,7 @@ A new offline `timeline` export presents only explicitly documented seasons and 
 ### Remaining high-value research
 
 The next research cycle should broaden living-source coverage in Africa, Central/South America, the Pacific and underrepresented parts of Asia; improve community-language checking and reciprocal review; revisit inaccessible full papers and historical records; and add more verified traditions around weddings, memorials, taverns, craft guilds and changing consumption laws. The use of a secondary history source must remain visible until original documents are actually inspected.
+
+## 11. Edition 1.4: environment, dining and historic inference
+
+The edition adds `environment/` and `food/` as evidence-based comparison sections. Environmental claims require defined geography and system boundaries; interview-based pairing strategies are not universally confirmed human preferences. Histories of science are distinguishable from earlier community techniques, and a literary hymn is not silently converted into a quantified brewing recipe. New source audit reports describe **provenance coverage**, not independent truth verification. The implementation ledger retains community/specialist review as planned, not completed.

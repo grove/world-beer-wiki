@@ -1,7 +1,8 @@
 ---
 type: Beer Style
 title: American IPA
-description: The American IPA reference, its ingredient and sensory boundaries, and the separate meanings of regional and strength labels.
+description: The American IPA reference, its ingredient and sensory boundaries, and the separate meanings
+  of regional and strength labels.
 tags:
 - ale
 - hoppy
@@ -25,19 +26,28 @@ sources:
   source_kind: firsthand-producer-account
   access_scope: product page and producer history; current product claims, not independent tasting
   author_label: Stone Brewing
+- id: v14-aging
+  resource: https://onlinelibrary.wiley.com/doi/10.1002/jib.699
+  title: 'Transition Metals and Beer Oxidative Stability: Review (2022)'
+  author_label: Mertens and colleagues
+  source_kind: open-oxidation-review
+  access_scope: Open text on oxygen, metals and also non-oxidative aging; no shelf-life prediction.
 aliases:
 - American India pale ale
 regions:
 - North America
 tradition_status: contemporary
-scope: BJCP 2021 21A sensory reference, with one attributed producer example and editorial classification guidance.
-evidence_basis: official definitions with attributed primary accounts or primary research; access limits recorded per source
+scope: BJCP 2021 21A sensory reference, with one attributed producer example and editorial classification
+  guidance.
+evidence_basis: official definitions with attributed primary accounts or primary research; access limits
+  recorded per source
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
   code: 21A
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/english-ipa
@@ -79,8 +89,14 @@ The guideline establishes a modern target, while Stone's account documents its o
 
 [Double IPA](double-ipa.md)
 
+## Edition 1.4: Storage changes more than bitterness numbers
+
+A brewing stability review distinguishes oxidation involving metals and oxygen from non-oxidative aging. Stored hop-forward beer may change through several routes, so packaged flavor cannot be predicted by a single hop measurement. Explore [oxidative aging](../sensory/oxidative-aging.md).[^v14-aging]
+
 ## Source notes
 
 [^bjcp-2021-21a]: [BJCP 2021: American IPA](https://styles.bjcp.org/bjcp-2021-beer/21/21a-american-ipa). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 
 [^modern-stone-ipa]: [Stone IPA](https://www.stonebrewing.com/beer/year-round-releases/stone-ipa). Stone Brewing. Consulted 2026-10-27. Evidence used: product page and producer history; current product claims, not independent tasting.
+
+[^v14-aging]: [Transition Metals and Beer Oxidative Stability: Review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Mertens and colleagues. Consulted 2026-10-27. Access: Open text on oxygen, metals and also non-oxidative aging; no shelf-life prediction.

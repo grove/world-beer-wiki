@@ -1,7 +1,8 @@
 ---
 type: Beer Category Guide
 title: Low- and no-alcohol beers
-description: A cross-cutting category covering alcohol labels, production routes, and their relationship to sensory style.
+description: A cross-cutting category covering alcohol labels, production routes, and their relationship
+  to sensory style.
 tags:
 - category
 - alcohol-strength
@@ -14,21 +15,25 @@ generated:
 sources:
 - id: modern-nolo-myncke
   resource: https://pubmed.ncbi.nlm.nih.gov/40043607/
-  title: 'Navigating yeast selection for NABLAB production: Comparative study of commercial maltose- and maltotriose-negative strains'
+  title: 'Navigating yeast selection for NABLAB production: Comparative study of commercial maltose-
+    and maltotriose-negative strains'
   author: team:myncke-et-al
   source_kind: primary-research
   access_scope: PubMed abstract and bibliographic record; nine commercial yeasts, 2025
   author_label: Elia Myncke and colleagues
 - id: modern-ro-ramsey
   resource: https://doi.org/10.1016/j.fochx.2021.100121
-  title: Assessing the sensory and physicochemical impact of reverse osmosis membrane technology to dealcoholize two different beer styles
+  title: Assessing the sensory and physicochemical impact of reverse osmosis membrane technology to dealcoholize
+    two different beer styles
   author: team:ramsey-et-al
   source_kind: primary-research
-  access_scope: abstract and University of Nottingham publication record; pilot-scale lager and stout study
+  access_scope: abstract and University of Nottingham publication record; pilot-scale lager and stout
+    study
   author_label: Imogen Ramsey, Qian Yang, Ian Fisk, Charfedinne Ayed and Rebecca Ford
 - id: modern-nolo-basu
   resource: https://pubmed.ncbi.nlm.nih.gov/41722979/
-  title: Control of residual maltose in low-alcohol beer produced by non-Saccharomyces yeast with enzymatic treatment
+  title: Control of residual maltose in low-alcohol beer produced by non-Saccharomyces yeast with enzymatic
+    treatment
   author: team:basu-et-al
   source_kind: primary-research
   access_scope: indexed PubMed abstract and bibliographic record; 2026 paper, not full text
@@ -40,6 +45,13 @@ sources:
   source_kind: official-regulatory-guidance
   access_scope: US federal malt-beverage labeling guidance checked 2026-10-27
   author_label: Alcohol and Tobacco Tax and Trade Bureau
+- id: v14-food-na
+  resource: https://www.sciencedirect.com/science/article/pii/S1878450X26001307
+  title: 'Non-alcoholic Beers with Food: Consumer Pairing Experiment (2026)'
+  author_label: Gastronomy consumer research team
+  source_kind: consumer-experiment-abstract
+  access_scope: 'Open publisher abstract: three beer styles with one Swedish shrimp dish; results not
+    generalizable to all foods.'
 aliases:
 - NoLo beers
 - NABLAB
@@ -48,10 +60,13 @@ aliases:
 regions:
 - International
 tradition_status: contemporary
-scope: Cross-cutting alcohol-content category; technical examples and one explicitly scoped US labeling example.
-evidence_basis: official definitions and attributed primary accounts; editorial comparisons identified in the text
+scope: Cross-cutting alcohol-content category; technical examples and one explicitly scoped US labeling
+  example.
+evidence_basis: official definitions and attributed primary accounts; editorial comparisons identified
+  in the text
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/session-ipa
@@ -96,6 +111,10 @@ The technical discussion uses research abstracts and verified bibliographic reco
 
 [All categories](index.md) · [All beer entries](../styles/index.md)
 
+## Edition 1.4: Food-context evidence
+
+A 2026 study tested three beer styles, alcoholic and non-alcoholic, with one Swedish shrimp dish. Its result—that the non-alcoholic versions performed similarly in that pairing—does not show that all alcohol-free products fit every food. Read [the study guide](../food/alcohol-free-beer-with-food.md).[^v14-food-na]
+
 ## Source notes
 
 [^modern-nolo-myncke]: [Navigating yeast selection for NABLAB production: Comparative study of commercial maltose- and maltotriose-negative strains](https://pubmed.ncbi.nlm.nih.gov/40043607/). Elia Myncke and colleagues. Consulted 2026-10-27. Evidence used: PubMed abstract and bibliographic record; nine commercial yeasts, 2025.
@@ -105,3 +124,5 @@ The technical discussion uses research abstracts and verified bibliographic reco
 [^modern-nolo-basu]: [Control of residual maltose in low-alcohol beer produced by non-Saccharomyces yeast with enzymatic treatment](https://pubmed.ncbi.nlm.nih.gov/41722979/). Mohini Basu and colleagues. Consulted 2026-10-27. Evidence used: indexed PubMed abstract and bibliographic record; 2026 paper, not full text.
 
 [^modern-ttb-alcohol-labels]: [Malt Beverage Labeling: Alcohol Content](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-alcohol-content). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-27. Evidence used: US federal malt-beverage labeling guidance checked 2026-10-27.
+
+[^v14-food-na]: [Non-alcoholic Beers with Food: Consumer Pairing Experiment (2026)](https://www.sciencedirect.com/science/article/pii/S1878450X26001307). Gastronomy consumer research team. Consulted 2026-10-27. Access: Open publisher abstract: three beer styles with one Swedish shrimp dish; results not generalizable to all foods.

@@ -1,8 +1,8 @@
 ---
 type: Related Fermented-Grain Tradition
 title: Tuak — Sarawak rice tradition
-description: A sourced profile of Tuak — Sarawak rice tradition, its character, brewing context, and important
-  distinctions.
+description: A sourced profile of Tuak — Sarawak rice tradition, its character, brewing context, and
+  important distinctions.
 tags:
 - rice
 - mixed-starter
@@ -18,16 +18,23 @@ sources:
   title: Everything you need to know about tuak (updated 20 June 2026)
   author: team:evelyn-teo-tuak-atelier
   source_kind: firsthand-producer-account
-  access_scope: named maker’s account of Sarawak rice tuak; promotional claims and universal strength claims
-    excluded
+  access_scope: named maker’s account of Sarawak rice tuak; promotional claims and universal strength
+    claims excluded
   author_label: Evelyn Teo, Tuak Atelier
 - id: v13-gawai-tourism
   resource: https://www.tourism.gov.my/media/view/gawai-dayak-festival
   title: Gawai Dayak Festival
   author_label: Tourism Malaysia
   source_kind: government-tourism-explanation
-  access_scope: 'Government tourism description: the Sarawak public celebration and tuak preparations; not
-    a rule for every Dayak community.'
+  access_scope: 'Government tourism description: the Sarawak public celebration and tuak preparations;
+    not a rule for every Dayak community.'
+- id: v14-tuba
+  resource: https://pubmed.ncbi.nlm.nih.gov/21280393/
+  title: 'Making tuba in the Torres Strait Islands: cultural diffusion and geographic mobility (2010)'
+  author_label: Maggie Brady and Vic McGrath
+  source_kind: historical-ethnographic-abstract
+  access_scope: PubMed abstract, Torres Strait nineteenth-century contact and diffusion; not a grain
+    beer.
 aliases:
 - Rice tuak
 regions:
@@ -35,11 +42,12 @@ regions:
 - Malaysia
 - Sarawak
 tradition_status: living-tradition
-scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer style.
+scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer
+  style.
 evidence_basis: firsthand contemporary producer account; not independent historical verification
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
-  representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/sato
@@ -81,6 +89,10 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.4: Different uses of similar words
+
+Research on Torres Strait *tuba* documents a later contact-and-migration history of a fermented and distilled beverage; it is **not** Sarawak rice *tuak*. The resemblance of their names must not turn these distinct contexts into synonyms. Read [Torres Strait tuba](../culture/tuba-and-torres-strait-mobility.md).[^v14-tuba]
+
 ## Source notes
 
 [^tuak-producer]: [Everything you need to know about tuak (updated 20 June 2026)](https://tuakatelier.com/guide/). Evelyn Teo, Tuak Atelier. Consulted 2026-10-27. Evidence used: named maker’s account of Sarawak rice tuak; promotional claims and universal strength claims excluded.
@@ -90,3 +102,5 @@ Comparison links are not claims of direct ancestry.
 Tourism Malaysia's public description of **Gawai Dayak** associates the Sarawak June harvest celebration with preparations of rice tuak, family visits and communal food. This official account covers a public regional festival and should not be made into one universal set of Dayak ceremonies. See [Gawai's cultural setting](../culture/gawai-dayak-rice-tuak.md) and its [calendar entry](../calendar/gawai-dayak.md).[^v13-gawai-tourism]
 
 [^v13-gawai-tourism]: [Gawai Dayak Festival](https://www.tourism.gov.my/media/view/gawai-dayak-festival). Tourism Malaysia. Consulted 2026-10-27. Evidence accessed: Government tourism description: the Sarawak public celebration and tuak preparations; not a rule for every Dayak community.
+
+[^v14-tuba]: [Making tuba in the Torres Strait Islands: cultural diffusion and geographic mobility (2010)](https://pubmed.ncbi.nlm.nih.gov/21280393/). Maggie Brady and Vic McGrath. Consulted 2026-10-27. Access: PubMed abstract, Torres Strait nineteenth-century contact and diffusion; not a grain beer.

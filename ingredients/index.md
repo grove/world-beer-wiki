@@ -65,3 +65,10 @@ These are reference pages, not complete recipes, exhaustive ingredient inventori
 - [Sorghum malt in West African grain-beer systems](sorghum-malt.md) — Ingredient Reference
 - [Spruce, fir and pine shoots in beer](spruce-and-pine-shoots.md) — Ingredient Reference
 - [Yarrow and the uncertainty of historical herb blends](yarrow.md) — Ingredient Reference
+## New in research edition 1.4
+
+- [Hop alpha acids and iso-alpha acids](hop-alpha-acids.md) — Chemistry of bittering precursors and their changes in wort and packaged beer.
+- [Barley beta-glucans and wort texture](barley-beta-glucans.md) — Malt-house measurements of cell-wall polymers in barley malting and wort handling.
+- [Mahua flowers as a fermented-beverage material](mahua-flowers.md) — Santhal livelihood report in Odisha: flowers can be fermented and distilled; not a beer botanical prescription.
+- [Brewers’ spent grain as a resource](brewers-spent-grain.md) — Residue from wort extraction and investigated food/feed/energy uses.
+- [Malt starch, gelatinization and enzyme action](malt-starch-structure.md) — 2024 review of barley starch structure and brewing conversion, not a prescriptive mash schedule.

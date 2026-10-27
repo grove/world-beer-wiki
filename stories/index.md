@@ -19,3 +19,7 @@ Each route distinguishes its evidence from its framing. Follow the linked articl
 - [Did one brewer invent porter in a single afternoon?](the-porter-invention-story.md) — Evidence-based Beer Story
 - [The culture that contained more than thirty yeasts](a-starter-is-more-than-a-strain.md) — Evidence-based Science Story
 - [Was the Reinheitsgebot a 500-year-old universal beer recipe?](beer-purity-myth.md) — Evidence-based Beer Story
+## New in research edition 1.4
+
+- [Is the Hymn to Ninkasi really a beer recipe?](ninkasi-is-not-a-recipe.md) — Interpretive story using a literary translation and published historian book description.
+- [Can a changing climate change your beer?](will-climate-change-the-pint.md) — Story separating observed crop trends, models, and individual beer outcomes.
