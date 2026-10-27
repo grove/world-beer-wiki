@@ -83,3 +83,69 @@ The previous [names and aliases](all-names.md) index remains the 1.1 baseline. T
 | [What ancient beer cannot tell us](../stories/what-ancient-beer-cannot-tell-us.md) | Archaeological Reasoning Story |
 
 [Scope and progress](../editorial/atlas-progress.md) · [New-source supplement](../references/atlas-sources.md) · [Home](../index.md)
+
+
+
+## Research edition 1.3: continue discovering
+
+**New ways to explore:** [Heritage](../categories/beer-as-intangible-heritage.md) → [Belgian culture](../culture/belgian-beer-as-living-heritage.md) → [Makgeolli](../culture/makgeolli-making-and-sharing.md); [The porter myth](../stories/the-porter-invention-story.md) → [Industrial history](../history/london-porter-and-industrialization.md); [Farmhouse yeast diversity](../microbiology/farmhouse-yeast-diversity.md) → [Culture storage](../objects/yeast-storage-tools.md).
+
+## Additional canonical subject articles (55)
+
+| Subject | Area |
+|---|---|
+| [Ali-Aye-Ligang and the Mising agricultural calendar](../calendar/ali-aye-ligang.md) | Calendar |
+| [Bryggjardøgra: the pre-Christmas brewing days](../calendar/bryggjardogra.md) | Calendar |
+| [Gawai Dayak: an annually dated public festival](../calendar/gawai-dayak.md) | Calendar |
+| [Harvest timing is not a world beer calendar](../calendar/malt-and-grain-harvest.md) | Calendar |
+| [Beer as intangible cultural heritage, not just a style](../categories/beer-as-intangible-heritage.md) | Categories |
+| [Beer, work, markets, monasteries and the pub](../categories/beer-and-social-institutions.md) | Categories |
+| [Beyond ale versus lager: fermentation ecosystems](../categories/fermentation-beyond-yeast-alone.md) | Categories |
+| [Herbal beers, gruit and contemporary botanical revival](../categories/herbal-beer-and-gruit.md) | Categories |
+| [Beer culture in Belgium as living heritage](../culture/belgian-beer-as-living-heritage.md) | Culture |
+| [Chang in Nubri: work, ceremony and exchange](../culture/nubri-chang-and-social-life.md) | Culture |
+| [Gawai Dayak and Sarawak rice tuak](../culture/gawai-dayak-rice-tuak.md) | Culture |
+| [Makgeolli: making, sharing and national heritage](../culture/makgeolli-making-and-sharing.md) | Culture |
+| [Norwegian juleøl, shared bowls and visiting](../culture/norwegian-juleol-and-hospitality.md) | Culture |
+| [Sorghum beer: makers, markets and grain choices](../culture/sorghum-beer-markets-and-makers.md) | Culture |
+| [The British pub and cask-beer stewardship](../culture/cask-beer-pub-community.md) | Culture |
+| [1516 Bavarian brewing rules and the later Reinheitsgebot identity](../history/bavarian-purity-law-and-its-afterlife.md) | History |
+| [Ancient Egyptian beer: residues and experiments, not a modern lager](../history/egyptian-brewing-residue-studies.md) | History |
+| [Belgian beer heritage inscription: a dated institutional milestone](../history/beer-cultural-heritage-2016.md) | History |
+| [How archaeologists infer beer without finding a recipe](../history/how-archaeologists-identify-beer.md) | History |
+| [Kirikongo: archaeological interpretation of beer and ancestors](../history/kirikongo-beer-and-ancestor-ritual.md) | History |
+| [London porter and the business of defining a beer](../history/london-porter-and-industrialization.md) | History |
+| [Raqefet Cave and the possibility of Natufian feast beer](../history/raqefet-cave-brewing-evidence.md) | History |
+| [U.S. Prohibition and the reshaping of beer production](../history/us-prohibition-and-brewing-change.md) | History |
+| [Bog myrtle (sweet gale) in herbal beer](../ingredients/bog-myrtle.md) | Ingredients |
+| [Heather in beer and the modern Fraoch revival](../ingredients/heather.md) | Ingredients |
+| [Job’s tears in evidence for ancient Chinese fermented beverages](../ingredients/job-tears.md) | Ingredients |
+| [Jora: germinated maize as a brewing material](../ingredients/jora-maize.md) | Ingredients |
+| [Pale, kilned and roasted malt: the heat spectrum](../ingredients/barley-malt-heat-spectrum.md) | Ingredients |
+| [Sorghum malt in West African grain-beer systems](../ingredients/sorghum-malt.md) | Ingredients |
+| [Spruce, fir and pine shoots in beer](../ingredients/spruce-and-pine-shoots.md) | Ingredients |
+| [Yarrow and the uncertainty of historical herb blends](../ingredients/yarrow.md) | Ingredients |
+| [Diastatic Saccharomyces and the STA1 question](../microbiology/diastatic-saccharomyces.md) | Microbiology |
+| [Farmhouse yeast is not always a single strain](../microbiology/farmhouse-yeast-diversity.md) | Microbiology |
+| [Lactobacillus brevis: a strain-specific beer-spoilage example](../microbiology/lactobacillus-brevis-beer.md) | Microbiology |
+| [Monascus-like microfossils and ancient fermentation inference](../microbiology/monascus-in-archaeology.md) | Microbiology |
+| [Nuruk-associated yeasts and the limits of laboratory strain screening](../microbiology/nuruk-mixed-yeasts.md) | Microbiology |
+| [Phenolic yeast and the clove-associated 4-vinylguaiacol pathway](../microbiology/phenolic-yeast-pof.md) | Microbiology |
+| [What 2026 genomics revealed about Norwegian kveik](../microbiology/kveik-genomic-research-2026.md) | Microbiology |
+| [Yeast acetate esters: biochemical flavor production](../microbiology/ester-producing-yeasts.md) | Microbiology |
+| [Ancient brewing vessels: what residues can and cannot show](../objects/archaeological-brewing-vessels.md) | Objects |
+| [Beer engine: a hand pump and its social setting](../objects/beer-engine.md) | Objects |
+| [The cask and the cellar: vessel, environment and care](../objects/cask-and-cellar.md) | Objects |
+| [Backslopping, maintained cultures and microbial succession](../processes/microbial-backslopping-and-persistence.md) | Processes |
+| [Botanical beer additions: historical evidence versus modern recipe](../processes/herb-and-botanical-additions.md) | Processes |
+| [Cask conditioning, cellar care and serving](../processes/cask-conditioning.md) | Processes |
+| [Dry hopping, enzyme activity and hop creep](../processes/dry-hop-enzymes-and-refermentation.md) | Processes |
+| [Gravity dispense and the changing architecture of pubs](../processes/cellar-and-gravity-dispense.md) | Processes |
+| [Malting, kilning and roasting as distinct operations](../processes/malting-and-kilning.md) | Processes |
+| [DMS and cooked-cereal aroma: precursor, process and perception](../sensory/dms-and-cooked-cereal.md) | Sensory |
+| [Volatile thiols: tropical notes without a tropical fruit addition](../sensory/thiols-and-fruit-aromas.md) | Sensory |
+| [Yeast esters and phenols: why fruit and spice can appear without additions](../sensory/yeast-esters-and-phenols.md) | Sensory |
+| [Did brewing come before farming? A question from Raqefet Cave](../stories/was-beer-before-farming.md) | Stories |
+| [Did one brewer invent porter in a single afternoon?](../stories/the-porter-invention-story.md) | Stories |
+| [The culture that contained more than thirty yeasts](../stories/a-starter-is-more-than-a-strain.md) | Stories |
+| [Was the Reinheitsgebot a 500-year-old universal beer recipe?](../stories/beer-purity-myth.md) | Stories |

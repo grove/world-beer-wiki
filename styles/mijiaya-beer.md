@@ -1,7 +1,8 @@
 ---
 type: Archaeological Brewing Evidence
 title: Mijiaya fermented-grain beverage
-description: A sourced profile of Mijiaya fermented-grain beverage, its character, brewing context, and important distinctions.
+description: A sourced profile of Mijiaya fermented-grain beverage, its character, brewing context, and
+  important distinctions.
 tags:
 - archaeology
 - millet
@@ -19,6 +20,13 @@ sources:
   source_kind: primary-archaeological-research
   access_scope: abstract and interpretation of pottery residues; not a recovered written recipe
   author_label: Jiajing Wang and colleagues
+- id: v13-mijiaya
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4988576/
+  title: Revealing a 5,000-y-old beer recipe in China (2016)
+  author_label: Jiajing Wang, Li Liu and colleagues
+  source_kind: archaeological-primary-research
+  access_scope: Open-access article text inspected; residues, phytoliths, vessel context and interpretive
+    limitations.
 aliases:
 - Mijiaya beer
 regions:
@@ -28,10 +36,12 @@ regions:
 countries:
 - China
 tradition_status: archaeological
-scope: Mijiaya archaeological material interpreted in a 2016 study, approximately 5,000 years old; not a recovered historical style name.
+scope: Mijiaya archaeological material interpreted in a 2016 study, approximately 5,000 years old; not a
+  recovered historical style name.
 evidence_basis: primary-archaeological-research
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/boza
@@ -82,3 +92,9 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^mijiaya-study]: [Revealing a 5,000-y-old beer recipe in China (2016)](https://www.pnas.org/doi/10.1073/pnas.1601465113). Jiajing Wang and colleagues. Consulted 2026-10-27. Evidence used: abstract and interpretation of pottery residues; not a recovered written recipe.
+
+## Research extension 1.3: What the measured archaeological evidence supports
+
+The open-access study uses vessel context, starch and phytolith remains, and chemical evidence to argue for an ancient cereal ferment at **Mijiaya**. It does not recover a whole recipe, date the invention of all Chinese beer, or identify a living community successor. Compare [archaeological inference](../history/how-archaeologists-identify-beer.md) and [Job's tears](../ingredients/job-tears.md).[^v13-mijiaya]
+
+[^v13-mijiaya]: [Revealing a 5,000-y-old beer recipe in China (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4988576/). Jiajing Wang, Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access article text inspected; residues, phytoliths, vessel context and interpretive limitations.

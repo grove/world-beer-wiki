@@ -27,8 +27,7 @@ sources:
   access_scope: article summary and research highlights; 157 industrial strains; DOI 10.1016/j.cell.2016.08.020
 - id: ing-lager-ancestry
   resource: https://pubmed.ncbi.nlm.nih.gov/21873232/
-  title: Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast
-    (2011)
+  title: Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast (2011)
   author_label: Diego Libkind and colleagues
   source_kind: primary-research
   access_scope: indexed abstract; S. eubayanus ancestry of lager yeast; no single migration route or invention
@@ -40,6 +39,13 @@ sources:
   source_kind: producer-technical-documentation
   access_scope: PDF comparison of acid-producing bacteria and yeasts; product availability and ABV claims
     not used
+- id: v13-saison-sta1
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7162825/
+  title: A re-evaluation of diastatic Saccharomyces cerevisiae strains (2020)
+  author_label: Authors, Applied Microbiology and Biotechnology
+  source_kind: scientific-review
+  access_scope: Open-access review of STA1 and diastatic strains; no assertion that all saison yeasts carry
+    it.
 aliases:
 - Brewer's yeast
 regions:
@@ -106,3 +112,9 @@ Genomic ancestry, commercial strain descriptions and sensory categories answer d
 [Microbial atlas](../microbiology/index.md) · [S. cerevisiae](../microbiology/saccharomyces-cerevisiae.md) · [Lager hybrids](../microbiology/lager-yeast-hybrids.md)
 
 These reading links extend navigation; the original source access notes above remain unchanged.
+
+## Research extension 1.3: Dextrin-using brewing strains
+
+A review of **diastatic *S. cerevisiae*** discusses the *STA1* glucoamylase gene and its relationship to continued fermentation of larger carbohydrates. A deliberately dry beer and unexpected package refermentation need different judgments. The [diastatic yeast page](../microbiology/diastatic-saccharomyces.md) distinguishes gene, measured behavior and process.[^v13-saison-sta1]
+
+[^v13-saison-sta1]: [A re-evaluation of diastatic Saccharomyces cerevisiae strains (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7162825/). Authors, Applied Microbiology and Biotechnology. Consulted 2026-10-27. Evidence accessed: Open-access review of STA1 and diastatic strains; no assertion that all saison yeasts carry it.

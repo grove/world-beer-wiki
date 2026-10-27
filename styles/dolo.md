@@ -26,6 +26,13 @@ sources:
   source_kind: primary-research
   access_scope: published abstract; four production sites
   author_label: Sawadogo-Lingani et al.
+- id: v13-dolo-review
+  resource: https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.672410/full
+  title: Sustainable Production of African Traditional Beers With Focus on Dolo (2021)
+  author_label: Authors, Frontiers in Sustainable Food Systems
+  source_kind: academic-review
+  access_scope: Full-text review inspected, includes older studies and production/livelihood context; not
+    a new field survey.
 aliases: []
 regions:
 - West Africa
@@ -35,7 +42,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary fermentation research; regional scope limited to cited samples
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/pito
@@ -82,3 +90,9 @@ Comparison links are not claims of direct ancestry.
 [^dolo-review]: [Sustainable Production of African Traditional Beers With Focus on Dolo (2021)](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.672410/full). Sawadogo-Lingani et al.. Consulted 2026-10-27. Evidence used: regional context and production overview.
 
 [^dolo-pito-research]: [The biodiversity of predominant lactic acid bacteria in dolo and pito wort (2007)](https://academic.oup.com/jambio/article-abstract/103/4/765/6718874). Sawadogo-Lingani et al.. Consulted 2026-10-27. Evidence used: published abstract; four production sites.
+
+## Research extension 1.3: Brewing and livelihoods
+
+A review of West African sorghum-beer production places dolo within linked systems of grain production, malt preparation, women brewers' businesses and regional variation. It is not a single standard recipe for a continent. Compare [sorghum malt](../ingredients/sorghum-malt.md) and [the social economy case](../culture/sorghum-beer-markets-and-makers.md).[^v13-dolo-review]
+
+[^v13-dolo-review]: [Sustainable Production of African Traditional Beers With Focus on Dolo (2021)](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.672410/full). Authors, Frontiers in Sustainable Food Systems. Consulted 2026-10-27. Evidence accessed: Full-text review inspected, includes older studies and production/livelihood context; not a new field survey.

@@ -15,3 +15,10 @@ The [Zoigl account](../culture/zoigl-communal-brewing.md) adds a different calen
 **Unfilled months are gaps, not evidence that nothing happens then.** Southern-hemisphere harvests, local agricultural calendars and religious calendars need their own evidence. See the [tracked specification](../editorial/atlas-specification.md) for planned expansion.
 
 [Home](../index.md) · [Culture](../culture/index.md) · [Stories](../stories/index.md)
+
+## New in research edition 1.3
+
+- [Ali-Aye-Ligang and the Mising agricultural calendar](ali-aye-ligang.md) — Recurring Festival Reference
+- [Bryggjardøgra: the pre-Christmas brewing days](bryggjardogra.md) — Seasonal Historical Calendar
+- [Gawai Dayak: an annually dated public festival](gawai-dayak.md) — Recurring Festival Reference
+- [Harvest timing is not a world beer calendar](malt-and-grain-harvest.md) — Seasonal Agriculture Guide

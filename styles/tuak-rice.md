@@ -1,7 +1,8 @@
 ---
 type: Related Fermented-Grain Tradition
 title: Tuak — Sarawak rice tradition
-description: A sourced profile of Tuak — Sarawak rice tradition, its character, brewing context, and important distinctions.
+description: A sourced profile of Tuak — Sarawak rice tradition, its character, brewing context, and important
+  distinctions.
 tags:
 - rice
 - mixed-starter
@@ -17,8 +18,16 @@ sources:
   title: Everything you need to know about tuak (updated 20 June 2026)
   author: team:evelyn-teo-tuak-atelier
   source_kind: firsthand-producer-account
-  access_scope: named maker’s account of Sarawak rice tuak; promotional claims and universal strength claims excluded
+  access_scope: named maker’s account of Sarawak rice tuak; promotional claims and universal strength claims
+    excluded
   author_label: Evelyn Teo, Tuak Atelier
+- id: v13-gawai-tourism
+  resource: https://www.tourism.gov.my/media/view/gawai-dayak-festival
+  title: Gawai Dayak Festival
+  author_label: Tourism Malaysia
+  source_kind: government-tourism-explanation
+  access_scope: 'Government tourism description: the Sarawak public celebration and tuak preparations; not
+    a rule for every Dayak community.'
 aliases:
 - Rice tuak
 regions:
@@ -29,7 +38,8 @@ tradition_status: living-tradition
 scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer style.
 evidence_basis: firsthand contemporary producer account; not independent historical verification
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/sato
@@ -74,3 +84,9 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^tuak-producer]: [Everything you need to know about tuak (updated 20 June 2026)](https://tuakatelier.com/guide/). Evelyn Teo, Tuak Atelier. Consulted 2026-10-27. Evidence used: named maker’s account of Sarawak rice tuak; promotional claims and universal strength claims excluded.
+
+## Research extension 1.3: Rice tuak and Gawai Dayak
+
+Tourism Malaysia's public description of **Gawai Dayak** associates the Sarawak June harvest celebration with preparations of rice tuak, family visits and communal food. This official account covers a public regional festival and should not be made into one universal set of Dayak ceremonies. See [Gawai's cultural setting](../culture/gawai-dayak-rice-tuak.md) and its [calendar entry](../calendar/gawai-dayak.md).[^v13-gawai-tourism]
+
+[^v13-gawai-tourism]: [Gawai Dayak Festival](https://www.tourism.gov.my/media/view/gawai-dayak-festival). Tourism Malaysia. Consulted 2026-10-27. Evidence accessed: Government tourism description: the Sarawak public celebration and tuak preparations; not a rule for every Dayak community.

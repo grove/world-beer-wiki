@@ -1,7 +1,8 @@
 ---
 type: Historical Beer Tradition
 title: Historical London porter
-description: A sourced profile of Historical London porter, its character, brewing context, and important distinctions.
+description: A sourced profile of Historical London porter, its character, brewing context, and important
+  distinctions.
 tags:
 - porter
 - historical
@@ -16,7 +17,8 @@ sources:
   title: 'Myth 1: Ralph Harwood invented porter as a substitute for three-threads'
   author: human:martyn-cornell
   source_kind: original-historical-analysis
-  access_scope: article argument and quotations from historical writing; reader comments not treated as settled evidence
+  access_scope: article argument and quotations from historical writing; reader comments not treated as
+    settled evidence
   author_label: Martyn Cornell
 - id: porter-whitbread
   resource: https://barclayperkins.blogspot.com/2023/02/whitbread-porter-grists-1805-1940.html
@@ -25,6 +27,13 @@ sources:
   source_kind: original-archival-analysis
   access_scope: transcription and analysis of one brewery’s changing ingredients
   author_label: Ron Pattinson
+- id: v13-porter-sumner
+  resource: https://www.tandfonline.com/doi/abs/10.1080/07341510801900409
+  title: 'Status, scale and secret ingredients: retrospective invention of London porter (2008)'
+  author_label: James Sumner
+  source_kind: historical-primary-analysis
+  access_scope: Publisher abstract accessed; arguments about industrialization and retrospective invention
+    only.
 aliases:
 - London porter
 regions:
@@ -37,7 +46,8 @@ tradition_status: historical
 scope: London porter history, with particular ingredient evidence from Whitbread, 1805–1940.
 evidence_basis: original historical and archival analysis
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/english-porter
@@ -84,3 +94,9 @@ Comparison links are not claims of direct ancestry.
 [^porter-cornell]: [Myth 1: Ralph Harwood invented porter as a substitute for three-threads](https://zythophile.wordpress.com/false-ale-quotes/myth-one-ralph-harwood-invented-porter-as-a-substitute-for-three-threads/). Martyn Cornell. Consulted 2026-10-27. Evidence used: article argument and quotations from historical writing; reader comments not treated as settled evidence.
 
 [^porter-whitbread]: [Whitbread Porter grists 1805–1940 (2023)](https://barclayperkins.blogspot.com/2023/02/whitbread-porter-grists-1805-1940.html). Ron Pattinson. Consulted 2026-10-27. Evidence used: transcription and analysis of one brewery’s changing ingredients.
+
+## Research extension 1.3: The invention story is contested
+
+Historian James Sumner challenges narratives describing porter as a discrete momentary invention followed by immediate industrial dominance; he instead interprets porter identity and industrial consolidation as intertwined long-term processes. The [historical explanation](../history/london-porter-and-industrialization.md) and [story guide](../stories/the-porter-invention-story.md) distinguish the popular anecdote from the scholarly interpretation. This statement follows the paper's publisher abstract.[^v13-porter-sumner]
+
+[^v13-porter-sumner]: [Status, scale and secret ingredients: retrospective invention of London porter (2008)](https://www.tandfonline.com/doi/abs/10.1080/07341510801900409). James Sumner. Consulted 2026-10-27. Evidence accessed: Publisher abstract accessed; arguments about industrialization and retrospective invention only.

@@ -14,3 +14,13 @@ Beer can be an object of hospitality, work, exchange, remembrance or commerce. T
 Read alongside [Calendar and seasons](../calendar/index.md), [Objects and service](../objects/index.md), and the [expansion specification](../editorial/atlas-specification.md). Regional coverage is a starting selection, not a balanced census.
 
 [Home](../index.md) · [Traditional brewing guide](../categories/traditional-and-indigenous-beers.md)
+
+## New in research edition 1.3
+
+- [Beer culture in Belgium as living heritage](belgian-beer-as-living-heritage.md) — Cultural Heritage Case
+- [Chang in Nubri: work, ceremony and exchange](nubri-chang-and-social-life.md) — Ethnographic Cultural Case
+- [Gawai Dayak and Sarawak rice tuak](gawai-dayak-rice-tuak.md) — Cultural Festival Case
+- [Makgeolli: making, sharing and national heritage](makgeolli-making-and-sharing.md) — Cultural Heritage Case
+- [Norwegian juleøl, shared bowls and visiting](norwegian-juleol-and-hospitality.md) — Historical Cultural Practice
+- [Sorghum beer: makers, markets and grain choices](sorghum-beer-markets-and-makers.md) — Cultural Economy
+- [The British pub and cask-beer stewardship](cask-beer-pub-community.md) — Serving and Community Practice

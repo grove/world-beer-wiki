@@ -15,8 +15,8 @@ sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.0'
-implementation_status: first-installment-implemented
+specification_version: '1.1'
+implementation_status: second-installment-implemented
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -29,8 +29,8 @@ work_items:
   state: implemented
   paths:
   - culture/index.md
-  delivered_scope: Six situated case studies; additional regions and independent community review remain outside
-    this installment.
+  delivered_scope: Six situated case studies; additional regions and independent community review remain
+    outside this installment.
 - id: ATLAS-003
   title: Calendar and historical events
   state: implemented
@@ -80,8 +80,8 @@ work_items:
   paths:
   - tools/atlas.py
   - editorial/reading-with-an-llm.md
-  delivered_scope: Initial qualified relation vocabulary, source preservation and reverse-edge export; no unsupported
-    ancestry edges.
+  delivered_scope: Initial qualified relation vocabulary, source preservation and reverse-edge export; no
+    unsupported ancestry edges.
 - id: ATLAS-010
   title: Offline exports, validation and tests
   state: implemented
@@ -90,7 +90,8 @@ work_items:
   - tests/test_atlas.py
   - .github/workflows/validate.yml
   - editorial/validation-report-1-2.md
-  delivered_scope: Offline checks, deterministic JSON exports, regression tests and read-only pull-request artifacts.
+  delivered_scope: Offline checks, deterministic JSON exports, regression tests and read-only pull-request
+    artifacts.
 - id: ATLAS-011
   title: Navigation and existing-profile integration
   state: implemented
@@ -99,8 +100,8 @@ work_items:
   - navigation/atlas.md
   - references/atlas-sources.md
   - tools/build_site.py
-  delivered_scope: Ten-layer navigation, source supplement and twelve original-article connection sections; searchable-site
-    compatibility preserved.
+  delivered_scope: Ten-layer navigation, source supplement and twelve original-article connection sections;
+    searchable-site compatibility preserved.
 - id: ATLAS-012
   title: Community and specialist review
   state: planned
@@ -113,11 +114,72 @@ work_items:
   title: Optional interactive atlas and date-aware discovery
   state: deferred
   paths: []
+- id: ATLAS-015
+  title: Focused history and archaeological context
+  state: implemented
+  paths:
+  - history/index.md
+  delivered_scope: Seven evidence-bounded historical cases and a method guide; not a universal archaeological
+    chronology.
+- id: ATLAS-016
+  title: Extended cultural and seasonal source research
+  state: implemented
+  paths:
+  - culture/index.md
+  delivered_scope: Seven new cultural accounts and four seasonal/calendar articles; local evidence boundaries
+    retained.
+- id: ATLAS-017
+  title: Microbial genomes and fermentation ecology
+  state: implemented
+  paths:
+  - microbiology/index.md
+  delivered_scope: Eight newer microbial references, strain versus species and study-design caveats.
+- id: ATLAS-018
+  title: Expanded grains, botanical materials and brewing processes
+  state: implemented
+  paths:
+  - ingredients/index.md
+  delivered_scope: Eight ingredient references and six process explanations; no foraging or microbiological
+    safety protocols.
+- id: ATLAS-019
+  title: Historical stories, serving objects and sensory chemistry
+  state: implemented
+  paths:
+  - stories/index.md
+  delivered_scope: Four new stories, three objects and three sensory explanations, all linked to canonical
+    topics.
+- id: ATLAS-020
+  title: More comparative family/category guides
+  state: implemented
+  paths:
+  - categories/index.md
+  delivered_scope: Four new comparison guides, without collapsing local traditions into a global style ladder.
+- id: ATLAS-021
+  title: Meaningful updates to canonical existing profiles
+  state: implemented
+  paths:
+  - navigation/atlas.md
+  delivered_scope: Fifteen original articles received sourced edition-1.3 research extensions, with original
+    URLs preserved.
+- id: ATLAS-022
+  title: Source supplement, 1.3 release and reproducible quality checks
+  state: implemented
+  paths:
+  - references/atlas-sources-1-3.md
+  delivered_scope: A full source register for 1.3, validation and release notes. Structural tests cannot
+    substitute for expert review.
+- id: ATLAS-023
+  title: Date-aware offline event and season export
+  state: implemented
+  paths:
+  - tools/atlas.py
+  delivered_scope: Deterministic timeline export from metadata; does not predict future festival dates or
+    create notifications.
 ---
 
 # World Beer Atlas expansion specification
 
-**Specification 1.0 · first installment implemented · 27 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.1 · second installment implemented · 27 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
 
 The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
@@ -225,3 +287,14 @@ Defer exhaustive hop cultivar/strain/product catalogs, brewery inventory, medica
 [^atlas-baseline]: [Edition 1.1 baseline research update](research-update-1-1.md). Repository release record, not an external historical source.
 
 [Home](../index.md) · [Evidence method](methodology.md) · [Coverage and gaps](coverage-and-gaps.md)
+
+
+## 11. Edition 1.3 research expansion
+
+The second installment adds 55 subject pages across 10 topic sections, including the new `history/` section. It also extends fifteen previously researched canonical entries. Stable work IDs **ATLAS-015 to ATLAS-023** track the new finite deliverables and their actual paths. Each article carries a claim-specific source and access limit. The prior fourteen IDs remain intact.
+
+A new offline `timeline` export presents only explicitly documented seasons and event editions; it does not project annual dates into the future. Comparisons remain qualified and do not infer shared ancestry. Research articles stay draft; ATLAS-012 remains unfulfilled. This installment **does not** deliver community endorsement, licensed media, or a live event-service application.
+
+### Remaining high-value research
+
+The next research cycle should broaden living-source coverage in Africa, Central/South America, the Pacific and underrepresented parts of Asia; improve community-language checking and reciprocal review; revisit inaccessible full papers and historical records; and add more verified traditions around weddings, memorials, taverns, craft guilds and changing consumption laws. The use of a secondary history source must remain visible until original documents are actually inspected.

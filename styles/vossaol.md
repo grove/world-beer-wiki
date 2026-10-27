@@ -1,8 +1,8 @@
 ---
 type: Beer Tradition
 title: Vossaøl
-description: Voss farmhouse brewing through an observed family practice and a documented modern-equipment recreation; kveik
-  provenance kept separate from beer identity.
+description: Voss farmhouse brewing through an observed family practice and a documented modern-equipment
+  recreation; kveik provenance kept separate from beer identity.
 tags:
 - farmhouse
 - juniper
@@ -27,6 +27,13 @@ sources:
   source_kind: firsthand-brewing-account
   access_scope: full firsthand brewing report; modern-equipment adaptation of Sigmund Gjernes’s method
   author_label: Lars Marius Garshol
+- id: v13-kveik26
+  resource: https://pubmed.ncbi.nlm.nih.gov/42657995/
+  title: Genomic Evidence of Early-Diverging Domesticated Lineages in Norwegian Farmhouse Yeast (2026)
+  author_label: Michael Dondrup and colleagues
+  source_kind: primary-microbial-genomics
+  access_scope: PubMed abstract; 64 isolates from 25 western Norwegian cultures, inference on lineages not
+    dating a specific batch.
 aliases:
 - Vossaol
 - Voss farmhouse ale
@@ -39,7 +46,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: firsthand-fieldwork or original comparative research
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/kornol
@@ -104,3 +112,9 @@ Comparison links are not claims of direct ancestry.
 [Yeast-storage tools](../objects/yeast-storage-tools.md) · [The yeast is not the beer](../stories/the-yeast-is-not-the-beer.md)
 
 These reading links extend navigation; the original source access notes above remain unchanged.
+
+## Research extension 1.3: Recent genetics and inherited culture
+
+A 2026 study sequenced **64 isolates from 25 western Norwegian farmhouse yeast cultures** and reported population structure and early-domesticated lineages. This does not identify the yeast used in every historical Vossaøl batch or date a specific household brewing custom. Read the [2026 kveik research guide](../microbiology/kveik-genomic-research-2026.md) and [culture diversity](../microbiology/farmhouse-yeast-diversity.md).[^v13-kveik26]
+
+[^v13-kveik26]: [Genomic Evidence of Early-Diverging Domesticated Lineages in Norwegian Farmhouse Yeast (2026)](https://pubmed.ncbi.nlm.nih.gov/42657995/). Michael Dondrup and colleagues. Consulted 2026-10-27. Evidence accessed: PubMed abstract; 64 isolates from 25 western Norwegian cultures, inference on lineages not dating a specific batch.

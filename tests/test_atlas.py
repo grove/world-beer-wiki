@@ -225,3 +225,50 @@ class AtlasTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class TimelineExportTests(unittest.TestCase):
+    """Timeline must preserve evidence and must never invent future event editions."""
+
+    def sample(self):
+        return {'calendar/event.md': {'data': {
+            'type': 'Recurring Festival Reference', 'title': 'Documented example',
+            'regions': ['A particular town'], 'status': 'draft',
+            'review_note': 'Not externally reviewed.',
+            'calendar': {'kind': 'recurring-event', 'system': 'local agricultural',
+                         'timing': 'Occasion in spring, year varies', 'months': [3],
+                         'source_ids': ['record'],
+                         'editions': [{'year': 2025, 'start': '2025-03-01', 'end': '2025-03-02',
+                                       'checked_on': '2026-10-27', 'source_id': 'record',
+                                       'evidence_status': 'archival-edition'}]},
+            'sources': [{'id': 'record', 'title': 'Example source',
+                         'resource': 'https://example.org/record',
+                         'access_scope': 'Published summary'}]}, 'body': '# Example'},
+                'history/undated.md': {'data': {'title': 'Not an event'}, 'body': ''}}
+
+    def test_timeline_keeps_evidence_and_exact_dates(self):
+        output = atlas.timeline(self.sample())
+        self.assertEqual(len(output['events']), 1)
+        self.assertEqual(len(output['editions']), 1)
+        self.assertEqual(output['events'][0]['source_details'][0]['access_scope'], 'Published summary')
+        self.assertEqual(output['events'][0]['system'], 'local agricultural')
+        self.assertEqual(output['editions'][0]['start'], '2025-03-01')
+        self.assertNotIn('2027', json.dumps(output))
+
+    def test_timeline_empty_editions_are_not_projected(self):
+        data = self.sample()
+        data['calendar/event.md']['data']['calendar']['editions'] = []
+        self.assertEqual(atlas.timeline(data)['editions'], [])
+
+    def test_timeline_deterministic_under_key_reordering(self):
+        original = self.sample()
+        original['calendar/event-2.md'] = deepcopy(original['calendar/event.md'])
+        original['calendar/event-2.md']['data']['title'] = 'Other documented event'
+        reversed_docs = dict(reversed(list(original.items())))
+        self.assertEqual(json.dumps(atlas.timeline(original),sort_keys=True),
+                         json.dumps(atlas.timeline(reversed_docs),sort_keys=True))
+
+    def test_no_calendar_history_is_not_a_calendar_event(self):
+        out=atlas.timeline({'history/undated.md':{'data':{'title':'Historical research'},'body':''}})
+        self.assertEqual(out['events'], [])
+        self.assertEqual(out['editions'], [])

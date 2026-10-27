@@ -12,3 +12,10 @@ Short narratives and comparisons built from the same evidence-bearing articles a
 Each route distinguishes its evidence from its framing. Follow the linked articles for source scope and uncertainty.
 
 [Home](../index.md) · [Culture](../culture/index.md) · [Calendar](../calendar/index.md) · [Sensory reasoning](../sensory/index.md)
+
+## New in research edition 1.3
+
+- [Did brewing come before farming? A question from Raqefet Cave](was-beer-before-farming.md) — Evidence-based Archaeology Story
+- [Did one brewer invent porter in a single afternoon?](the-porter-invention-story.md) — Evidence-based Beer Story
+- [The culture that contained more than thirty yeasts](a-starter-is-more-than-a-strain.md) — Evidence-based Science Story
+- [Was the Reinheitsgebot a 500-year-old universal beer recipe?](beer-purity-myth.md) — Evidence-based Beer Story

@@ -7,3 +7,5 @@
 [Category guides](../categories/index.md) explain the routes; [ingredient references](../ingredients/index.md) explain material roles. [All beer and tradition profiles](../styles/index.md) remains the canonical profile directory.
 
 [Home](../index.md)
+
+- [Edition 1.3 atlas reading routes](atlas.md) — expanded cultural, historical and scientific subjects.

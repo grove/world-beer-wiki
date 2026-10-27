@@ -1,6 +1,6 @@
 # Ingredients and brewing cultures
 
-These 23 references explain materials and biological cultures used across the wiki. They connect ingredient roles to named styles and regional traditions without treating a shared ingredient as proof of a shared identity. Each reference states its scope and cites the evidence for its claims.
+These 31 references explain materials and biological cultures used across the wiki. They connect ingredient roles to named styles and regional traditions without treating a shared ingredient as proof of a shared identity. Each reference states its scope and cites the evidence for its claims.
 
 ## Water and starch sources
 
@@ -54,3 +54,14 @@ Start with an ingredient's definition and processing form, then follow one moder
 These are reference pages, not complete recipes, exhaustive ingredient inventories, legal ingredient declarations or dietary assessments. See [research method](../editorial/methodology.md) for source limits and [coverage and gaps](../editorial/coverage-and-gaps.md) for the wider scope.
 
 [Wiki home](../index.md) · [Beer profile directory](../styles/index.md) · [Browse by family](../navigation/by-family.md)
+
+## New in research edition 1.3
+
+- [Bog myrtle (sweet gale) in herbal beer](bog-myrtle.md) — Ingredient Reference
+- [Heather in beer and the modern Fraoch revival](heather.md) — Ingredient Reference
+- [Job’s tears in evidence for ancient Chinese fermented beverages](job-tears.md) — Archaeobotanical Ingredient Reference
+- [Jora: germinated maize as a brewing material](jora-maize.md) — Ingredient Reference
+- [Pale, kilned and roasted malt: the heat spectrum](barley-malt-heat-spectrum.md) — Ingredient Processing Reference
+- [Sorghum malt in West African grain-beer systems](sorghum-malt.md) — Ingredient Reference
+- [Spruce, fir and pine shoots in beer](spruce-and-pine-shoots.md) — Ingredient Reference
+- [Yarrow and the uncertainty of historical herb blends](yarrow.md) — Ingredient Reference

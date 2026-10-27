@@ -17,9 +17,9 @@ sources:
 
 # Atlas scope and progress
 
-**First installment: 11 implemented work items, 1 planned review item, 2 deferred features.** This is a finite implementation ledger, not a percentage of world beer knowledge covered. All researched articles remain drafts.
+**Research edition 1.3: 20 implemented, 1 planned, 2 deferred work items.** These are bounded implementation deliverables, not a percentage of the world’s beer knowledge.
 
-| ID | Deliverable | State | Entry points |
+| ID | Deliverable | State | Entry point |
 |---|---|---|---|
 | ATLAS-001 | Scope and evidence contract | implemented | [editorial/atlas-specification.md](../editorial/atlas-specification.md) |
 | ATLAS-002 | Cultural case studies | implemented | [culture/index.md](../culture/index.md) |
@@ -35,21 +35,29 @@ sources:
 | ATLAS-012 | Community and specialist review | planned | No completed deliverable asserted |
 | ATLAS-013 | Licensed illustrations and pronunciation recordings | deferred | No completed deliverable asserted |
 | ATLAS-014 | Optional interactive atlas and date-aware discovery | deferred | No completed deliverable asserted |
+| ATLAS-015 | Focused history and archaeological context | implemented | [history/index.md](../history/index.md) |
+| ATLAS-016 | Extended cultural and seasonal source research | implemented | [culture/index.md](../culture/index.md) |
+| ATLAS-017 | Microbial genomes and fermentation ecology | implemented | [microbiology/index.md](../microbiology/index.md) |
+| ATLAS-018 | Expanded grains, botanical materials and brewing processes | implemented | [ingredients/index.md](../ingredients/index.md) |
+| ATLAS-019 | Historical stories, serving objects and sensory chemistry | implemented | [stories/index.md](../stories/index.md) |
+| ATLAS-020 | More comparative family/category guides | implemented | [categories/index.md](../categories/index.md) |
+| ATLAS-021 | Meaningful updates to canonical existing profiles | implemented | [navigation/atlas.md](../navigation/atlas.md) |
+| ATLAS-022 | Source supplement, 1.3 release and reproducible quality checks | implemented | [references/atlas-sources-1-3.md](../references/atlas-sources-1-3.md) |
+| ATLAS-023 | Date-aware offline event and season export | implemented | [tools/atlas.py](../tools/atlas.py) |
 
-## What remains deliberately unfinished
+## What remains
 
-Independent community, brewer, historian and microbiologist review has **not** occurred. Original-language checking, deeper coverage outside the initial case studies, botanical identification, compound-level sensory science, and additional primary-paper access remain research priorities. No images or audio were added without rights review. Live schedules, interactive maps and date-triggered features are deferred.
+**Independent human, community and specialist review has not occurred.** Edition 1.3 researched and added 55 sourced subject pages and improved fifteen existing profile/ingredient/category references. This is not independent historical verification; the reviewed-source access limitations remain in each article and the [1.3 supplement](../references/atlas-sources-1-3.md). Previously deferred licensed media and real-time interactive features remain deferred.
 
-The [specification](atlas-specification.md) records each implemented item's precise delivered scope and the follow-on backlog. A new article does not automatically finish a broader region or topic. Reclassify an item only when its stated acceptance criteria are satisfied.
-
-## Reproduce the ledger
+## Reproduce
 
 ```bash
+python tools/validate_wiki.py --json
 python tools/atlas.py check --json
-python tools/atlas.py progress
 python tools/atlas.py catalog
+python tools/atlas.py progress
+python tools/atlas.py timeline
+python -m unittest discover -s tests -v
 ```
 
-The progress export reads the specification, while the catalog retains source access limits, article scope, review status, calendar records, relation qualifiers and reverse links. Neither export upgrades evidence quality.
-
-[Research update](research-update-1-2.md) · [Validation](validation-report-1-2.md) · [Home](../index.md)
+[Specification](atlas-specification.md) · [1.3 research update](research-update-1-3.md) · [Validation report](validation-report-1-3.md)

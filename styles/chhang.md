@@ -1,7 +1,8 @@
 ---
 type: Beer Tradition
 title: Chhang — Himalayan grain-fermentation traditions
-description: A geographically bounded comparison of Ladakhi barley chhang and Bhotiya chhang using distinct mixed starters.
+description: A geographically bounded comparison of Ladakhi barley chhang and Bhotiya chhang using distinct
+  mixed starters.
 tags:
 - barley
 - mixed-starter
@@ -17,17 +18,26 @@ sources:
   title: Chhang — A barley based alcoholic beverage of Ladakh, India (2012)
   author: team:trad-chhang-ladakh-authors
   source_kind: primary-research
-  access_scope: repository full-text PDF, Indian Journal of Traditional Knowledge 11(1), 190–193; Leh and Khaltsi fieldwork
-  author_label: Konchok Targais, Tsering Stobdan, Sunil Mundra, Zulfikar Ali, Ashish Yadav, Girish Korekar and Shashi Bala
-    Singh
+  access_scope: repository full-text PDF, Indian Journal of Traditional Knowledge 11(1), 190–193; Leh and
+    Khaltsi fieldwork
+  author_label: Konchok Targais, Tsering Stobdan, Sunil Mundra, Zulfikar Ali, Ashish Yadav, Girish Korekar
+    and Shashi Bala Singh
 - id: trad-chhang-balma
   resource: https://pubmed.ncbi.nlm.nih.gov/26843694/
-  title: Microbiological Analyses of Traditional Alcoholic Beverage (Chhang) and its Starter (Balma) Prepared by Bhotiya Tribe
-    of Uttarakhand, India (2016)
+  title: Microbiological Analyses of Traditional Alcoholic Beverage (Chhang) and its Starter (Balma) Prepared
+    by Bhotiya Tribe of Uttarakhand, India (2016)
   author: team:trad-chhang-balma-authors
   source_kind: primary-research
-  access_scope: PubMed abstract and indexed PMC introduction/results excerpts; full PMC page blocked during direct retrieval
+  access_scope: PubMed abstract and indexed PMC introduction/results excerpts; full PMC page blocked during
+    direct retrieval
   author_label: Kailash N. Bhardwaj, Kavish Kumar Jain, Sandeep Kumar and Ramesh Chander Kuhad
+- id: v13-tibet-nubri
+  resource: https://journals.ed.ac.uk/himalaya/article/view/9440
+  title: Do Not Even Think about Giving Me Less Chang (2024)
+  author_label: Mason Brown, Jangchuk Sangmo Thakuri and Geoff Childs
+  source_kind: ethnographic-primary-research
+  access_scope: Journal abstract and article metadata accessed; ethnography focused on Nubri, Nepal; avoid
+    generalized Tibetan conclusions.
 aliases: []
 regions:
 - South Asia
@@ -41,7 +51,8 @@ tradition_status: living-tradition
 scope: Ladakhi and Bhotiya practices documented by the cited studies, not an exhaustive Himalayan taxonomy.
 evidence_basis: Primary research with article-specific access limits recorded below.
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/kodo-ko-jaanr
@@ -86,3 +97,9 @@ The Ladakhi full text was inspected; access to the Bhotiya paper was limited to 
 [^trad-chhang-ladakh]: [Chhang — A barley based alcoholic beverage of Ladakh, India (2012)](https://nopr.niscpr.res.in/handle/123456789/13443). Konchok Targais, Tsering Stobdan, Sunil Mundra, Zulfikar Ali, Ashish Yadav, Girish Korekar and Shashi Bala Singh. Consulted 2026-10-27. Evidence used: repository full-text PDF, Indian Journal of Traditional Knowledge 11(1), 190–193; Leh and Khaltsi fieldwork.
 
 [^trad-chhang-balma]: [Microbiological Analyses of Traditional Alcoholic Beverage (Chhang) and its Starter (Balma) Prepared by Bhotiya Tribe of Uttarakhand, India (2016)](https://pubmed.ncbi.nlm.nih.gov/26843694/). Kailash N. Bhardwaj, Kavish Kumar Jain, Sandeep Kumar and Ramesh Chander Kuhad. Consulted 2026-10-27. Evidence used: PubMed abstract and indexed PMC introduction/results excerpts; full PMC page blocked during direct retrieval.
+
+## Research extension 1.3: A situated ethnographic account
+
+A 2024 ethnographic paper studies the position of **chang** in the Nubri region of Nepal, including social relations and drinking contexts. Its locally situated account must not be projected onto all Tibetan-speaking communities or every beverage also spelled chhang. The [Nubri study guide](../culture/nubri-chang-and-social-life.md) explains the access limits; [tongba service](../objects/tongba-service.md) is a distinct comparative practice.[^v13-tibet-nubri]
+
+[^v13-tibet-nubri]: [Do Not Even Think about Giving Me Less Chang (2024)](https://journals.ed.ac.uk/himalaya/article/view/9440). Mason Brown, Jangchuk Sangmo Thakuri and Geoff Childs. Consulted 2026-10-27. Evidence accessed: Journal abstract and article metadata accessed; ethnography focused on Nubri, Nepal; avoid generalized Tibetan conclusions.
