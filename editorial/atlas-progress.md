@@ -30,7 +30,7 @@ sources:
 | ATLAS-007 | Objects and serving practices | implemented | [objects/index.md](../objects/index.md) |
 | ATLAS-008 | Stories and sensory reading routes | implemented | [stories/index.md](../stories/index.md) · [sensory/index.md](../sensory/index.md) |
 | ATLAS-009 | Typed evidence-bearing relationships | implemented | [tools/atlas.py](../tools/atlas.py) · [editorial/reading-with-an-llm.md](../editorial/reading-with-an-llm.md) |
-| ATLAS-010 | Offline exports, validation and tests | implemented | [tools/atlas.py](../tools/atlas.py) · [tests/test_atlas.py](../tests/test_atlas.py) · [.github/workflows/validate.yml](../.github/workflows/validate.yml) · [editorial/validation-report-1-2.md](../editorial/validation-report-1-2.md) |
+| ATLAS-010 | Offline exports, validation and tests | implemented | [tools/atlas.py](../tools/atlas.py) · [tests/test_atlas.py](../tests/test_atlas.py) · `.github/workflows/validate.yml` · [editorial/validation-report-1-2.md](../editorial/validation-report-1-2.md) |
 | ATLAS-011 | Navigation and existing-profile integration | implemented | [index.md](../index.md) · [navigation/atlas.md](../navigation/atlas.md) · [references/atlas-sources.md](../references/atlas-sources.md) · [tools/build_site.py](../tools/build_site.py) |
 | ATLAS-012 | Community and specialist review | planned | No completed deliverable asserted |
 | ATLAS-013 | Licensed illustrations and pronunciation recordings | deferred | No completed deliverable asserted |
