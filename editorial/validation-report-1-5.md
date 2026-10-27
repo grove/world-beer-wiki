@@ -45,7 +45,7 @@ python tools/build_site.py
 | Markdown files reachable from the root | 421 / 421 |
 | Subject articles | 372 |
 | Original beer/tradition profile paths preserved | 166 |
-| Local Markdown link occurrences resolved | 5,872 |
+| Local Markdown link occurrences resolved | 5,873 |
 | Structured comparison and qualified relations | 1,065 |
 | Claim-linked footnote references | 1,427 |
 | Calendar/event/season records | 12 |
