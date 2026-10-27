@@ -17,3 +17,14 @@ Read **species**, **strain**, **maintained culture**, and **fermentation process
 Existing overviews remain canonical: [brewing yeast](../ingredients/brewing-yeast.md), [brewing bacteria](../ingredients/brewing-bacteria.md), [kveik](../ingredients/kveik.md), and [mould and mixed starters](../ingredients/mould-and-mixed-starters.md).
 
 [Home](../index.md) · [Processes](../processes/index.md) · [Evidence contract](../editorial/atlas-specification.md)
+
+## New in research edition 1.3
+
+- [Diastatic Saccharomyces and the STA1 question](diastatic-saccharomyces.md) — Microorganism Mechanism
+- [Farmhouse yeast is not always a single strain](farmhouse-yeast-diversity.md) — Microbial Research Synthesis
+- [Lactobacillus brevis: a strain-specific beer-spoilage example](lactobacillus-brevis-beer.md) — Microorganism Mechanism
+- [Monascus-like microfossils and ancient fermentation inference](monascus-in-archaeology.md) — Archaeological Microbiology
+- [Nuruk-associated yeasts and the limits of laboratory strain screening](nuruk-mixed-yeasts.md) — Fermentation Ecology Research
+- [Phenolic yeast and the clove-associated 4-vinylguaiacol pathway](phenolic-yeast-pof.md) — Microbial Flavor Mechanism
+- [What 2026 genomics revealed about Norwegian kveik](kveik-genomic-research-2026.md) — Microbial Research Synthesis
+- [Yeast acetate esters: biochemical flavor production](ester-producing-yeasts.md) — Microbial Flavor Mechanism

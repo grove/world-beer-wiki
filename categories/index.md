@@ -1,6 +1,6 @@
 # Category guides
 
-These **13 educational guides** explain how styles, ingredients, processes, places and periods overlap. They are reading maps, not 13 newly standardized beer styles. Begin with [How beer categories work](beer-classification.md).
+These **17 educational guides** explain how styles, ingredients, processes, places and periods overlap. They are reading maps, not 17 newly standardized beer styles. Begin with [How beer categories work](beer-classification.md).
 
 | Guide | What it explains |
 |---|---|
@@ -21,3 +21,10 @@ These **13 educational guides** explain how styles, ingredients, processes, plac
 Each guide links to canonical profiles and preserves the scope of its sources. A shared heading, ingredient or comparison link does not establish ancestry.
 
 [Beer and tradition profiles](../styles/index.md) · [Ingredients and cultures](../ingredients/index.md) · [Wiki home](../index.md)
+
+## New in research edition 1.3
+
+- [Beer as intangible cultural heritage, not just a style](beer-as-intangible-heritage.md) — Category Guide
+- [Beer, work, markets, monasteries and the pub](beer-and-social-institutions.md) — Category Guide
+- [Beyond ale versus lager: fermentation ecosystems](fermentation-beyond-yeast-alone.md) — Category Guide
+- [Herbal beers, gruit and contemporary botanical revival](herbal-beer-and-gruit.md) — Category Guide

@@ -1,7 +1,8 @@
 ---
 type: Archaeological Brewing Evidence
 title: Shangshan fermented-grain beverage
-description: An archaeological interpretation of early Shangshan pottery residues, not a recovered ancient style name or recipe.
+description: An archaeological interpretation of early Shangshan pottery residues, not a recovered ancient
+  style name or recipe.
 tags:
 - archaeology
 - rice
@@ -14,11 +15,20 @@ generated:
 sources:
 - id: wiki-shangshan-study
   resource: https://www.pnas.org/doi/10.1073/pnas.2412274121
-  title: Identification of 10,000-year-old rice beer at Shangshan in the Lower Yangzi River valley of China (2024)
+  title: Identification of 10,000-year-old rice beer at Shangshan in the Lower Yangzi River valley of China
+    (2024)
   author: team:li-liu-jianping-zhang-jingbo-li-yahui-he-zhongzhe-gao-and-leping-jiang
   source_kind: primary-archaeological-research
-  access_scope: abstract and indexed full-text sections on microfossils and interpretation; ancient microorganisms inferred morphologically, not revived
+  access_scope: abstract and indexed full-text sections on microfossils and interpretation; ancient microorganisms
+    inferred morphologically, not revived
   author_label: Li Liu, Jianping Zhang, Jingbo Li, Yahui He, Zhongzhe Gao and Leping Jiang
+- id: v13-shangshan
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC11665889/
+  title: Identification of 10,000-year-old rice beer at Shangshan (2024)
+  author_label: Li Liu and colleagues
+  source_kind: archaeological-primary-research
+  access_scope: Open-access full text inspected; fungal morphology and starch proxy, no live microorganisms
+    recovered.
 aliases:
 - Shangshan rice beer
 regions:
@@ -26,10 +36,12 @@ regions:
 - China
 - Zhejiang
 tradition_status: archaeological
-scope: An archaeological interpretation of early Shangshan pottery residues, not a recovered ancient style name or recipe.
+scope: An archaeological interpretation of early Shangshan pottery residues, not a recovered ancient style
+  name or recipe.
 evidence_basis: primary-archaeological-research
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/mijiaya-beer
@@ -64,3 +76,9 @@ The [rice](../ingredients/rice.md) and [mixed starter](../ingredients/mould-and-
 ## Source notes
 
 [^wiki-shangshan-study]: [Identification of 10,000-year-old rice beer at Shangshan in the Lower Yangzi River valley of China (2024)](https://www.pnas.org/doi/10.1073/pnas.2412274121). Li Liu, Jianping Zhang, Jingbo Li, Yahui He, Zhongzhe Gao and Leping Jiang. Consulted 2026-10-27. Evidence used: abstract and indexed full-text sections on microfossils and interpretation; ancient microorganisms inferred morphologically, not revived.
+
+## Research extension 1.3: Fungal morphology is not a recovered living starter
+
+At **Shangshan**, researchers interpreted fungal-like microfossils together with rice and other starch evidence as signs compatible with early fermented cereal beverage production. The material cannot genetically identify an ancient living strain or prove continuity with current starter makers. Compare [Monascus-like evidence](../microbiology/monascus-in-archaeology.md) and [archaeological methods](../history/how-archaeologists-identify-beer.md).[^v13-shangshan]
+
+[^v13-shangshan]: [Identification of 10,000-year-old rice beer at Shangshan (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11665889/). Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access full text inspected; fungal morphology and starch proxy, no live microorganisms recovered.

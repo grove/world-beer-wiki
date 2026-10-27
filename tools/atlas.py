@@ -21,7 +21,7 @@ from validate_wiki import UniqueLoader, links, without_fences
 
 SUBJECT_DIRS = (
     'styles', 'ingredients', 'categories', 'culture', 'calendar',
-    'microbiology', 'processes', 'objects', 'stories', 'sensory',
+    'microbiology', 'processes', 'objects', 'stories', 'sensory', 'history',
 )
 NEW_DIRS = SUBJECT_DIRS[3:]
 RELATIONS = {
@@ -303,9 +303,44 @@ def progress(documents):
             'counts': {state: counts[state] for state in sorted(STATES)}, 'work_items': items}
 
 
+def timeline(documents):
+    """Offline, evidence-scoped timeline: never infer future event instances.
+
+    Preserves local systems and timing strings, and exact historical editions only
+    when an article explicitly registered them. Historical articles without a
+    calendar block remain research narratives rather than invented event dates.
+    """
+    events, editions = [], []
+    for path, document in sorted(documents.items()):
+        cal = document['data'].get('calendar')
+        if not isinstance(cal, dict):
+            continue
+        meta = document['data']
+        record = {
+            'id': path[:-3], 'title': meta.get('title'), 'type': meta.get('type'),
+            'regions': meta.get('regions', []), 'status': meta.get('status'),
+            'review_note': meta.get('review_note', ''),
+            'kind': cal.get('kind'), 'system': cal.get('system'),
+            'timing': cal.get('timing'), 'months': cal.get('months', []),
+            'source_ids': cal.get('source_ids', []),
+            'source_details': [dict(id=s.get('id'), title=s.get('title'),
+                                    resource=s.get('resource'),
+                                    access_scope=s.get('access_scope'))
+                               for s in meta.get('sources', [])
+                               if isinstance(s, dict) and s.get('id') in cal.get('source_ids', [])],
+        }
+        events.append(record)
+        for edition in cal.get('editions', []):
+            editions.append({'event': path[:-3], 'title': meta.get('title'),
+                             'system': cal.get('system'), **edition})
+    return {'schema_version': '1.0',
+            'interpretation': 'Documented seasonal and event metadata only. Not a live calendar; do not infer future dates, participation or current status.',
+            'events': events, 'editions': sorted(editions, key=lambda x:(x['start'],x['event']))}
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['check', 'catalog', 'progress'])
+    parser.add_argument('command', choices=['check', 'catalog', 'progress', 'timeline'])
     parser.add_argument('--root', type=Path, default=Path(__file__).resolve().parents[1])
     parser.add_argument('--json', action='store_true', help='JSON check report; exports are always JSON')
     args = parser.parse_args(argv)
@@ -328,7 +363,7 @@ def main(argv=None):
     if not report['ok']:
         print(json.dumps(report, ensure_ascii=False, sort_keys=True, indent=2), file=sys.stderr)
         return 1
-    payload = catalog(documents) if args.command == 'catalog' else progress(documents)
+    payload = {'catalog': lambda: catalog(documents), 'progress': lambda: progress(documents), 'timeline': lambda: timeline(documents)}[args.command]()
     print(json.dumps(payload, ensure_ascii=False, sort_keys=True, indent=2, default=str))
     return 0
 

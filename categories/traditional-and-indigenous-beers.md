@@ -1,7 +1,8 @@
 ---
 type: Beer Category Guide
 title: Traditional and Indigenous brewing
-description: A comparative route through living beer traditions, related starch ferments, local knowledge, and the limits of style-based classification.
+description: A comparative route through living beer traditions, related starch ferments, local knowledge,
+  and the limits of style-based classification.
 tags:
 - tradition
 - Indigenous-knowledge
@@ -18,6 +19,13 @@ sources:
 - id: tradition-method
   resource: /editorial/methodology.md
   title: Research and evidence method
+- id: v13-belgium-unesco
+  resource: https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062
+  title: 'Beer culture in Belgium: Representative List inscription 01062 (2016)'
+  author_label: UNESCO Intangible Cultural Heritage
+  source_kind: institutional-heritage-record
+  access_scope: Official inscription and public summary viewed; describes cultural practices, not all individual
+    recipes.
 scope: An editorial comparison route, not a single beer style, cultural identity, or exhaustive world census.
 evidence_basis: Synthesis of the linked profiles; each preserves its own sources and limits.
 source_checked_on: '2026-10-27'
@@ -81,3 +89,9 @@ Coverage is uneven. Further work should seek locally authored histories, communi
 [^tradition-corpus]: [Profile directory](../styles/index.md). Follow the individual pages in the table for primary sources, access limits, and geographical scope; comparison groupings are editorial.
 
 [^tradition-method]: [Research and evidence method](../editorial/methodology.md). Editorial distinctions used throughout this corpus.
+
+## Research extension 1.3: Heritage is a social practice, not a sensory style
+
+UNESCO's 2016 inscription of Belgian beer culture includes making, serving, teaching, food, institutions and social use. This illustrates why cultural-heritage accounts belong alongside, not beneath, style categories. The [heritage comparison](beer-as-intangible-heritage.md) and [Belgian example](../culture/belgian-beer-as-living-heritage.md) are not a declaration that a recognized tradition is more authentic than any unlisted one.[^v13-belgium-unesco]
+
+[^v13-belgium-unesco]: [Beer culture in Belgium: Representative List inscription 01062 (2016)](https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062). UNESCO Intangible Cultural Heritage. Consulted 2026-10-27. Evidence accessed: Official inscription and public summary viewed; describes cultural practices, not all individual recipes.

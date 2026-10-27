@@ -1,7 +1,8 @@
 ---
 type: Historical Term and Modern Beer Family
 title: Gruit — historical ingredient system and modern herb beers
-description: A sourced profile of Gruit — historical ingredient system and modern herb beers, its character, brewing context, and important distinctions.
+description: A sourced profile of Gruit — historical ingredient system and modern herb beers, its character,
+  brewing context, and important distinctions.
 tags:
 - herbs
 - historical
@@ -25,6 +26,13 @@ sources:
   source_kind: firsthand-producer-interview
   access_scope: answers about contemporary herb beers
   author_label: Simonas Gutautas, interviewed by Lars Marius Garshol
+- id: v13-gruit
+  resource: https://www.beerandbrewing.com/dictionary/uy9unCEOKx
+  title: Gruit
+  author_label: Oxford Companion to Beer
+  source_kind: secondary-brewing-reference
+  access_scope: Published reference summary; variation in historical meanings and mixtures, verify local
+    histories before generalizing.
 aliases:
 - Gruit beer
 - Grutbier
@@ -37,7 +45,8 @@ tradition_status: historical-and-modern-reinterpretation
 scope: Separates historical gruit ingredients and rights from modern herb-beer usage.
 evidence_basis: original historical analysis and firsthand brewer interview
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/sahti
@@ -82,3 +91,9 @@ Comparison links are not claims of direct ancestry.
 [^gruit-research]: [Puncturing the Gruit Myth (2026)](https://www.garshol.priv.no/blog/438.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: historical argument and cited documentary research.
 
 [^gruit-brewer]: [Interview with Simonas Gutautas of Dundulis (2015)](https://www.garshol.priv.no/blog/325.html). Simonas Gutautas, interviewed by Lars Marius Garshol. Consulted 2026-10-27. Evidence used: answers about contemporary herb beers.
+
+## Research extension 1.3: Herbal mixture versus tax and historical institution
+
+The Oxford Companion's gruit explanation discusses varying herb mixtures and the administrative systems governing their trade. Neither a plant list nor a modern herbal beer establishes a uniform medieval recipe. The [botanical category](../categories/herbal-beer-and-gruit.md), [bog myrtle](../ingredients/bog-myrtle.md) and [yarrow](../ingredients/yarrow.md) provide the separable questions.[^v13-gruit]
+
+[^v13-gruit]: [Gruit](https://www.beerandbrewing.com/dictionary/uy9unCEOKx). Oxford Companion to Beer. Consulted 2026-10-27. Evidence accessed: Published reference summary; variation in historical meanings and mixtures, verify local histories before generalizing.

@@ -1,7 +1,8 @@
 ---
 type: Beer Tradition
 title: Apong — Mising rice-beer traditions
-description: 'Mising apong in Assam: Poro and Nogin forms, ÉPOP starters, household knowledge, and limits of laboratory evidence.'
+description: 'Mising apong in Assam: Poro and Nogin forms, ÉPOP starters, household knowledge, and limits
+  of laboratory evidence.'
 tags:
 - rice
 - mixed-starter
@@ -14,19 +15,26 @@ generated:
 sources:
 - id: trad-apong-epop
   resource: https://link.springer.com/article/10.1186/s42779-023-00214-2
-  title: 'ÉPOP (traditional starter culture): a complex composition of plant resources prepared by the Misings of Assam, Northeast
-    India (2023)'
+  title: 'ÉPOP (traditional starter culture): a complex composition of plant resources prepared by the Misings
+    of Assam, Northeast India (2023)'
   author: team:trad-apong-epop-authors
   source_kind: primary-research
   access_scope: full-text original field study; Sivasagar survey and starter preparation sections
   author_label: Rajiv Mili and R. C. Sundriyal
 - id: trad-assam-microbiota
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/
-  title: Exploring the microbiota and metabolites of traditional rice beer varieties of Assam and their functionalities (2019)
+  title: Exploring the microbiota and metabolites of traditional rice beer varieties of Assam and their
+    functionalities (2019)
   author: team:trad-assam-microbiota-authors
   source_kind: primary-research
   access_scope: full-text original research; sampling design and biochemical and bacterial analyses
   author_label: Santanu Das, Dibyayan Deb, Atanu Adak and Mojibur R. Khan
+- id: v13-assam-festival
+  resource: https://utsav.gov.in/view-event/ali-aye-ligang-1
+  title: Ali-Aye-Ligang
+  author_label: Government of India, Ministry of Tourism
+  source_kind: government-cultural-calendar
+  access_scope: Festival listing read; dates described by local calendar, not a fixed Gregorian day.
 aliases:
 - Mising apong
 - Mishing apong
@@ -40,7 +48,8 @@ tradition_status: living-tradition
 scope: Mising production documented in Assam; not every northeastern Indian drink called apong.
 evidence_basis: Primary research with article-specific access limits recorded below.
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/judima
@@ -93,3 +102,9 @@ This profile is restricted to the named communities and research locations. It d
 [ÉPOP and Mising starter knowledge](../culture/mising-starter-knowledge.md) · [Starch conversion](../processes/starch-conversion.md)
 
 These reading links extend navigation; the original source access notes above remain unchanged.
+
+## Research extension 1.3: Calendar and named Mising spring festival
+
+The Government of India describes **Ali-Aye-Ligang** as a Mising agricultural festival beginning with the spring sowing cycle. This locates Apong in one public cultural setting, but does not mean every producer uses a festival-only recipe or that every participant consumes it. See [the festival calendar](../calendar/ali-aye-ligang.md) and [Mising starter knowledge](../culture/mising-starter-knowledge.md).[^v13-assam-festival]
+
+[^v13-assam-festival]: [Ali-Aye-Ligang](https://utsav.gov.in/view-event/ali-aye-ligang-1). Government of India, Ministry of Tourism. Consulted 2026-10-27. Evidence accessed: Festival listing read; dates described by local calendar, not a fixed Gregorian day.

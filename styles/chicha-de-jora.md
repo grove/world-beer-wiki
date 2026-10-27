@@ -1,8 +1,8 @@
 ---
 type: Beer Tradition
 title: Chicha de jora
-description: Peruvian sprouted-maize chicha de jora, with present-day production evidence and a separate, qualified account
-  of Wari brewing archaeology.
+description: Peruvian sprouted-maize chicha de jora, with present-day production evidence and a separate,
+  qualified account of Wari brewing archaeology.
 tags:
 - maize
 - malted-grain
@@ -14,19 +14,30 @@ generated:
 sources:
 - id: chicha-jora-study
   resource: https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage
-  title: 'Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage (2020)'
+  title: 'Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage
+    (2020)'
   author: team:daniela-bassi-luigi-orru-jeison-cabanillas-vasquez-pier-sandro-cocconcelli-and-cecilia-fontana
   source_kind: primary-research
   access_scope: 'full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093'
-  author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana
+  author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia
+    Fontana
 - id: trad-chicha-archaeology
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
-  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)'
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl,
+    Peru (2005)'
   author: team:trad-chicha-archaeology-authors
   source_kind: primary-research
-  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata; full PMC page blocked during
-    direct retrieval; DOI 10.1073/pnas.0508673102
-  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda and Mario Ruales
+  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata; full PMC
+    page blocked during direct retrieval; DOI 10.1073/pnas.0508673102
+  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda
+    and Mario Ruales
+- id: v13-chicha
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7022331/
+  title: 'Peruvian chicha: a focus on the microbial populations (2020)'
+  author_label: Authors, journal review
+  source_kind: academic-review
+  access_scope: Full open review inspected; examples from particular Peruvian regions and sources, not one
+    uniform recipe.
 aliases: []
 regions:
 - South America
@@ -38,7 +49,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary research or community-authored documentation
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/tesguino
@@ -97,3 +109,9 @@ Comparison links are not claims of direct ancestry.
 [^chicha-jora-study]: [Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage (2020)](https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage). Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana. Consulted 2026-10-27. Evidence used: full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093.
 
 [^trad-chicha-archaeology]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda and Mario Ruales. Consulted 2026-10-27. Evidence used: indexed original-paper brewery and interpretation sections plus PubMed metadata; full PMC page blocked during direct retrieval; DOI 10.1073/pnas.0508673102.
+
+## Research extension 1.3: Germinated maize and processing variability
+
+A scientific synthesis of **chicha de jora** describes germinated maize, drying, cooking and fermentation as variable stages in documented Peruvian production. This materially differs from simply putting unmalted maize into an industrial lager. The [jora ingredient reference](../ingredients/jora-maize.md) and [starch conversion](../processes/starch-conversion.md) explain the distinction without declaring one archaeological recipe.[^v13-chicha]
+
+[^v13-chicha]: [Peruvian chicha: a focus on the microbial populations (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7022331/). Authors, journal review. Consulted 2026-10-27. Evidence accessed: Full open review inspected; examples from particular Peruvian regions and sources, not one uniform recipe.

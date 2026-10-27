@@ -43,17 +43,18 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 | Section | Entries | Purpose |
 |---|---:|---|
 | [Beer and tradition profiles](styles/index.md) | 166 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 23 | Materials, processing forms, enzymes and fermentation organisms. |
-| [Category guides](categories/index.md) | 13 | Explanations and comparisons across families and classification axes. |
-| [Culture](culture/index.md) | 6 | Situated institutions, work, exchange and knowledge. |
-| [Calendar](calendar/index.md) | 5 | Seasons and edition-specific events. |
-| [Microbiology](microbiology/index.md) | 9 | Organisms, cultures and ecological evidence. |
-| [Processes](processes/index.md) | 8 | Transformations and production comparisons. |
-| [Objects and service](objects/index.md) | 4 | Equipment and ways of presenting drinks. |
-| [Sensory](sensory/index.md) | 2 | Flavor reasoning and evidence boundaries. |
-| [Stories](stories/index.md) | 4 | Evidence-based narrative reading routes. |
+| [Ingredients and cultures](ingredients/index.md) | 31 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Category guides](categories/index.md) | 17 | Explanations and comparisons across families and classification axes. |
+| [Culture](culture/index.md) | 13 | Situated institutions, work, exchange and knowledge. |
+| [Calendar](calendar/index.md) | 9 | Seasons and edition-specific events. |
+| [Microbiology](microbiology/index.md) | 17 | Organisms, cultures and ecological evidence. |
+| [Processes](processes/index.md) | 14 | Transformations and production comparisons. |
+| [Objects and service](objects/index.md) | 7 | Equipment and ways of presenting drinks. |
+| [Sensory](sensory/index.md) | 5 | Flavor reasoning and evidence boundaries. |
+| [Stories](stories/index.md) | 8 | Evidence-based narrative reading routes. |
+| [History and archaeology](history/index.md) | 8 | Historical policies, industrialization and ancient material evidence. |
 
-That is **240 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.2 research update](editorial/research-update-1-2.md) document delivered and remaining scope.
+That is **295 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.3 research update](editorial/research-update-1-3.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
@@ -82,6 +83,7 @@ python tools/atlas.py check --json
 python -m unittest discover -s tests -v
 python tools/atlas.py catalog > atlas-catalog.json
 python tools/atlas.py progress > atlas-progress.json
+python tools/atlas.py timeline > atlas-timeline.json
 ```
 
 If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [1.2 validation report](editorial/validation-report-1-2.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.

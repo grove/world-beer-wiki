@@ -1,8 +1,7 @@
 ---
 type: Ingredient Reference
 title: Kveik
-description: Traditional Norwegian brewing cultures, isolated strains and the limits of a modern yeast
-  label.
+description: Traditional Norwegian brewing cultures, isolated strains and the limits of a modern yeast label.
 tags:
 - ingredient
 - yeast
@@ -32,17 +31,24 @@ sources:
     of all kveik
 - id: ing-kveik-temperature
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8966892/
-  title: Kveik Brewing Yeasts Demonstrate Wide Flexibility in Beer Fermentation Temperature Tolerance
-    and Exhibit Enhanced Trehalose Accumulation (2022)
+  title: Kveik Brewing Yeasts Demonstrate Wide Flexibility in Beer Fermentation Temperature Tolerance and
+    Exhibit Enhanced Trehalose Accumulation (2022)
   author_label: Barret Foster and colleagues
   source_kind: primary-research
   access_scope: published abstract and discussion; six kveik strains tested across temperatures
+- id: v13-farmhouse26
+  resource: https://pubmed.ncbi.nlm.nih.gov/41946361/
+  title: Distinctive domestication of farmhouse beer yeasts preserved pre-industrial diversity (2026)
+  author_label: Authors, Current Biology
+  source_kind: primary-microbial-genomics
+  access_scope: PubMed abstract; 1,760 isolates from 44 cultures, four named countries; not representative
+    of the entire world.
 aliases:
 - Kveik cultures
 regions:
 - Cross-regional
-scope: Traditional Norwegian kveik cultures and research on their isolates; not a single beer style or
-  a definition of all Nordic yeast.
+scope: Traditional Norwegian kveik cultures and research on their isolates; not a single beer style or a
+  definition of all Nordic yeast.
 evidence_basis:
 - primary-research
 - producer-technical-documentation
@@ -95,3 +101,9 @@ The studies give strong evidence about their tested cultures and strains, while 
 [^ing-kveik-genetics]: [Traditional Norwegian Kveik Are a Genetically Distinct Group of Domesticated Saccharomyces cerevisiae Brewing Yeasts (2018)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2018.02137/full). Richard Preiss, Caroline Tyrawa, Kristoffer Krogerus, Lars Marius Garshol and George van der Merwe. Consulted 2026-10-27. Evidence used: published abstract and retrieved fermentation/genetic results; cultures from nine Norwegian sources.
 [^ing-voss-product]: [LalBrew Voss](https://www.lallemandbrewing.com/en/asia/products/lalbrew-voss-kveik-ale-yeast/). Lallemand Brewing. Consulted 2026-10-27. Evidence used: product description of the commercial strain obtained from Sigmund Gjernes; not a definition of all kveik.
 [^ing-kveik-temperature]: [Kveik Brewing Yeasts Demonstrate Wide Flexibility in Beer Fermentation Temperature Tolerance and Exhibit Enhanced Trehalose Accumulation (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8966892/). Barret Foster and colleagues. Consulted 2026-10-27. Evidence used: published abstract and discussion; six kveik strains tested across temperatures.
+
+## Research extension 1.3: New comparative farmhouse population research
+
+A 2026 genomic study described **1,760 isolates from 44 traditional cultures** across Norway, Latvia, Lithuania and Russia. Its findings include a range from near-monocultures to multi-variant *Saccharomyces cerevisiae* populations. These samples should not be mistaken for all kveik cultures or used to equate commercial isolates with household lineages. See [farmhouse diversity](../microbiology/farmhouse-yeast-diversity.md) and [a sourced story](../stories/a-starter-is-more-than-a-strain.md).[^v13-farmhouse26]
+
+[^v13-farmhouse26]: [Distinctive domestication of farmhouse beer yeasts preserved pre-industrial diversity (2026)](https://pubmed.ncbi.nlm.nih.gov/41946361/). Authors, Current Biology. Consulted 2026-10-27. Evidence accessed: PubMed abstract; 1,760 isolates from 44 cultures, four named countries; not representative of the entire world.

@@ -19,3 +19,7 @@ Published research edition 1.0 with 153 canonical [profiles](styles/index.md), 1
 Separated named beer styles from specialty categories, related grain and cassava ferments, historical terminology, and archaeological evidence. Recorded source access limits and retained draft review status.
 
 The [validation report](editorial/validation-report.md) records the release checks. The [source register](references/source-register.md) provides the research references.
+
+## Research edition 1.3 — 27 October 2026
+
+Added 55 researched reference articles across cultural practice, regional calendars, microbial ecology, historical evidence, botanical ingredients, process explanations and sensory interpretation. Created the `history/` section; extended fifteen established articles; updated atlas specification and tracked work items ATLAS-015–023. Added source-access notes, critical history and qualified comparisons, a deterministic offline timeline export, regression tests and reproducibility checks. Articles remain drafts without community or specialist review; licensed media and a live calendar remain deferred. See [release research note](editorial/research-update-1-3.md).

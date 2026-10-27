@@ -31,8 +31,8 @@ sources:
   title: Introducing the Product Usage Matrix
   author_label: Yakima Chief Hops
   source_kind: producer-technical-documentation
-  access_scope: product descriptions for whole cones, pellets, extracts and aroma products; commercial
-    claims kept product-specific
+  access_scope: product descriptions for whole cones, pellets, extracts and aroma products; commercial claims
+    kept product-specific
 - id: ing-hop-creep
   resource: https://pubmed.ncbi.nlm.nih.gov/30084254/
   title: Evidence of Dextrin Hydrolyzing Enzymes in Cascade Hops (2018)
@@ -40,6 +40,12 @@ sources:
   source_kind: primary-research
   access_scope: indexed abstract; DOI 10.1021/acs.jafc.8b03563; Cascade-hop experiment, not a fixed effect
     for every beer
+- id: v13-hopcreep
+  resource: https://www.brewersassociation.org/educational-publications/hop-creep-technical-brief/
+  title: Hop Creep – Technical Brief
+  author_label: Arnbjørn Stokholm and Thomas H. Shellhammer, Brewers Association
+  source_kind: brewing-technical-explanation
+  access_scope: Technical summary accessible; conditions and possible outcomes, no universal batch predictions.
 aliases:
 - Humulus lupulus
 regions:
@@ -114,3 +120,9 @@ Product descriptions are examples of current materials; they are not endorsement
 [Dry hopping and hop creep](../processes/dry-hopping-and-hop-creep.md) · [Flavor detective](../sensory/aroma-is-not-an-ingredient.md)
 
 These reading links extend navigation; the original source access notes above remain unchanged.
+
+## Research extension 1.3: Hops can also affect carbohydrate availability
+
+Brewers Association material describes dry-hop-associated enzyme activity that can convert residual carbohydrates into fermentable sugars, under relevant brewing conditions. This is **hop creep**, not a guarantee attached to each hop cultivar. Further fermentation and package instability may follow. Read [hop creep chemistry](../processes/dry-hop-enzymes-and-refermentation.md) and [the earlier process overview](../processes/dry-hopping-and-hop-creep.md).[^v13-hopcreep]
+
+[^v13-hopcreep]: [Hop Creep – Technical Brief](https://www.brewersassociation.org/educational-publications/hop-creep-technical-brief/). Arnbjørn Stokholm and Thomas H. Shellhammer, Brewers Association. Consulted 2026-10-27. Evidence accessed: Technical summary accessible; conditions and possible outcomes, no universal batch predictions.

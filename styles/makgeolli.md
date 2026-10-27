@@ -14,11 +14,18 @@ generated:
 sources:
 - id: makgeolli-research
   resource: https://www.pfigueiredo.org/as42.pdf
-  title: Chemical and sensory profiles of makgeolli, Korean commercial rice wine, from descriptive, chemical, and volatile compound analyses (2014)
+  title: Chemical and sensory profiles of makgeolli, Korean commercial rice wine, from descriptive, chemical,
+    and volatile compound analyses (2014)
   author: team:heeyong-jung-and-colleagues
   source_kind: primary-research
   access_scope: paper p. 624, abstract and introduction; DOI 10.1016/j.foodchem.2013.11.127
   author_label: Heeyong Jung and colleagues
+- id: v13-korea-heritage
+  resource: https://www.korea.net/Government/Briefing-Room/Press-Releases/view?articleId=79559&insttCode=A260203&type=N
+  title: Makgeolli making and sharing designated as national intangible cultural heritage (2021)
+  author_label: Cultural Heritage Administration, Republic of Korea
+  source_kind: government-heritage-record
+  access_scope: Government press release viewed; Korean *national* designation, not UNESCO listing.
 aliases:
 - 막걸리
 regions:
@@ -28,7 +35,8 @@ tradition_status: living-tradition
 scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer style.
 evidence_basis: source-specific research
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/sake
@@ -73,3 +81,9 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^makgeolli-research]: [Chemical and sensory profiles of makgeolli, Korean commercial rice wine, from descriptive, chemical, and volatile compound analyses (2014)](https://www.pfigueiredo.org/as42.pdf). Heeyong Jung and colleagues. Consulted 2026-10-27. Evidence used: paper p. 624, abstract and introduction; DOI 10.1016/j.foodchem.2013.11.127.
+
+## Research extension 1.3: Heritage designation is about making and sharing
+
+The Republic of Korea's Cultural Heritage Administration identified **makgeolli making and sharing** as a national intangible-cultural-heritage practice in 2021. This recognizes skills and social transmission, not just a grain-ferment recipe or an international UNESCO listing. See [the cultural account](../culture/makgeolli-making-and-sharing.md) and [nuruk yeast ecology](../microbiology/nuruk-mixed-yeasts.md).[^v13-korea-heritage]
+
+[^v13-korea-heritage]: [Makgeolli making and sharing designated as national intangible cultural heritage (2021)](https://www.korea.net/Government/Briefing-Room/Press-Releases/view?articleId=79559&insttCode=A260203&type=N). Cultural Heritage Administration, Republic of Korea. Consulted 2026-10-27. Evidence accessed: Government press release viewed; Korean *national* designation, not UNESCO listing.
