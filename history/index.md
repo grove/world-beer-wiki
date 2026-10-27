@@ -14,3 +14,11 @@ This section distinguishes documented law, research on industry and the interpre
 - [U.S. Prohibition and the reshaping of beer production](us-prohibition-and-brewing-change.md) — Historical Policy Case Study
 
 [Wiki home](../index.md) · [Atlas specification](../editorial/atlas-specification.md)
+## New in research edition 1.4
+
+- [The Hymn to Ninkasi as literary beer evidence](hymn-to-ninkasi-and-beer.md) — Oxford translation of a Sumerian hymn; literary evidence rather than a laboratory-verifiable recipe.
+- [Emil Christian Hansen and pure-culture brewing in 1883](hansen-and-industrial-yeast-cultures.md) — Carlsberg laboratory history and heritage account of a specific late-nineteenth-century method.
+- [How the pH concept emerged from brewing science](ph-scale-and-brewing-laboratory.md) — Carlsberg Foundation’s institutional history of Sørensen and its biochemical research.
+- [Two approaches to starch conversion in Early Neolithic China](early-neolithic-malts-and-starters.md) — Residue-based inferences from selected north-China sites studied in a 2019 archaeological paper.
+- [Chimu-era chicha production at Manchan](chimu-chicha-at-manchan.md) — Publisher-abstract evidence from a 1989 excavation of north-coast Peru.
+- [The limits of fermentation evidence in prehistoric Japan and Korea](fermented-food-evidence-in-japan-and-korea.md) — Shinya Shoda’s 2021 review abstract and archaeological methodological questions.

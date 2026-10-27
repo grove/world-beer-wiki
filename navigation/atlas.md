@@ -7,8 +7,8 @@ tags:
 - atlas
 status: draft
 generated:
-  by: world-beer-wiki/1.2
-  at: '2026-10-27T20:40:00Z'
+  by: world-beer-wiki/1.4
+  at: '2026-10-27T22:55:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -149,3 +149,64 @@ The previous [names and aliases](all-names.md) index remains the 1.1 baseline. T
 | [Did one brewer invent porter in a single afternoon?](../stories/the-porter-invention-story.md) | Stories |
 | [The culture that contained more than thirty yeasts](../stories/a-starter-is-more-than-a-strain.md) | Stories |
 | [Was the Reinheitsgebot a 500-year-old universal beer recipe?](../stories/beer-purity-myth.md) | Stories |
+
+## New research pathways in edition 1.4
+
+**The barley-to-glass chain:** [climate and barley](../environment/climate-and-barley-supply.md) → [malt starch](../ingredients/malt-starch-structure.md) → [brewery energy](../environment/brewery-heat-and-refrigeration.md) → [spent grain](../environment/spent-grain-and-circular-use.md).
+
+**How an aroma appears:** [hop chemistry](../ingredients/hop-alpha-acids.md) → [wort heating](../processes/alpha-acid-isomerization.md) → [lightstruck](../sensory/lightstruck-chemistry.md) → [packaging](../processes/packaging-and-aging.md).
+
+**Who pays for a beer?:** [Wa pito enterprises](../culture/pito-enterprises-in-wa.md) → [Manyika ceremonial vessels](../culture/manyika-clay-pots-and-mhamba.md) → [Chimu labor](../culture/chicha-and-labor-reciprocity.md). Compare situated economies, not a supposed universal tradition.
+
+**A hymn, a vessel, a claim:** [Ninkasi text](../history/hymn-to-ninkasi-and-beer.md) → [the recipe myth](../stories/ninkasi-is-not-a-recipe.md) → [Neolithic China](../history/early-neolithic-malts-and-starters.md) → [archaeological limits](../history/how-archaeologists-identify-beer.md).
+
+**Beer at the table:** [pairing hypotheses](../food/beer-food-pairing-as-a-hypothesis.md) → [consumer evidence](../food/beer-and-cheese.md) → [alcohol-free with food](../food/alcohol-free-beer-with-food.md).
+
+## All 46 edition-1.4 additions
+
+- [Pito and women’s brewing enterprises in Wa](../culture/pito-enterprises-in-wa.md) — culture
+- [Manyika brewing vessels and mhamba](../culture/manyika-clay-pots-and-mhamba.md) — culture
+- [Chicha and labor reciprocity on Peru’s north coast](../culture/chicha-and-labor-reciprocity.md) — culture
+- [Dan in LoBir social and ritual life](../culture/lobir-dan-and-social-life.md) — culture
+- [Tuba, migration and the Torres Strait](../culture/tuba-and-torres-strait-mobility.md) — culture
+- [Mahua flowers in a Santhal livelihood study](../culture/santhal-mahua-flowers-and-livelihood.md) — culture
+- [Sahti in a Finnish UNESCO geopark landscape](../culture/sahti-and-local-finnish-identity.md) — culture
+- [Beer in Ndau rain-petition ceremonies](../calendar/ndau-rain-petitions-and-beer.md) — calendar
+- [European hop ripening and changing seasonal timing](../calendar/hop-harvest-and-changing-ripening.md) — calendar
+- [The Hymn to Ninkasi as literary beer evidence](../history/hymn-to-ninkasi-and-beer.md) — history
+- [Emil Christian Hansen and pure-culture brewing in 1883](../history/hansen-and-industrial-yeast-cultures.md) — history
+- [How the pH concept emerged from brewing science](../history/ph-scale-and-brewing-laboratory.md) — history
+- [Two approaches to starch conversion in Early Neolithic China](../history/early-neolithic-malts-and-starters.md) — history
+- [Chimu-era chicha production at Manchan](../history/chimu-chicha-at-manchan.md) — history
+- [The limits of fermentation evidence in prehistoric Japan and Korea](../history/fermented-food-evidence-in-japan-and-korea.md) — history
+- [Extreme weather and the barley-to-beer supply chain](../environment/climate-and-barley-supply.md) — environment
+- [Climate change, hop harvests and alpha-acid content](../environment/climate-and-hop-crops.md) — environment
+- [Brewers’ spent grain and circular resource use](../environment/spent-grain-and-circular-use.md) — environment
+- [Brewery water use, cleaning and wastewater](../environment/brewery-water-and-wastewater.md) — environment
+- [Thermal energy and refrigeration in brewing](../environment/brewery-heat-and-refrigeration.md) — environment
+- [How to compare brewing environmental footprints](../environment/how-to-compare-brewing-footprints.md) — environment
+- [Beer and food pairing as a testable hypothesis](../food/beer-food-pairing-as-a-hypothesis.md) — food
+- [Can alcohol-free beer work with food?](../food/alcohol-free-beer-with-food.md) — food
+- [Beer and cheese: variable sensory matches](../food/beer-and-cheese.md) — food
+- [Yeast flocculation and sedimentation](../microbiology/yeast-flocculation.md) — microbiology
+- [Diacetyl: formation and removal during fermentation](../microbiology/diacetyl-formation-and-reduction.md) — microbiology
+- [Yeast activity during bottle refermentation](../microbiology/refermentation-and-package-yeast.md) — microbiology
+- [Hop alpha acids and iso-alpha acids](../ingredients/hop-alpha-acids.md) — ingredients
+- [Barley beta-glucans and wort texture](../ingredients/barley-beta-glucans.md) — ingredients
+- [Mahua flowers as a fermented-beverage material](../ingredients/mahua-flowers.md) — ingredients
+- [Brewers’ spent grain as a resource](../ingredients/brewers-spent-grain.md) — ingredients
+- [Malt starch, gelatinization and enzyme action](../ingredients/malt-starch-structure.md) — ingredients
+- [Hop alpha-acid isomerization during wort heating](../processes/alpha-acid-isomerization.md) — processes
+- [Wort boiling, precursors and dimethyl sulfide](../processes/wort-boiling-and-dms.md) — processes
+- [Clarification, haze and colloidal stability](../processes/beer-clarification-and-stability.md) — processes
+- [Packaging, oxygen, light and beer aging](../processes/packaging-and-aging.md) — processes
+- [Nitrogenated draught beer and bubble cascades](../objects/nitrogenated-draught-and-bubbles.md) — objects
+- [Buttery diacetyl and beer maturation](../sensory/diacetyl-and-maturation.md) — sensory
+- [Why beer can become lightstruck](../sensory/lightstruck-chemistry.md) — sensory
+- [Why beer flavor changes during storage](../sensory/oxidative-aging.md) — sensory
+- [Beer haze: intentional appearance or instability?](../sensory/beer-haze-and-clarity.md) — sensory
+- [Nitrogenated beer, foam and visual perception](../sensory/nitrogen-and-foam.md) — sensory
+- [Is the Hymn to Ninkasi really a beer recipe?](../stories/ninkasi-is-not-a-recipe.md) — stories
+- [Can a changing climate change your beer?](../stories/will-climate-change-the-pint.md) — stories
+- [Beer, agriculture and environmental trade-offs](../categories/beer-environment-and-agriculture.md) — categories
+- [Beer, food and sensory context](../categories/beer-food-and-sensory-context.md) — categories

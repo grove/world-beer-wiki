@@ -27,11 +27,12 @@ sources:
   access_scope: article summary and research highlights; 157 industrial strains; DOI 10.1016/j.cell.2016.08.020
 - id: ing-lager-ancestry
   resource: https://pubmed.ncbi.nlm.nih.gov/21873232/
-  title: Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast (2011)
+  title: Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast
+    (2011)
   author_label: Diego Libkind and colleagues
   source_kind: primary-research
-  access_scope: indexed abstract; S. eubayanus ancestry of lager yeast; no single migration route or invention
-    date inferred
+  access_scope: indexed abstract; S. eubayanus ancestry of lager yeast; no single migration route or
+    invention date inferred
 - id: ing-sour-solutions
   resource: https://admin.lallemandbrewing.com/wp-content/uploads/2023/08/sour-solutions-bp-eng-digital-lalbrew-wildbrew-mascoma.pdf
   title: 'Lallemand Sour Solutions: Strain Comparison'
@@ -44,8 +45,15 @@ sources:
   title: A re-evaluation of diastatic Saccharomyces cerevisiae strains (2020)
   author_label: Authors, Applied Microbiology and Biotechnology
   source_kind: scientific-review
-  access_scope: Open-access review of STA1 and diastatic strains; no assertion that all saison yeasts carry
-    it.
+  access_scope: Open-access review of STA1 and diastatic strains; no assertion that all saison yeasts
+    carry it.
+- id: v14-floc
+  resource: https://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.2011.tb00495.x
+  title: '125th Anniversary Review: Yeast Flocculation and Sedimentation (2011)'
+  author_label: M. Vidgren and collaborators
+  source_kind: microbiology-review-abstract
+  access_scope: 'Publisher abstract: FLO genes and environmental influence on flocculation; no universal
+    times or strain performance.'
 aliases:
 - Brewer's yeast
 regions:
@@ -100,6 +108,10 @@ Genomic ancestry, commercial strain descriptions and sensory categories answer d
 
 [Ingredient directory](index.md) · [All beer entries](../styles/index.md) · [Research method](../editorial/methodology.md)
 
+## Edition 1.4: A strain has physical as well as flavor traits
+
+Research on yeast flocculation associates aggregation with functional FLO genes and process-dependent factors such as calcium, pH and handling. Strain choice affects cell removal and recovery as well as aroma. See [flocculation](../microbiology/yeast-flocculation.md).[^v14-floc]
+
 ## Source notes
 
 [^ing-yeast-nutrition]: [Yeast Nutrition Fundamentals](https://connect.lallemandbrewing.com/wp-content/uploads/2022/11/Nutrition-Booklet-ENG-Digital-AB-Vickers.pdf). Lallemand Brewing / AB Vickers. Consulted 2026-10-27. Evidence used: PDF text on yeast metabolites, nutrients and sugar uptake; product dosing recommendations not adopted.
@@ -118,3 +130,5 @@ These reading links extend navigation; the original source access notes above re
 A review of **diastatic *S. cerevisiae*** discusses the *STA1* glucoamylase gene and its relationship to continued fermentation of larger carbohydrates. A deliberately dry beer and unexpected package refermentation need different judgments. The [diastatic yeast page](../microbiology/diastatic-saccharomyces.md) distinguishes gene, measured behavior and process.[^v13-saison-sta1]
 
 [^v13-saison-sta1]: [A re-evaluation of diastatic Saccharomyces cerevisiae strains (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7162825/). Authors, Applied Microbiology and Biotechnology. Consulted 2026-10-27. Evidence accessed: Open-access review of STA1 and diastatic strains; no assertion that all saison yeasts carry it.
+
+[^v14-floc]: [125th Anniversary Review: Yeast Flocculation and Sedimentation (2011)](https://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.2011.tb00495.x). M. Vidgren and collaborators. Consulted 2026-10-27. Access: Publisher abstract: FLO genes and environmental influence on flocculation; no universal times or strain performance.

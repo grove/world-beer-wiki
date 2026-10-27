@@ -1,31 +1,52 @@
 ---
 type: Microorganism Reference
 title: Saccharomyces cerevisiae in brewing
-description: Brewing lineages, strain-level behavior and the difference between a species and a maintained culture.
-tags: [microbiology, yeast, Saccharomyces, domestication]
+description: Brewing lineages, strain-level behavior and the difference between a species and a maintained
+  culture.
+tags:
+- microbiology
+- yeast
+- Saccharomyces
+- domestication
 status: draft
-generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:20:00Z'}
-scope: Introductory species reference with a specific Norwegian kveik study; not an exhaustive strain catalog.
+generated:
+  by: world-beer-wiki/1.2
+  at: '2026-10-27T20:20:00Z'
+scope: Introductory species reference with a specific Norwegian kveik study; not an exhaustive strain
+  catalog.
 sources:
 - id: atlas-kveik-2018
   resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2018.02137/full
-  title: Traditional Norwegian Kveik Are a Genetically Distinct Group of Domesticated Saccharomyces cerevisiae Brewing Yeasts
+  title: Traditional Norwegian Kveik Are a Genetically Distinct Group of Domesticated Saccharomyces cerevisiae
+    Brewing Yeasts
   author_label: Richard Preiss and colleagues
   source_kind: primary-research
-  access_scope: 2018 full HTML; study of nine Norwegian source cultures and selected isolates, abstract and genetic/phenotypic interpretation.
+  access_scope: 2018 full HTML; study of nine Norwegian source cultures and selected isolates, abstract
+    and genetic/phenotypic interpretation.
 - id: atlas-yeast-overview
   resource: /ingredients/brewing-yeast.md
   title: Brewing yeast overview in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Existing species/strain/culture distinctions and cited domestication research; underlying sources not all re-opened for this extension.
+  access_scope: Existing species/strain/culture distinctions and cited domestication research; underlying
+    sources not all re-opened for this extension.
+- id: v14-floc
+  resource: https://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.2011.tb00495.x
+  title: '125th Anniversary Review: Yeast Flocculation and Sedimentation (2011)'
+  author_label: M. Vidgren and collaborators
+  source_kind: microbiology-review-abstract
+  access_scope: 'Publisher abstract: FLO genes and environmental influence on flocculation; no universal
+    times or strain performance.'
 source_checked_on: '2026-10-27'
 review_note: Research draft; no independent microbiologist review.
 relations:
 - relation: associated_with
   target: ingredients/kveik
-  source_ids: [atlas-kveik-2018]
-  qualifier: The study identified domesticated S. cerevisiae lineages in the investigated Norwegian kveik cultures; not a guarantee of identical composition in every culture.
-- {relation: compare_with, target: microbiology/lager-yeast-hybrids}
+  source_ids:
+  - atlas-kveik-2018
+  qualifier: The study identified domesticated S. cerevisiae lineages in the investigated Norwegian kveik
+    cultures; not a guarantee of identical composition in every culture.
+- relation: compare_with
+  target: microbiology/lager-yeast-hybrids
 ---
 
 # Saccharomyces cerevisiae in brewing
@@ -53,7 +74,13 @@ A commercial isolate can be useful without reproducing every organism or working
 
 No optimal temperature, universal attenuation or mandatory aroma is assigned to the entire species here. Compare [lager hybrids](lager-yeast-hybrids.md) before assuming ale/lager labels are a complete biological taxonomy. The article is explanatory, not an isolation or culture-maintenance protocol.
 
+## Edition 1.4: Aggregation is a strain-dependent phenotype
+
+The brewing flocculation review identifies genetic and environmental factors governing how yeast cells group and settle. A species name by itself does not determine a measured settling behavior. Read [yeast flocculation](yeast-flocculation.md).[^v14-floc]
+
 ## Source notes
 
 [^atlas-kveik-2018]: [Traditional Norwegian Kveik Are a Genetically Distinct Group of Domesticated Saccharomyces cerevisiae Brewing Yeasts](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2018.02137/full), Preiss and colleagues, 2018, DOI 10.3389/fmicb.2018.02137. Study context and interpretation consulted 27 October 2026.
 [^atlas-yeast-overview]: [Brewing yeast overview in World Beer Wiki](../ingredients/brewing-yeast.md), retained corpus synthesis and its source access notes.
+
+[^v14-floc]: [125th Anniversary Review: Yeast Flocculation and Sedimentation (2011)](https://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.2011.tb00495.x). M. Vidgren and collaborators. Consulted 2026-10-27. Access: Publisher abstract: FLO genes and environmental influence on flocculation; no universal times or strain performance.

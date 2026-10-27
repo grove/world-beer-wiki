@@ -30,6 +30,13 @@ sources:
   author_label: Weyermann Specialty Malts
   source_kind: producer-technical-documentation
   access_scope: brewing product page; present-day oak-smoked wheat malt, not proof of historical recipes
+- id: v14-malt
+  resource: https://onlinelibrary.wiley.com/doi/full/10.1002/jib.609
+  title: Changes in Malt Quality during Production in Two Commercial Malt Houses (2020)
+  author_label: Malt analysis researchers
+  source_kind: malting-primary-study
+  access_scope: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt
+    houses.
 aliases:
 - Barley malt
 - Malted barley
@@ -98,8 +105,14 @@ The technical accounts describe current malt production. Their precise times, te
 
 [Ingredient directory](index.md) · [All beer entries](../styles/index.md) · [Research method](../editorial/methodology.md)
 
+## Edition 1.4: Cell-wall modification is part of malt quality
+
+Study results from two malt houses connect beta-glucans, arabinoxylans and friability with wort viscosity and filterability. Malting quality therefore cannot be reduced to color or a single starch-conversion figure. Explore [beta-glucans](barley-beta-glucans.md).[^v14-malt]
+
 ## Source notes
 
 [^ing-briess-malting]: [The Malting Process](https://brewingwithbriess.com/malting-101/malting-process/). Briess Malt & Ingredients. Consulted 2026-10-27. Evidence used: manufacturer explanation of steeping, germination, drying and enzyme retention.
 [^ing-briess-specialty]: [Handcrafting Specialty Malts](https://brewingwithbriess.com/malting-101/handcrafting-specialty-malts/). Briess Malt & Ingredients. Consulted 2026-10-27. Evidence used: manufacturer description of its specialty-malting and quality-control methods.
 [^ing-weyermann-smoked-wheat]: [Weyermann Oak Smoked Wheat Malt](https://www.weyermann.de/en-gb/product/weyermann-oak-smoked-wheat-malt/). Weyermann Specialty Malts. Consulted 2026-10-27. Evidence used: brewing product page; present-day oak-smoked wheat malt, not proof of historical recipes.
+
+[^v14-malt]: [Changes in Malt Quality during Production in Two Commercial Malt Houses (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.609). Malt analysis researchers. Consulted 2026-10-27. Access: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt houses.

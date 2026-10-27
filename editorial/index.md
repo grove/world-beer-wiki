@@ -8,3 +8,6 @@
 
 - [Research update 1.3](research-update-1-3.md) — research cases and editorial decisions.
 - [Validation report 1.3](validation-report-1-3.md) — checks for this edition.
+
+- [Edition 1.4 research update](research-update-1-4.md) — new environmental and dining science with cultural/historical extensions.
+- [Edition 1.4 validation report](validation-report-1-4.md) — structural, export, regression and site-build checks.

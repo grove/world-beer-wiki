@@ -6,11 +6,11 @@ okf_version: "0.2"
 
 ## Beer styles, living traditions, ingredients and brewing categories
 
-**Research edition 1.3 · 27 October 2026 · 295 subject articles across eleven reference layers**
+**Research edition 1.4 · 27 October 2026 · 341 subject articles across thirteen reference layers**
 
 An English-language, source-referenced Markdown knowledge base for readers and LLM retrieval. Start with a named beer, explore its ingredients, then compare the traditions and processes around it. Articles distinguish current judging descriptions, local practice, related ferments and historical evidence.
 
-The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.3](editorial/research-update-1-3.md).
+The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.4](editorial/research-update-1-4.md).
 
 ## Choose a route
 
@@ -18,8 +18,8 @@ The [Atlas specification](editorial/atlas-specification.md) defines the scope an
 |---|---|
 | [How beer categories work](categories/beer-classification.md) | Separate style, fermentation, ingredient, region, period and serving method. |
 | [All beer and tradition profiles](styles/index.md) | 166 canonical articles, with kinds, geographical focus and explicit judging references. |
-| [Category guides](categories/index.md) | 17 comparative guides covering familiar families and cross-cutting processes. |
-| [Ingredients and cultures](ingredients/index.md) | 31 references covering grains, water, hops, cultures, botanicals and other additions. |
+| [Category guides](categories/index.md) | 19 comparative guides covering familiar families and cross-cutting processes. |
+| [Ingredients and cultures](ingredients/index.md) | 36 references covering grains, water, hops, cultures, botanicals and other additions. |
 | [Names and aliases](navigation/all-names.md) | Search titles and scoped alternative names across all three sections. |
 | [By region](navigation/by-region.md) | Geographical routes through the beer and tradition profiles. |
 | [By family](navigation/by-family.md) | Topic and tag routes, with links into the category explanations. |
@@ -30,14 +30,16 @@ The [Atlas specification](editorial/atlas-specification.md) defines the scope an
 
 | Explore | What it adds |
 |---|---|
-| [Culture and institutions](culture/index.md) | Thirteen situated cases of communal brewing, reciprocal work, knowledge, livelihoods and institutional identity. |
-| [Seasons and calendars](calendar/index.md) | Nine entries distinguishing production seasons, festive occasions and dated event editions. |
-| [Microorganisms and ecology](microbiology/index.md) | Seventeen references separating species, strains, cultures, functions and sampling evidence. |
-| [Processes](processes/index.md) | Fourteen explanations, from starch conversion and baked mash to blending and hop creep. |
-| [Objects and serving](objects/index.md) | Seven references on coolships, culture storage, tongba and foam pours. |
-| [Sensory reasoning](sensory/index.md) | Five guides to investigating flavor without inventing an ingredient list. |
-| [Stories and discoveries](stories/index.md) | Eight evidence-based narrative reading routes. |
-| [Historical research and archaeology](history/index.md) | Eight dated case studies about laws, industry, material evidence, and historical interpretation. |
+| [Culture and institutions](culture/index.md) | Twenty situated cases of communal brewing, reciprocal work, knowledge, livelihoods and institutional identity. |
+| [Seasons and calendars](calendar/index.md) | Eleven entries distinguishing production seasons, festive occasions and dated event editions. |
+| [Microorganisms and ecology](microbiology/index.md) | Twenty references separating species, strains, cultures, functions and sampling evidence. |
+| [Processes](processes/index.md) | Eighteen explanations, from starch conversion and baked mash to blending and hop creep. |
+| [Objects and serving](objects/index.md) | Eight references on coolships, culture storage, tongba and foam pours. |
+| [Sensory reasoning](sensory/index.md) | Ten guides to investigating flavor without inventing an ingredient list. |
+| [Stories and discoveries](stories/index.md) | Ten evidence-based narrative reading routes. |
+| [Historical research and archaeology](history/index.md) | Fourteen dated case studies about laws, industry, material evidence, and historical interpretation. |
+| [Environment and brewing resources](environment/index.md) | Six studies of crop risks, process energy, water and by-product use. |
+| [Beer with food](food/index.md) | Three studies separating expert pairing hypotheses from consumer experiments. |
 | [Atlas reading paths](navigation/atlas.md) | Follow people, materials, time and transformations across the layers. |
 
 ## Four worthwhile comparisons
@@ -54,6 +56,6 @@ These are comparisons, not claims of direct descent or interchangeable cultural 
 
 ## Evidence and maintenance
 
-[What changed in 1.3](editorial/research-update-1-3.md) · [Earlier 1.2 work](editorial/research-update-1-2.md) · [Earlier 1.1 expansion](editorial/research-update-1-1.md) · [Reading guide](README.md) · [Research method](editorial/methodology.md) · [Coverage and gaps](editorial/coverage-and-gaps.md) · [Terminology](editorial/glossary.md) · [LLM reading instructions](editorial/reading-with-an-llm.md) · [OKF format](editorial/format.md) · [1.3 validation](editorial/validation-report-1-3.md) · [Sources and access notes](references/index.md) · [Release log](log.md)
+[What changed in 1.4](editorial/research-update-1-4.md) · [Earlier 1.3 research](editorial/research-update-1-3.md) · [Earlier 1.2 work](editorial/research-update-1-2.md) · [Earlier 1.1 expansion](editorial/research-update-1-1.md) · [Reading guide](README.md) · [Research method](editorial/methodology.md) · [Coverage and gaps](editorial/coverage-and-gaps.md) · [Terminology](editorial/glossary.md) · [LLM reading instructions](editorial/reading-with-an-llm.md) · [OKF format](editorial/format.md) · [1.4 validation](editorial/validation-report-1-4.md) · [Earlier 1.3 validation](editorial/validation-report-1-3.md) · [Sources and access notes](references/index.md) · [Release log](log.md)
 
 Articles remain AI-researched drafts with source-specific access limits. This is not a complete world census or an independently reviewed encyclopedia. The counts describe differently scoped reference articles; they are not a count of interchangeable, universally standardized beer styles.

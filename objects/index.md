@@ -18,3 +18,6 @@ No photograph, shape or traditional name alone certifies age, microbial composit
 - [Ancient brewing vessels: what residues can and cannot show](archaeological-brewing-vessels.md) — Archaeological Object Guide
 - [Beer engine: a hand pump and its social setting](beer-engine.md) — Brewing Object Reference
 - [The cask and the cellar: vessel, environment and care](cask-and-cellar.md) — Brewing Object Reference
+## New in research edition 1.4
+
+- [Nitrogenated draught beer and bubble cascades](nitrogenated-draught-and-bubbles.md) — Experimental fluid dynamics of a specific canned draught stout and its pouring behavior.

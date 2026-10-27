@@ -26,17 +26,25 @@ sources:
   author_label: Cultural Heritage Administration, Republic of Korea
   source_kind: government-heritage-record
   access_scope: Government press release viewed; Korean *national* designation, not UNESCO listing.
+- id: v14-japan
+  resource: https://www.journals.uchicago.edu/doi/full/10.1086/715808
+  title: Seeking Prehistoric Fermented Food in Japan and Korea (2021)
+  author_label: Shinya Shoda
+  source_kind: archaeology-review-abstract
+  access_scope: 'Publisher abstract: evidence assessment and identification uncertainty, not proof of
+    dated brewing at a specific site.'
 aliases:
 - 막걸리
 regions:
 - East Asia
 - South Korea
 tradition_status: living-tradition
-scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer style.
+scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer
+  style.
 evidence_basis: source-specific research
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
-  representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/sake
@@ -78,6 +86,10 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.4: Ancient similarity does not prove descent
+
+A review of prehistoric fermentation evidence in Japan and Korea calls for care when linking modern fermented foods to archaeology. A shared grain or starter mechanism is not sufficient to establish uninterrupted recipe inheritance. Compare [the evidence discussion](../history/fermented-food-evidence-in-japan-and-korea.md).[^v14-japan]
+
 ## Source notes
 
 [^makgeolli-research]: [Chemical and sensory profiles of makgeolli, Korean commercial rice wine, from descriptive, chemical, and volatile compound analyses (2014)](https://www.pfigueiredo.org/as42.pdf). Heeyong Jung and colleagues. Consulted 2026-10-27. Evidence used: paper p. 624, abstract and introduction; DOI 10.1016/j.foodchem.2013.11.127.
@@ -87,3 +99,5 @@ Comparison links are not claims of direct ancestry.
 The Republic of Korea's Cultural Heritage Administration identified **makgeolli making and sharing** as a national intangible-cultural-heritage practice in 2021. This recognizes skills and social transmission, not just a grain-ferment recipe or an international UNESCO listing. See [the cultural account](../culture/makgeolli-making-and-sharing.md) and [nuruk yeast ecology](../microbiology/nuruk-mixed-yeasts.md).[^v13-korea-heritage]
 
 [^v13-korea-heritage]: [Makgeolli making and sharing designated as national intangible cultural heritage (2021)](https://www.korea.net/Government/Briefing-Room/Press-Releases/view?articleId=79559&insttCode=A260203&type=N). Cultural Heritage Administration, Republic of Korea. Consulted 2026-10-27. Evidence accessed: Government press release viewed; Korean *national* designation, not UNESCO listing.
+
+[^v14-japan]: [Seeking Prehistoric Fermented Food in Japan and Korea (2021)](https://www.journals.uchicago.edu/doi/full/10.1086/715808). Shinya Shoda. Consulted 2026-10-27. Access: Publisher abstract: evidence assessment and identification uncertainty, not proof of dated brewing at a specific site.

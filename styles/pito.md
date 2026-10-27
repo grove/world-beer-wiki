@@ -14,7 +14,8 @@ generated:
 sources:
 - id: pito-research
   resource: https://ugspace.ug.edu.gh/items/c4719489-9404-492b-a43f-d3dfcae546d7
-  title: 'West African sorghum beer fermented with Lactobacillus delbrueckii and Saccharomyces cerevisiae: fermentation by-products (2019)'
+  title: 'West African sorghum beer fermented with Lactobacillus delbrueckii and Saccharomyces cerevisiae:
+    fermentation by-products (2019)'
   author: team:saalia-et-al
   source_kind: primary-research
   access_scope: institutional-repository abstract
@@ -26,6 +27,13 @@ sources:
   source_kind: primary-research
   access_scope: published abstract; four production sites
   author_label: Sawadogo-Lingani et al.
+- id: v14-wa
+  resource: https://iiste.org/Journals/index.php/JEDS/article/view/62498
+  title: Assessing the Contribution of Pito Brewing to Small-Scale Enterprise in Wa (2024)
+  author_label: Aliata Issahaq Mumuni et al.
+  source_kind: small-enterprise-study-abstract
+  access_scope: Publisher abstract, Wa municipality sampling and selected economic figures only; not
+    transferable national averages.
 aliases: []
 regions:
 - West Africa
@@ -34,7 +42,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary fermentation research; regional scope limited to cited samples
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/dolo
@@ -76,8 +85,14 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.4: Local livelihoods and market conditions
+
+Research in Wa municipality describes pita-making enterprises as a source of income for surveyed women; separate Northern Ghana fieldwork discusses water shortages and local market constraints. This is a *complement* to laboratory sampling, not evidence that every pito brewer has the same social role. See [the Wa case](../culture/pito-enterprises-in-wa.md).[^v14-wa]
+
 ## Source notes
 
 [^pito-research]: [West African sorghum beer fermented with Lactobacillus delbrueckii and Saccharomyces cerevisiae: fermentation by-products (2019)](https://ugspace.ug.edu.gh/items/c4719489-9404-492b-a43f-d3dfcae546d7). Saalia et al.. Consulted 2026-10-27. Evidence used: institutional-repository abstract.
 
 [^dolo-pito-research]: [The biodiversity of predominant lactic acid bacteria in dolo and pito wort (2007)](https://academic.oup.com/jambio/article-abstract/103/4/765/6718874). Sawadogo-Lingani et al.. Consulted 2026-10-27. Evidence used: published abstract; four production sites.
+
+[^v14-wa]: [Assessing the Contribution of Pito Brewing to Small-Scale Enterprise in Wa (2024)](https://iiste.org/Journals/index.php/JEDS/article/view/62498). Aliata Issahaq Mumuni et al.. Consulted 2026-10-27. Access: Publisher abstract, Wa municipality sampling and selected economic figures only; not transferable national averages.

@@ -1,7 +1,8 @@
 ---
 type: Beer Category Guide
 title: How beer categories work
-description: A practical model for separating beer styles, local traditions, ingredients, processes, and dated judging systems.
+description: A practical model for separating beer styles, local traditions, ingredients, processes,
+  and dated judging systems.
 tags:
 - classification
 - taxonomy
@@ -40,11 +41,20 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v14-food
+  resource: https://www.sciencedirect.com/science/article/pii/S1878450X18300830
+  title: From Expert Knowledge and Sensory Science to Food-and-Beer Pairing (2019)
+  author_label: Food-pairing interview study authors
+  source_kind: sensory-interview-abstract
+  access_scope: 'Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles;
+    not consumer preference laws.'
 category_axis: multiple
-scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive world taxonomy.
+scope: Educational comparison across the linked profiles; not a new universal competition category or
+  an exhaustive world taxonomy.
 evidence_basis: cited-primary-sources-and-editorial-comparison
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compares
   target: styles/kolsch
@@ -90,6 +100,10 @@ Do not count aliases as additional styles, infer a genealogy from comparison lin
 
 [All category guides](index.md) · [Ingredient reference](../ingredients/index.md) · [All beer profiles](../styles/index.md) · [Evidence method](../editorial/methodology.md)
 
+## Edition 1.4: Classification does not explain every pairing
+
+A sensory-study abstract reports experts’ reasoning about beer and food combinations. Such contextual judgments are another dimension of experience, distinct from recipe, geography, fermentation and judging style. See [beer and food](../food/beer-food-pairing-as-a-hypothesis.md).[^v14-food]
+
 ## Source notes
 
 [^wiki-bjcp-introduction]: [BJCP 2021: Introduction to the guidelines](https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: Styles and Categories; purpose and limitations of judging categories.
@@ -99,3 +113,5 @@ Do not count aliases as additional styles, infer a genealogy from comparison lin
 [^bjcp-2021-5b]: [BJCP 2021: Kölsch](https://styles.bjcp.org/bjcp-2021-beer/5/5b-kolsch). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 
 [^bjcp-2021-24c]: [BJCP 2021: Bière de Garde](https://styles.bjcp.org/bjcp-2021-beer/24/24c-biere-de-garde). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^v14-food]: [From Expert Knowledge and Sensory Science to Food-and-Beer Pairing (2019)](https://www.sciencedirect.com/science/article/pii/S1878450X18300830). Food-pairing interview study authors. Consulted 2026-10-27. Access: Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles; not consumer preference laws.

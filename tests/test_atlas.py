@@ -200,6 +200,33 @@ class AtlasTests(unittest.TestCase):
         (self.root / atlas.SPEC).unlink()
         self.assert_error('missing tracked specification')
 
+    def test_typed_relation_targets_the_correct_section(self):
+        for kind, wrong in [('uses_ingredient','microbiology/fake'),
+                            ('uses_process','ingredients/fake'),
+                            ('observed_organism','objects/fake'),
+                            ('uses_object','styles/fake')]:
+            with self.subTest(kind=kind):
+                altered = deepcopy(self.subject)
+                altered['relations'][0].update(relation=kind,target=wrong)
+                self.write_doc('culture/case.md', altered)
+                self.assert_error(f'{kind} must target')
+
+    def test_source_audit_preserves_access_and_is_deterministic(self):
+        documents, _ = atlas.load_documents(self.root)
+        audit = atlas.source_audit(documents)
+        self.assertEqual(audit['source_records'], 1)
+        self.assertEqual(audit['sources'][0]['access_scope'], 'Abstract only')
+        self.assertEqual(audit['sources'][0]['pages'], ['culture/case.md'])
+        self.assertEqual(audit['missing_access_scopes'], [])
+        self.assertEqual(json.dumps(audit, sort_keys=True),
+                         json.dumps(atlas.source_audit(dict(reversed(list(documents.items())))),sort_keys=True))
+
+    def test_source_audit_flags_missing_access_notes(self):
+        del self.subject['sources'][0]['access_scope']
+        self.write_doc('culture/case.md', self.subject)
+        documents, _ = atlas.load_documents(self.root)
+        self.assertEqual(atlas.source_audit(documents)['missing_access_scopes'][0]['id'], 'study')
+
     def test_export_preserves_limits_and_edge_evidence(self):
         documents, errors = atlas.load_documents(self.root)
         self.assertEqual(errors, [])

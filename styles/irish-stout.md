@@ -18,6 +18,13 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v14-bubbles
+  resource: https://www.nature.com/articles/s41598-019-42094-0
+  title: Bubble Cascade in Guinness Beer Is Caused by Gravity Current Instability (2019)
+  author_label: Scientific Reports fluid mechanics researchers
+  source_kind: primary-fluid-mechanics-open
+  access_scope: Open experimental paper on gravity-driven bubble patterns in inclined containers and
+    Guinness; not a tasting test.
 aliases:
 - Dry stout
 - Irish dry stout
@@ -31,7 +38,8 @@ classification:
   edition: '2021'
   code: 15B
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/irish-extra-stout
@@ -71,6 +79,12 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.4: A service science connection
+
+Experiments on a particular Guinness draught product explain how apparent downward bubble cascades can arise from gravity-current instability. This helps explain a serving phenomenon but does not define the flavors of every Irish stout. Explore [draught bubbles](../objects/nitrogenated-draught-and-bubbles.md).[^v14-bubbles]
+
 ## Source notes
 
 [^bjcp-2021-15b]: [BJCP 2021: Irish Stout](https://styles.bjcp.org/bjcp-2021-beer/15/15b-irish-stout). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^v14-bubbles]: [Bubble Cascade in Guinness Beer Is Caused by Gravity Current Instability (2019)](https://www.nature.com/articles/s41598-019-42094-0). Scientific Reports fluid mechanics researchers. Consulted 2026-10-27. Access: Open experimental paper on gravity-driven bubble patterns in inclined containers and Guinness; not a tasting test.

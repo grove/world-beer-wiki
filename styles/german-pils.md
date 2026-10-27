@@ -18,6 +18,13 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v14-hop
+  resource: https://www.sciencedirect.com/science/article/pii/S0924224412000039
+  title: Iso-alpha-acids, Bitterness and Loss of Beer Quality during Storage (2012)
+  author_label: Isabel Caballero, Carlos A. Blanco and María Porras
+  source_kind: hop-chemistry-review
+  access_scope: Publisher text discusses heat isomerisation and breakdown; does not equate IBU with flavor
+    preference.
 aliases:
 - German pilsner
 - Pils
@@ -31,7 +38,8 @@ classification:
   edition: '2021'
   code: 5D
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/czech-premium-pale-lager
@@ -71,6 +79,12 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.4: Bitterness is a process outcome
+
+Hop alpha acids can form iso-alpha acids under wort heating, but bitterness in a beer also depends on transfer, processing and storage. A highly hopped recipe alone does not establish a given sensory result. Explore [hop chemistry](../ingredients/hop-alpha-acids.md).[^v14-hop]
+
 ## Source notes
 
 [^bjcp-2021-5d]: [BJCP 2021: German Pils](https://styles.bjcp.org/bjcp-2021-beer/5/5d-german-pils). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^v14-hop]: [Iso-alpha-acids, Bitterness and Loss of Beer Quality during Storage (2012)](https://www.sciencedirect.com/science/article/pii/S0924224412000039). Isabel Caballero, Carlos A. Blanco and María Porras. Consulted 2026-10-27. Access: Publisher text discusses heat isomerisation and breakdown; does not equate IBU with flavor preference.

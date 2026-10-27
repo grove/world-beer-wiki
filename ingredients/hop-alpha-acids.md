@@ -1,0 +1,72 @@
+---
+type: Ingredients Reference
+title: Hop alpha acids and iso-alpha acids
+description: Chemistry of bittering precursors and their changes in wort and packaged beer.
+tags:
+- ingredients
+- research-edition-1.4
+status: draft
+generated:
+  by: world-beer-wiki/1.4
+  at: '2026-10-27T22:45:00Z'
+sources:
+- id: v14-hop
+  resource: https://www.sciencedirect.com/science/article/pii/S0924224412000039
+  title: Iso-alpha-acids, Bitterness and Loss of Beer Quality during Storage (2012)
+  author_label: Isabel Caballero, Carlos A. Blanco and María Porras
+  source_kind: hop-chemistry-review
+  access_scope: Publisher text discusses heat isomerisation and breakdown; does not equate IBU with flavor
+    preference.
+- id: v14-hops-climate
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/
+  title: Climate-induced Decline in the Quality and Quantity of European Hops (2023)
+  author_label: European hop climate researchers
+  source_kind: climate-primary-open-text
+  access_scope: 'Open full study: historical records and projections for specific European growing regions;
+    not all worldwide hops.'
+scope: Chemistry of bittering precursors and their changes in wort and packaged beer.
+evidence_basis:
+- climate-primary-open-text
+- hop-chemistry-review
+source_checked_on: '2026-10-27'
+review_note: AI-researched source-scoped draft; no independent expert or community approval.
+relations:
+- relation: uses_process
+  target: processes/alpha-acid-isomerization
+  source_ids:
+  - v14-hop
+  qualifier: Heating hop alpha acids produces iso-alpha-acid bittering compounds; product outcome depends
+    on process.
+---
+
+# Hop alpha acids and iso-alpha acids
+
+The alpha acids in hops are chemical precursors to the iso-alpha acids that contribute much of beer’s familiar hop bitterness after heating. The transformation is chemically specific and should not be conflated with aroma extracted from hop oils.[^v14-hop]
+
+## From flower to kettle
+
+Hop chemistry reviews describe alpha-acid isomerization during wort boiling, the limited efficiency of transfer, and subsequent light and oxidation sensitivity. A number such as “IBU” cannot summarize everything a person perceives as bitterness.[^v14-hop]
+
+## From field to finished beer
+
+European harvest research tracks alpha-content changes in hop growing areas, but a crop assay does not automatically predict the bitterness of a brewer’s chosen beer. See [Hops](hops.md), [hop isomerization](../processes/alpha-acid-isomerization.md) and [regional crop climate](../environment/climate-and-hop-crops.md).[^v14-hops-climate]
+
+## Sourced connection
+
+- [Alpha Acid Isomerization](../processes/alpha-acid-isomerization.md): Heating hop alpha acids produces iso-alpha-acid bittering compounds; product outcome depends on process.[^v14-hop]
+
+## Further reading
+
+- [Hops](hops.md)
+- [Alpha Acid Isomerization](../processes/alpha-acid-isomerization.md)
+- [Climate And Hop Crops](../environment/climate-and-hop-crops.md)
+
+## Evidence boundary
+
+Chemistry of bittering precursors and their changes in wort and packaged beer. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
+
+## Source notes
+
+[^v14-hop]: [Iso-alpha-acids, Bitterness and Loss of Beer Quality during Storage (2012)](https://www.sciencedirect.com/science/article/pii/S0924224412000039). Isabel Caballero, Carlos A. Blanco and María Porras. Consulted 2026-10-27. Access: Publisher text discusses heat isomerisation and breakdown; does not equate IBU with flavor preference.
+
+[^v14-hops-climate]: [Climate-induced Decline in the Quality and Quantity of European Hops (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/). European hop climate researchers. Consulted 2026-10-27. Access: Open full study: historical records and projections for specific European growing regions; not all worldwide hops.

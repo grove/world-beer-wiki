@@ -22,7 +22,8 @@ sources:
   title: Water — Beer Exam Study Guide
   author_label: Beer Judge Certification Program
   source_kind: official-technical-education
-  access_scope: retrieved sections on alkalinity, hardness, pH and ions; not historical source-water measurements
+  access_scope: retrieved sections on alkalinity, hardness, pH and ions; not historical source-water
+    measurements
 - id: ing-palmer-water
   resource: https://cdn.homebrewersassociation.org/wp-content/uploads/2022/09/20162325/CollabHour_BrewingWaterAdjustment_Presentation.pdf
   title: Adjusting Brewing Water for Style
@@ -30,6 +31,13 @@ sources:
   source_kind: author-technical-presentation
   access_scope: PDF text, especially slides on source water, ion groups, hardness and water adjustment;
     no webinar audio reviewed
+- id: v14-water
+  resource: https://www.mdpi.com/2073-4441/17/8/1179
+  title: Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)
+  author_label: Greek brewery case-study research team
+  source_kind: industrial-case-study
+  access_scope: 'Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide
+    average.'
 aliases:
 - Brewing liquor
 regions:
@@ -83,8 +91,14 @@ These sources explain brewing chemistry and contemporary practice. This page del
 
 [Ingredient directory](index.md) · [All beer entries](../styles/index.md) · [Research method](../editorial/methodology.md)
 
+## Edition 1.4: Water means more than the recipe volume
+
+A Greek industrial brewery case study distinguishes process water, wastewater treatment, and proposals for restricted reuse. The case illustrates why the total water footprint cannot be inferred from a beer’s recipe alone. See [water and wastewater](../environment/brewery-water-and-wastewater.md).[^v14-water]
+
 ## Source notes
 
 [^ing-water-aha]: [Understanding Water for Homebrewing](https://homebrewersassociation.org/how-to-brew/understanding-water-for-homebrewing/). American Homebrewers Association. Consulted 2026-10-27. Evidence used: published educational article; general chemistry, not universal recipe targets.
 [^ing-water-bjcp]: [Water — Beer Exam Study Guide](https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/water/). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: retrieved sections on alkalinity, hardness, pH and ions; not historical source-water measurements.
 [^ing-palmer-water]: [Adjusting Brewing Water for Style](https://cdn.homebrewersassociation.org/wp-content/uploads/2022/09/20162325/CollabHour_BrewingWaterAdjustment_Presentation.pdf). John Palmer; Brewers Association Collab Hour. Consulted 2026-10-27. Evidence used: PDF text, especially slides on source water, ion groups, hardness and water adjustment; no webinar audio reviewed.
+
+[^v14-water]: [Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)](https://www.mdpi.com/2073-4441/17/8/1179). Greek brewery case-study research team. Consulted 2026-10-27. Access: Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide average.

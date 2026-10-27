@@ -31,8 +31,8 @@ sources:
   title: Introducing the Product Usage Matrix
   author_label: Yakima Chief Hops
   source_kind: producer-technical-documentation
-  access_scope: product descriptions for whole cones, pellets, extracts and aroma products; commercial claims
-    kept product-specific
+  access_scope: product descriptions for whole cones, pellets, extracts and aroma products; commercial
+    claims kept product-specific
 - id: ing-hop-creep
   resource: https://pubmed.ncbi.nlm.nih.gov/30084254/
   title: Evidence of Dextrin Hydrolyzing Enzymes in Cascade Hops (2018)
@@ -46,6 +46,13 @@ sources:
   author_label: Arnbjørn Stokholm and Thomas H. Shellhammer, Brewers Association
   source_kind: brewing-technical-explanation
   access_scope: Technical summary accessible; conditions and possible outcomes, no universal batch predictions.
+- id: v14-hops-climate
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/
+  title: Climate-induced Decline in the Quality and Quantity of European Hops (2023)
+  author_label: European hop climate researchers
+  source_kind: climate-primary-open-text
+  access_scope: 'Open full study: historical records and projections for specific European growing regions;
+    not all worldwide hops.'
 aliases:
 - Humulus lupulus
 regions:
@@ -108,6 +115,10 @@ Product descriptions are examples of current materials; they are not endorsement
 
 [Ingredient directory](index.md) · [All beer entries](../styles/index.md) · [Research method](../editorial/methodology.md)
 
+## Edition 1.4: Growing conditions change the raw material
+
+European field observations and modeling identify changes in hop-ripening timing, yield and alpha-acid content in specific growing regions. Those measurements do not predict the sensory profile of every beer. See [climate and hop crops](../environment/climate-and-hop-crops.md).[^v14-hops-climate]
+
 ## Source notes
 
 [^ing-hop-study-guide]: [Hops — Beer Exam Study Guide](https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/hops/). Peter Garofalo; updated by Scott Bickham. Consulted 2026-10-27. Evidence used: botanical identity and distinction between measured and perceived bitterness; historical and simplistic universal IBU claims not used.
@@ -126,3 +137,5 @@ These reading links extend navigation; the original source access notes above re
 Brewers Association material describes dry-hop-associated enzyme activity that can convert residual carbohydrates into fermentable sugars, under relevant brewing conditions. This is **hop creep**, not a guarantee attached to each hop cultivar. Further fermentation and package instability may follow. Read [hop creep chemistry](../processes/dry-hop-enzymes-and-refermentation.md) and [the earlier process overview](../processes/dry-hopping-and-hop-creep.md).[^v13-hopcreep]
 
 [^v13-hopcreep]: [Hop Creep – Technical Brief](https://www.brewersassociation.org/educational-publications/hop-creep-technical-brief/). Arnbjørn Stokholm and Thomas H. Shellhammer, Brewers Association. Consulted 2026-10-27. Evidence accessed: Technical summary accessible; conditions and possible outcomes, no universal batch predictions.
+
+[^v14-hops-climate]: [Climate-induced Decline in the Quality and Quantity of European Hops (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/). European hop climate researchers. Consulted 2026-10-27. Access: Open full study: historical records and projections for specific European growing regions; not all worldwide hops.

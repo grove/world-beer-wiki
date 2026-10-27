@@ -9,3 +9,5 @@ Source records, independent publications and independent confirmations are diffe
 [Evidence method](../editorial/methodology.md) · [Atlas scope](../editorial/atlas-specification.md) · [Home](../index.md)
 
 - [Source supplement 1.3](atlas-sources-1-3.md) — source provenance and access limits for this expansion.
+
+- [Source supplement 1.4](atlas-sources-1-4.md) — 35 source records, access scope and evidence limitations for the latest research.

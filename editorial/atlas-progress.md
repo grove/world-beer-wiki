@@ -7,8 +7,8 @@ tags:
 - atlas
 status: draft
 generated:
-  by: world-beer-wiki/1.2
-  at: '2026-10-27T20:40:00Z'
+  by: world-beer-wiki/1.4
+  at: '2026-10-27T22:55:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -17,7 +17,7 @@ sources:
 
 # Atlas scope and progress
 
-**Research edition 1.3: 20 implemented, 1 planned, 2 deferred work items.** These are bounded implementation deliverables, not a percentage of the world’s beer knowledge.
+**Research edition 1.4: 28 implemented, 1 planned, 2 deferred work items.** These are bounded implementation deliverables, not a percentage of the world’s beer knowledge.
 
 | ID | Deliverable | State | Entry point |
 |---|---|---|---|
@@ -44,10 +44,18 @@ sources:
 | ATLAS-021 | Meaningful updates to canonical existing profiles | implemented | [navigation/atlas.md](../navigation/atlas.md) |
 | ATLAS-022 | Source supplement, 1.3 release and reproducible quality checks | implemented | [references/atlas-sources-1-3.md](../references/atlas-sources-1-3.md) |
 | ATLAS-023 | Date-aware offline event and season export | implemented | [tools/atlas.py](../tools/atlas.py) |
+| ATLAS-024 | Broaden culturally located social and ritual accounts | implemented | [culture/index.md](../culture/index.md) |
+| ATLAS-025 | Expand archeological and industrial-science histories | implemented | [history/index.md](../history/index.md) |
+| ATLAS-026 | Introduce climate and environmental research section | implemented | [environment/index.md](../environment/index.md) |
+| ATLAS-027 | Introduce evidence-based food pairing section | implemented | [food/index.md](../food/index.md) |
+| ATLAS-028 | Deepen fermentation, chemistry, beer stability and serving | implemented | [sensory/index.md](../sensory/index.md) |
+| ATLAS-029 | Revise canonical existing pages using new research | implemented | [styles/pito.md](../styles/pito.md) |
+| ATLAS-030 | Publish source provenance, tests and edition documentation | implemented | [references/atlas-sources-1-4.md](../references/atlas-sources-1-4.md) |
+| ATLAS-031 | Improve queryable provenance and data checks | implemented | [tools/atlas.py](../tools/atlas.py) |
 
 ## What remains
 
-**Independent human, community and specialist review has not occurred.** Edition 1.3 researched and added 55 sourced subject pages and improved fifteen existing profile/ingredient/category references. This is not independent historical verification; the reviewed-source access limitations remain in each article and the [1.3 supplement](../references/atlas-sources-1-3.md). Previously deferred licensed media and real-time interactive features remain deferred.
+**Independent human, community and specialist review has not occurred.** Edition 1.4 added 46 sourced subject pages and updated nineteen existing articles with new evidence, while retaining the earlier expansions. This is not independent historical verification; the reviewed-source access limitations remain in each article and the [1.3 supplement](../references/atlas-sources-1-3.md). Previously deferred licensed media and real-time interactive features remain deferred.
 
 ## Reproduce
 
@@ -57,6 +65,7 @@ python tools/atlas.py check --json
 python tools/atlas.py catalog
 python tools/atlas.py progress
 python tools/atlas.py timeline
+python tools/atlas.py source-audit
 python -m unittest discover -s tests -v
 ```
 
