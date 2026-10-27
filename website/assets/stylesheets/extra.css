@@ -1,0 +1,188 @@
+/* World Beer Wiki · editorial, warm, legible and responsive */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #254438;
+  --md-primary-fg-color--light: #406b55;
+  --md-primary-fg-color--dark: #193127;
+  --md-accent-fg-color: #a45b2c;
+  --md-typeset-a-color: #94602e;
+  --md-default-bg-color: #fcfaf5;
+  --md-default-fg-color: #26332c;
+  --ww-rule: #e7dfd1;
+  --ww-chip-bg: #efece4;
+  --ww-chip-fg: #4c574b;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #315445;
+  --md-primary-fg-color--light: #47725c;
+  --md-primary-fg-color--dark: #213f33;
+  --md-accent-fg-color: #edbd79;
+  --md-typeset-a-color: #edbd79;
+  --md-default-bg-color: #161e1b;
+  --ww-rule: #36453c;
+  --ww-chip-bg: #29382f;
+  --ww-chip-fg: #c9d7c7;
+}
+.md-header, .md-tabs { box-shadow: none; }
+.md-tabs { border-bottom: 1px solid rgba(255,255,255,.11); }
+.md-main__inner { margin-top: 1.15rem; }
+.md-typeset { line-height: 1.8; }
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  letter-spacing: -.025em;
+}
+.md-typeset h1 { font-weight: 700; color: var(--md-default-fg-color); font-size: clamp(2.15rem, 4vw, 3.2rem); }
+.md-typeset h2 { font-weight: 650; }
+.md-typeset a:not(.ww-hero-button):not(.md-button) {
+  text-decoration-thickness: .06em;
+  text-underline-offset: .16em;
+}
+.md-typeset table:not([class]) {
+  border: 1px solid var(--ww-rule);
+  border-radius: .55rem;
+  overflow: hidden;
+  box-shadow: 0 4px 28px rgba(35,40,24,.045);
+}
+.md-typeset table:not([class]) th {
+  background: var(--ww-chip-bg);
+  color: var(--ww-chip-fg);
+}
+.md-typeset blockquote {
+  border-left: .2rem solid #d0a46e;
+  background: rgba(202,159,99,.065);
+  border-radius: 0 .5rem .5rem 0;
+  padding: .4rem 1rem;
+}
+.md-typeset hr { border-color: var(--ww-rule); }
+
+/* Landing page; the original Wiki Markdown is preserved beneath this feature. */
+.ww-hero {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  color: #fff9ec;
+  background:
+    radial-gradient(circle at 86% 14%, rgba(238,178,88,.20), transparent 32%),
+    linear-gradient(124deg, #29483b 0%, #203a31 57%, #3c3b29 100%);
+  border: 1px solid rgba(255,255,255,.09);
+  border-radius: 1.1rem;
+  margin: 1.6rem 0 2.7rem;
+  padding: clamp(1.65rem, 4.4vw, 3.6rem);
+  box-shadow: 0 17px 50px rgba(27,38,29,.15);
+}
+.ww-hero::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 23rem;
+  height: 23rem;
+  top: -11rem;
+  right: -8rem;
+  border: 1px solid rgba(236,202,135,.19);
+  border-radius: 50%;
+  box-shadow:
+    0 0 0 2.3rem rgba(236,202,135,.035),
+    0 0 0 5rem rgba(236,202,135,.027),
+    0 0 0 7.6rem rgba(236,202,135,.018);
+  pointer-events: none;
+}
+.ww-hero-eyebrow {
+  color: #e5b66f;
+  font-size: .66rem;
+  font-weight: 800;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  margin-bottom: 1.2rem;
+}
+.ww-hero-title {
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  font-size: clamp(2.1rem, 5.5vw, 4.1rem);
+  font-weight: 700;
+  letter-spacing: -.045em;
+  line-height: 1.08;
+  max-width: 11ch;
+  text-wrap: balance;
+}
+.ww-hero-copy {
+  color: #e1e9dd;
+  line-height: 1.75;
+  font-size: .85rem;
+  max-width: 31rem;
+  margin: 1.3rem 0 0;
+}
+.ww-hero-actions { display: flex; flex-wrap: wrap; gap: .65rem; margin: 1.8rem 0 2.4rem; }
+.ww-hero-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.5rem;
+  border: 1px solid rgba(255,255,255,.35);
+  border-radius: .4rem;
+  padding: .62rem 1rem;
+  font-size: .72rem;
+  font-weight: 750;
+  text-decoration: none !important;
+  transition: transform .2s, background .2s;
+  color: #fff9ef !important;
+}
+.ww-hero-button:hover { background: rgba(255,255,255,.11); transform: translateY(-2px); }
+.ww-hero-button-primary { background: #edc17f; border-color: #edc17f; color: #26382c !important; }
+.ww-hero-button-primary:hover { background: #ffdaa3; }
+.ww-hero-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0,1fr));
+  gap: 1rem;
+  border-top: 1px solid rgba(255,255,255,.16);
+  padding-top: 1.3rem;
+}
+.ww-hero-stats a { color: #fff9ec !important; text-decoration: none !important; }
+.ww-hero-stats strong {
+  display: block;
+  font-family: Georgia, "Iowan Old Style", serif;
+  font-size: clamp(1.35rem, 2vw, 1.9rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+.ww-hero-stats span {
+  display: block;
+  color: #c5d5c7;
+  font-size: .66rem;
+  margin-top: .5rem;
+  line-height: 1.4;
+}
+.ww-hero-stats a:hover span { color: #fff; }
+
+/* Source-derived, search-indexable article metadata. */
+.ww-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin: -.25rem 0 1.35rem;
+}
+.ww-chip {
+  background: var(--ww-chip-bg);
+  color: var(--ww-chip-fg);
+  border: 1px solid var(--ww-rule);
+  border-radius: 999px;
+  padding: .18rem .65rem;
+  font-size: .62rem;
+  font-weight: 650;
+  line-height: 1.65;
+}
+.md-typeset .ww-alias {
+  font-size: .72rem;
+  color: var(--md-default-fg-color--light);
+  margin: -1rem 0 1.5rem;
+}
+.ww-alias strong { color: var(--md-default-fg-color); }
+@media (max-width: 680px) {
+  .ww-hero { border-radius: .7rem; margin: 1rem 0 2rem; padding: 1.6rem 1.3rem; }
+  .ww-hero-actions { flex-direction: column; align-items: stretch; margin-bottom: 1.7rem; }
+  .ww-hero-stats { gap: .4rem; }
+  .ww-hero-stats span { font-size: .57rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ww-hero-button { transition: none; }
+  .ww-hero-button:hover { transform: none; }
+}

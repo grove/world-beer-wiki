@@ -1,0 +1,57 @@
+site_name: World Beer Wiki
+site_url: https://grove.github.io/world-beer-wiki/
+site_description: A source-referenced atlas of beer styles, brewing traditions and ingredients.
+repo_url: https://github.com/grove/world-beer-wiki
+repo_name: grove/world-beer-wiki
+edit_uri: edit/main/
+use_directory_urls: true
+copyright: World Beer Wiki · Source-referenced research drafts
+theme:
+  name: material
+  language: en
+  logo: assets/brand-mark.svg
+  favicon: assets/brand-mark.svg
+  font:
+    text: DM Sans
+    code: IBM Plex Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.path
+    - navigation.prune
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-]+'
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - assets/stylesheets/extra.css
