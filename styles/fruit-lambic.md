@@ -8,8 +8,8 @@ tags:
 - fruit
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:39:23Z'
 sources:
 - id: bjcp-2021-23f
   resource: https://styles.bjcp.org/bjcp-2021-beer/23/23f-fruit-lambic
@@ -18,6 +18,13 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: wiki-cantillon-kriek
+  resource: https://www.cantillon.be/kriek?lang=fr
+  title: 'Kriek: Le mot du Brasseur'
+  author: team:brasserie-cantillon
+  source_kind: firsthand-producer-account
+  access_scope: French product page on fruit maceration, blending and maturation; current producer practice
+  author_label: Brasserie Cantillon
 aliases:
 - Kriek (lambic context)
 - Framboise (lambic context)
@@ -25,7 +32,7 @@ regions:
 - Europe
 tradition_status: living
 scope: Modern reference description; historical statements are limited to the cited evidence.
-evidence_basis: official-style-guideline
+evidence_basis: firsthand-producer-account; official-style-guideline
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
@@ -53,15 +60,25 @@ The fruit should be recognizable alongside tartness and the underlying fermentat
 
 ## Brewing and context
 
-Fruit is introduced to lambic, contributing flavor, acidity, color, and fermentable material. The result depends on the fruit, the base beer, and how fermentation and blending are managed. It is not simply ordinary beer flavored with fruit syrup.[^bjcp-2021-23f]
+Fruit is introduced to lambic, contributing flavor, acidity, color, and fermentable material. The result depends on the fruit, the base beer, and how fermentation and blending are managed. Record the actual fruit preparation and production method rather than assuming them from a label.[^bjcp-2021-23f]
 
 ## History and interpretation
 
 Neither “kriek” nor “raspberry beer” automatically proves that a product has a lambic base. This entry covers fruit within the lambic family, not all fruit beers. Distinguish producer-specific methods and sweetness levels when comparing examples, and avoid assuming that every red, tart Belgian beer belongs to the same tradition.[^bjcp-2021-23f]
 
+## Fruit addition and bottle refermentation need not be one step
+
+Cantillon's Kriek account describes macerating sour cherries in lambic and then blending with younger lambic for bottle refermentation. It also notes that fruit expression changes with age and harvest conditions. This is a concrete production example, not a requirement that every fruit lambic use the same timing, fruit ratio or sourcing.[^wiki-cantillon-kriek]
+
+The useful comparison is therefore the actual base beer, the fruit preparation, the stage of addition and the subsequent fermentation. A fruit name alone cannot specify those choices.
+
 ## Evidence note
 
-This profile paraphrases a modern judging reference. Its flavor description is better supported than any claim of a single origin or an unchanged historical recipe. It is not a complete brewing recipe.
+The category description is grounded in BJCP 2021; Cantillon supplies a firsthand example of maceration and refermentation. A producer example demonstrates one method, not every maker’s process. This page makes no universal claim about fruit dosage or final sweetness.
+
+## Related ingredients and categories
+
+[Fruit](../ingredients/fruit.md) · [Brewing yeast](../ingredients/brewing-yeast.md) · [Sour and mixed fermentation](../categories/sour-and-mixed-fermentation-beers.md)
 
 ## Compare and explore
 
@@ -74,3 +91,5 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^bjcp-2021-23f]: [BJCP 2021: Fruit Lambic](https://styles.bjcp.org/bjcp-2021-beer/23/23f-fruit-lambic). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^wiki-cantillon-kriek]: [Kriek: Le mot du Brasseur](https://www.cantillon.be/kriek?lang=fr). Brasserie Cantillon. Consulted 2026-10-27. Evidence used: French product page on fruit maceration, blending and maturation; current producer practice.

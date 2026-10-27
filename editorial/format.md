@@ -6,8 +6,8 @@ tags:
 - wiki-documentation
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:58Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:45:17Z'
 sources:
 - id: okf-spec
   resource: https://raw.githubusercontent.com/GoogleCloudPlatform/open-knowledge-format/main/SPEC.md
@@ -33,3 +33,11 @@ This corpus adds `aliases`, `regions`, optional `countries`, `tradition_status`,
 [^okf-spec]: [Open Knowledge Format specification, version 0.2](https://raw.githubusercontent.com/GoogleCloudPlatform/open-knowledge-format/main/SPEC.md), consulted 27 October 2026.
 
 [Validation report](validation-report.md) · [Reading guide](../README.md)
+
+## Ingredient and category extensions
+
+Edition 1.1 adds `ingredients/` and `categories/` alongside the stable `styles/` paths. Ingredient articles use `type: Ingredient Reference`; educational comparisons use `type: Beer Category Guide`. These remain ordinary OKF concepts. Their directory indexes remain reserved navigation files without concept frontmatter.
+
+`category_axis` is an optional corpus-specific description of the comparison dimension, such as fermentation, ingredients or alcohol content. It is not a globally registered taxonomy. `relations[].target` remains a bundle-relative concept identifier without `.md`; relation targets also have usable Markdown links in the body. Comparisons do not assert ancestry or universal recipe requirements.
+
+The optional Python validator is supporting repository code, not a concept document or required reader runtime. It checks these local conventions without claiming full OKF conformance or verifying factual truth. See the [validation report](validation-report.md) for actual results.

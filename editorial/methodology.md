@@ -6,8 +6,8 @@ tags:
 - wiki-documentation
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:58Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:45:17Z'
 sources:
 - id: corpus
   resource: /styles/index.md
@@ -58,6 +58,14 @@ A footnote after a paragraph identifies the source supporting that paragraph's f
 All profiles are research drafts. Source checking by the authoring AI is not represented as an independent historian's, brewer's, or community representative's approval. Structural validation checks files and links; it cannot prove historical truth.
 
 A correction should identify the profile, the disputed sentence, the source and precise locator, and the scope of the replacement claim. Preserve conflicting evidence where it matters. Prefer narrowing a claim over silently generalizing one local observation.
+
+## Cross-cutting categories and ingredients
+
+Ingredient references explain a material or culture; category guides explain a comparison axis. Neither should be counted as another named beer style. A culture name, a grain and a serving method can all describe the same beer without implying the same kind of classification.
+
+Guideline editions are preserved explicitly. A BJCP entry-placement suggestion is not a new standalone BJCP style. A producer's named beer documents that producer's usage, while a primary experiment documents its actual samples and methods. When those sources have different purposes or boundaries, the article explains the difference instead of forcing agreement.
+
+This expansion includes independent AI editorial passes on selected claims and metadata. They do not replace community, historian, scientist or brewer review. The optional validator checks structural properties only. New sources and revised claims are described in the [1.1 research note](research-update-1-1.md).
 
 ## References
 

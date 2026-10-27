@@ -1,226 +1,353 @@
 ---
 type: Navigation Guide
-title: Browse beer traditions by region
-description: Editorial documentation and navigation for the World Beer Wiki.
+title: Browse by geographical focus
+description: Browse by geographical focus
 tags:
 - wiki-documentation
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:58Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:45:17Z'
 sources:
 - id: corpus
   resource: /styles/index.md
   title: Profile directory and linked article metadata
-- id: source-register
-  resource: /references/source-register.md
-  title: Source register
+- id: ingredient-directory
+  resource: /ingredients/index.md
+  title: Ingredient reference directory
+- id: category-directory
+  resource: /categories/index.md
+  title: Category guide directory
 ---
 
 # Browse by region
 
-These are **geographical reading routes**, not maps of exclusive origin or present-day availability. A profile can occur in more than one region. The profile itself states its scope and sources.
+These are the geographical focus labels supplied by each beer or tradition profile. Continental, subregional, national and local labels overlap; counts must not be added into a world total. A place label is not a claim of complete coverage or exclusive origin.
 
-## Europe — 82 profiles
+[Traditional brewing guide](../categories/traditional-and-indigenous-beers.md) · [Coverage limits](../editorial/coverage-and-gaps.md)
 
-| Entry | Kind of entry | Geographical focus |
-|---|---|---|
-| [Altbier](../styles/altbier.md) | Beer Style | Europe |
-| [Baltic Porter](../styles/baltic-porter.md) | Beer Style | Europe |
-| [Belgian Blond Ale](../styles/belgian-blond-ale.md) | Beer Style | Europe |
-| [Belgian Dark Strong Ale](../styles/belgian-dark-strong-ale.md) | Beer Style | Europe |
-| [Belgian Dubbel](../styles/belgian-dubbel.md) | Beer Style | Europe |
-| [Belgian Golden Strong Ale](../styles/belgian-golden-strong-ale.md) | Beer Style | Europe |
-| [Belgian IPA](../styles/belgian-ipa.md) | Beer Style | Europe, North America |
-| [Belgian Pale Ale](../styles/belgian-pale-ale.md) | Beer Style | Europe |
-| [Belgian Single](../styles/belgian-single.md) | Beer Style | Europe |
-| [Belgian Tripel](../styles/belgian-tripel.md) | Beer Style | Europe |
-| [Berliner Weisse](../styles/berliner-weisse.md) | Beer Style | Europe |
-| [Best Bitter](../styles/best-bitter.md) | Beer Style | Europe |
-| [Bière de Garde](../styles/biere-de-garde.md) | Beer Style | Europe |
-| [British Brown Ale](../styles/british-brown-ale.md) | Beer Style | Europe |
-| [British Golden Ale](../styles/british-golden-ale.md) | Beer Style | Europe |
-| [British Strong Ale](../styles/british-strong-ale.md) | Beer Style Family | Europe |
-| [Czech Amber Lager](../styles/czech-amber-lager.md) | Beer Style | Europe |
-| [Czech Dark Lager](../styles/czech-dark-lager.md) | Beer Style | Europe |
-| [Czech Pale Lager](../styles/czech-pale-lager.md) | Beer Style | Europe |
-| [Czech Premium Pale Lager](../styles/czech-premium-pale-lager.md) | Beer Style | Europe |
-| [Dark Mild](../styles/dark-mild.md) | Beer Style | Europe |
-| [Doppelbock](../styles/doppelbock.md) | Beer Style | Europe |
-| [Dunkles Bock](../styles/dunkles-bock.md) | Beer Style | Europe |
-| [Dunkles Weissbier](../styles/dunkles-weissbier.md) | Beer Style | Europe |
-| [Eisbock](../styles/eisbock.md) | Beer Style | Europe |
-| [English Barleywine](../styles/english-barleywine.md) | Beer Style | Europe |
-| [English IPA](../styles/english-ipa.md) | Beer Style | Europe, South Asia |
-| [English Porter](../styles/english-porter.md) | Beer Style | Europe |
-| [Festbier](../styles/festbier.md) | Beer Style | Europe |
-| [Flanders Red Ale](../styles/flanders-red-ale.md) | Beer Style | Europe |
-| [Foreign Extra Stout](../styles/foreign-extra-stout.md) | Beer Style | Europe, Africa, Asia, Caribbean |
-| [Fruit Lambic](../styles/fruit-lambic.md) | Beer Style | Europe |
-| [German Helles Exportbier](../styles/german-helles-exportbier.md) | Beer Style | Europe |
-| [German Leichtbier](../styles/german-leichtbier.md) | Beer Style | Europe |
-| [German Pils](../styles/german-pils.md) | Beer Style | Europe |
-| [Gose](../styles/gose.md) | Beer Style | Europe |
-| [Gotlandsdricke](../styles/gotlandsdricke.md) | Beer Tradition | Northern Europe, Sweden |
-| [Grodziskie](../styles/grodziskie.md) | Beer Style | Europe |
-| [Gruit — historical ingredient system and modern herb beers](../styles/gruit.md) | Historical term / modern family | Europe, Low Countries, Germany, France |
-| [Gueuze](../styles/gueuze.md) | Beer Style | Europe |
-| [Helles Bock](../styles/helles-bock.md) | Beer Style | Europe |
-| [Historical London porter](../styles/historical-london-porter.md) | Historical Beer Tradition | Europe, England, London |
-| [Imperial Stout](../styles/imperial-stout.md) | Beer Style | Europe, North America |
-| [Irish Extra Stout](../styles/irish-extra-stout.md) | Beer Style | Europe |
-| [Irish Red Ale](../styles/irish-red-ale.md) | Beer Style | Europe |
-| [Irish Stout](../styles/irish-stout.md) | Beer Style | Europe |
-| [Italian Grape Ale](../styles/italian-grape-ale.md) | Beer Style | Europe |
-| [Kellerbier](../styles/kellerbier.md) | Beer Tradition | Europe |
-| [Keptinis](../styles/keptinis.md) | Beer Tradition | Northern Europe, Lithuania |
-| [Koduõlu](../styles/koduolu.md) | Beer Tradition | Northern Europe, Estonia |
-| [Kölsch](../styles/kolsch.md) | Beer Style | Europe |
-| [Kornøl](../styles/kornol.md) | Beer Tradition | Northern Europe, Norway |
-| [Kvass — rye and bread tradition](../styles/kvass.md) | Related grain tradition | Europe, Eastern Europe, Central Europe |
-| [Lambic](../styles/lambic.md) | Beer Style | Europe |
-| [Lichtenhainer](../styles/lichtenhainer.md) | Beer Style | Europe |
-| [London Brown Ale](../styles/london-brown-ale.md) | Beer Style | Europe |
-| [Märzen](../styles/marzen.md) | Beer Style | Europe |
-| [Munich Dunkel](../styles/munich-dunkel.md) | Beer Style | Europe |
-| [Munich Helles](../styles/munich-helles.md) | Beer Style | Europe |
-| [Oatmeal Stout](../styles/oatmeal-stout.md) | Beer Style | Europe |
-| [Old Ale](../styles/old-ale.md) | Beer Style | Europe |
-| [Ordinary Bitter](../styles/ordinary-bitter.md) | Beer Style | Europe |
-| [Oud Bruin](../styles/oud-bruin.md) | Beer Style | Europe |
-| [Pastry stout](../styles/pastry-stout.md) | Beer Style Family | International, North America, Europe |
-| [Rauchbier](../styles/rauchbier.md) | Beer Style | Europe |
-| [Roggenbier](../styles/roggenbier.md) | Beer Style | Europe |
-| [Sahti](../styles/sahti.md) | Beer Style | Europe |
-| [Saison](../styles/saison.md) | Beer Style | Europe |
-| [Schwarzbier](../styles/schwarzbier.md) | Beer Style | Europe |
-| [Scottish Export](../styles/scottish-export.md) | Beer Style | Europe |
-| [Scottish Heavy](../styles/scottish-heavy.md) | Beer Style | Europe |
-| [Scottish Light](../styles/scottish-light.md) | Beer Style | Europe |
-| [Steinbier and stone-heated beer](../styles/steinbier.md) | Brewing Process Tradition | Europe, Northern Europe, Central Europe |
-| [Stjørdalsøl](../styles/stjordalsol.md) | Beer Tradition | Northern Europe, Norway |
-| [Strong Bitter](../styles/strong-bitter.md) | Beer Style | Europe |
-| [Sweet Stout](../styles/sweet-stout.md) | Beer Style | Europe |
-| [Vienna Lager](../styles/vienna-lager.md) | Beer Style | Europe, Latin America |
-| [Vossaøl](../styles/vossaol.md) | Beer Tradition | Northern Europe, Norway |
-| [Wee Heavy](../styles/wee-heavy.md) | Beer Style | Europe |
-| [Weissbier](../styles/weissbier.md) | Beer Style | Europe |
-| [Weizenbock](../styles/weizenbock.md) | Beer Style | Europe |
-| [Witbier](../styles/witbier.md) | Beer Style | Europe |
+## Africa
 
-## Africa — 14 profiles
+[Foreign Extra Stout](../styles/foreign-extra-stout.md) · [Tropical Stout](../styles/tropical-stout.md)
 
-| Entry | Kind of entry | Geographical focus |
-|---|---|---|
-| [Burukutu](../styles/burukutu.md) | Beer Tradition | West Africa, Ghana |
-| [Busaa](../styles/busaa.md) | Beer Tradition | East Africa, Kenya |
-| [Dolo](../styles/dolo.md) | Beer Tradition | West Africa, Burkina Faso, Mali |
-| [Foreign Extra Stout](../styles/foreign-extra-stout.md) | Beer Style | Europe, Africa, Asia, Caribbean |
-| [Ikigage](../styles/ikigage.md) | Beer Tradition | East Africa, Rwanda |
-| [Mbege](../styles/mbege.md) | Beer Tradition | East Africa, Tanzania |
-| [Oshikundu](../styles/oshikundu.md) | Related grain tradition | Southern Africa, Namibia |
-| [Pito](../styles/pito.md) | Beer Tradition | West Africa, Ghana |
-| [Sesotho beer](../styles/sesotho-beer.md) | Beer Tradition | Southern Africa, Lesotho |
-| [Tchapalo](../styles/tchapalo.md) | Beer Tradition | West Africa, Côte d’Ivoire |
-| [Tchoukoutou](../styles/tchoukoutou.md) | Beer Tradition | West Africa, Benin, Togo |
-| [Tella](../styles/tella.md) | Beer Tradition | East Africa, Ethiopia |
-| [Tropical Stout](../styles/tropical-stout.md) | Beer Style | Caribbean, Africa, Asia |
-| [Umqombothi](../styles/umqombothi.md) | Beer Tradition | Southern Africa, South Africa |
+## Amazonia
 
-## Asia — 14 profiles
+[Caxiri](../styles/caxiri.md) · [Masato de yuca](../styles/masato-de-yuca.md)
 
-| Entry | Kind of entry | Geographical focus |
-|---|---|---|
-| [Bhaati jaanr](../styles/bhaati-jaanr.md) | Beer Tradition | South Asia, India, Nepal, Bhutan |
-| [Boza — Turkish cereal-fermentation tradition](../styles/boza.md) | Related grain tradition | West Asia, Türkiye |
-| [English IPA](../styles/english-ipa.md) | Beer Style | Europe, South Asia |
-| [Foreign Extra Stout](../styles/foreign-extra-stout.md) | Beer Style | Europe, Africa, Asia, Caribbean |
-| [Haria / Handia](../styles/haria.md) | Beer Tradition | South Asia, India |
-| [Judima](../styles/judima.md) | Beer Tradition | South Asia, India, Assam |
-| [Kodo ko jaanr](../styles/kodo-ko-jaanr.md) | Beer Tradition | South Asia, India, Nepal, Bhutan |
-| [Makgeolli](../styles/makgeolli.md) | Related grain tradition | East Asia, South Korea |
-| [Mijiaya fermented-grain beverage](../styles/mijiaya-beer.md) | Archaeological evidence | East Asia, China, Shaanxi |
-| [Sake](../styles/sake.md) | Related grain tradition | East Asia, Japan |
-| [Sato](../styles/sato.md) | Related grain tradition | Southeast Asia, Thailand |
-| [Tropical Stout](../styles/tropical-stout.md) | Beer Style | Caribbean, Africa, Asia |
-| [Tuak — Sarawak rice tradition](../styles/tuak-rice.md) | Related grain tradition | Southeast Asia, Malaysia, Sarawak |
-| [Zutho](../styles/zutho.md) | Beer Tradition | South Asia, India, Nagaland |
+## Andes
 
-## North America and the Caribbean — 33 profiles
+[Chicha de jora](../styles/chicha-de-jora.md)
 
-| Entry | Kind of entry | Geographical focus |
-|---|---|---|
-| [American Amber Ale](../styles/american-amber-ale.md) | Beer Style | North America |
-| [American Barleywine](../styles/american-barleywine.md) | Beer Style | North America |
-| [American Brown Ale](../styles/american-brown-ale.md) | Beer Style | North America |
-| [American IPA](../styles/american-ipa.md) | Beer Style | North America |
-| [American Lager](../styles/american-lager.md) | Beer Style | North America |
-| [American Light Lager](../styles/american-light-lager.md) | Beer Style | North America |
-| [American Pale Ale](../styles/american-pale-ale.md) | Beer Style | North America |
-| [American Porter](../styles/american-porter.md) | Beer Style | North America |
-| [American Stout](../styles/american-stout.md) | Beer Style | North America |
-| [American Strong Ale](../styles/american-strong-ale.md) | Beer Style Family | North America |
-| [American Wheat Beer](../styles/american-wheat-beer.md) | Beer Style | North America |
-| [Belgian IPA](../styles/belgian-ipa.md) | Beer Style | Europe, North America |
-| [Black IPA](../styles/black-ipa.md) | Beer Style | North America |
-| [Blonde Ale](../styles/blonde-ale.md) | Beer Style | North America |
-| [Brown IPA](../styles/brown-ipa.md) | Beer Style | North America |
-| [Brut IPA](../styles/brut-ipa.md) | Beer Style | North America |
-| [California Common](../styles/california-common.md) | Beer Style | North America |
-| [Cold IPA](../styles/cold-ipa.md) | Beer Style | North America, United States, International |
-| [Cream Ale](../styles/cream-ale.md) | Beer Style | North America |
-| [Double IPA](../styles/double-ipa.md) | Beer Style | North America |
-| [Foreign Extra Stout](../styles/foreign-extra-stout.md) | Beer Style | Europe, Africa, Asia, Caribbean |
-| [Hazy IPA](../styles/hazy-ipa.md) | Beer Style | North America |
-| [Imperial Stout](../styles/imperial-stout.md) | Beer Style | Europe, North America |
-| [Kentucky Common](../styles/kentucky-common.md) | Beer Style | North America |
-| [Pastry stout](../styles/pastry-stout.md) | Beer Style Family | International, North America, Europe |
-| [Pre-Prohibition Lager](../styles/pre-prohibition-lager.md) | Beer Style | North America |
-| [Pre-Prohibition Porter](../styles/pre-prohibition-porter.md) | Beer Style | North America |
-| [Red IPA](../styles/red-ipa.md) | Beer Style | North America |
-| [Rye IPA](../styles/rye-ipa.md) | Beer Style | North America |
-| [Tesgüino — Rarámuri tradition](../styles/tesguino.md) | Beer Tradition | North America, Mexico, Chihuahua |
-| [Tropical Stout](../styles/tropical-stout.md) | Beer Style | Caribbean, Africa, Asia |
-| [Wheatwine](../styles/wheatwine.md) | Beer Style | North America |
-| [White IPA](../styles/white-ipa.md) | Beer Style | North America |
+## Asia
 
-## South America and Latin American comparisons — 8 profiles
+[Foreign Extra Stout](../styles/foreign-extra-stout.md) · [Rice Lager](../styles/rice-lager.md) · [Tropical Stout](../styles/tropical-stout.md)
 
-| Entry | Kind of entry | Geographical focus |
-|---|---|---|
-| [Catharina Sour](../styles/catharina-sour.md) | Beer Style | South America |
-| [Caxiri](../styles/caxiri.md) | Related starch tradition | South America, Brazil, Amazonia |
-| [Chicha de jora](../styles/chicha-de-jora.md) | Beer Tradition | South America, Peru, Andes |
-| [Dorada Pampeana](../styles/dorada-pampeana.md) | Beer Style | South America |
-| [IPA Argenta](../styles/ipa-argenta.md) | Beer Style | South America |
-| [Masato de yuca](../styles/masato-de-yuca.md) | Related starch tradition | South America, Peru, Amazonia |
-| [Parakari](../styles/parakari.md) | Related starch tradition | South America, Guyana, Rupununi |
-| [Vienna Lager](../styles/vienna-lager.md) | Beer Style | Europe, Latin America |
+## Assam
 
-## Oceania — 2 profiles
+[Apong — Mising rice-beer traditions](../styles/apong.md) · [Judima](../styles/judima.md)
 
-| Entry | Kind of entry | Geographical focus |
-|---|---|---|
-| [Australian Sparkling Ale](../styles/australian-sparkling-ale.md) | Beer Style | Oceania |
-| [New Zealand Pilsner](../styles/new-zealand-pilsner.md) | Beer Style | Oceania |
+## Belgium
 
-## International and worldwide categories — 12 profiles
+[Faro](../styles/faro.md)
 
-| Entry | Kind of entry | Geographical focus |
-|---|---|---|
-| [Brett beer](../styles/brett-beer.md) | Specialty Beer Category | International |
-| [Cold IPA](../styles/cold-ipa.md) | Beer Style | North America, United States, International |
-| [Fruit beer](../styles/fruit-beer.md) | Specialty Beer Category | International |
-| [International Amber Lager](../styles/international-amber-lager.md) | Beer Style | Worldwide |
-| [International Dark Lager](../styles/international-dark-lager.md) | Beer Style | Worldwide |
-| [International Pale Lager](../styles/international-pale-lager.md) | Beer Style | Worldwide |
-| [Mixed-fermentation sour beer](../styles/mixed-fermentation-sour-beer.md) | Specialty Beer Category | International |
-| [Pastry stout](../styles/pastry-stout.md) | Beer Style Family | International, North America, Europe |
-| [Specialty wood-aged beer](../styles/specialty-wood-aged-beer.md) | Specialty Beer Category | International |
-| [Straight sour beer](../styles/straight-sour-beer.md) | Specialty Beer Category | International |
-| [Wild specialty beer](../styles/wild-specialty-beer.md) | Specialty Beer Category | International |
-| [Wood-aged beer](../styles/wood-aged-beer.md) | Specialty Beer Category | International |
+## Benin
 
-## Reference
+[Tchoukoutou](../styles/tchoukoutou.md)
 
-Compiled from the [profile metadata](../styles/index.md); evidence remains in each article. [Home](../index.md).
+## Bhutan
+
+[Bhaati jaanr](../styles/bhaati-jaanr.md) · [Kodo ko jaanr](../styles/kodo-ko-jaanr.md)
+
+## Brazil
+
+[Caxiri](../styles/caxiri.md)
+
+## Brussels
+
+[Faro](../styles/faro.md)
+
+## Burkina Faso
+
+[Dolo](../styles/dolo.md)
+
+## Caribbean
+
+[Foreign Extra Stout](../styles/foreign-extra-stout.md) · [Tropical Stout](../styles/tropical-stout.md)
+
+## Central Africa
+
+[Bili bili — Chadian sorghum beer](../styles/bili-bili.md)
+
+## Central Europe
+
+[Kvass — rye and bread tradition](../styles/kvass.md) · [Steinbier and stone-heated beer](../styles/steinbier.md)
+
+## Chad
+
+[Bili bili — Chadian sorghum beer](../styles/bili-bili.md)
+
+## Chihuahua
+
+[Tesgüino — Rarámuri tradition](../styles/tesguino.md)
+
+## China
+
+[Mijiaya fermented-grain beverage](../styles/mijiaya-beer.md) · [Shangshan fermented-grain beverage](../styles/shangshan-beer.md)
+
+## Côte d’Ivoire
+
+[Tchapalo](../styles/tchapalo.md)
+
+## East Africa
+
+[Busaa](../styles/busaa.md) · [Ikigage](../styles/ikigage.md) · [Mbege](../styles/mbege.md) · [Tella](../styles/tella.md)
+
+## East Asia
+
+[Makgeolli](../styles/makgeolli.md) · [Mijiaya fermented-grain beverage](../styles/mijiaya-beer.md) · [Sake](../styles/sake.md) · [Shangshan fermented-grain beverage](../styles/shangshan-beer.md)
+
+## Eastern Europe
+
+[Kvass — rye and bread tradition](../styles/kvass.md)
+
+## England
+
+[Historical London porter](../styles/historical-london-porter.md)
+
+## Estonia
+
+[Koduõlu](../styles/koduolu.md)
+
+## Ethiopia
+
+[Tella](../styles/tella.md)
+
+## Europe
+
+[Altbier](../styles/altbier.md) · [Baltic Porter](../styles/baltic-porter.md) · [Belgian Blond Ale](../styles/belgian-blond-ale.md) · [Belgian Dark Strong Ale](../styles/belgian-dark-strong-ale.md) · [Belgian Dubbel](../styles/belgian-dubbel.md) · [Belgian Golden Strong Ale](../styles/belgian-golden-strong-ale.md) · [Belgian IPA](../styles/belgian-ipa.md) · [Belgian Pale Ale](../styles/belgian-pale-ale.md) · [Belgian Single](../styles/belgian-single.md) · [Belgian Tripel](../styles/belgian-tripel.md) · [Berliner Weisse](../styles/berliner-weisse.md) · [Best Bitter](../styles/best-bitter.md) · [Bière de Garde](../styles/biere-de-garde.md) · [British Brown Ale](../styles/british-brown-ale.md) · [British Golden Ale](../styles/british-golden-ale.md) · [British Strong Ale](../styles/british-strong-ale.md) · [Czech Amber Lager](../styles/czech-amber-lager.md) · [Czech Dark Lager](../styles/czech-dark-lager.md) · [Czech Pale Lager](../styles/czech-pale-lager.md) · [Czech Premium Pale Lager](../styles/czech-premium-pale-lager.md) · [Dark Mild](../styles/dark-mild.md) · [Doppelbock](../styles/doppelbock.md) · [Dunkles Bock](../styles/dunkles-bock.md) · [Dunkles Weissbier](../styles/dunkles-weissbier.md) · [Eisbock](../styles/eisbock.md) · [English Barleywine](../styles/english-barleywine.md) · [English IPA](../styles/english-ipa.md) · [English Porter](../styles/english-porter.md) · [Faro](../styles/faro.md) · [Festbier](../styles/festbier.md) · [Flanders Red Ale](../styles/flanders-red-ale.md) · [Foreign Extra Stout](../styles/foreign-extra-stout.md) · [Fruit Lambic](../styles/fruit-lambic.md) · [German Helles Exportbier](../styles/german-helles-exportbier.md) · [German Leichtbier](../styles/german-leichtbier.md) · [German Pils](../styles/german-pils.md) · [Gose](../styles/gose.md) · [Grodziskie](../styles/grodziskie.md) · [Gruit — historical ingredient system and modern herb beers](../styles/gruit.md) · [Gueuze](../styles/gueuze.md) · [Helles Bock](../styles/helles-bock.md) · [Historical London porter](../styles/historical-london-porter.md) · [Imperial Stout](../styles/imperial-stout.md) · [Irish Extra Stout](../styles/irish-extra-stout.md) · [Irish Red Ale](../styles/irish-red-ale.md) · [Irish Stout](../styles/irish-stout.md) · [Italian Grape Ale](../styles/italian-grape-ale.md) · [Italian Pilsner](../styles/italian-pilsner.md) · [Kellerbier](../styles/kellerbier.md) · [Kölsch](../styles/kolsch.md) · [Kvass — rye and bread tradition](../styles/kvass.md) · [Lambic](../styles/lambic.md) · [Lichtenhainer](../styles/lichtenhainer.md) · [London Brown Ale](../styles/london-brown-ale.md) · [Märzen](../styles/marzen.md) · [Munich Dunkel](../styles/munich-dunkel.md) · [Munich Helles](../styles/munich-helles.md) · [Oatmeal Stout](../styles/oatmeal-stout.md) · [Old Ale](../styles/old-ale.md) · [Ordinary Bitter](../styles/ordinary-bitter.md) · [Oud Bruin](../styles/oud-bruin.md) · [Pastry stout](../styles/pastry-stout.md) · [Rauchbier](../styles/rauchbier.md) · [Roggenbier](../styles/roggenbier.md) · [Saison](../styles/saison.md) · [Schwarzbier](../styles/schwarzbier.md) · [Scottish Export](../styles/scottish-export.md) · [Scottish Heavy](../styles/scottish-heavy.md) · [Scottish Light](../styles/scottish-light.md) · [Steinbier and stone-heated beer](../styles/steinbier.md) · [Strong Bitter](../styles/strong-bitter.md) · [Sweet Stout](../styles/sweet-stout.md) · [Vienna Lager](../styles/vienna-lager.md) · [Wee Heavy](../styles/wee-heavy.md) · [Weissbier](../styles/weissbier.md) · [Weizenbock](../styles/weizenbock.md) · [Witbier](../styles/witbier.md)
+
+## Finland
+
+[Sahti](../styles/sahti.md)
+
+## France
+
+[Gruit — historical ingredient system and modern herb beers](../styles/gruit.md)
+
+## Germany
+
+[Gruit — historical ingredient system and modern herb beers](../styles/gruit.md)
+
+## Ghana
+
+[Burukutu](../styles/burukutu.md) · [Pito](../styles/pito.md)
+
+## Guyana
+
+[Parakari](../styles/parakari.md)
+
+## Himalayas
+
+[Chhang — Himalayan grain-fermentation traditions](../styles/chhang.md)
+
+## India
+
+[Apong — Mising rice-beer traditions](../styles/apong.md) · [Bhaati jaanr](../styles/bhaati-jaanr.md) · [Chhang — Himalayan grain-fermentation traditions](../styles/chhang.md) · [Haria / Handia](../styles/haria.md) · [Judima](../styles/judima.md) · [Kodo ko jaanr](../styles/kodo-ko-jaanr.md) · [Zutho](../styles/zutho.md)
+
+## International
+
+[Brett beer](../styles/brett-beer.md) · [Cold IPA](../styles/cold-ipa.md) · [Fruit beer](../styles/fruit-beer.md) · [Italian Pilsner](../styles/italian-pilsner.md) · [Mixed-fermentation sour beer](../styles/mixed-fermentation-sour-beer.md) · [New Zealand IPA](../styles/new-zealand-ipa.md) · [Pastry stout](../styles/pastry-stout.md) · [Rice Lager](../styles/rice-lager.md) · [Session IPA](../styles/session-ipa.md) · [Specialty wood-aged beer](../styles/specialty-wood-aged-beer.md) · [Straight sour beer](../styles/straight-sour-beer.md) · [West Coast IPA](../styles/west-coast-ipa.md) · [West Coast Pilsner](../styles/west-coast-pilsner.md) · [Wild specialty beer](../styles/wild-specialty-beer.md) · [Wood-aged beer](../styles/wood-aged-beer.md)
+
+## Italy
+
+[Italian Pilsner](../styles/italian-pilsner.md)
+
+## Japan
+
+[Rice Lager](../styles/rice-lager.md) · [Sake](../styles/sake.md)
+
+## Kenya
+
+[Busaa](../styles/busaa.md)
+
+## Ladakh
+
+[Chhang — Himalayan grain-fermentation traditions](../styles/chhang.md)
+
+## Latin America
+
+[Vienna Lager](../styles/vienna-lager.md)
+
+## Lesotho
+
+[Sesotho beer](../styles/sesotho-beer.md)
+
+## Lithuania
+
+[Keptinis](../styles/keptinis.md)
+
+## London
+
+[Historical London porter](../styles/historical-london-porter.md)
+
+## Low Countries
+
+[Gruit — historical ingredient system and modern herb beers](../styles/gruit.md)
+
+## Malaysia
+
+[Tuak — Sarawak rice tradition](../styles/tuak-rice.md)
+
+## Mali
+
+[Dolo](../styles/dolo.md)
+
+## Mexico
+
+[Tesgüino — Rarámuri tradition](../styles/tesguino.md)
+
+## Nagaland
+
+[Zutho](../styles/zutho.md)
+
+## Namibia
+
+[Oshikundu](../styles/oshikundu.md)
+
+## Nepal
+
+[Bhaati jaanr](../styles/bhaati-jaanr.md) · [Kodo ko jaanr](../styles/kodo-ko-jaanr.md)
+
+## New Zealand
+
+[New Zealand IPA](../styles/new-zealand-ipa.md)
+
+## Nordfjord
+
+[Kornøl](../styles/kornol.md)
+
+## North America
+
+[American Amber Ale](../styles/american-amber-ale.md) · [American Barleywine](../styles/american-barleywine.md) · [American Brown Ale](../styles/american-brown-ale.md) · [American IPA](../styles/american-ipa.md) · [American Lager](../styles/american-lager.md) · [American Light Lager](../styles/american-light-lager.md) · [American Pale Ale](../styles/american-pale-ale.md) · [American Porter](../styles/american-porter.md) · [American Stout](../styles/american-stout.md) · [American Strong Ale](../styles/american-strong-ale.md) · [American Wheat Beer](../styles/american-wheat-beer.md) · [Belgian IPA](../styles/belgian-ipa.md) · [Black IPA](../styles/black-ipa.md) · [Blonde Ale](../styles/blonde-ale.md) · [Brown IPA](../styles/brown-ipa.md) · [Brut IPA](../styles/brut-ipa.md) · [California Common](../styles/california-common.md) · [Cold IPA](../styles/cold-ipa.md) · [Cream Ale](../styles/cream-ale.md) · [Double IPA](../styles/double-ipa.md) · [Hazy IPA](../styles/hazy-ipa.md) · [Imperial Stout](../styles/imperial-stout.md) · [Kentucky Common](../styles/kentucky-common.md) · [Pastry stout](../styles/pastry-stout.md) · [Pre-Prohibition Lager](../styles/pre-prohibition-lager.md) · [Pre-Prohibition Porter](../styles/pre-prohibition-porter.md) · [Red IPA](../styles/red-ipa.md) · [Rye IPA](../styles/rye-ipa.md) · [Session IPA](../styles/session-ipa.md) · [Tesgüino — Rarámuri tradition](../styles/tesguino.md) · [West Coast IPA](../styles/west-coast-ipa.md) · [West Coast Pilsner](../styles/west-coast-pilsner.md) · [Wheatwine](../styles/wheatwine.md) · [White IPA](../styles/white-ipa.md)
+
+## Northeast Africa
+
+[Merissa — Sudanese sorghum brewing](../styles/merissa.md)
+
+## Northern Europe
+
+[Gotlandsdricke](../styles/gotlandsdricke.md) · [Keptinis](../styles/keptinis.md) · [Koduõlu](../styles/koduolu.md) · [Kornøl](../styles/kornol.md) · [Sahti](../styles/sahti.md) · [Steinbier and stone-heated beer](../styles/steinbier.md) · [Stjørdalsøl](../styles/stjordalsol.md) · [Vossaøl](../styles/vossaol.md)
+
+## Norway
+
+[Kornøl](../styles/kornol.md) · [Stjørdalsøl](../styles/stjordalsol.md) · [Vossaøl](../styles/vossaol.md)
+
+## Oceania
+
+[Australian Sparkling Ale](../styles/australian-sparkling-ale.md) · [New Zealand IPA](../styles/new-zealand-ipa.md) · [New Zealand Pilsner](../styles/new-zealand-pilsner.md)
+
+## Peru
+
+[Chicha de jora](../styles/chicha-de-jora.md) · [Masato de yuca](../styles/masato-de-yuca.md)
+
+## Rupununi
+
+[Parakari](../styles/parakari.md)
+
+## Rwanda
+
+[Ikigage](../styles/ikigage.md)
+
+## Sarawak
+
+[Tuak — Sarawak rice tradition](../styles/tuak-rice.md)
+
+## Shaanxi
+
+[Mijiaya fermented-grain beverage](../styles/mijiaya-beer.md)
+
+## South Africa
+
+[Umqombothi](../styles/umqombothi.md)
+
+## South America
+
+[Catharina Sour](../styles/catharina-sour.md) · [Caxiri](../styles/caxiri.md) · [Chicha de jora](../styles/chicha-de-jora.md) · [Dorada Pampeana](../styles/dorada-pampeana.md) · [IPA Argenta](../styles/ipa-argenta.md) · [Masato de yuca](../styles/masato-de-yuca.md) · [Parakari](../styles/parakari.md)
+
+## South Asia
+
+[Apong — Mising rice-beer traditions](../styles/apong.md) · [Bhaati jaanr](../styles/bhaati-jaanr.md) · [Chhang — Himalayan grain-fermentation traditions](../styles/chhang.md) · [English IPA](../styles/english-ipa.md) · [Haria / Handia](../styles/haria.md) · [Judima](../styles/judima.md) · [Kodo ko jaanr](../styles/kodo-ko-jaanr.md) · [Zutho](../styles/zutho.md)
+
+## South Korea
+
+[Makgeolli](../styles/makgeolli.md)
+
+## Southeast Asia
+
+[Sato](../styles/sato.md) · [Tuak — Sarawak rice tradition](../styles/tuak-rice.md)
+
+## Southern Africa
+
+[Munkoyo — root-assisted cereal fermentation](../styles/munkoyo.md) · [Oshikundu](../styles/oshikundu.md) · [Sesotho beer](../styles/sesotho-beer.md) · [Umqombothi](../styles/umqombothi.md)
+
+## Sudan
+
+[Merissa — Sudanese sorghum brewing](../styles/merissa.md)
+
+## Sunnmøre
+
+[Kornøl](../styles/kornol.md)
+
+## Sweden
+
+[Gotlandsdricke](../styles/gotlandsdricke.md)
+
+## Tanzania
+
+[Mbege](../styles/mbege.md)
+
+## Thailand
+
+[Sato](../styles/sato.md)
+
+## Togo
+
+[Tchoukoutou](../styles/tchoukoutou.md)
+
+## Türkiye
+
+[Boza — Turkish cereal-fermentation tradition](../styles/boza.md)
+
+## United Kingdom
+
+[Historical London porter](../styles/historical-london-porter.md)
+
+## United States
+
+[Cold IPA](../styles/cold-ipa.md)
+
+## Uttarakhand
+
+[Chhang — Himalayan grain-fermentation traditions](../styles/chhang.md)
+
+## West Africa
+
+[Burukutu](../styles/burukutu.md) · [Dolo](../styles/dolo.md) · [Pito](../styles/pito.md) · [Tchapalo](../styles/tchapalo.md) · [Tchoukoutou](../styles/tchoukoutou.md)
+
+## West Asia
+
+[Boza — Turkish cereal-fermentation tradition](../styles/boza.md)
+
+## Worldwide
+
+[International Amber Lager](../styles/international-amber-lager.md) · [International Dark Lager](../styles/international-dark-lager.md) · [International Pale Lager](../styles/international-pale-lager.md)
+
+## Zambia
+
+[Munkoyo — root-assisted cereal fermentation](../styles/munkoyo.md)
+
+## Zhejiang
+
+[Shangshan fermented-grain beverage](../styles/shangshan-beer.md)
+
+[All profiles](../styles/index.md) · [Home](../index.md)

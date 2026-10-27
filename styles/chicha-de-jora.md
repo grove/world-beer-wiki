@@ -1,15 +1,16 @@
 ---
 type: Beer Tradition
 title: Chicha de jora
-description: A sourced profile of Chicha de jora, its character, brewing context, and important distinctions.
+description: Peruvian sprouted-maize chicha de jora, with present-day production evidence and a separate, qualified account
+  of Wari brewing archaeology.
 tags:
 - maize
 - malted-grain
 - living-tradition
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:29:03Z'
 sources:
 - id: chicha-jora-study
   resource: https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage
@@ -18,6 +19,14 @@ sources:
   source_kind: primary-research
   access_scope: 'full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093'
   author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana
+- id: trad-chicha-archaeology
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)'
+  author: team:trad-chicha-archaeology-authors
+  source_kind: primary-research
+  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata; full PMC page blocked during
+    direct retrieval; DOI 10.1073/pnas.0508673102
+  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda and Mario Ruales
 aliases: []
 regions:
 - South America
@@ -59,13 +68,25 @@ Maize is germinated, dried, ground, and cooked with water before fermentation. T
 
 The researchers examined 27 samples from 14 producers in seven Peruvian provinces. That is evidence of real variation, not permission to describe every Andean drink called chicha as identical. This entry concerns maize-based chicha de jora specifically; it does not absorb cassava-based traditions under the same name.[^chicha-jora-study]
 
+## What archaeology can and cannot add
+
+Excavation at the Wari site of Cerro Baúl documented a large brewing facility with areas interpreted as milling, boiling, and fermentation spaces. The 2005 report also identified abundant *Schinus molle* remains. The authors explicitly left open whether maize and molle drinks were brewed separately or combined.[^trad-chicha-archaeology]
+
+That ambiguity matters. A report about ancient **chicha** is not automatically a recovered recipe for modern **chicha de jora**. Archaeological brewing installations can support an account of production and social organization while leaving ingredients, mixtures, and sensory character partly unresolved.[^trad-chicha-archaeology]
+
+## A useful distinction when indexing chicha
+
+Use this page for the named sprouted-maize tradition. Keep molle-based drinks, other regional uses of “chicha,” and cassava ferments in their own evidential context. Likewise, a modern reconstruction should be described as a reconstruction and linked to the evidence it interprets, rather than presented as an unchanged ancient beverage.
+
 ## Evidence note
 
-The description is limited to the sources below. A local observation or laboratory sample does not establish one recipe, strength, or flavor for every community or period.
+The contemporary microbiological study and the archaeological paper address different periods and questions. The former concerns sampled Peruvian production; the latter concerns a specific Wari installation and includes explicit ingredient uncertainty. Neither establishes direct continuity of one recipe across those settings.
 
 ## Compare and explore
 
 [Tesgüino — Rarámuri tradition](tesguino.md) · [Masato de yuca](masato-de-yuca.md) · [Caxiri](caxiri.md) · [American Lager](american-lager.md)
+
+[Traditional and Indigenous brewing](../categories/traditional-and-indigenous-beers.md) · [Starch-fermentation boundaries](../categories/starch-fermentation-and-beer-boundaries.md)
 
 Comparison links are not claims of direct ancestry.
 
@@ -74,3 +95,5 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^chicha-jora-study]: [Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage (2020)](https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage). Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana. Consulted 2026-10-27. Evidence used: full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093.
+
+[^trad-chicha-archaeology]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda and Mario Ruales. Consulted 2026-10-27. Evidence used: indexed original-paper brewery and interpretation sections plus PubMed metadata; full PMC page blocked during direct retrieval; DOI 10.1073/pnas.0508673102.

@@ -1,7 +1,5 @@
-# Editorial documentation
+# Editorial and maintenance
 
-[Research and evidence method](methodology.md) · [Coverage and gaps](coverage-and-gaps.md) · [Terminology](glossary.md) · [Reading with an LLM](reading-with-an-llm.md) · [Format mapping](format.md) · [Validation results](validation-report.md)
+[Research expansion 1.1](research-update-1-1.md) · [Research and evidence method](methodology.md) · [Coverage and known gaps](coverage-and-gaps.md) · [Brewing glossary](glossary.md) · [Reading with an LLM](reading-with-an-llm.md) · [OKF format mapping](format.md) · [Validation report](validation-report.md)
 
-These documents describe the [profile corpus](../styles/index.md) and its [source register](../references/source-register.md).
-
-[Home](../index.md)
+[Optional offline validator](../tools/validate_wiki.py) · [Source register](../references/source-register.md) · [Home](../index.md)

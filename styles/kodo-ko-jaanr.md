@@ -1,15 +1,16 @@
 ---
 type: Beer Tradition
 title: Kodo ko jaanr
-description: A sourced profile of Kodo ko jaanr, its character, brewing context, and important distinctions.
+description: Finger-millet kodo ko jaanr, microbial succession, and tongba service, with explicit distinctions between fermented
+  grain and extracted drink.
 tags:
 - finger-millet
 - mixed-starter
 - traditional
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:29:03Z'
 sources:
 - id: kodo-research
   resource: https://www.academia.edu/101230405/Product_characterization_of_kodo_ko_jaanr_fermented_finger_millet_beverage_of_the_Himalayas
@@ -17,6 +18,14 @@ sources:
   author: team:saroj-thapa-and-jyoti-prakash-tamang
   source_kind: primary-research
   access_scope: paper text, especially introduction and process description; DOI 10.1016/j.fm.2004.01.004
+  author_label: Saroj Thapa and Jyoti Prakash Tamang
+- id: trad-kodo-dynamics
+  resource: https://indianjournals.com/article/ijm-46-4-004
+  title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr, a traditional alcoholic beverage
+    of the Darjeeling hills and Sikkim (2006)
+  author: team:trad-kodo-dynamics-authors
+  source_kind: primary-research
+  access_scope: publisher abstract only; Indian Journal of Microbiology 46(4), 333–341
   author_label: Saroj Thapa and Jyoti Prakash Tamang
 aliases:
 - Tongba (serving tradition)
@@ -60,13 +69,25 @@ Cooked finger millet is cooled and mixed with marcha, a traditional fermentation
 
 Researchers examined samples from Darjeeling and Sikkim and described a wider Himalayan context. Tongba names the vessel and associated serving practice, not a separate universal recipe. This wiki therefore keeps them together rather than manufacturing two independent beer styles from the same evidence.[^kodo-research]
 
+## Changing organisms, changing product
+
+A later study followed fermentation over time. Mould populations declined while yeast and lactic acid bacterial populations changed at different rates; acidity and alcohol increased. The authors associated starch conversion with *Saccharomycopsis fibuligera* and *Rhizopus* species. The useful lesson is microbial succession, not a fixed list of organisms supposedly present at identical levels in every serving.[^trad-kodo-dynamics]
+
+The study also tested selected organism combinations under laboratory conditions. A successful experimental culture demonstrates a possible production method; it does not prove that household marcha everywhere has that same composition.[^trad-kodo-dynamics]
+
+## Record grain, ferment, and serving separately
+
+For a clear catalogue entry, retain three layers: the finger-millet ingredient, the fermented preparation, and the tongba/toongbaa serving vessel or practice. Keep the sampling stage attached to a laboratory result. A strength measured before serving is not automatically the strength of the first or later water extraction. See [Chhang](chhang.md) for a related comparison, without treating the names as interchangeable.
+
 ## Evidence note
 
-The description is limited to the sources below. A local observation or laboratory sample does not establish one recipe, strength, or flavor for every community or period.
+The 2004 product study supports the grain and serving description. The added 2006 study was available only as a publisher abstract and is used for its reported fermentation changes, not for an uninspected detailed protocol. Neither source defines all Himalayan millet beverages.
 
 ## Compare and explore
 
 [Bhaati jaanr](bhaati-jaanr.md) · [Mbege](mbege.md) · [Haria / Handia](haria.md) · [Makgeolli](makgeolli.md)
+
+[Traditional and Indigenous brewing](../categories/traditional-and-indigenous-beers.md) · [Starch-fermentation boundaries](../categories/starch-fermentation-and-beer-boundaries.md)
 
 Comparison links are not claims of direct ancestry.
 
@@ -75,3 +96,5 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^kodo-research]: [Product characterization of kodo ko jaanr: fermented finger millet beverage of the Himalayas (2004)](https://www.academia.edu/101230405/Product_characterization_of_kodo_ko_jaanr_fermented_finger_millet_beverage_of_the_Himalayas). Saroj Thapa and Jyoti Prakash Tamang. Consulted 2026-10-27. Evidence used: paper text, especially introduction and process description; DOI 10.1016/j.fm.2004.01.004.
+
+[^trad-kodo-dynamics]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr, a traditional alcoholic beverage of the Darjeeling hills and Sikkim (2006)](https://indianjournals.com/article/ijm-46-4-004). Saroj Thapa and Jyoti Prakash Tamang. Consulted 2026-10-27. Evidence used: publisher abstract only; Indian Journal of Microbiology 46(4), 333–341.

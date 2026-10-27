@@ -6,8 +6,8 @@ tags:
 - wiki-documentation
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:58Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:45:17Z'
 sources:
 - id: american-ipa
   resource: /styles/american-ipa.md
@@ -60,6 +60,33 @@ sources:
 - id: wild-specialty-beer
   resource: /styles/wild-specialty-beer.md
   title: Wild specialty beer
+- id: glossary-mould-and-mixed-starters
+  resource: /ingredients/mould-and-mixed-starters.md
+  title: Mould and mixed starters
+- id: glossary-rice
+  resource: /ingredients/rice.md
+  title: Rice
+- id: glossary-barley-and-malt
+  resource: /ingredients/barley-and-malt.md
+  title: Barley and malt
+- id: glossary-brewing-yeast
+  resource: /ingredients/brewing-yeast.md
+  title: Brewing yeast
+- id: glossary-kveik
+  resource: /ingredients/kveik.md
+  title: Kveik
+- id: glossary-hops
+  resource: /ingredients/hops.md
+  title: Hops
+- id: glossary-british-and-irish-ales
+  resource: /categories/british-and-irish-ales.md
+  title: British and Irish ales, cask and dispense
+- id: glossary-lagers-and-cold-conditioning
+  resource: /categories/lagers-and-cold-conditioning.md
+  title: Lagers and cold-conditioned beers
+- id: glossary-beer-classification
+  resource: /categories/beer-classification.md
+  title: How beer categories work
 ---
 
 # Brewing words in plain language
@@ -86,6 +113,21 @@ These short explanations are reading aids. Follow the linked profile for context
 | **Tannin** | A contributor to a drying or puckering sensation, distinct from sweetness and acidity. | [Wild specialty beer](../styles/wild-specialty-beer.md) |
 | **Base beer** | The underlying beer before a specialty ingredient or treatment is considered. | [Fruit beer](../styles/fruit-beer.md) |
 | **Style category** | A classification boundary used by a named reference system, not automatically a historical lineage. | [International Pale Lager](../styles/international-pale-lager.md) |
+
+## Additional process and classification terms
+
+| Term | Reading definition | Context and evidence |
+|---|---|---|
+| **Saccharification** | Breaking starch into smaller sugars through enzymes; distinct from alcoholic fermentation. | [Saccharification](../ingredients/mould-and-mixed-starters.md) |
+| **Gelatinization** | A heat-and-water change that makes starch more accessible; it is not itself fermentation. | [Gelatinization](../ingredients/rice.md) |
+| **Kilning and roasting** | Heat treatments that shape malt properties; their role differs from grain germination. | [Kilning and roasting](../ingredients/barley-and-malt.md) |
+| **Yeast strain** | A particular lineage or isolate within a species, with properties that need strain-specific evidence. | [Yeast strain](../ingredients/brewing-yeast.md) |
+| **Kveik** | Traditional Norwegian brewing cultures and related isolates; not one complete beer style. | [Kveik](../ingredients/kveik.md) |
+| **Starter culture** | Material carrying organisms used to initiate fermentation or starch conversion; it can contain more than yeast. | [Starter culture](../ingredients/mould-and-mixed-starters.md) |
+| **Hop creep** | Renewed fermentation associated with enzyme activity introduced by dry hopping under suitable conditions. | [Hop creep](../ingredients/hops.md) |
+| **Cask-conditioned beer** | In CAMRA’s account, beer continuing to condition in its cask and served without injected carbon dioxide. | [Cask-conditioned beer](../categories/british-and-irish-ales.md) |
+| **Lagering** | Cold conditioning, which should be described separately from the choice of yeast. | [Lagering](../categories/lagers-and-cold-conditioning.md) |
+| **Category axis** | The question used to group entries: ingredients, fermentation, sensory family, place, period or another stated dimension. | [Category axis](../categories/beer-classification.md) |
 
 ## References
 

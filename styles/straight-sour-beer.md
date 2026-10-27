@@ -1,15 +1,15 @@
 ---
 type: Specialty Beer Category
 title: Straight sour beer
-description: A sourced profile of Straight sour beer, its character, brewing context, and important distinctions.
+description: A clean lactic-sour reference that can be produced by several methods, including acid-producing yeast.
 tags:
 - specialty-category
 - sour
 - lactic-fermentation
 status: draft
 generated:
-  by: world-beer-wiki/1.0
-  at: '2026-10-27T19:09:57Z'
+  by: world-beer-wiki/1.1
+  at: '2026-10-27T19:34:30Z'
 sources:
 - id: bjcp-2021-28d
   resource: https://styles.bjcp.org/bjcp-2021-beer/28/28d-straight-sour-beer
@@ -18,12 +18,20 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: modern-lachancea-domizio
+  resource: https://doi.org/10.1002/jib.362
+  title: Lachancea thermotolerans as an alternative yeast for the production of beer
+  author: team:domizio-et-al
+  source_kind: primary-research
+  access_scope: 2016 research article; abstract, methods, results and discussion consulted
+  author_label: P. Domizio, J. F. House, C. M. L. Joseph, L. F. Bisson and C. W. Bamforth
 aliases: []
 regions:
 - International
 tradition_status: modern-category
 scope: BJCP 2021 classification category; not automatically a distinct historical tradition.
-evidence_basis: official-style-guideline
+evidence_basis: official definitions with attributed primary accounts or primary research; access limits recorded
+  per source
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
@@ -43,34 +51,30 @@ relations:
 
 # Straight sour beer
 
-**Specialty Beer Category** · International · modern category
+Straight sour beer is BJCP 2021 category 28D: a pale beer focused on clean lactic acidity, a light grain background and little hop expression. It is a sensory and judging category rather than the name of a single microorganism or piece of brewing equipment.[^bjcp-2021-28d]
 
-Straight sour beer is a pale, clean-tasting sour-beer category. The main impression is refreshing lactic acidity over a light grain background, without the earthy or barnyard-like character associated with some mixed-fermentation beers.[^bjcp-2021-28d]
+## Character and category boundaries
 
-## Character
+The reference is light-bodied and well carbonated, with sourness more prominent than bitterness. Some grain and fruity fermentation character support the acidity. It excludes Brett character and noticeable added fruit or spice; those additions can lead to specialty entries. The comparison with a stronger, less narrowly specified Berliner Weisse-like beer concerns the modern reference, not a claim of one continuous historical recipe.[^bjcp-2021-28d]
 
-Expect a light body, lively bubbles, and a dry to slightly rounded finish. Grain flavors may suggest bread or crackers, while fruit notes can resemble lemon, tart apple, or stone fruit. Hop aroma and bitterness are not the focus.[^bjcp-2021-28d]
+## Several routes to a related sensory target
 
-## Brewing and context
+BJCP explicitly permits kettle souring, yeast-and-bacteria co-fermentation, or specialized yeast that produces lactic acid.[^bjcp-2021-28d] “Straight sour” therefore should not be stored as an exact synonym of “kettle sour.” Conversely, a named process alone does not determine a beer's final style once other ingredients or treatments are added.
 
-The BJCP description allows ordinary brewing yeast with lactic-acid bacteria and does not require one souring method. Both co-fermentation and quick kettle souring can fit. The absence of Brett character matters more than a particular piece of equipment.[^bjcp-2021-28d]
+Domizio and colleagues' 2016 experiments provide primary evidence for the yeast route. They tested three Lachancea thermotolerans strains in wort and then examined one more closely. Lactic-acid production and pH effects differed among strains; the study supported the potential for sour-beer production without adding lactic-acid bacteria. The authors also reported that the studied beer's pH could remain higher than that of many sour beers.[^modern-lachancea-domizio]
 
-## History and interpretation
+The narrow inference is that some yeast strains can supply both alcoholic fermentation and acidification. It is not that every Lachancea culture behaves identically, or that every experimental beer automatically satisfies BJCP 28D.
 
-The reference compares it with a stronger, less narrowly specified Berliner Weisse-like beer. Fruit or spice additions can move a competition entry into Wild Specialty Beer. That boundary is a judging convention, not a claim that each variation has an independent historical origin.[^bjcp-2021-28d]
+## Reading route and evidence note
 
-## Evidence note
+Read [Berliner Weisse](berliner-weisse.md), [Gose](gose.md), [Mixed-Fermentation Sour Beer](mixed-fermentation-sour-beer.md) and [Wild Specialty Beer](wild-specialty-beer.md) for different combinations of tradition, ingredients and fermentation. Preserve the stated organism and process separately from the style label.
 
-This profile paraphrases a modern judging reference. Its flavor description is better supported than any claim of a single origin or an unchanged historical recipe. It is not a complete brewing recipe.
+The research study describes selected strains and conditions, while BJCP supplies a judging target. Neither establishes a universal recipe or microbial census of commercial sour beers.
 
-## Compare and explore
-
-[Berliner Weisse](berliner-weisse.md) · [Gose](gose.md) · [Wild specialty beer](wild-specialty-beer.md) · [Mixed-fermentation sour beer](mixed-fermentation-sour-beer.md)
-
-Comparison links are not claims of direct ancestry.
-
-[All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
+[Brewing bacteria](../ingredients/brewing-bacteria.md) · [Brewing yeast](../ingredients/brewing-yeast.md) · [Sour and mixed-fermentation beers](../categories/sour-and-mixed-fermentation-beers.md) · [All beer entries](index.md)
 
 ## Source notes
 
 [^bjcp-2021-28d]: [BJCP 2021: Straight sour beer](https://styles.bjcp.org/bjcp-2021-beer/28/28d-straight-sour-beer). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^modern-lachancea-domizio]: [Lachancea thermotolerans as an alternative yeast for the production of beer](https://doi.org/10.1002/jib.362). P. Domizio, J. F. House, C. M. L. Joseph, L. F. Bisson and C. W. Bamforth. Consulted 2026-10-27. Evidence used: 2016 research article; abstract, methods, results and discussion consulted.
