@@ -1,7 +1,7 @@
 ---
 type: Ingredient Reference
 title: Juniper branches, infusions and filtration
- description: unused
+description: Juniper branches, infusions and filtration; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:30:00Z'}
 scope: Plant parts and uses documented at Holo in Norway; not a botanical identification guide or one recipe for all Nordic beer.

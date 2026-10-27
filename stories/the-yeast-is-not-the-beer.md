@@ -1,7 +1,7 @@
 ---
 type: Evidence-Based Beer Story
 title: The yeast is not the beer
- description: unused
+description: The yeast is not the beer; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:35:00Z'}
 scope: A 2014 Voss field observation used as a route into culture, process and identity; no invented dialogue or universal kveik flavor claim.

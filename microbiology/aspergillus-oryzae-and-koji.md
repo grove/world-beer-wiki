@@ -1,7 +1,7 @@
 ---
 type: Microorganism and Starter Reference
 title: Aspergillus oryzae and rice koji
- description: unused
+description: Aspergillus oryzae and rice koji; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:20:00Z'}
 scope: The Japan Sake and Shochu Makers Association's account of sake koji; not every mold-assisted starter or every use of the fungus.

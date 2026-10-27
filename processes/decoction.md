@@ -1,7 +1,7 @@
 ---
 type: Brewing Process Reference
 title: Decoction and the distinction between mash and wort
- description: unused
+description: Decoction and the distinction between mash and wort; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:25:00Z'}
 scope: Introductory process explanation illustrated by two producers' accounts; not a universal requirement for lager or proof of unchanged historical recipes.

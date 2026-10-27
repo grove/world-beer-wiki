@@ -1,7 +1,7 @@
 ---
 type: Brewing Process Reference
 title: Baked mash in keptinis
- description: unused
+description: Baked mash in keptinis; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:25:00Z'}
 scope: The Jančys family's Lithuanian method observed by Garshol; not every beer called baked or bread beer.

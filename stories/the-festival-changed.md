@@ -1,7 +1,7 @@
 ---
 type: Evidence-Based Beer Story
 title: The festival changed
- description: unused
+description: The festival changed; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:35:00Z'}
 scope: Selected milestones in Munich's official Oktoberfest history, used to distinguish institutional continuity from an unchanged event or recipe.

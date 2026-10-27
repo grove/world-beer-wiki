@@ -1,7 +1,7 @@
 ---
 type: Archaeological Reasoning Story
 title: What ancient beer cannot tell us
- description: unused
+description: What ancient beer cannot tell us; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:35:00Z'}
 scope: Interpretation of the existing Shangshan and Mijiaya profiles; not a new archaeological analysis or a ranking of the world's oldest beer.

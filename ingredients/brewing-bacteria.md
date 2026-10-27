@@ -96,3 +96,9 @@ Traditional microbial communities may be described using older organism names in
 [^ing-lambic-succession]: [Wort Substrate Consumption and Metabolite Production During Lambic Beer Fermentation and Maturation Explain the Successive Growth of Specific Bacterial and Yeast Species (2018)](https://pubmed.ncbi.nlm.nih.gov/30510547/). Jonas De Roos, Peter Vandamme and Luc De Vuyst. Consulted 2026-10-27. Evidence used: indexed abstract; microbiological and metabolite study of a lambic production process; DOI 10.3389/fmicb.2018.02763.
 [^ing-sour-pitch]: [WildBrew Sour Pitch](https://www.lallemandbrewing.com/en/continental-europe/products/wildbrew-sour-pitch/). Lallemand Brewing. Consulted 2026-10-27. Evidence used: product description and named species Lactiplantibacillus plantarum; product-specific tolerance figures not generalized.
 [^ing-sour-solutions]: [Lallemand Sour Solutions: Strain Comparison](https://admin.lallemandbrewing.com/wp-content/uploads/2023/08/sour-solutions-bp-eng-digital-lalbrew-wildbrew-mascoma.pdf). Lallemand Brewing. Consulted 2026-10-27. Evidence used: PDF comparison of acid-producing bacteria and yeasts; product availability and ABV claims not used.
+
+## Atlas connections — added in edition 1.2
+
+[Microbial succession](../microbiology/microbial-succession.md) · [Lachancea yeast](../microbiology/lachancea.md) · [Kettle souring](../processes/kettle-souring.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

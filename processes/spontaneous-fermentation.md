@@ -1,7 +1,7 @@
 ---
 type: Brewing Process Reference
 title: Spontaneous inoculation and managed fermentation
- description: unused
+description: Spontaneous inoculation and managed fermentation; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:25:00Z'}
 scope: Lambic-based introduction and general distinctions among inoculation, culture composition and sensory outcome.

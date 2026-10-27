@@ -1,0 +1,7 @@
+# Generated documentation and site outputs
+.build/
+site/
+
+# Python maintenance-tool caches
+__pycache__/
+*.py[cod]

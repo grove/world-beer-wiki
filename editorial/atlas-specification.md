@@ -1,64 +1,106 @@
 ---
 type: Expansion Specification
 title: World Beer Atlas expansion specification
-description: Scope, architecture, acceptance criteria and implementation tracking for the cultural and scientific expansion.
-tags: [wiki-documentation, specification, roadmap]
+description: Scope, architecture, acceptance criteria and implementation tracking for the cultural and scientific
+  expansion.
+tags:
+- wiki-documentation
+- specification
+- roadmap
 status: draft
 generated:
   by: world-beer-wiki/1.2
-  at: '2026-10-27T20:10:51Z'
+  at: '2026-10-27T20:40:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
 specification_version: '1.0'
-implementation_status: in-progress
+implementation_status: first-installment-implemented
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
   title: Scope and evidence contract
   state: implemented
-  paths: [editorial/atlas-specification.md]
+  paths:
+  - editorial/atlas-specification.md
 - id: ATLAS-002
   title: Cultural case studies
-  state: planned
-  paths: []
+  state: implemented
+  paths:
+  - culture/index.md
+  delivered_scope: Six situated case studies; additional regions and independent community review remain outside
+    this installment.
 - id: ATLAS-003
   title: Calendar and historical events
-  state: planned
-  paths: []
+  state: implemented
+  paths:
+  - calendar/index.md
+  delivered_scope: Five entries and an explicit 2026 edition record; no live schedules or universal agricultural
+    calendar.
 - id: ATLAS-004
   title: Microbiology reference layer
-  state: planned
-  paths: []
+  state: implemented
+  paths:
+  - microbiology/index.md
+  delivered_scope: Nine bounded references; some deliberately retain corpus-only or producer-specific evidence.
 - id: ATLAS-005
   title: Botanicals and adjuncts
-  state: planned
-  paths: []
+  state: implemented
+  paths:
+  - ingredients/juniper.md
+  - ingredients/gesho.md
+  - ingredients/coriander.md
+  - ingredients/citrus-peel.md
+  - ingredients/lactose.md
+  - ingredients/smoked-malt.md
+  delivered_scope: Six focused references; not an exhaustive botanical or adjunct encyclopedia.
 - id: ATLAS-006
   title: Brewing process explanations
-  state: planned
-  paths: []
+  state: implemented
+  paths:
+  - processes/index.md
+  delivered_scope: Eight process explanations, not complete operational recipes.
 - id: ATLAS-007
   title: Objects and serving practices
-  state: planned
-  paths: []
+  state: implemented
+  paths:
+  - objects/index.md
+  delivered_scope: Four text-based object/service references; licensed illustrations deferred.
 - id: ATLAS-008
   title: Stories and sensory reading routes
-  state: planned
-  paths: []
+  state: implemented
+  paths:
+  - stories/index.md
+  - sensory/index.md
+  delivered_scope: Four narrative routes and two sensory reasoning guides.
 - id: ATLAS-009
   title: Typed evidence-bearing relationships
-  state: planned
-  paths: []
+  state: implemented
+  paths:
+  - tools/atlas.py
+  - editorial/reading-with-an-llm.md
+  delivered_scope: Initial qualified relation vocabulary, source preservation and reverse-edge export; no unsupported
+    ancestry edges.
 - id: ATLAS-010
   title: Offline exports, validation and tests
-  state: partial
-  paths: [.github/workflows/validate.yml, tools/validate_wiki.py]
+  state: implemented
+  paths:
+  - tools/atlas.py
+  - tests/test_atlas.py
+  - .github/workflows/validate.yml
+  - editorial/validation-report-1-2.md
+  delivered_scope: Offline checks, deterministic JSON exports, regression tests and read-only pull-request artifacts.
 - id: ATLAS-011
   title: Navigation and existing-profile integration
-  state: partial
-  paths: [index.md]
+  state: implemented
+  paths:
+  - index.md
+  - navigation/atlas.md
+  - references/atlas-sources.md
+  - tools/build_site.py
+  delivered_scope: Ten-layer navigation, source supplement and twelve original-article connection sections; searchable-site
+    compatibility preserved.
 - id: ATLAS-012
   title: Community and specialist review
   state: planned
@@ -75,7 +117,9 @@ work_items:
 
 # World Beer Atlas expansion specification
 
-**Working specification 1.0 · 27 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.0 · first installment implemented · 27 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+
+The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
 ## 1. Purpose and baseline
 
@@ -148,7 +192,7 @@ For this installment, a readable seasonal/event directory is in scope. Live sche
 
 ## 7. Relationship and retrieval contract
 
-Retain existing `compare_with` relations as editorial comparisons without ancestry implications. New factual relations should have `relation`, canonical `target`, `source_ids` and a nonempty `qualifier` stating the setting and limitation. All referenced sources must exist in the containing article, and all targets must also be linked in its body.
+Retain existing `compare_with` relations and the legacy `compares` spelling as editorial comparisons without ancestry implications. New articles use `compare_with`; exports preserve legacy spelling rather than silently changing existing metadata. New factual relations should have `relation`, canonical `target`, `source_ids` and a nonempty `qualifier` stating the setting and limitation. All referenced sources must exist in the containing article, and all targets must also be linked in its body.
 
 Initial relationship vocabulary: `compare_with`, `uses_ingredient`, `uses_process`, `associated_with`, `observed_organism`, and `uses_object`. `associated_with` is deliberately weaker than “invented by” or “descended from.” `observed_organism` must not become a mandatory ingredient claim. The first release does not encode unverified ancestry, ethnicity ownership, universal safety or exclusive invention.
 

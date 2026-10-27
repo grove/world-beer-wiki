@@ -1,7 +1,7 @@
 ---
 type: Ingredient Reference
 title: Gesho in tella
- description: unused
+description: Gesho in tella; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:30:00Z'}
 scope: A botanical and brewing-role distinction derived from the existing Ethiopian tella research profile; not a universal tella formulation.

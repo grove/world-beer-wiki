@@ -9,7 +9,7 @@ scope: A producer-described beechwood example and comparison with existing regio
 sources:
 - id: atlas-schlenkerla-smoke
   resource: https://www.schlenkerla.de/rauchbier/beschreibunge.html
-  title: Beer specialty: Schlenkerla smoked beer - Description and background
+  title: "Beer specialty: Schlenkerla smoked beer - Description and background"
   author_label: Schlenkerla
   source_kind: producer-primary-account
   access_scope: Producer's beechwood smoke and malt explanation; exclusivity, unchanged-history and consumption-promoting marketing not adopted.

@@ -87,3 +87,9 @@ This profile is restricted to the named communities and research locations. It d
 [^trad-apong-epop]: [ÉPOP (traditional starter culture): a complex composition of plant resources prepared by the Misings of Assam, Northeast India (2023)](https://link.springer.com/article/10.1186/s42779-023-00214-2). Rajiv Mili and R. C. Sundriyal. Consulted 2026-10-27. Evidence used: full-text original field study; Sivasagar survey and starter preparation sections.
 
 [^trad-assam-microbiota]: [Exploring the microbiota and metabolites of traditional rice beer varieties of Assam and their functionalities (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/). Santanu Das, Dibyayan Deb, Atanu Adak and Mojibur R. Khan. Consulted 2026-10-27. Evidence used: full-text original research; sampling design and biochemical and bacterial analyses.
+
+## Atlas connections — added in edition 1.2
+
+[ÉPOP and Mising starter knowledge](../culture/mising-starter-knowledge.md) · [Starch conversion](../processes/starch-conversion.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

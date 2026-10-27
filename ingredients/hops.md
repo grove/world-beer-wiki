@@ -108,3 +108,9 @@ Product descriptions are examples of current materials; they are not endorsement
 [^ing-yakima-handbook]: [A Brewer's Handbook: Survivable Compounds (2022)](https://tools.yakimachief.com/documents/Survivable-Compounds-Handbook-2022.pdf). Yakima Chief Hops. Consulted 2026-10-27. Evidence used: readable indexed glossary excerpts on alpha acids, additions and biotransformation; direct PDF text extraction was corrupted.
 [^ing-yakima-products]: [Introducing the Product Usage Matrix](https://www.yakimachief.eu/resources/product-usage-matrix). Yakima Chief Hops. Consulted 2026-10-27. Evidence used: product descriptions for whole cones, pellets, extracts and aroma products; commercial claims kept product-specific.
 [^ing-hop-creep]: [Evidence of Dextrin Hydrolyzing Enzymes in Cascade Hops (2018)](https://pubmed.ncbi.nlm.nih.gov/30084254/). Kaylyn R. Kirkpatrick and Thomas H. Shellhammer. Consulted 2026-10-27. Evidence used: indexed abstract; DOI 10.1021/acs.jafc.8b03563; Cascade-hop experiment, not a fixed effect for every beer.
+
+## Atlas connections — added in edition 1.2
+
+[Dry hopping and hop creep](../processes/dry-hopping-and-hop-creep.md) · [Flavor detective](../sensory/aroma-is-not-an-ingredient.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

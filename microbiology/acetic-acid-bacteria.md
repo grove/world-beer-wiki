@@ -35,7 +35,7 @@ A beer's sourness alone cannot supply the missing information. Nor can an analyt
 
 ## Read alongside
 
-[Pedicoccus damnosus](pediococcus-damnosus.md) provides a contrasting organism-specific case from the same investigation. [Lambic](../styles/lambic.md) gives the beverage context, and [Microbial succession](microbial-succession.md) explains why the order of changes matters.
+[Pediococcus damnosus](pediococcus-damnosus.md) provides a contrasting organism-specific case from the same investigation. [Lambic](../styles/lambic.md) gives the beverage context, and [Microbial succession](microbial-succession.md) explains why the order of changes matters.
 
 These references should be connected without turning a few observed species into a mandatory culture recipe. An association documented in one brewery remains valuable even when it is not universal.
 

@@ -106,3 +106,9 @@ Comparison links are not claims of direct ancestry.
 [^trad-tella-jimma]: [Studies on indigenous preparation practices, effects of ingredients, fermentation time and pasteurization on quality and shelf stability of tella (2016)](https://repository.ju.edu.et/handle/123456789/2072?show=full). Shilimat Tolossa. Consulted 2026-10-27. Evidence used: indexed Jimma University thesis abstract and metadata; full thesis not inspected.
 
 [^trad-tella-lab]: [Characterization of Autochthonous Lactic Acid Bacteria Isolated from a Traditional Ethiopian Beverage, Tella (2024)](https://pubmed.ncbi.nlm.nih.gov/38397552/). Gashaw Assefa Yehuala, Nurelegne Tefera Shibeshi, Su-Hyeon Kim and Mi-Kyung Park. Consulted 2026-10-27. Evidence used: PubMed metadata and indexed original-paper abstract; full PMC page blocked during retrieval.
+
+## Atlas connections — added in edition 1.2
+
+[Gesho](../ingredients/gesho.md) · [Ingredient directory](../ingredients/index.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

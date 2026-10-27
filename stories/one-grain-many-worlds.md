@@ -1,7 +1,7 @@
 ---
 type: Comparative Reading Route
 title: One grain, many worlds
- description: unused
+description: One grain, many worlds; scope, evidence and useful comparisons.
 status: draft
 generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:35:00Z'}
 scope: Maize as a comparison across three existing profiles; not an argument for common ancestry or identical cultural meaning.

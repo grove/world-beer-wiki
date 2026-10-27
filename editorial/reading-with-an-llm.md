@@ -56,3 +56,13 @@ For corpus counts, use the separate directories: beer/tradition profiles, ingred
 ## References
 
 These instructions describe use of the [corpus](../styles/index.md), [metadata conventions](format.md), and [editorial method](methodology.md). They are an editorial reading policy, not additional historical evidence.
+
+## Atlas extension — edition 1.2
+
+Use the [atlas directory](../navigation/atlas.md) to retrieve cultural, calendar, microbial, process, object, sensory and narrative articles. A story is a reading route, not independent confirmation of the articles it links. A corpus-based reference must retain its dependency on the original profile and that profile’s access limits.
+
+New factual relations include local `source_ids` and a `qualifier`. Keep both when following or exporting an edge. `associated_with` is not a claim of exclusive origin; `observed_organism` is not a mandatory culture ingredient; `compare_with` is editorial comparison, not ancestry. Do not infer `uses_ingredient` from an aroma word.
+
+Calendar metadata distinguishes seasonal descriptions, recurring events and dated historical events. Exact editions preserve `year`, `start`, `end`, `checked_on`, `source_id` and `evidence_status`. Compare dates with the actual question date; never turn an old organizer announcement into a current or upcoming schedule. Do not convert a local agricultural or religious calendar without verified rules.
+
+The optional [atlas utility](../tools/atlas.py) exports the catalog and reverse relations without dropping scope, sources or draft review status. Its progress report reads the [specification ledger](atlas-specification.md). “Implemented” means the named deliverable exists; it does not mean independent human verification or complete coverage of a culture.
