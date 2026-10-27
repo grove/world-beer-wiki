@@ -24,6 +24,20 @@ sources:
 
 World Beer Wiki is a plain Markdown knowledge base. Open [index.md](index.md), browse on GitHub, or load the directory into an LLM retrieval system. Keep relative paths intact. Reading requires no application, database or build step.
 
+## Browse the searchable website
+
+The optional [World Beer Wiki website](https://grove.github.io/world-beer-wiki/) renders these same Markdown articles with full-text search, responsive navigation, dark mode and direct article links. New pages are discovered automatically during the site build; the original wiki remains readable without dependencies.
+
+For a local preview, install Python 3.12 or later and run:
+
+```bash
+python -m pip install -r requirements-site.txt
+python tools/build_site.py
+python -m mkdocs serve -f .build/mkdocs.yml
+```
+
+The GitHub Actions workflow builds and validates pull requests, then publishes merges to `main` using GitHub Pages. In repository **Settings → Pages**, select **GitHub Actions** as the publishing source once. The live site will be available at the link above after the first successful deployment.
+
 ## What is included
 
 | Section | Entries | Purpose |
