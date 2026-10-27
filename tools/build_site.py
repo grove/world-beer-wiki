@@ -176,11 +176,11 @@ def navigation(pages, docs):
         items = subtree(folder, pages, docs)
         if items:
             research.append({label: items})
-    for path, label in (("README.md", "Reading guide"), ("log.md", "Release log")):
+    for path, label in (("reading-guide.md", "Reading guide"), ("log.md", "Release log")):
         if PurePosixPath(path) in pages:
             research.append({label: path})
 
-    known_roots = {"index.md", "README.md", "log.md"}
+    known_roots = {"index.md", "reading-guide.md", "log.md"}
     for path in sorted(p for p in pages if len(p.parts) == 1):
         if path.name not in known_roots:
             research.append({page_title(docs / path.as_posix()): path.as_posix()})
@@ -208,6 +208,9 @@ def build(root=ROOT):
     docs.mkdir(parents=True)
 
     for relative, source in wiki_files(root):
+        # MkDocs treats README.md as index.md: use a distinct output page name.
+        if relative == Path("README.md"):
+            relative = Path("reading-guide.md")
         target = docs / relative
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(source, target)
@@ -226,6 +229,12 @@ def build(root=ROOT):
     for path in pages:
         article = docs / path.as_posix()
         content = article.read_text(encoding="utf-8")
+        # Canonical source links to README.md still work in the rendered copy.
+        content = re.sub(
+            r"(\]\((?:\.\./|\./)*)README\.md(?=[#)\s])",
+            r"\1reading-guide.md",
+            content,
+        )
         if path == PurePosixPath("index.md"):
             content = insert_below_title(content, home_intro(pages))
         elif path.parts[0] in {"styles", "ingredients", "categories"}:

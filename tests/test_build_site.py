@@ -32,7 +32,7 @@ class BuildSiteTests(unittest.TestCase):
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
         self.write("mkdocs.yml", "site_name: Example\n")
-        self.write("index.md", "# Wiki\n\nIntroduction\n")
+        self.write("index.md", "# Wiki\n\n[Reading guide](README.md)\n")
         self.write("README.md", "# Reading guide\n")
         self.write("styles/index.md", "# Profiles\n")
         self.write(
@@ -62,6 +62,9 @@ class BuildSiteTests(unittest.TestCase):
         self.assertFalse((docs / "tools/hidden.md").exists())
         homepage = (docs / "index.md").read_text()
         self.assertIn("<strong>2</strong>", homepage)
+        self.assertIn("[Reading guide](reading-guide.md)", homepage)
+        self.assertTrue((docs / "reading-guide.md").is_file())
+        self.assertFalse((docs / "README.md").exists())
         self.assertIn("<strong>1</strong>", homepage)
         profile = (docs / "styles/amber-ale.md").read_text()
         self.assertIn("Research draft", profile)
