@@ -48,6 +48,10 @@ class BuildSiteTests(unittest.TestCase):
         self.write("future-section/index.md", "# New area\n")
         self.write("future-section/example.md", "# Future article\n")
         self.write("tools/hidden.md", "# Internal tool documentation\n")
+        self.write("tools/atlas.py", "# readable maintenance source\n")
+        self.write("tests/test_atlas.py", "# readable regression source\n")
+        self.write("culture/index.md", "# Culture\n")
+        self.write("culture/case.md", "---\ntitle: Case\ntype: Cultural Practice\nstatus: draft\n---\n\n# Case\n")
         self.write("website/assets/stylesheets/extra.css", "/* fixture */")
 
     def test_nav_search_aliases_and_growth(self):
@@ -60,6 +64,9 @@ class BuildSiteTests(unittest.TestCase):
         self.assertEqual(config["docs_dir"], str(docs))
         self.assertTrue((docs / "assets/stylesheets/extra.css").is_file())
         self.assertFalse((docs / "tools/hidden.md").exists())
+        self.assertTrue((docs / "tools/atlas.py").is_file())
+        self.assertTrue((docs / "tests/test_atlas.py").is_file())
+        self.assertIn("Research draft", (docs / "culture/case.md").read_text())
         homepage = (docs / "index.md").read_text()
         self.assertIn("<strong>2</strong>", homepage)
         self.assertIn("[Reading guide](reading-guide.md)", homepage)

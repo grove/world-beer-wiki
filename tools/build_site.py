@@ -215,11 +215,11 @@ def build(root=ROOT):
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(source, target)
 
-    # Keep the README maintenance-tool link valid on the published site.
-    validator = root / "tools" / "validate_wiki.py"
-    if validator.is_file():
-        (docs / "tools").mkdir(parents=True, exist_ok=True)
-        shutil.copy2(validator, docs / "tools" / "validate_wiki.py")
+    # Keep linked maintenance source readable without executing it in the site.
+    for folder in ("tools", "tests"):
+        for script in sorted((root / folder).glob("*.py")):
+            (docs / folder).mkdir(parents=True, exist_ok=True)
+            shutil.copy2(script, docs / folder / script.name)
 
     assets = root / "website" / "assets"
     if assets.is_dir():
@@ -237,7 +237,7 @@ def build(root=ROOT):
         )
         if path == PurePosixPath("index.md"):
             content = insert_below_title(content, home_intro(pages))
-        elif path.parts[0] in {"styles", "ingredients", "categories"}:
+        elif path.parts[0] in {"styles", "ingredients", "categories", "culture", "calendar", "microbiology", "processes", "objects", "sensory", "stories"}:
             content = article_chips(content)
         article.write_text(content, encoding="utf-8")
 

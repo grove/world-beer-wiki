@@ -109,3 +109,9 @@ The field account concerns one brewer, the tella paper concerns defined formulat
 [^tella-research]: [Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627356/). Birhanu, Teferra and Lema. Consulted 2026-10-27. Evidence used: full text; traditional baseline distinguished from experimental substitutions.
 [^bjcp-2021-24a]: [BJCP 2021: Witbier](https://styles.bjcp.org/bjcp-2021-beer/24/24a-witbier). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 [^bjcp-2021-10a]: [BJCP 2021: Weissbier](https://styles.bjcp.org/bjcp-2021-beer/10/10a-weissbier). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+## Atlas connections — added in edition 1.2
+
+[Juniper](juniper.md) · [Gesho](gesho.md) · [Coriander](coriander.md) · [Citrus peel](citrus-peel.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

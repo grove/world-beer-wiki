@@ -98,3 +98,9 @@ Comparison links are not claims of direct ancestry.
 [^garshol-voss]: [Brewing with kveik (2014)](https://www.garshol.priv.no/blog/291.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: author’s field observations or documented comparison; not an exhaustive regional survey.
 
 [^trad-voss-recreation]: [Brewing your own vossaøl (2014)](https://www.garshol.priv.no/blog/302.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: full firsthand brewing report; modern-equipment adaptation of Sigmund Gjernes’s method.
+
+## Atlas connections — added in edition 1.2
+
+[Yeast-storage tools](../objects/yeast-storage-tools.md) · [The yeast is not the beer](../stories/the-yeast-is-not-the-beer.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

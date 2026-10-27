@@ -100,3 +100,9 @@ Comparison links are not claims of direct ancestry.
 [^garshol-kornol]: [Brewing raw ale in Hornindal (2015)](https://www.garshol.priv.no/blog/342.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: author’s field observations or documented comparison; not an exhaustive regional survey.
 
 [^trad-norwegian-regions]: [Norwegian farmhouse ale styles (2017)](https://www.garshol.priv.no/blog/366.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: full author synthesis of fieldwork; regional naming and kornøl comparison.
+
+## Atlas connections — added in edition 1.2
+
+[Raw ale](../processes/raw-ale.md) · [Christmas brewing in Hornindal](../calendar/christmas-brewing-in-hornindal.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

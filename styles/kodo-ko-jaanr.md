@@ -98,3 +98,9 @@ Comparison links are not claims of direct ancestry.
 [^kodo-research]: [Product characterization of kodo ko jaanr: fermented finger millet beverage of the Himalayas (2004)](https://www.academia.edu/101230405/Product_characterization_of_kodo_ko_jaanr_fermented_finger_millet_beverage_of_the_Himalayas). Saroj Thapa and Jyoti Prakash Tamang. Consulted 2026-10-27. Evidence used: paper text, especially introduction and process description; DOI 10.1016/j.fm.2004.01.004.
 
 [^trad-kodo-dynamics]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr, a traditional alcoholic beverage of the Darjeeling hills and Sikkim (2006)](https://indianjournals.com/article/ijm-46-4-004). Saroj Thapa and Jyoti Prakash Tamang. Consulted 2026-10-27. Evidence used: publisher abstract only; Indian Journal of Microbiology 46(4), 333–341.
+
+## Atlas connections — added in edition 1.2
+
+[Tongba service](../objects/tongba-service.md) · [Starch conversion](../processes/starch-conversion.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

@@ -1,5 +1,11 @@
 # Release history
 
+## 2026-10-27 — Research edition 1.2
+
+Added 44 subject articles across culture, calendars, microbiology, focused ingredients, processes, objects, sensory reasoning and stories. The corpus now has 240 subject articles, while retaining all 166 beer/tradition profiles. Twelve original articles gained labelled reading links.
+
+Added a versioned [specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md), source supplement, evidence-qualified graph exports, calendar checks, regression tests and read-only validation artifacts. Preserved the searchable-site work and extended compatibility. Read [the research update](editorial/research-update-1-2.md) and [validation report](editorial/validation-report-1-2.md). Independent human/community review and licensed media remain unfinished.
+
 ## 2026-10-27 — Research edition 1.1
 
 Expanded to 166 beer and tradition profiles, 17 ingredient references and 13 category guides, with 260 external subject-source records. Added thirteen profiles and improved twenty-two existing ones while preserving all original canonical paths.

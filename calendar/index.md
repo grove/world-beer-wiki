@@ -1,0 +1,17 @@
+# Beer, seasons and calendars
+
+This is a **cultural and historical calendar**, not a live events service. A brewing season, a serving season and a festival date answer different questions. Timing below belongs to the stated place and source; it is not a universal northern-hemisphere calendar.
+
+| Entry | Timing and kind | What it explains |
+|---|---|---|
+| [Maibock and spring service](maibock-and-spring.md) | Spring, especially May; seasonal association in a German style reference | A serving association need not impose an exact brewing date. |
+| [Oktoberfest](oktoberfest.md) | Annual event with edition-specific dates; Munich | Historical change and a dated 2026 organizer listing. |
+| [Lambic's cool-season brewing](lambic-brewing-season.md) | October–March in the cited Belgian research account | Weather and cooling as production constraints, not a global rule. |
+| [Christmas brewing in Hornindal](christmas-brewing-in-hornindal.md) | A mid-December field observation published in 2015; Norway | Preparing for an occasion without inventing a national recipe or calendar law. |
+| [Toer de Geuze](toer-de-geuze.md) | Biennial organizer description; exact next dates not supplied | An event connecting makers, visitors and a collaborative blend. |
+
+The [Zoigl account](../culture/zoigl-communal-brewing.md) adds a different calendar: rotating household service through the year. [Mising starter knowledge](../culture/mising-starter-knowledge.md) documents festive exchange without pretending this installment has verified every festival's dating rule.
+
+**Unfilled months are gaps, not evidence that nothing happens then.** Southern-hemisphere harvests, local agricultural calendars and religious calendars need their own evidence. See the [tracked specification](../editorial/atlas-specification.md) for planned expansion.
+
+[Home](../index.md) · [Culture](../culture/index.md) · [Stories](../stories/index.md)

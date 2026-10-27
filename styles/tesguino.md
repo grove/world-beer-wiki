@@ -74,3 +74,9 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^tesguino-community]: [El saber colectivo del tesgüino rarámuri: una mirada lingüística a Norogachi (2023), pp. 183–213](https://revistas-filologicas.unam.mx/tlalocan/index.php/tl/article/download/602/666/1172). Jesús Villalpando Quiñonez, Alberta Espino Romero and Regina Espino Moreno. Consulted 2026-10-27. Evidence used: full journal PDF; community narrative and Spanish translation, especially printed pp. 197–198; pages visually checked.
+
+## Atlas connections — added in edition 1.2
+
+[Norogachi reciprocity account](../culture/tesguino-and-reciprocity.md) · [One grain, many worlds](../stories/one-grain-many-worlds.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

@@ -43,10 +43,19 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 | Section | Entries | Purpose |
 |---|---:|---|
 | [Beer and tradition profiles](styles/index.md) | 166 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 17 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Ingredients and cultures](ingredients/index.md) | 23 | Materials, processing forms, enzymes and fermentation organisms. |
 | [Category guides](categories/index.md) | 13 | Explanations and comparisons across families and classification axes. |
+| [Culture](culture/index.md) | 6 | Situated institutions, work, exchange and knowledge. |
+| [Calendar](calendar/index.md) | 5 | Seasons and edition-specific events. |
+| [Microbiology](microbiology/index.md) | 9 | Organisms, cultures and ecological evidence. |
+| [Processes](processes/index.md) | 8 | Transformations and production comparisons. |
+| [Objects and service](objects/index.md) | 4 | Equipment and ways of presenting drinks. |
+| [Sensory](sensory/index.md) | 2 | Flavor reasoning and evidence boundaries. |
+| [Stories](stories/index.md) | 4 | Evidence-based narrative reading routes. |
 
-The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which traces every external source record used by these three article sections to the pages citing it.
+That is **240 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.2 research update](editorial/research-update-1-2.md) document delivered and remaining scope.
+
+The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
 ## Reading an article
 
@@ -62,16 +71,20 @@ Preserve canonical paths when revising an article. Cite specific factual claims,
 
 ## Optional maintenance check
 
-The only supporting code is [tools/validate_wiki.py](tools/validate_wiki.py). It performs offline checks of metadata, citation identifiers, local file and anchor links, relations, directory membership and reachability. It does not validate historical truth or probe external sites.
+The [base validator](tools/validate_wiki.py) checks the Markdown corpus. The [atlas utility](tools/atlas.py) adds section, evidence-edge, calendar and implementation-ledger checks, plus deterministic JSON exports. It performs offline checks of metadata, citation identifiers, local file and anchor links, relations, directory membership and reachability. It does not validate historical truth or probe external sites.
 
 With Python 3.9 or later and PyYAML installed, run from the repository root:
 
 ```bash
 python tools/validate_wiki.py
 python tools/validate_wiki.py --json
+python tools/atlas.py check --json
+python -m unittest discover -s tests -v
+python tools/atlas.py catalog > atlas-catalog.json
+python tools/atlas.py progress > atlas-progress.json
 ```
 
-If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [validation report](editorial/validation-report.md) records the actual checks for this edition.
+If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [1.2 validation report](editorial/validation-report-1-2.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
 
 ## Sources and rights
 

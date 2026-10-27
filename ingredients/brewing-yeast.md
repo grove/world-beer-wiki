@@ -100,3 +100,9 @@ Genomic ancestry, commercial strain descriptions and sensory categories answer d
 [^ing-yeast-domestication]: [Domestication and Divergence of Saccharomyces cerevisiae Beer Yeasts (2016)](https://www.cell.com/article/S0092867416310716/pdf). Brigida Gallone and colleagues. Consulted 2026-10-27. Evidence used: article summary and research highlights; 157 industrial strains; DOI 10.1016/j.cell.2016.08.020.
 [^ing-lager-ancestry]: [Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast (2011)](https://pubmed.ncbi.nlm.nih.gov/21873232/). Diego Libkind and colleagues. Consulted 2026-10-27. Evidence used: indexed abstract; S. eubayanus ancestry of lager yeast; no single migration route or invention date inferred.
 [^ing-sour-solutions]: [Lallemand Sour Solutions: Strain Comparison](https://admin.lallemandbrewing.com/wp-content/uploads/2023/08/sour-solutions-bp-eng-digital-lalbrew-wildbrew-mascoma.pdf). Lallemand Brewing. Consulted 2026-10-27. Evidence used: PDF comparison of acid-producing bacteria and yeasts; product availability and ABV claims not used.
+
+## Atlas connections — added in edition 1.2
+
+[Microbial atlas](../microbiology/index.md) · [S. cerevisiae](../microbiology/saccharomyces-cerevisiae.md) · [Lager hybrids](../microbiology/lager-yeast-hybrids.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

@@ -93,3 +93,9 @@ Comparison links are not claims of direct ancestry.
 [^bjcp-2021-23d]: [BJCP 2021: Lambic](https://styles.bjcp.org/bjcp-2021-beer/23/23d-lambic). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 
 [^wiki-lambic-barrels]: [The Interior Surfaces of Wooden Barrels Are an Additional Microbial Inoculation Source for Lambic Beer Production (2018 online; 2019 issue)](https://journals.asm.org/doi/10.1128/AEM.02226-18). J. De Roos, D. Van der Veken and L. De Vuyst. Consulted 2026-10-27. Evidence used: publisher full text; abstract, introduction and results on six barrels in one traditional brewery.
+
+## Atlas connections — added in edition 1.2
+
+[Coolship](../objects/coolship.md) · [Cool-season brewing](../calendar/lambic-brewing-season.md) · [Spontaneous fermentation](../processes/spontaneous-fermentation.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

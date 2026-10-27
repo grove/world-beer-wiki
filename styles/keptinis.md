@@ -74,3 +74,9 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^garshol-keptinis]: [How to brew keptinis (2018)](https://www.garshol.priv.no/blog/394.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: author’s field observations or documented comparison; not an exhaustive regional survey.
+
+## Atlas connections — added in edition 1.2
+
+[Baked-mash process](../processes/baked-mash.md) · [Smoke, roast and wood](../sensory/smoke-roast-and-wood.md)
+
+These reading links extend navigation; the original source access notes above remain unchanged.

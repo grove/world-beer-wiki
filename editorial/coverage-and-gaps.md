@@ -22,6 +22,9 @@ sources:
 
 # Coverage and known gaps
 
+**Edition 1.2 note:** this page retains the 1.1 baseline. See [the atlas expansion](../editorial/research-update-1-2.md) and [new-subject directory](../navigation/atlas.md) for the additional layers and their limits.
+
+
 ## What the counts mean
 
 This edition has **166 canonical beer and tradition profiles**, **17 ingredient references**, and **13 educational category guides**: **196 subject articles** in total. They cite **260 distinct external source records**. A source record can be one official style page, product listing, field account or research paper; the count is not a count of independent scientific studies.
