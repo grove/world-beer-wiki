@@ -31,20 +31,27 @@ sources:
   title: Seeking Prehistoric Fermented Food in Japan and Korea (2021)
   author_label: Shinya Shoda
   source_kind: archaeology-review-abstract
-  access_scope: 'Publisher abstract: evidence assessment and identification uncertainty, not proof of
-    dated brewing at a specific site.'
+  access_scope: 'Publisher abstract: evidence assessment and identification uncertainty, not proof of dated
+    brewing at a specific site.'
+- id: v15-fibuligera
+  resource: https://academic.oup.com/femsyr/article/doi/10.1093/femsyr/foac066/6958799
+  title: Genomic and functional features of yeast species in Korean traditional fermented alcoholic beverage
+    and soybean products (2023)
+  author_label: FEMS Yeast Research authors
+  source_kind: primary-genomics-open-text
+  access_scope: Open journal text excerpts on Saccharomycopsis fibuligera isolates from Korean nuruk; isolate
+    results not representative of every starter.
 aliases:
 - 막걸리
 regions:
 - East Asia
 - South Korea
 tradition_status: living-tradition
-scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer
-  style.
+scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer style.
 evidence_basis: source-specific research
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/sake
@@ -54,6 +61,11 @@ relations:
   target: styles/tuak-rice
 - relation: compare_with
   target: styles/haria
+- relation: associated_with
+  target: microbiology/saccharomycopsis-fibuligera-in-starters
+  source_ids:
+  - v15-fibuligera
+  qualifier: Wheat-based nuruk isolate study; organism not asserted mandatory in all makgeolli.
 ---
 
 # Makgeolli
@@ -90,6 +102,12 @@ Comparison links are not claims of direct ancestry.
 
 A review of prehistoric fermentation evidence in Japan and Korea calls for care when linking modern fermented foods to archaeology. A shared grain or starter mechanism is not sufficient to establish uninterrupted recipe inheritance. Compare [the evidence discussion](../history/fermented-food-evidence-in-japan-and-korea.md).[^v14-japan]
 
+## Research extension 1.5: What a nuruk isolate can establish
+
+Genomic research on *Saccharomycopsis fibuligera* isolates from Korean wheat-based nuruk shows how a starch-active yeast may participate in the larger work of rice or grain fermentation. Saccharification is not synonymous with alcohol production, and the study of selected isolates is not a complete account of every makgeolli maker's starter.[^v15-fibuligera]
+
+The broader [starter-cake comparison](../categories/beer-starters-and-beverage-names.md) explains why the same biochemical problem can be solved by different regional practices. See also [starch-active yeasts](../microbiology/saccharomycopsis-fibuligera-in-starters.md).
+
 ## Source notes
 
 [^makgeolli-research]: [Chemical and sensory profiles of makgeolli, Korean commercial rice wine, from descriptive, chemical, and volatile compound analyses (2014)](https://www.pfigueiredo.org/as42.pdf). Heeyong Jung and colleagues. Consulted 2026-10-27. Evidence used: paper p. 624, abstract and introduction; DOI 10.1016/j.foodchem.2013.11.127.
@@ -101,3 +119,5 @@ The Republic of Korea's Cultural Heritage Administration identified **makgeolli 
 [^v13-korea-heritage]: [Makgeolli making and sharing designated as national intangible cultural heritage (2021)](https://www.korea.net/Government/Briefing-Room/Press-Releases/view?articleId=79559&insttCode=A260203&type=N). Cultural Heritage Administration, Republic of Korea. Consulted 2026-10-27. Evidence accessed: Government press release viewed; Korean *national* designation, not UNESCO listing.
 
 [^v14-japan]: [Seeking Prehistoric Fermented Food in Japan and Korea (2021)](https://www.journals.uchicago.edu/doi/full/10.1086/715808). Shinya Shoda. Consulted 2026-10-27. Access: Publisher abstract: evidence assessment and identification uncertainty, not proof of dated brewing at a specific site.
+
+[^v15-fibuligera]: [Genomic and functional features of yeast species in Korean traditional fermented alcoholic beverage and soybean products (2023)](https://academic.oup.com/femsyr/article/doi/10.1093/femsyr/foac066/6958799). FEMS Yeast Research authors. Consulted 2026-10-27. Source access: Open journal text excerpts on Saccharomycopsis fibuligera isolates from Korean nuruk; isolate results not representative of every starter.

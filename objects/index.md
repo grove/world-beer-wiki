@@ -21,3 +21,9 @@ No photograph, shape or traditional name alone certifies age, microbial composit
 ## New in research edition 1.4
 
 - [Nitrogenated draught beer and bubble cascades](nitrogenated-draught-and-bubbles.md) — Experimental fluid dynamics of a specific canned draught stout and its pouring behavior.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Wari brewing vats and kero drinking cups](wari-brewing-vats-and-kero-cups.md) — Material Culture Reference.

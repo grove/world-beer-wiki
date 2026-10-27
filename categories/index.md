@@ -32,3 +32,10 @@ Each guide links to canonical profiles and preserves the scope of its sources. A
 
 - [Beer, agriculture and environmental trade-offs](beer-environment-and-agriculture.md) — Evidence-oriented map of climate exposure, energy, water and circular-material questions.
 - [Beer, food and sensory context](beer-food-and-sensory-context.md) — Comparative guide from expert interviews and small consumer pairing studies.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Starter technologies cross borders; beverage names need not](beer-starters-and-beverage-names.md) — Comparative Category Guide.
+- [Two current judging frameworks, not one world beer taxonomy](bjcp-2021-versus-ba-2026.md) — Comparative Category Guide.

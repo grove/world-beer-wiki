@@ -26,3 +26,9 @@ The [Zoigl account](../culture/zoigl-communal-brewing.md) adds a different calen
 
 - [Beer in Ndau rain-petition ceremonies](ndau-rain-petitions-and-beer.md) — Ethnographic accounts in particular Ndau study sites; seasonal practice without asserted fixed dates.
 - [European hop ripening and changing seasonal timing](hop-harvest-and-changing-ripening.md) — Observed and projected seasonal shifts in selected hop-growing regions of Central Europe.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Brewing time and ceremonial time are not the same](brewing-time-versus-ceremonial-time.md) — Calendar Interpretation.

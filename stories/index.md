@@ -23,3 +23,11 @@ Each route distinguishes its evidence from its framing. Follow the linked articl
 
 - [Is the Hymn to Ninkasi really a beer recipe?](ninkasi-is-not-a-recipe.md) — Interpretive story using a literary translation and published historian book description.
 - [Can a changing climate change your beer?](will-climate-change-the-pint.md) — Story separating observed crop trends, models, and individual beer outcomes.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [A starter cake is not a strain catalogue](a-cake-is-a-community-not-a-strain.md) — Research Story.
+- [One beer, two judging books](one-title-two-guidelines.md) — Research Story.
+- [The brewery they closed with fire](the-brewery-they-closed-with-fire.md) — Research Story.

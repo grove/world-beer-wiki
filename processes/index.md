@@ -31,3 +31,11 @@ These are explanations, not complete recipes or validated food-production proced
 - [Wort boiling, precursors and dimethyl sulfide](wort-boiling-and-dms.md) — Pilot-scale DMS precursor research and its brewing-energy tradeoffs.
 - [Clarification, haze and colloidal stability](beer-clarification-and-stability.md) — Review-based account of suspended particles, filtration and intentional turbidity.
 - [Packaging, oxygen, light and beer aging](packaging-and-aging.md) — Chemical and microbiological explanations of quality changes after filling.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Dry starter cakes and the separation of fermentation tasks](starter-cakes-and-starch-conversion.md) — Brewing Process Reference.
+- [Laboratory isolates versus maintained brewing communities](isolates-and-living-starter-communities.md) — Brewing Process Reference.
+- [When archaeological brewing experiments help—and when they do not](archaeological-brewing-reconstruction.md) — Brewing Process Reference.

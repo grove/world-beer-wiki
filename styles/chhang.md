@@ -18,8 +18,8 @@ sources:
   title: Chhang — A barley based alcoholic beverage of Ladakh, India (2012)
   author: team:trad-chhang-ladakh-authors
   source_kind: primary-research
-  access_scope: repository full-text PDF, Indian Journal of Traditional Knowledge 11(1), 190–193; Leh and
-    Khaltsi fieldwork
+  access_scope: repository full-text PDF, Indian Journal of Traditional Knowledge 11(1), 190–193; Leh and Khaltsi
+    fieldwork
   author_label: Konchok Targais, Tsering Stobdan, Sunil Mundra, Zulfikar Ali, Ashish Yadav, Girish Korekar
     and Shashi Bala Singh
 - id: trad-chhang-balma
@@ -38,6 +38,21 @@ sources:
   source_kind: ethnographic-primary-research
   access_scope: Journal abstract and article metadata accessed; ethnography focused on Nubri, Nepal; avoid
     generalized Tibetan conclusions.
+- id: v15-himalaya-2019
+  resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full
+  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters
+    of the Eastern Himalayas (2019)
+  author_label: Frontiers in Microbiology research team
+  source_kind: primary-microbiology-open-text
+  access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community
+    differences; laboratory detections not proof of universal starter composition.'
+- id: v15-himalaya-review
+  resource: https://link.springer.com/article/10.1186/s42779-024-00260-4
+  title: 'Himalayan fermented beverages and their therapeutic properties: a comprehensive review (2024)'
+  author_label: Soumya Majumder and Malay Bhattacharya
+  source_kind: open-review
+  access_scope: Open review on Himalayan beverage variation and starter practice; medical claims and therapeutic
+    implications excluded.
 aliases: []
 regions:
 - South Asia
@@ -60,6 +75,11 @@ relations:
   target: styles/bhaati-jaanr
 - relation: compare_with
   target: styles/apong
+- relation: associated_with
+  target: culture/marcha-and-himalayan-starter-knowledge
+  source_ids:
+  - v15-himalaya-2019
+  qualifier: Source-bound practice from Eastern Himalayan communities; regional variation remains explicit.
 ---
 
 # Chhang — Himalayan grain-fermentation traditions
@@ -92,6 +112,14 @@ The Ladakhi full text was inspected; access to the Bhotiya paper was limited to 
 
 [All beer entries](index.md) · [Research method](../editorial/methodology.md)
 
+## Research extension 1.5: Marcha is a community-made starter, not a universal yeast strain
+
+Research on Eastern Himalayan dry starters describes marcha in communities across the Darjeeling hills, Sikkim, eastern Nepal and adjacent settings. Starch-active molds and yeasts and bacterial participants can coexist. Neither one isolate name nor a commercial starter label defines all locally named chhang.[^v15-himalaya-2019]
+
+A regional review describes differences in preparation timing, including how ambient conditions matter. It does not define one Gregorian “chhang brewing season” shared across the Himalayas.[^v15-himalaya-review]
+
+Read [Marcha as knowledge](../culture/marcha-and-himalayan-starter-knowledge.md) and [dry starter ecology](../microbiology/himalayan-dry-starter-diversity.md).
+
 ## Source notes
 
 [^trad-chhang-ladakh]: [Chhang — A barley based alcoholic beverage of Ladakh, India (2012)](https://nopr.niscpr.res.in/handle/123456789/13443). Konchok Targais, Tsering Stobdan, Sunil Mundra, Zulfikar Ali, Ashish Yadav, Girish Korekar and Shashi Bala Singh. Consulted 2026-10-27. Evidence used: repository full-text PDF, Indian Journal of Traditional Knowledge 11(1), 190–193; Leh and Khaltsi fieldwork.
@@ -103,3 +131,7 @@ The Ladakhi full text was inspected; access to the Bhotiya paper was limited to 
 A 2024 ethnographic paper studies the position of **chang** in the Nubri region of Nepal, including social relations and drinking contexts. Its locally situated account must not be projected onto all Tibetan-speaking communities or every beverage also spelled chhang. The [Nubri study guide](../culture/nubri-chang-and-social-life.md) explains the access limits; [tongba service](../objects/tongba-service.md) is a distinct comparative practice.[^v13-tibet-nubri]
 
 [^v13-tibet-nubri]: [Do Not Even Think about Giving Me Less Chang (2024)](https://journals.ed.ac.uk/himalaya/article/view/9440). Mason Brown, Jangchuk Sangmo Thakuri and Geoff Childs. Consulted 2026-10-27. Evidence accessed: Journal abstract and article metadata accessed; ethnography focused on Nubri, Nepal; avoid generalized Tibetan conclusions.
+
+[^v15-himalaya-2019]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full). Frontiers in Microbiology research team. Consulted 2026-10-27. Source access: Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community differences; laboratory detections not proof of universal starter composition.
+
+[^v15-himalaya-review]: [Himalayan fermented beverages and their therapeutic properties: a comprehensive review (2024)](https://link.springer.com/article/10.1186/s42779-024-00260-4). Soumya Majumder and Malay Bhattacharya. Consulted 2026-10-27. Source access: Open review on Himalayan beverage variation and starter practice; medical claims and therapeutic implications excluded.

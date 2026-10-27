@@ -1,8 +1,8 @@
 ---
 type: Beer Tradition
 title: Tella
-description: Ethiopian tella, gesho and prepared grains, with household-survey context and clear boundaries around laboratory
-  substitutions and preservation studies.
+description: Ethiopian tella, gesho and prepared grains, with household-survey context and clear boundaries
+  around laboratory substitutions and preservation studies.
 tags:
 - barley
 - herbal
@@ -15,27 +15,43 @@ generated:
 sources:
 - id: tella-research
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8627356/
-  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala
-    (2021)
+  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho
+    with Moringa stenopetala (2021)
   author: team:birhanu-teferra-and-lema
   source_kind: primary-research
   access_scope: full text; traditional baseline distinguished from experimental substitutions
   author_label: Birhanu, Teferra and Lema
 - id: trad-tella-jimma
   resource: https://repository.ju.edu.et/handle/123456789/2072?show=full
-  title: Studies on indigenous preparation practices, effects of ingredients, fermentation time and pasteurization on quality
-    and shelf stability of tella (2016)
+  title: Studies on indigenous preparation practices, effects of ingredients, fermentation time and pasteurization
+    on quality and shelf stability of tella (2016)
   author: human:shilimat-tolossa
   source_kind: primary-research-thesis
   access_scope: indexed Jimma University thesis abstract and metadata; full thesis not inspected
   author_label: Shilimat Tolossa
 - id: trad-tella-lab
   resource: https://pubmed.ncbi.nlm.nih.gov/38397552/
-  title: Characterization of Autochthonous Lactic Acid Bacteria Isolated from a Traditional Ethiopian Beverage, Tella (2024)
+  title: Characterization of Autochthonous Lactic Acid Bacteria Isolated from a Traditional Ethiopian Beverage,
+    Tella (2024)
   author: team:trad-tella-lab-authors
   source_kind: primary-research
   access_scope: PubMed metadata and indexed original-paper abstract; full PMC page blocked during retrieval
   author_label: Gashaw Assefa Yehuala, Nurelegne Tefera Shibeshi, Su-Hyeon Kim and Mi-Kyung Park
+- id: v15-ethiopia-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/
+  title: A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic
+    beverages in Ethiopia (2024)
+  author_label: Food Science and Nutrition review authors
+  source_kind: open-review
+  access_scope: Review article sections on tella and gesho; no universal process or health claims adopted.
+- id: v15-ethiopia-moringa
+  resource: https://pubmed.ncbi.nlm.nih.gov/34845435/
+  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho
+    with Moringa stenopetala (2021)
+  author_label: Ajanaw Maru Birhanu, Tadesse Fikre Teferra and Tesfu Bekele Lema
+  source_kind: primary-experiment-abstract
+  access_scope: 'PubMed indexed metadata and research summary: experimental ingredient substitution; not evidence
+    of historic customary practice.'
 aliases:
 - ጠላ
 regions:
@@ -45,7 +61,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary fermentation research; regional scope limited to cited samples
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/dolo
@@ -55,6 +72,11 @@ relations:
   target: styles/keptinis
 - relation: compare_with
   target: styles/gruit
+- relation: associated_with
+  target: ingredients/gesho-versus-moringa-in-a-tella-study
+  source_ids:
+  - v15-ethiopia-review
+  qualifier: Experimental substitution and documented botanical variability, not universal recipe advice.
 ---
 
 # Tella
@@ -99,6 +121,14 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Research extension 1.5: Botanical variation is not one prescribed recipe
+
+A review of Ethiopian cereal-based fermented drinks describes use of gesho leaves and stems in tella, while emphasizing regional cereal and processing variation. Gesho is a local botanical with specific preparation forms, not merely an alternative name for hops.[^v15-ethiopia-review]
+
+A 2021 experiment examined substitution with *Moringa stenopetala*. Its research question concerns measured fermentation outcomes, not proof that the substitute was part of all historic or contemporary household recipes.[^v15-ethiopia-moringa]
+
+Compare [gesho and moringa](../ingredients/gesho-versus-moringa-in-a-tella-study.md) with the [gesho botanical reference](../ingredients/gesho.md).
+
 ## Source notes
 
 [^tella-research]: [Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627356/). Birhanu, Teferra and Lema. Consulted 2026-10-27. Evidence used: full text; traditional baseline distinguished from experimental substitutions.
@@ -112,3 +142,7 @@ Comparison links are not claims of direct ancestry.
 [Gesho](../ingredients/gesho.md) · [Ingredient directory](../ingredients/index.md)
 
 These reading links extend navigation; the original source access notes above remain unchanged.
+
+[^v15-ethiopia-review]: [A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic beverages in Ethiopia (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/). Food Science and Nutrition review authors. Consulted 2026-10-27. Source access: Review article sections on tella and gesho; no universal process or health claims adopted.
+
+[^v15-ethiopia-moringa]: [Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala (2021)](https://pubmed.ncbi.nlm.nih.gov/34845435/). Ajanaw Maru Birhanu, Tadesse Fikre Teferra and Tesfu Bekele Lema. Consulted 2026-10-27. Source access: PubMed indexed metadata and research summary: experimental ingredient substitution; not evidence of historic customary practice.

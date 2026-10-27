@@ -33,3 +33,14 @@ Read alongside [Calendar and seasons](../calendar/index.md), [Objects and servic
 - [Tuba, migration and the Torres Strait](tuba-and-torres-strait-mobility.md) — A historical account of Torres Strait tuba diffusion after nineteenth-century contact; a related ferment, not grain beer.
 - [Mahua flowers in a Santhal livelihood study](santhal-mahua-flowers-and-livelihood.md) — 2009 fieldwork around Chandbill, Odisha, described in a 2016 study index; mahuli is distilled.
 - [Sahti in a Finnish UNESCO geopark landscape](sahti-and-local-finnish-identity.md) — Local-identity description in UNESCO’s Finnish geopark overview, not a UNESCO inscription for sahti.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [American brewing voices preserved in oral history](american-beer-oral-histories.md) — Cultural Case Study.
+- [Black Is Beautiful: an international brewing collaboration](black-is-beautiful-brewing-collaboration.md) — Cultural Case Study.
+- [How starter cultures carry technical and social knowledge](starter-transmission-and-community-knowledge.md) — Cultural Case Study.
+- [Marcha and named Himalayan starter traditions](marcha-and-himalayan-starter-knowledge.md) — Cultural Case Study.
+- [Oxford alewives: gender, trade and town regulation](alewives-and-oxford-town-life.md) — Cultural Case Study.
+- [Wari brewing, feasts and unequal access](wari-brewing-and-state-hospitality.md) — Cultural Case Study.

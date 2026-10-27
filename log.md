@@ -27,3 +27,7 @@ Added 55 researched reference articles across cultural practice, regional calend
 ## Research edition 1.4 — 27 October 2026
 
 Added 46 sourced entries across twelve subject areas including new environment and food sections; extended 19 existing profiles and technical references. Added 35 scoped source records and expanded progress tracking; kept all original 166 style URLs and the independently-reviewed status unchanged (not reviewed). See [research report](editorial/research-update-1-4.md), [validation](editorial/validation-report-1-4.md), [sources](references/atlas-sources-1-4.md).
+
+## 2026-10-27 — Research edition 1.5
+
+Added 31 sourced reference articles across twelve non-style layers and 14 cited extensions to existing entries. Introduced a deterministic all-subject index and CI stale-index check, edition-aware current style-guideline comparison, distinct source supplement and independent review queue. See [research update](editorial/research-update-1-5.md) and [scope tracker](editorial/atlas-progress.md). All 166 original named beer/tradition profile paths remain intact.

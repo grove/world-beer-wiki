@@ -210,3 +210,54 @@ The previous [names and aliases](all-names.md) index remains the 1.1 baseline. T
 - [Can a changing climate change your beer?](../stories/will-climate-change-the-pint.md) — stories
 - [Beer, agriculture and environmental trade-offs](../categories/beer-environment-and-agriculture.md) — categories
 - [Beer, food and sensory context](../categories/beer-food-and-sensory-context.md) — categories
+
+
+## Research edition 1.5: reading routes by question
+
+**What can an ancient brewing site prove?** [Cerro Baúl](../history/cerro-baul-wari-brewery.md) → [molle drupes](../ingredients/schinus-molle-in-andean-ferments.md) → [vats and keros](../objects/wari-brewing-vats-and-kero-cups.md) → [experimental interpretation](../processes/archaeological-brewing-reconstruction.md). This does not reconstruct a universal historic chicha recipe.
+
+**Who is missing from beer history?** [Medieval brewsters](../history/medieval-england-brewsters-and-change.md) → [Oxford sources](../culture/alewives-and-oxford-town-life.md) → [archival silence](../history/beer-records-and-archival-silence.md) → [US oral histories](../culture/american-beer-oral-histories.md).
+
+**One starter or many microbes?** [Marcha](../culture/marcha-and-himalayan-starter-knowledge.md) → [Eastern Himalayan sampling](../microbiology/himalayan-dry-starter-diversity.md) → [Vietnamese bánh men](../microbiology/vietnamese-banh-men-communities.md) → [amylolytic yeast](../microbiology/saccharomycopsis-fibuligera-in-starters.md).
+
+**Why two descriptions of bitterness?** [Sensory detection](../sensory/bitterness-is-not-one-number.md) → [hop polyphenols](../sensory/hop-polyphenols-and-astringency.md) → [food situations](../food/situational-pairing-and-storage-evidence.md) → [beer with food](../food/index.md).
+
+**Why two official style lists?** [BJCP 2021 versus BA 2026](../categories/bjcp-2021-versus-ba-2026.md) → [classification overview](../categories/beer-classification.md) → [West Coast Pilsner](../styles/west-coast-pilsner.md).
+
+### All 31 new references in edition 1.5
+
+| Article | Section |
+|---|---|
+| [Brewing time and ceremonial time are not the same](../calendar/brewing-time-versus-ceremonial-time.md) | calendar |
+| [Starter technologies cross borders; beverage names need not](../categories/beer-starters-and-beverage-names.md) | categories |
+| [Two current judging frameworks, not one world beer taxonomy](../categories/bjcp-2021-versus-ba-2026.md) | categories |
+| [American brewing voices preserved in oral history](../culture/american-beer-oral-histories.md) | culture |
+| [Black Is Beautiful: an international brewing collaboration](../culture/black-is-beautiful-brewing-collaboration.md) | culture |
+| [How starter cultures carry technical and social knowledge](../culture/starter-transmission-and-community-knowledge.md) | culture |
+| [Marcha and named Himalayan starter traditions](../culture/marcha-and-himalayan-starter-knowledge.md) | culture |
+| [Oxford alewives: gender, trade and town regulation](../culture/alewives-and-oxford-town-life.md) | culture |
+| [Wari brewing, feasts and unequal access](../culture/wari-brewing-and-state-hospitality.md) | culture |
+| [Brewing scale, irrigation and land use at Cerro Baúl](../environment/large-breweries-and-land-use-at-cerro-baul.md) | environment |
+| [Beer with food: separating situational associations from tasting tests](../food/situational-pairing-and-storage-evidence.md) | food |
+| [Brewsters and the changing English brewing economy](../history/medieval-england-brewsters-and-change.md) | history |
+| [Cerro Baúl: an excavated Wari brewery](../history/cerro-baul-wari-brewery.md) | history |
+| [Peoples Brewing: Black brewery ownership in 1970](../history/peoples-brewing-and-ownership.md) | history |
+| [Who is missing from brewing archives?](../history/beer-records-and-archival-silence.md) | history |
+| [Gesho and moringa: experiment versus local tradition](../ingredients/gesho-versus-moringa-in-a-tella-study.md) | ingredients |
+| [Schinus molle: pepper-tree drupes in Andean ferment history](../ingredients/schinus-molle-in-andean-ferments.md) | ingredients |
+| [Bacterial diversity in Eastern Himalayan dry starters](../microbiology/himalayan-dry-starter-diversity.md) | microbiology |
+| [Bánh men: microbial communities in Vietnamese starter cakes](../microbiology/vietnamese-banh-men-communities.md) | microbiology |
+| [Non-Saccharomyces isolates in Abidjan sorghum beer](../microbiology/non-saccharomyces-yeasts-in-abidjan-sorghum-beer.md) | microbiology |
+| [Saccharomycopsis fibuligera: a starch-active yeast](../microbiology/saccharomycopsis-fibuligera-in-starters.md) | microbiology |
+| [Wari brewing vats and kero drinking cups](../objects/wari-brewing-vats-and-kero-cups.md) | objects |
+| [Dry starter cakes and the separation of fermentation tasks](../processes/starter-cakes-and-starch-conversion.md) | processes |
+| [Laboratory isolates versus maintained brewing communities](../processes/isolates-and-living-starter-communities.md) | processes |
+| [When archaeological brewing experiments help—and when they do not](../processes/archaeological-brewing-reconstruction.md) | processes |
+| [Bitterness: a measured stimulus is not a universal taste](../sensory/bitterness-is-not-one-number.md) | sensory |
+| [Hop polyphenols, lingering bitterness and dryness](../sensory/hop-polyphenols-and-astringency.md) | sensory |
+| [Why a scientific sample is not a universal tasting profile](../sensory/research-samples-are-not-a-style-taste.md) | sensory |
+| [A starter cake is not a strain catalogue](../stories/a-cake-is-a-community-not-a-strain.md) | stories |
+| [One beer, two judging books](../stories/one-title-two-guidelines.md) | stories |
+| [The brewery they closed with fire](../stories/the-brewery-they-closed-with-fire.md) | stories |
+
+[Complete all-subject index](all-atlas-subjects.md) · [1.5 research update](../editorial/research-update-1-5.md)
