@@ -10,6 +10,8 @@ okf_version: "0.2"
 
 An English-language, source-referenced Markdown knowledge base for readers and LLM retrieval. Start with a named beer, explore its ingredients, then compare the traditions and processes around it. Articles distinguish current judging descriptions, local practice, related ferments and historical evidence.
 
+**Expansion in progress:** the [World Beer Atlas specification](editorial/atlas-specification.md) tracks cultural, calendar, microbial, process and storytelling work, acceptance criteria and the remaining scope.
+
 ## Choose a route
 
 | Start here | What you will find |
