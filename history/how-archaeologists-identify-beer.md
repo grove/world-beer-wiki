@@ -15,8 +15,7 @@ sources:
   title: Revealing a 5,000-y-old beer recipe in China (2016)
   author_label: Jiajing Wang, Li Liu and colleagues
   source_kind: archaeological-primary-research
-  access_scope: Open-access article text inspected; residues, phytoliths, vessel context and interpretive
-    limitations.
+  access_scope: Open-access article text inspected; residues, phytoliths, vessel context and interpretive limitations.
 - id: v13-shangshan
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC11665889/
   title: Identification of 10,000-year-old rice beer at Shangshan (2024)
@@ -29,15 +28,29 @@ sources:
   title: Fermented beverage and food storage in 13,000-y-old stone mortars at Raqefet Cave (2018)
   author_label: Li Liu and colleagues
   source_kind: archaeological-primary-research
-  access_scope: Abstract and publication summary; ritual-feasting interpretation is inference, not direct
-    observation.
+  access_scope: Abstract and publication summary; ritual-feasting interpretation is inference, not direct observation.
 - id: v14-neolithic
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC6600912/
   title: Specialized pottery and alcohol fermentation in Early Neolithic China (2019)
   author_label: Archaeological research team
   source_kind: archaeology-primary-open-text
-  access_scope: 'Open full study: starch, phytoliths and fungal residues support malt and mold-based
-    fermentation at studied north-China sites.'
+  access_scope: 'Open full study: starch, phytoliths and fungal residues support malt and mold-based fermentation
+    at studied north-China sites.'
+- id: v15-wari-2005
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
+    (2005)'
+  author_label: Michael E. Moseley and coauthors
+  source_kind: primary-archaeological-paper
+  access_scope: Indexed excerpts of open article text returned in search; direct page open presented a browser
+    challenge; excavation claims limited to retrieved passages, not unseen figures.
+- id: v15-wari-2024
+  resource: https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/
+  title: Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)
+  author_label: Donna J. Nash, Matthew E. Biwer and Emilee Witte
+  source_kind: peer-reviewed-archaeology-abstract
+  access_scope: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided
+    experiments; full paper not accessed.
 regions:
 - Cross-regional
 scope: A comparative evidence hierarchy for residues, grain structures, tools and modern reconstructions.
@@ -54,6 +67,11 @@ relations:
   target: history/raqefet-cave-brewing-evidence
 - relation: compare_with
   target: objects/archaeological-brewing-vessels
+- relation: associated_with
+  target: processes/archaeological-brewing-reconstruction
+  source_ids:
+  - v15-wari-2005
+  qualifier: Experimental methods aid residue interpretation; not an exact historical recipe.
 ---
 
 # How archaeologists infer beer without finding a recipe
@@ -86,6 +104,12 @@ The evidence ladder is editorial synthesis of named studies, not a systematic me
 
 An open study of Early Neolithic Chinese vessels combines starch, phytolith and fungal residues to infer differing saccharification methods, while explicitly noting that human mastication cannot be established from the available material. This illustrates how evidence strength and gaps should be reported. See [the case study](early-neolithic-malts-and-starters.md).[^v14-neolithic]
 
+## Research extension 1.5: From vessel residue to political production
+
+At Cerro Baúl, excavators assembled architectural, botanical and equipment evidence for a large brewery, while a later study compared experimental production with excavated deposits. The combination demonstrates why one microscopic particle or vessel shape is less persuasive than a converging archaeological context.[^v15-wari-2005][^v15-wari-2024]
+
+Explore the [excavated brewery](cerro-baul-wari-brewery.md) and [what experimental reconstructions can test](../processes/archaeological-brewing-reconstruction.md).
+
 ## Source notes
 
 [^v13-mijiaya]: [Revealing a 5,000-y-old beer recipe in China (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4988576/). Jiajing Wang, Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access article text inspected; residues, phytoliths, vessel context and interpretive limitations.
@@ -95,3 +119,7 @@ An open study of Early Neolithic Chinese vessels combines starch, phytolith and 
 [^v13-raqefet]: [Fermented beverage and food storage in 13,000-y-old stone mortars at Raqefet Cave (2018)](https://doi.org/10.1016/j.jasrep.2018.08.008). Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Abstract and publication summary; ritual-feasting interpretation is inference, not direct observation.
 
 [^v14-neolithic]: [Specialized pottery and alcohol fermentation in Early Neolithic China (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6600912/). Archaeological research team. Consulted 2026-10-27. Access: Open full study: starch, phytoliths and fungal residues support malt and mold-based fermentation at studied north-China sites.
+
+[^v15-wari-2005]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley and coauthors. Consulted 2026-10-27. Source access: Indexed excerpts of open article text returned in search; direct page open presented a browser challenge; excavation claims limited to retrieved passages, not unseen figures.
+
+[^v15-wari-2024]: [Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)](https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/). Donna J. Nash, Matthew E. Biwer and Emilee Witte. Consulted 2026-10-27. Source access: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided experiments; full paper not accessed.

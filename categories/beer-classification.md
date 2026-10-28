@@ -1,8 +1,8 @@
 ---
 type: Beer Category Guide
 title: How beer categories work
-description: A practical model for separating beer styles, local traditions, ingredients, processes,
-  and dated judging systems.
+description: A practical model for separating beer styles, local traditions, ingredients, processes, and dated
+  judging systems.
 tags:
 - classification
 - taxonomy
@@ -48,18 +48,37 @@ sources:
   source_kind: sensory-interview-abstract
   access_scope: 'Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles;
     not consumer preference laws.'
+- id: v15-bjcp-2021
+  resource: https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/
+  title: 'BJCP 2021 Beer Style Guidelines: Official Introduction'
+  author_label: Beer Judge Certification Program
+  source_kind: official-guideline
+  access_scope: 'Official current beer-guideline introduction: grouping decisions, judging use and edition;
+    not a global historical taxonomy.'
+- id: v15-ba-2026
+  resource: https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/
+  title: Brewers Association 2026 Beer Style Guidelines
+  author_label: Brewers Association
+  source_kind: official-guideline
+  access_scope: Official 2026 guideline directory and use terms; names/edition referenced, no copied, altered
+    or paraphrased guideline definitions.
 category_axis: multiple
-scope: Educational comparison across the linked profiles; not a new universal competition category or
-  an exhaustive world taxonomy.
+scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive
+  world taxonomy.
 evidence_basis: cited-primary-sources-and-editorial-comparison
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compares
   target: styles/kolsch
 - relation: compares
   target: styles/biere-de-garde
+- relation: associated_with
+  target: categories/bjcp-2021-versus-ba-2026
+  source_ids:
+  - v15-bjcp-2021
+  qualifier: Two separately published guidelines; neither a universal ancestry schema.
 ---
 
 # How beer categories work
@@ -104,6 +123,12 @@ Do not count aliases as additional styles, infer a genealogy from comparison lin
 
 A sensory-study abstract reports experts’ reasoning about beer and food combinations. Such contextual judgments are another dimension of experience, distinct from recipe, geography, fermentation and judging style. See [beer and food](../food/beer-food-pairing-as-a-hypothesis.md).[^v14-food]
 
+## Research extension 1.5: 2026 classification cross-check
+
+Two influential modern classification systems have different purposes and update cycles. BJCP’s currently published beer guide is the 2021 edition, while the Brewers Association’s public beer style directory is labeled 2026. The BJCP introduction says category groups are designed for judging characteristics rather than necessarily reflecting common heritage.[^v15-bjcp-2021][^v15-ba-2026]
+
+A category named in one framework can be absent or grouped differently in another. The wiki preserves each publisher and edition rather than synthesizing an imaginary universal classification. The [side-by-side guide](bjcp-2021-versus-ba-2026.md) explains how to interpret these claims without reproducing the BA’s protected guideline definitions.
+
 ## Source notes
 
 [^wiki-bjcp-introduction]: [BJCP 2021: Introduction to the guidelines](https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: Styles and Categories; purpose and limitations of judging categories.
@@ -115,3 +140,7 @@ A sensory-study abstract reports experts’ reasoning about beer and food combin
 [^bjcp-2021-24c]: [BJCP 2021: Bière de Garde](https://styles.bjcp.org/bjcp-2021-beer/24/24c-biere-de-garde). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 
 [^v14-food]: [From Expert Knowledge and Sensory Science to Food-and-Beer Pairing (2019)](https://www.sciencedirect.com/science/article/pii/S1878450X18300830). Food-pairing interview study authors. Consulted 2026-10-27. Access: Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles; not consumer preference laws.
+
+[^v15-bjcp-2021]: [BJCP 2021 Beer Style Guidelines: Official Introduction](https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/). Beer Judge Certification Program. Consulted 2026-10-27. Source access: Official current beer-guideline introduction: grouping decisions, judging use and edition; not a global historical taxonomy.
+
+[^v15-ba-2026]: [Brewers Association 2026 Beer Style Guidelines](https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/). Brewers Association. Consulted 2026-10-27. Source access: Official 2026 guideline directory and use terms; names/edition referenced, no copied, altered or paraphrased guideline definitions.

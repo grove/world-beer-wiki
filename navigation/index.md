@@ -9,3 +9,5 @@
 [Home](../index.md)
 
 - [Edition 1.3 atlas reading routes](atlas.md) — expanded cultural, historical and scientific subjects.
+
+[Complete index of every atlas subject](all-atlas-subjects.md) · [1.5 research routes and added pages](atlas.md)

@@ -22,3 +22,12 @@ This section distinguishes documented law, research on industry and the interpre
 - [Two approaches to starch conversion in Early Neolithic China](early-neolithic-malts-and-starters.md) — Residue-based inferences from selected north-China sites studied in a 2019 archaeological paper.
 - [Chimu-era chicha production at Manchan](chimu-chicha-at-manchan.md) — Publisher-abstract evidence from a 1989 excavation of north-coast Peru.
 - [The limits of fermentation evidence in prehistoric Japan and Korea](fermented-food-evidence-in-japan-and-korea.md) — Shinya Shoda’s 2021 review abstract and archaeological methodological questions.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Brewsters and the changing English brewing economy](medieval-england-brewsters-and-change.md) — Historical Research.
+- [Cerro Baúl: an excavated Wari brewery](cerro-baul-wari-brewery.md) — Historical Research.
+- [Peoples Brewing: Black brewery ownership in 1970](peoples-brewing-and-ownership.md) — Historical Research.
+- [Who is missing from brewing archives?](beer-records-and-archival-silence.md) — Historical Research.

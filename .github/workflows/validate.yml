@@ -29,6 +29,8 @@ jobs:
           if [ -d tests ]; then
             python -m unittest discover -s tests -v
           fi
+      - name: Check complete generated subject directory
+        run: python tools/build_subject_index.py --check
       - name: Build portable snapshot of tracked files
         if: always()
         run: |

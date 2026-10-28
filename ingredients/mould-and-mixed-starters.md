@@ -45,6 +45,21 @@ sources:
   source_kind: primary-research
   access_scope: indexed title and abstract excerpt only; limited to identification of mold-assisted fermentation
   author_label: Terry W. Henkel
+- id: v15-banhmen-2008
+  resource: https://pubmed.ncbi.nlm.nih.gov/18838186/
+  title: Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as determined
+    by PCR-mediated DGGE (2008)
+  author_label: Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan
+  source_kind: primary-microbiology-abstract
+  access_scope: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
+- id: v15-himalaya-2019
+  resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full
+  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters
+    of the Eastern Himalayas (2019)
+  author_label: Frontiers in Microbiology research team
+  source_kind: primary-microbiology-open-text
+  access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community
+    differences; laboratory detections not proof of universal starter composition.'
 aliases:
 - Mold and mixed starters
 - Saccharifying starters
@@ -75,6 +90,11 @@ relations:
   target: styles/sato
 - relation: compare_with
   target: styles/tuak-rice
+- relation: associated_with
+  target: microbiology/vietnamese-banh-men-communities
+  source_ids:
+  - v15-banhmen-2008
+  qualifier: Research samples reveal mixed communities; no inference of identical starters.
 ---
 
 # Mould and mixed starters
@@ -105,6 +125,12 @@ The sources cover defined producers and studies. They do not justify assigning o
 
 [Ingredient directory](index.md) · [All beer entries](../styles/index.md) · [Research method](../editorial/methodology.md)
 
+## Research extension 1.5: Measured microbial communities, not single starter names
+
+A 2008 study detected fungi and bacteria in 52 Vietnamese bánh men starter samples; a 2019 paper documents bacterial diversity in Eastern Himalayan dry starters. Their sampling designs illuminate mixed functional roles but also expose substantial within-type variation, especially among bacterial detections.[^v15-banhmen-2008][^v15-himalaya-2019]
+
+Compare the [Vietnamese starter study](../microbiology/vietnamese-banh-men-communities.md), [Himalayan samples](../microbiology/himalayan-dry-starter-diversity.md), and [tasks performed by starter cakes](../processes/starter-cakes-and-starch-conversion.md).
+
 ## Source notes
 
 [^ing-jssa-process]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/). Japan Sake and Shochu Makers Association. Consulted 2026-10-27. Evidence used: rice preparation, koji and parallel saccharification/fermentation sections.
@@ -112,3 +138,7 @@ The sources cover defined producers and studies. They do not justify assigning o
 [^ing-nuruk-bacteria]: [Pyrosequencing reveals bacterial diversity in Korean traditional wheat-based nuruk (2015)](https://pubmed.ncbi.nlm.nih.gov/26626351/). Jyotiranjan Bal and colleagues. Consulted 2026-10-27. Evidence used: indexed abstract; experimental and commercial wheat-based nuruk samples.
 [^ing-rice-starter-comparison]: [Comparative characteristics of rice wine fermentations using Monascus koji and rice nuruk (2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6049790/). Hyun Man Shin, Jae Woong Lim, Cheol Gon Shin and Chul Soo Shin. Consulted 2026-10-27. Evidence used: published methods and results; comparison of selected cultured starters, not all traditional nuruk or koji.
 [^parakari-study]: [Parakari, an indigenous fermented beverage using amylolytic Rhizopus in Guyana (2005)](https://pubmed.ncbi.nlm.nih.gov/16389951/). Terry W. Henkel. Consulted 2026-10-27. Evidence used: indexed title and abstract excerpt only; limited to identification of mold-assisted fermentation.
+
+[^v15-banhmen-2008]: [Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as determined by PCR-mediated DGGE (2008)](https://pubmed.ncbi.nlm.nih.gov/18838186/). Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan. Consulted 2026-10-27. Source access: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
+
+[^v15-himalaya-2019]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full). Frontiers in Microbiology research team. Consulted 2026-10-27. Source access: Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community differences; laboratory detections not proof of universal starter composition.

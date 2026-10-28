@@ -12,12 +12,19 @@ generated:
 sources:
 - id: v14-chimu
   resource: https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1989.91.3.02a00090
-  title: 'Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production
-    (1989)'
+  title: 'Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production (1989)'
   author_label: Jerry D. Moore
   source_kind: archaeology-primary-abstract
-  access_scope: 'Publisher abstract: Manchan excavations, labor, hospitality and pre-Hispanic context;
-    detailed excavation text not independently inspected.'
+  access_scope: 'Publisher abstract: Manchan excavations, labor, hospitality and pre-Hispanic context; detailed
+    excavation text not independently inspected.'
+- id: v15-wari-2005
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
+    (2005)'
+  author_label: Michael E. Moseley and coauthors
+  source_kind: primary-archaeological-paper
+  access_scope: Indexed excerpts of open article text returned in search; direct page open presented a browser
+    challenge; excavation claims limited to retrieved passages, not unseen figures.
 scope: Archaeological interpretation of Chimu-period Manchan; not a universal Andean labor system.
 evidence_basis:
 - archaeology-primary-abstract
@@ -28,8 +35,13 @@ relations:
   target: styles/chicha-de-jora
   source_ids:
   - v14-chimu
-  qualifier: Manchan archaeology describes maize chicha as labor-provisioning drink in a Chimu context,
-    not the modern recipe.
+  qualifier: Manchan archaeology describes maize chicha as labor-provisioning drink in a Chimu context, not
+    the modern recipe.
+- relation: associated_with
+  target: culture/wari-brewing-and-state-hospitality
+  source_ids:
+  - v15-wari-2005
+  qualifier: Comparison of social functions at different dates, without direct descent inference.
 ---
 
 # Chicha and labor reciprocity on Peru’s north coast
@@ -58,6 +70,14 @@ An archaeological production area helps establish scale, equipment and location.
 
 Archaeological interpretation of Chimu-period Manchan; not a universal Andean labor system. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
+## Research extension 1.5: Avoid confusing Wari feasting with later labor systems
+
+The Cerro Baúl brewery provides archaeological evidence of Wari organized production and ranked access to feasting, while other studies describe later and living systems of reciprocal work. These are comparisons of beer’s social roles, not evidence that one ritual descended directly from another.[^v15-wari-2005]
+
+Read [Wari state hospitality](wari-brewing-and-state-hospitality.md), [the site archaeology](../history/cerro-baul-wari-brewery.md), and this page’s separately documented reciprocal-work accounts.
+
 ## Source notes
 
 [^v14-chimu]: [Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production (1989)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1989.91.3.02a00090). Jerry D. Moore. Consulted 2026-10-27. Access: Publisher abstract: Manchan excavations, labor, hospitality and pre-Hispanic context; detailed excavation text not independently inspected.
+
+[^v15-wari-2005]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley and coauthors. Consulted 2026-10-27. Source access: Indexed excerpts of open article text returned in search; direct page open presented a browser challenge; excavation claims limited to retrieved passages, not unseen figures.

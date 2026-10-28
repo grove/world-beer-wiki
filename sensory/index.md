@@ -22,3 +22,11 @@ These are reading guides, not laboratory assays or a complete flavor-compound en
 - [Why beer flavor changes during storage](oxidative-aging.md) — 2022 open review of oxygen, transition metals and non-oxidative routes.
 - [Beer haze: intentional appearance or instability?](beer-haze-and-clarity.md) — Open review distinguishing physical colloidal and biological haze mechanisms.
 - [Nitrogenated beer, foam and visual perception](nitrogen-and-foam.md) — Fluid-mechanics experiment on Guinness bubble movement; not consumer hedonic results.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Bitterness: a measured stimulus is not a universal taste](bitterness-is-not-one-number.md) — Sensory Research Guide.
+- [Hop polyphenols, lingering bitterness and dryness](hop-polyphenols-and-astringency.md) — Sensory Research Guide.
+- [Why a scientific sample is not a universal tasting profile](research-samples-are-not-a-style-taste.md) — Sensory Research Guide.

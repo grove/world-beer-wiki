@@ -72,3 +72,10 @@ These are reference pages, not complete recipes, exhaustive ingredient inventori
 - [Mahua flowers as a fermented-beverage material](mahua-flowers.md) — Santhal livelihood report in Odisha: flowers can be fermented and distilled; not a beer botanical prescription.
 - [Brewers’ spent grain as a resource](brewers-spent-grain.md) — Residue from wort extraction and investigated food/feed/energy uses.
 - [Malt starch, gelatinization and enzyme action](malt-starch-structure.md) — 2024 review of barley starch structure and brewing conversion, not a prescriptive mash schedule.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Gesho and moringa: experiment versus local tradition](gesho-versus-moringa-in-a-tella-study.md) — Ingredient Reference.
+- [Schinus molle: pepper-tree drupes in Andean ferment history](schinus-molle-in-andean-ferments.md) — Ingredient Reference.

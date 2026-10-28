@@ -20,8 +20,7 @@ sources:
     of the entire world.
 - id: v13-korea-yeast26
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13305240/
-  title: Comparative analysis of fermentation characteristics of yeasts isolated from nuruk and makgeolli
-    (2026)
+  title: Comparative analysis of fermentation characteristics of yeasts isolated from nuruk and makgeolli (2026)
   author_label: Authors, Foods
   source_kind: primary-microbial-research
   access_scope: Open-access isolate experiments in YPD medium; not a sensory study of all makgeolli products.
@@ -32,10 +31,25 @@ sources:
   source_kind: archaeological-primary-research
   access_scope: Open-access full text inspected; fungal morphology and starch proxy, no live microorganisms
     recovered.
+- id: v15-himalaya-2019
+  resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full
+  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters
+    of the Eastern Himalayas (2019)
+  author_label: Frontiers in Microbiology research team
+  source_kind: primary-microbiology-open-text
+  access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community
+    differences; laboratory detections not proof of universal starter composition.'
+- id: v15-banhmen-2008
+  resource: https://pubmed.ncbi.nlm.nih.gov/18838186/
+  title: Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as determined
+    by PCR-mediated DGGE (2008)
+  author_label: Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan
+  source_kind: primary-microbiology-abstract
+  access_scope: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
 regions:
 - Cross-regional
-scope: Cross-cutting map of industrial yeast, mixed cultures, mold-assisted starts and archaeologically
-  inferred pathways.
+scope: Cross-cutting map of industrial yeast, mixed cultures, mold-assisted starts and archaeologically inferred
+  pathways.
 evidence_basis:
 - archaeological-primary-research
 - primary-microbial-genomics
@@ -51,6 +65,11 @@ relations:
   target: processes/starch-conversion
 - relation: compare_with
   target: history/how-archaeologists-identify-beer
+- relation: associated_with
+  target: categories/beer-starters-and-beverage-names
+  source_ids:
+  - v15-himalaya-2019
+  qualifier: Biochemical comparisons do not imply identical cultural identity.
 ---
 
 # Beyond ale versus lager: fermentation ecosystems
@@ -79,6 +98,12 @@ This category does not assert that every grain ferment is locally called beer, n
 - [How Archaeologists Identify Beer](../history/how-archaeologists-identify-beer.md)
 - [All categories entries](index.md)
 
+## Research extension 1.5: Dry-starter ecosystems across Asia
+
+Eastern Himalayan starter-cake research and Vietnamese bánh men studies both describe microbial ecosystems where starch hydrolysis, ethanol production and microbial acidification can involve different organisms. This is a useful functional comparison, but naming all such drinks “beer” would override locally documented beverage categories.[^v15-himalaya-2019][^v15-banhmen-2008]
+
+For a more precise comparison see [starter technologies and names](beer-starters-and-beverage-names.md) and [laboratory isolation versus community maintenance](../processes/isolates-and-living-starter-communities.md).
+
 ## Source notes
 
 [^v13-farmhouse26]: [Distinctive domestication of farmhouse beer yeasts preserved pre-industrial diversity (2026)](https://pubmed.ncbi.nlm.nih.gov/41946361/). Authors, Current Biology. Consulted 2026-10-27. Evidence accessed: PubMed abstract; 1,760 isolates from 44 cultures, four named countries; not representative of the entire world.
@@ -86,3 +111,7 @@ This category does not assert that every grain ferment is locally called beer, n
 [^v13-korea-yeast26]: [Comparative analysis of fermentation characteristics of yeasts isolated from nuruk and makgeolli (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13305240/). Authors, Foods. Consulted 2026-10-27. Evidence accessed: Open-access isolate experiments in YPD medium; not a sensory study of all makgeolli products.
 
 [^v13-shangshan]: [Identification of 10,000-year-old rice beer at Shangshan (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11665889/). Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access full text inspected; fungal morphology and starch proxy, no live microorganisms recovered.
+
+[^v15-himalaya-2019]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full). Frontiers in Microbiology research team. Consulted 2026-10-27. Source access: Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community differences; laboratory detections not proof of universal starter composition.
+
+[^v15-banhmen-2008]: [Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as determined by PCR-mediated DGGE (2008)](https://pubmed.ncbi.nlm.nih.gov/18838186/). Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan. Consulted 2026-10-27. Source access: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.

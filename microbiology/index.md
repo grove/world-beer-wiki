@@ -33,3 +33,12 @@ Existing overviews remain canonical: [brewing yeast](../ingredients/brewing-yeas
 - [Yeast flocculation and sedimentation](yeast-flocculation.md) — Brewing yeast aggregation, studied genes and environmental effects.
 - [Diacetyl: formation and removal during fermentation](diacetyl-formation-and-reduction.md) — Pathway-focused fermentation biochemistry review, not a universal flavor threshold.
 - [Yeast activity during bottle refermentation](refermentation-and-package-yeast.md) — Brewing review of residual yeast, aroma and oxygen use in selected refermented beers.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Bacterial diversity in Eastern Himalayan dry starters](himalayan-dry-starter-diversity.md) — Microbiology Reference.
+- [Bánh men: microbial communities in Vietnamese starter cakes](vietnamese-banh-men-communities.md) — Microbiology Reference.
+- [Non-Saccharomyces isolates in Abidjan sorghum beer](non-saccharomyces-yeasts-in-abidjan-sorghum-beer.md) — Microbiology Reference.
+- [Saccharomycopsis fibuligera: a starch-active yeast](saccharomycopsis-fibuligera-in-starters.md) — Microbiology Reference.

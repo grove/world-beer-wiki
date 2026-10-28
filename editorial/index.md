@@ -11,3 +11,5 @@
 
 - [Edition 1.4 research update](research-update-1-4.md) — new environmental and dining science with cultural/historical extensions.
 - [Edition 1.4 validation report](validation-report-1-4.md) — structural, export, regression and site-build checks.
+
+[Research edition 1.5](research-update-1-5.md) · [Validation 1.5](validation-report-1-5.md) · [Open evidence and community-review queue](source-review-queue-1-5.md)

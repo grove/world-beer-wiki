@@ -10,3 +10,9 @@ The chain from growing crops to serving a beer has resource and climate conseque
 - [Brewery water use, cleaning and wastewater](brewery-water-and-wastewater.md) — Industrial Greek brewery case study on water use, treatment and reuse, not a universal benchmark.
 - [Thermal energy and refrigeration in brewing](brewery-heat-and-refrigeration.md) — Systematic review of energy-intensive brewery operations, particularly scale differences.
 - [How to compare brewing environmental footprints](how-to-compare-brewing-footprints.md) — Method-focused comparison of competing resources and limits of brewery LCA studies.
+
+## Edition 1.5 research
+
+New evidence-based references (all retain draft status):
+
+- [Brewing scale, irrigation and land use at Cerro Baúl](large-breweries-and-land-use-at-cerro-baul.md) — Environment Research.

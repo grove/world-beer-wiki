@@ -52,10 +52,17 @@ sources:
 | ATLAS-029 | Revise canonical existing pages using new research | implemented | [styles/pito.md](../styles/pito.md) |
 | ATLAS-030 | Publish source provenance, tests and edition documentation | implemented | [references/atlas-sources-1-4.md](../references/atlas-sources-1-4.md) |
 | ATLAS-031 | Improve queryable provenance and data checks | implemented | [tools/atlas.py](../tools/atlas.py) |
+| ATLAS-032 | Cerro Baúl archaeology, materials and social context | implemented | [cerro-baul-wari-brewery.md](../history/cerro-baul-wari-brewery.md) · [wari-brewing-and-state-hospitality.md](../culture/wari-brewing-and-state-hospitality.md) · [wari-brewing-vats-and-kero-cups.md](../objects/wari-brewing-vats-and-kero-cups.md) |
+| ATLAS-033 | Documented labor, medieval trade and contemporary US voices | implemented | [medieval-england-brewsters-and-change.md](../history/medieval-england-brewsters-and-change.md) · [american-beer-oral-histories.md](../culture/american-beer-oral-histories.md) · [peoples-brewing-and-ownership.md](../history/peoples-brewing-and-ownership.md) |
+| ATLAS-034 | Mixed starters in Asian traditions and African isolate research | implemented | [himalayan-dry-starter-diversity.md](../microbiology/himalayan-dry-starter-diversity.md) · [vietnamese-banh-men-communities.md](../microbiology/vietnamese-banh-men-communities.md) · [non-saccharomyces-yeasts-in-abidjan-sorghum-beer.md](../microbiology/non-saccharomyces-yeasts-in-abidjan-sorghum-beer.md) |
+| ATLAS-035 | Botanicals, perception, food and research-stage uncertainty | implemented | [schinus-molle-in-andean-ferments.md](../ingredients/schinus-molle-in-andean-ferments.md) · [bitterness-is-not-one-number.md](../sensory/bitterness-is-not-one-number.md) · [situational-pairing-and-storage-evidence.md](../food/situational-pairing-and-storage-evidence.md) |
+| ATLAS-036 | Edition-aware current style guideline comparison | implemented | [bjcp-2021-versus-ba-2026.md](../categories/bjcp-2021-versus-ba-2026.md) · [one-title-two-guidelines.md](../stories/one-title-two-guidelines.md) |
+| ATLAS-037 | Complete source-derived subject directory and stale-index regression check | implemented | [all-atlas-subjects.md](../navigation/all-atlas-subjects.md) · [build_subject_index.py](../tools/build_subject_index.py) · [test_subject_index.py](../tests/test_subject_index.py) |
+| ATLAS-038 | Source register, review queue and existing-article research integration | implemented | [atlas-sources-1-5.md](../references/atlas-sources-1-5.md) · [source-review-queue-1-5.md](../editorial/source-review-queue-1-5.md) · [research-update-1-5.md](../editorial/research-update-1-5.md) |
 
 ## What remains
 
-**Independent human, community and specialist review has not occurred.** Edition 1.4 added 46 sourced subject pages and updated nineteen existing articles with new evidence, while retaining the earlier expansions. This is not independent historical verification; the reviewed-source access limitations remain in each article and the [1.3 supplement](../references/atlas-sources-1-3.md). Previously deferred licensed media and real-time interactive features remain deferred.
+**Independent human, community and specialist review has not occurred.** Edition 1.5 adds 31 pages and deepens fourteen pre-existing articles; earlier editions remain documented in their own reports. This is not independent historical verification; the reviewed-source access limitations remain in each article and the [1.5 supplement](../references/atlas-sources-1-5.md). Previously deferred licensed media and real-time interactive features remain deferred.
 
 ## Reproduce
 
@@ -69,4 +76,6 @@ python tools/atlas.py source-audit
 python -m unittest discover -s tests -v
 ```
 
-[Specification](atlas-specification.md) · [1.3 research update](research-update-1-3.md) · [Validation report](validation-report-1-3.md)
+[Specification](atlas-specification.md) · [1.5 research update](research-update-1-5.md) · [Validation report](validation-report-1-5.md)
+
+[Edition 1.5 research update](research-update-1-5.md) · [Complete subject index](../navigation/all-atlas-subjects.md) · [Outstanding review queue](source-review-queue-1-5.md)

@@ -1,8 +1,8 @@
 ---
 type: Beer Tradition
 title: Chicha de jora
-description: Peruvian sprouted-maize chicha de jora, with present-day production evidence and a separate,
-  qualified account of Wari brewing archaeology.
+description: Peruvian sprouted-maize chicha de jora, with present-day production evidence and a separate, qualified
+  account of Wari brewing archaeology.
 tags:
 - maize
 - malted-grain
@@ -14,38 +14,51 @@ generated:
 sources:
 - id: chicha-jora-study
   resource: https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage
-  title: 'Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented
-    Beverage (2020)'
+  title: 'Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage
+    (2020)'
   author: team:daniela-bassi-luigi-orru-jeison-cabanillas-vasquez-pier-sandro-cocconcelli-and-cecilia-fontana
   source_kind: primary-research
   access_scope: 'full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093'
-  author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia
-    Fontana
+  author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana
 - id: trad-chicha-archaeology
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
-  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl,
-    Peru (2005)'
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
+    (2005)'
   author: team:trad-chicha-archaeology-authors
   source_kind: primary-research
-  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata; full
-    PMC page blocked during direct retrieval; DOI 10.1073/pnas.0508673102
-  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda
-    and Mario Ruales
+  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata; full PMC page
+    blocked during direct retrieval; DOI 10.1073/pnas.0508673102
+  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda and
+    Mario Ruales
 - id: v13-chicha
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7022331/
   title: 'Peruvian chicha: a focus on the microbial populations (2020)'
   author_label: Authors, journal review
   source_kind: academic-review
-  access_scope: Full open review inspected; examples from particular Peruvian regions and sources, not
-    one uniform recipe.
+  access_scope: Full open review inspected; examples from particular Peruvian regions and sources, not one
+    uniform recipe.
 - id: v14-chimu
   resource: https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1989.91.3.02a00090
-  title: 'Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production
-    (1989)'
+  title: 'Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production (1989)'
   author_label: Jerry D. Moore
   source_kind: archaeology-primary-abstract
-  access_scope: 'Publisher abstract: Manchan excavations, labor, hospitality and pre-Hispanic context;
-    detailed excavation text not independently inspected.'
+  access_scope: 'Publisher abstract: Manchan excavations, labor, hospitality and pre-Hispanic context; detailed
+    excavation text not independently inspected.'
+- id: v15-wari-2005
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
+    (2005)'
+  author_label: Michael E. Moseley and coauthors
+  source_kind: primary-archaeological-paper
+  access_scope: Indexed excerpts of open article text returned in search; direct page open presented a browser
+    challenge; excavation claims limited to retrieved passages, not unseen figures.
+- id: v15-wari-2024
+  resource: https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/
+  title: Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)
+  author_label: Donna J. Nash, Matthew E. Biwer and Emilee Witte
+  source_kind: peer-reviewed-archaeology-abstract
+  access_scope: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided
+    experiments; full paper not accessed.
 aliases: []
 regions:
 - South America
@@ -57,8 +70,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary research or community-authored documentation
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/tesguino
@@ -68,6 +81,11 @@ relations:
   target: styles/caxiri
 - relation: compare_with
   target: styles/american-lager
+- relation: associated_with
+  target: history/cerro-baul-wari-brewery
+  source_ids:
+  - v15-wari-2005
+  qualifier: Wari-period maize drink comparison at Cerro Baúl, not a universal chicha formula.
 ---
 
 # Chicha de jora
@@ -116,6 +134,14 @@ Comparison links are not claims of direct ancestry.
 
 The archaeological account of Chimu-period Manchan links chicha production with provisioning and reciprocal obligations in a particular North Coast setting. This is not evidence that a living Andean chicha recipe is identical to a Chimu beverage. Read [the historical site](../history/chimu-chicha-at-manchan.md) and [labor reciprocity](../culture/chicha-and-labor-reciprocity.md).[^v14-chimu]
 
+## Research extension 1.5: Wari ceramic evidence complicates any single chicha recipe
+
+Excavation at Cerro Baúl documents a monumental Wari brewing operation where sprouted maize indicators, molle drupes, hearths and fermentation vessels occur together. The researchers explicitly leave open whether maize and molle were brewed separately or combined. This is archaeological evidence for site-specific production, not permission to treat one excavation as the authentic recipe of all Andean chicha.[^v15-wari-2005]
+
+A later study using excavated dregs and informant-guided experiments argues that Wari chicha production in the studied Moquegua province was largely organized through specialized facilities. The result contrasts with an easy assumption that all Wari households independently brewed the same beverage.[^v15-wari-2024]
+
+Explore [Cerro Baúl's brewery](../history/cerro-baul-wari-brewery.md), the role of [molle](../ingredients/schinus-molle-in-andean-ferments.md) and [state hospitality](../culture/wari-brewing-and-state-hospitality.md).
+
 ## Source notes
 
 [^chicha-jora-study]: [Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage (2020)](https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage). Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana. Consulted 2026-10-27. Evidence used: full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093.
@@ -129,3 +155,7 @@ A scientific synthesis of **chicha de jora** describes germinated maize, drying,
 [^v13-chicha]: [Peruvian chicha: a focus on the microbial populations (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7022331/). Authors, journal review. Consulted 2026-10-27. Evidence accessed: Full open review inspected; examples from particular Peruvian regions and sources, not one uniform recipe.
 
 [^v14-chimu]: [Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production (1989)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1989.91.3.02a00090). Jerry D. Moore. Consulted 2026-10-27. Access: Publisher abstract: Manchan excavations, labor, hospitality and pre-Hispanic context; detailed excavation text not independently inspected.
+
+[^v15-wari-2005]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley and coauthors. Consulted 2026-10-27. Source access: Indexed excerpts of open article text returned in search; direct page open presented a browser challenge; excavation claims limited to retrieved passages, not unseen figures.
+
+[^v15-wari-2024]: [Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)](https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/). Donna J. Nash, Matthew E. Biwer and Emilee Witte. Consulted 2026-10-27. Source access: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided experiments; full paper not accessed.

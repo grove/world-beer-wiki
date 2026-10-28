@@ -1,22 +1,22 @@
 ---
 type: Expansion Specification
 title: World Beer Atlas expansion specification
-description: Scope, architecture, acceptance criteria and implementation tracking for the cultural and
-  scientific expansion.
+description: Scope, architecture, acceptance criteria and implementation tracking for the cultural and scientific
+  expansion.
 tags:
 - wiki-documentation
 - specification
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.4
-  at: '2026-10-27T22:55:00Z'
+  by: world-beer-wiki/1.5
+  at: '2026-10-27T23:15:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.2'
-implementation_status: third-installment-implemented
+specification_version: '1.3'
+implementation_status: fourth-installment-implemented
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -29,8 +29,8 @@ work_items:
   state: implemented
   paths:
   - culture/index.md
-  delivered_scope: Six situated case studies; additional regions and independent community review remain
-    outside this installment.
+  delivered_scope: Six situated case studies; additional regions and independent community review remain outside
+    this installment.
 - id: ATLAS-003
   title: Calendar and historical events
   state: implemented
@@ -43,8 +43,7 @@ work_items:
   state: implemented
   paths:
   - microbiology/index.md
-  delivered_scope: Nine bounded references; some deliberately retain corpus-only or producer-specific
-    evidence.
+  delivered_scope: Nine bounded references; some deliberately retain corpus-only or producer-specific evidence.
 - id: ATLAS-005
   title: Botanicals and adjuncts
   state: implemented
@@ -81,8 +80,8 @@ work_items:
   paths:
   - tools/atlas.py
   - editorial/reading-with-an-llm.md
-  delivered_scope: Initial qualified relation vocabulary, source preservation and reverse-edge export;
-    no unsupported ancestry edges.
+  delivered_scope: Initial qualified relation vocabulary, source preservation and reverse-edge export; no unsupported
+    ancestry edges.
 - id: ATLAS-010
   title: Offline exports, validation and tests
   state: implemented
@@ -154,8 +153,7 @@ work_items:
   state: implemented
   paths:
   - categories/index.md
-  delivered_scope: Four new comparison guides, without collapsing local traditions into a global style
-    ladder.
+  delivered_scope: Four new comparison guides, without collapsing local traditions into a global style ladder.
 - id: ATLAS-021
   title: Meaningful updates to canonical existing profiles
   state: implemented
@@ -168,22 +166,22 @@ work_items:
   state: implemented
   paths:
   - references/atlas-sources-1-3.md
-  delivered_scope: A full source register for 1.3, validation and release notes. Structural tests cannot
-    substitute for expert review.
+  delivered_scope: A full source register for 1.3, validation and release notes. Structural tests cannot substitute
+    for expert review.
 - id: ATLAS-023
   title: Date-aware offline event and season export
   state: implemented
   paths:
   - tools/atlas.py
-  delivered_scope: Deterministic timeline export from metadata; does not predict future festival dates
-    or create notifications.
+  delivered_scope: Deterministic timeline export from metadata; does not predict future festival dates or create
+    notifications.
 - id: ATLAS-024
   title: Broaden culturally located social and ritual accounts
   state: implemented
   paths:
   - culture/index.md
-  delivered_scope: Seven located social and economic cases and two additional calendar references; no
-    community endorsement asserted.
+  delivered_scope: Seven located social and economic cases and two additional calendar references; no community
+    endorsement asserted.
 - id: ATLAS-025
   title: Expand archeological and industrial-science histories
   state: implemented
@@ -196,8 +194,8 @@ work_items:
   state: implemented
   paths:
   - environment/index.md
-  delivered_scope: Six cross-source articles on barley, hops, water, energy and spent grain; no universal
-    carbon ranking.
+  delivered_scope: Six cross-source articles on barley, hops, water, energy and spent grain; no universal carbon
+    ranking.
 - id: ATLAS-027
   title: Introduce evidence-based food pairing section
   state: implemented
@@ -209,34 +207,95 @@ work_items:
   state: implemented
   paths:
   - sensory/index.md
-  delivered_scope: Microbiology, ingredients, processes, objects and sensory material with traceable
-    references.
+  delivered_scope: Microbiology, ingredients, processes, objects and sensory material with traceable references.
 - id: ATLAS-029
   title: Revise canonical existing pages using new research
   state: implemented
   paths:
   - styles/pito.md
-  delivered_scope: Nineteen existing subject pages updated with sourced context and citations; canonical
-    URLs kept.
+  delivered_scope: Nineteen existing subject pages updated with sourced context and citations; canonical URLs
+    kept.
 - id: ATLAS-030
   title: Publish source provenance, tests and edition documentation
   state: implemented
   paths:
   - references/atlas-sources-1-4.md
-  delivered_scope: 35 source records with actual access scopes; validators and CI remain separate from
-    expert review.
+  delivered_scope: 35 source records with actual access scopes; validators and CI remain separate from expert
+    review.
 - id: ATLAS-031
   title: Improve queryable provenance and data checks
   state: implemented
   paths:
   - tools/atlas.py
-  delivered_scope: Add portable source-audit output and typed-target relation validation with focused
-    regression tests.
+  delivered_scope: Add portable source-audit output and typed-target relation validation with focused regression
+    tests.
+- id: ATLAS-032
+  title: Cerro Baúl archaeology, materials and social context
+  state: implemented
+  paths:
+  - history/cerro-baul-wari-brewery.md
+  - culture/wari-brewing-and-state-hospitality.md
+  - objects/wari-brewing-vats-and-kero-cups.md
+  delivered_scope: Original excavation and later abstract-based reassessment; no claim of exact ancient recipe
+    or empire-wide domestic production.
+- id: ATLAS-033
+  title: Documented labor, medieval trade and contemporary US voices
+  state: implemented
+  paths:
+  - history/medieval-england-brewsters-and-change.md
+  - culture/american-beer-oral-histories.md
+  - history/peoples-brewing-and-ownership.md
+  delivered_scope: Four source families with explicitly distinguished museum, book-abstract and archival evidence;
+    no oral histories passed off as listened-to.
+- id: ATLAS-034
+  title: Mixed starters in Asian traditions and African isolate research
+  state: implemented
+  paths:
+  - microbiology/himalayan-dry-starter-diversity.md
+  - microbiology/vietnamese-banh-men-communities.md
+  - microbiology/non-saccharomyces-yeasts-in-abidjan-sorghum-beer.md
+  delivered_scope: Microbial sampling, function and local naming remain separate; neither isolate detection
+    nor cultured strains certify safety.
+- id: ATLAS-035
+  title: Botanicals, perception, food and research-stage uncertainty
+  state: implemented
+  paths:
+  - ingredients/schinus-molle-in-andean-ferments.md
+  - sensory/bitterness-is-not-one-number.md
+  - food/situational-pairing-and-storage-evidence.md
+  delivered_scope: Ingredient-context, controlled sensory and Tuscan study interpretation with specific access
+    limits; no universal pairing prescription.
+- id: ATLAS-036
+  title: Edition-aware current style guideline comparison
+  state: implemented
+  paths:
+  - categories/bjcp-2021-versus-ba-2026.md
+  - stories/one-title-two-guidelines.md
+  delivered_scope: Compare BJCP beer 2021 and Brewers Association 2026 with attribution, without reproducing
+    proprietary category definitions.
+- id: ATLAS-037
+  title: Complete source-derived subject directory and stale-index regression check
+  state: implemented
+  paths:
+  - navigation/all-atlas-subjects.md
+  - tools/build_subject_index.py
+  - tests/test_subject_index.py
+  delivered_scope: All subject types included with deterministic sorting; CI and tests fail when the generated
+    directory is stale.
+- id: ATLAS-038
+  title: Source register, review queue and existing-article research integration
+  state: implemented
+  paths:
+  - references/atlas-sources-1-5.md
+  - editorial/source-review-queue-1-5.md
+  - editorial/research-update-1-5.md
+  delivered_scope: Twenty-two distinct referenced works with source access limits, fourteen existing-source
+    revisions and a review queue without claims of external sign-off.
 ---
 
 # World Beer Atlas expansion specification
 
-**Specification 1.2 · third installment implemented · 27 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.3 · fourth installment implemented · 27 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
 
 The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
@@ -359,3 +418,12 @@ The next research cycle should broaden living-source coverage in Africa, Central
 ## 11. Edition 1.4: environment, dining and historic inference
 
 The edition adds `environment/` and `food/` as evidence-based comparison sections. Environmental claims require defined geography and system boundaries; interview-based pairing strategies are not universally confirmed human preferences. Histories of science are distinguishable from earlier community techniques, and a literary hymn is not silently converted into a quantified brewing recipe. New source audit reports describe **provenance coverage**, not independent truth verification. The implementation ledger retains community/specialist review as planned, not completed.
+
+
+## 11. Edition 1.5 research and navigation requirements
+
+The source-backed 1.5 expansion records specific bounded case studies and increases the corpus to **372** subject articles. The 31 additions and fourteen existing-entry research extensions are listed in the [research update](research-update-1-5.md); the [complete subject index](../navigation/all-atlas-subjects.md) is deterministic and spans every subject section, including ones outside the original style/name lists. `python tools/build_subject_index.py --check` must pass in CI.
+
+Interpretation of oral-history catalog records must retain narrator and access distinctions; citation of an archive finding aid is *not* equivalent to reading an individual transcript. An excavated brewery supports a particular site, not an exact ancient recipe or proof of a direct living lineage. Microbiological detections must not be promoted to universal practices or food safety assessments. Style guideline version claims require both publisher and edition; do not combine 2021 BJCP and 2026 BA into one undated taxonomy. See the [source review queue](source-review-queue-1-5.md) for research not yet independently verified.
+
+**Current scope is finite and reviewable:** implementation of ATLAS-032 through ATLAS-038 completes those *specified deliverables only*. ATLAS-012 human/community review remains planned. Licensed media and interactive live calendars remain deferred. The remaining-source questions have responsible next actions, not false completion labels.

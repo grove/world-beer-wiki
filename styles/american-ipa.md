@@ -1,8 +1,8 @@
 ---
 type: Beer Style
 title: American IPA
-description: The American IPA reference, its ingredient and sensory boundaries, and the separate meanings
-  of regional and strength labels.
+description: The American IPA reference, its ingredient and sensory boundaries, and the separate meanings of
+  regional and strength labels.
 tags:
 - ale
 - hoppy
@@ -32,22 +32,35 @@ sources:
   author_label: Mertens and colleagues
   source_kind: open-oxidation-review
   access_scope: Open text on oxygen, metals and also non-oxidative aging; no shelf-life prediction.
+- id: v15-bitter-lab
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7352581/
+  title: Discrimination of Isointense Bitter Stimuli in a Beer Model System (2020)
+  author_label: Food science sensory research team
+  source_kind: primary-controlled-sensory-study
+  access_scope: 'Indexed abstract and methods summary: three experimental tasks with nonalcoholic beer and
+    defined bitterants; full paper not independently opened.'
+- id: v15-dryhop-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/pmid/37764422/
+  title: Effects of Dry-Hopping on Beer Chemistry and Sensory Properties—A Review (2023)
+  author_label: Molecules review authors
+  source_kind: open-science-review
+  access_scope: Open literature review on hop polyphenols, bitterness, aroma and analytical IBU limits; review
+    not direct replication.
 aliases:
 - American India pale ale
 regions:
 - North America
 tradition_status: contemporary
-scope: BJCP 2021 21A sensory reference, with one attributed producer example and editorial classification
-  guidance.
-evidence_basis: official definitions with attributed primary accounts or primary research; access limits
-  recorded per source
+scope: BJCP 2021 21A sensory reference, with one attributed producer example and editorial classification guidance.
+evidence_basis: official definitions with attributed primary accounts or primary research; access limits recorded
+  per source
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
   code: 21A
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/english-ipa
@@ -59,6 +72,11 @@ relations:
   target: styles/west-coast-ipa
 - relation: compare_with
   target: styles/session-ipa
+- relation: associated_with
+  target: sensory/bitterness-is-not-one-number
+  source_ids:
+  - v15-bitter-lab
+  qualifier: A sensory-method comparison, not a change to BJCP American IPA definition.
 ---
 
 # American IPA
@@ -93,6 +111,12 @@ The guideline establishes a modern target, while Stone's account documents its o
 
 A brewing stability review distinguishes oxidation involving metals and oxygen from non-oxidative aging. Stored hop-forward beer may change through several routes, so packaged flavor cannot be predicted by a single hop measurement. Explore [oxidative aging](../sensory/oxidative-aging.md).[^v14-aging]
 
+## Research extension 1.5: The limits of a single bitterness number
+
+Controlled sensory research tested whether consumers distinguished bitter stimuli even when their intensities were matched in a nonalcoholic beer model. A dry-hopping review also notes that analytical bitterness measures may diverge from perception when compounds and context vary. Thus a numeric IBU alone does not describe an IPA’s flavor.[^v15-bitter-lab][^v15-dryhop-review]
+
+See [different kinds of bitterness](../sensory/bitterness-is-not-one-number.md) and [hop-derived astringency](../sensory/hop-polyphenols-and-astringency.md).
+
 ## Source notes
 
 [^bjcp-2021-21a]: [BJCP 2021: American IPA](https://styles.bjcp.org/bjcp-2021-beer/21/21a-american-ipa). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
@@ -100,3 +124,7 @@ A brewing stability review distinguishes oxidation involving metals and oxygen f
 [^modern-stone-ipa]: [Stone IPA](https://www.stonebrewing.com/beer/year-round-releases/stone-ipa). Stone Brewing. Consulted 2026-10-27. Evidence used: product page and producer history; current product claims, not independent tasting.
 
 [^v14-aging]: [Transition Metals and Beer Oxidative Stability: Review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Mertens and colleagues. Consulted 2026-10-27. Access: Open text on oxygen, metals and also non-oxidative aging; no shelf-life prediction.
+
+[^v15-bitter-lab]: [Discrimination of Isointense Bitter Stimuli in a Beer Model System (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7352581/). Food science sensory research team. Consulted 2026-10-27. Source access: Indexed abstract and methods summary: three experimental tasks with nonalcoholic beer and defined bitterants; full paper not independently opened.
+
+[^v15-dryhop-review]: [Effects of Dry-Hopping on Beer Chemistry and Sensory Properties—A Review (2023)](https://pmc.ncbi.nlm.nih.gov/articles/pmid/37764422/). Molecules review authors. Consulted 2026-10-27. Source access: Open literature review on hop polyphenols, bitterness, aroma and analytical IBU limits; review not direct replication.
