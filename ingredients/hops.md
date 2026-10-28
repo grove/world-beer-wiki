@@ -17,29 +17,29 @@ sources:
   title: Hops — Beer Exam Study Guide
   author_label: Peter Garofalo; updated by Scott Bickham
   source_kind: official-technical-education
-  access_scope: botanical identity and distinction between measured and perceived bitterness; historical
-    and simplistic universal IBU claims not used
+  access_scope: botanical identity and distinction between measured and perceived bitterness; historical and simplistic
+    universal IBU claims not used
 - id: ing-yakima-handbook
   resource: https://tools.yakimachief.com/documents/Survivable-Compounds-Handbook-2022.pdf
   title: 'A Brewer''s Handbook: Survivable Compounds (2022)'
   author_label: Yakima Chief Hops
   source_kind: producer-technical-documentation
-  access_scope: readable indexed glossary excerpts on alpha acids, additions and biotransformation; direct
-    PDF text extraction was corrupted
+  access_scope: readable indexed glossary excerpts on alpha acids, additions and biotransformation; direct PDF text
+    extraction was corrupted
 - id: ing-yakima-products
   resource: https://www.yakimachief.eu/resources/product-usage-matrix
   title: Introducing the Product Usage Matrix
   author_label: Yakima Chief Hops
   source_kind: producer-technical-documentation
-  access_scope: product descriptions for whole cones, pellets, extracts and aroma products; commercial
-    claims kept product-specific
+  access_scope: product descriptions for whole cones, pellets, extracts and aroma products; commercial claims kept
+    product-specific
 - id: ing-hop-creep
   resource: https://pubmed.ncbi.nlm.nih.gov/30084254/
   title: Evidence of Dextrin Hydrolyzing Enzymes in Cascade Hops (2018)
   author_label: Kaylyn R. Kirkpatrick and Thomas H. Shellhammer
   source_kind: primary-research
-  access_scope: indexed abstract; DOI 10.1021/acs.jafc.8b03563; Cascade-hop experiment, not a fixed effect
-    for every beer
+  access_scope: indexed abstract; DOI 10.1021/acs.jafc.8b03563; Cascade-hop experiment, not a fixed effect for every
+    beer
 - id: v13-hopcreep
   resource: https://www.brewersassociation.org/educational-publications/hop-creep-technical-brief/
   title: Hop Creep – Technical Brief
@@ -51,38 +51,51 @@ sources:
   title: Climate-induced Decline in the Quality and Quantity of European Hops (2023)
   author_label: European hop climate researchers
   source_kind: climate-primary-open-text
-  access_scope: 'Open full study: historical records and projections for specific European growing regions;
-    not all worldwide hops.'
+  access_scope: 'Open full study: historical records and projections for specific European growing regions; not
+    all worldwide hops.'
 - id: v16-hop-review
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC10910910/
-  title: The two faces of microorganisms in traditional brewing and implications for no- and low-alcohol
-    beer (2024)
+  title: The two faces of microorganisms in traditional brewing and implications for no- and low-alcohol beer (2024)
   author_label: Review authors
   source_kind: open-scientific-review
-  access_scope: Open review text on iso-alpha acid antimicrobial effects, resistance and selected yeasts;
-    organism behavior depends on strain and conditions.
+  access_scope: Open review text on iso-alpha acid antimicrobial effects, resistance and selected yeasts; organism
+    behavior depends on strain and conditions.
 - id: v16-hop-primary
   resource: https://pubmed.ncbi.nlm.nih.gov/17021196/
   title: Characterization of a highly hop-resistant Lactobacillus brevis strain lacking hop transport (2006)
   author_label: Study authors
   source_kind: primary-microbiology-abstract
-  access_scope: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance
-    mechanisms, not a universal species trait.
+  access_scope: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance mechanisms,
+    not a universal species trait.
 - id: v18-hop-thiol-survey
   resource: https://brewingscience.de/index.php/brewingscience/article/view/106
   title: Determination of Variety Dependent Thiol Impact Based on LC-MS/MS Analysis (2024)
   author_label: Christina Schmidt, Laura Hoferer and Martin Biendl
   source_kind: primary-analytical-research-abstract
-  access_scope: 'Open journal abstract: 250 samples, 97 hop varieties and harvest/location variation;
-    not stable cultivar sensory grades.'
+  access_scope: 'Open journal abstract: 250 samples, 97 hop varieties and harvest/location variation; not stable
+    cultivar sensory grades.'
 - id: v18-hop-terpenes
   resource: https://www.sciencedirect.com/science/article/pii/S2772753X24000881
-  title: Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using
-    SPME-GC/MS (2024)
+  title: Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using SPME-GC/MS
+    (2024)
   author_label: Food Chemistry Advances authors
   source_kind: primary-model-fermentation-study
-  access_scope: 'Open publisher abstract: eleven terpenoid standards added individually to US-05 model
-    beer fermentation, not all finished beer recipes.'
+  access_scope: 'Open publisher abstract: eleven terpenoid standards added individually to US-05 model beer fermentation,
+    not all finished beer recipes.'
+- id: v114-oasts
+  resource: https://historicengland.org.uk/whats-new/research/back-issues/500-years-of-oasts-and-hop-kilns-in-england/
+  title: 500 Years of Oasts and Hop Kilns in England (2024)
+  author_label: Patrick Grattan / Historic England
+  source_kind: heritage-building-research
+  access_scope: 'Full accessible Historic England article: architecture, drying process, regional shifts, and source
+    limitations; figures and linked book not independently studied.'
+- id: v114-humulinone
+  resource: https://pubmed.ncbi.nlm.nih.gov/37716140/
+  title: Interactions between humulinone derived from aged hops and protein Z enhance foamability (2024 issue)
+  author_label: Chen Xu and colleagues
+  source_kind: primary-protein-chemistry-abstract
+  access_scope: PubMed indexed abstract of protein Z/humulinone interaction assays; model solution results are not
+    consumer tasting data or finished-beer foam guarantees.
 aliases:
 - Humulus lupulus
 regions:
@@ -93,8 +106,8 @@ evidence_basis:
 - primary-research
 - producer-technical-documentation
 source_checked_on: '2026-10-28'
-review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian
-  or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/english-ipa
@@ -155,6 +168,14 @@ A 2024 LC-MS/MS survey of **250 hop samples across 97 varieties** reported subst
 
 Follow [thiol precursors](polyfunctional-thiol-precursors.md), [terpenoid transformation](../sensory/hop-terpenoid-biotransformation.md), and [why aroma does not identify a hop](../stories/why-fruity-beer-does-not-identify-the-hop.md). Chemical measurements, perceived flavor and advertised descriptors ask different questions.
 
+
+
+## Edition 1.14: newly sourced connections
+
+The history of hops as a raw material also includes **how cones were made storable**. Historic England describes perishable green hops moving rapidly from field to oast, where drying and cooling preceded pressing into pockets. This is a material and labor history, not an analysis of a particular cultivar's aroma.[^v114-oasts]
+
+A separate protein-chemistry abstract reports that humulinone, an oxidized hop compound, interacted with protein Z and improved foam measurements under experimental conditions. This does **not** imply that intentionally storing hops poorly improves beer. Compare [dried-hop form](dried-hops-and-harvest-form.md), [humulinones](humulinones-and-aged-hops.md) and [their foam experiment](../sensory/protein-z-humulinone-foam.md).[^v114-humulinone]
+
 ## Source notes
 [^ing-hop-study-guide]: [Hops — Beer Exam Study Guide](https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/hops/). Peter Garofalo; updated by Scott Bickham. Consulted 2026-10-27. Evidence used: botanical identity and distinction between measured and perceived bitterness; historical and simplistic universal IBU claims not used.
 [^ing-yakima-handbook]: [A Brewer's Handbook: Survivable Compounds (2022)](https://tools.yakimachief.com/documents/Survivable-Compounds-Handbook-2022.pdf). Yakima Chief Hops. Consulted 2026-10-27. Evidence used: readable indexed glossary excerpts on alpha acids, additions and biotransformation; direct PDF text extraction was corrupted.
@@ -187,3 +208,6 @@ The [hop-resistant LAB reference](../microbiology/hop-resistant-lactic-acid-bact
 [^v18-hop-thiol-survey]: [Determination of Variety Dependent Thiol Impact Based on LC-MS/MS Analysis (2024)](https://brewingscience.de/index.php/brewingscience/article/view/106). Christina Schmidt, Laura Hoferer and Martin Biendl. Consulted 2026-10-28. Access: Open journal abstract: 250 samples, 97 hop varieties and harvest/location variation; not stable cultivar sensory grades.
 
 [^v18-hop-terpenes]: [Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using SPME-GC/MS (2024)](https://www.sciencedirect.com/science/article/pii/S2772753X24000881). Food Chemistry Advances authors. Consulted 2026-10-28. Access: Open publisher abstract: eleven terpenoid standards added individually to US-05 model beer fermentation, not all finished beer recipes.
+
+[^v114-oasts]: [500 Years of Oasts and Hop Kilns in England (2024)](https://historicengland.org.uk/whats-new/research/back-issues/500-years-of-oasts-and-hop-kilns-in-england/). Patrick Grattan / Historic England. Consulted 2026-10-28. Access: Full accessible Historic England article: architecture, drying process, regional shifts, and source limitations; figures and linked book not independently studied.
+[^v114-humulinone]: [Interactions between humulinone derived from aged hops and protein Z enhance foamability (2024 issue)](https://pubmed.ncbi.nlm.nih.gov/37716140/). Chen Xu and colleagues. Consulted 2026-10-28. Access: PubMed indexed abstract of protein Z/humulinone interaction assays; model solution results are not consumer tasting data or finished-beer foam guarantees.

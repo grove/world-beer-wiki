@@ -6,8 +6,8 @@ status: draft
 generated:
   by: world-beer-wiki/1.2
   at: '2026-10-27T20:30:00Z'
-scope: A botanical and brewing-role distinction derived from the existing Ethiopian tella research profile;
-  not a universal tella formulation.
+scope: A botanical and brewing-role distinction derived from the existing Ethiopian tella research profile; not
+  a universal tella formulation.
 tags:
 - ingredient
 - gesho
@@ -27,12 +27,20 @@ sources:
   access_scope: Existing Humulus lupulus identity and brewing-role discussion; not a fresh botanical survey.
 - id: v15-ethiopia-moringa
   resource: https://pubmed.ncbi.nlm.nih.gov/34845435/
-  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho
-    with Moringa stenopetala (2021)
+  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with
+    Moringa stenopetala (2021)
   author_label: Ajanaw Maru Birhanu, Tadesse Fikre Teferra and Tesfu Bekele Lema
   source_kind: primary-experiment-abstract
   access_scope: 'PubMed indexed metadata and research summary: experimental ingredient substitution; not evidence
     of historic customary practice.'
+- id: v114-tella
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/
+  title: A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic beverages
+    in Ethiopia (2024)
+  author_label: Tolcha Techane Alemu and colleagues
+  source_kind: peer-reviewed-secondary-ethnographic-review
+  access_scope: Open review sections on locally varying Ethiopian tella, gesho, smoked or cleaned vessels, and grain
+    preparations; original studies are not all independently inspected and no home-safety endorsement follows.
 source_checked_on: '2026-10-27'
 review_note: Research draft based on retained corpus evidence; direct primary-paper access and botanical review
   remain priorities.
@@ -76,9 +84,19 @@ A tella experiment investigated *Moringa stenopetala* as a substitute for gesho 
 
 Read the [bounded substitution case](gesho-versus-moringa-in-a-tella-study.md) and [tella’s documented variation](../styles/tella.md).
 
+
+
+## Edition 1.14: newly sourced connections
+
+A 2024 Ethiopian fermented-cereal review places gesho within a wider preparation that can include malt, toasted or baked grain, and household vessel care. It is a useful corrective to reducing tella to “barley plus an African hop substitute”: a named plant has a role within a socially transmitted process, not a guaranteed one-to-one sensory replacement.[^v114-tella]
+
+The review's descriptions of reported vessel fumigation also make clear that botanical additions and smoke treatments are independent variables. Keep local-language and plant-part identification scoped to the source; neither a review nor a general ingredient page validates unsupervised use. Explore [tella household knowledge](../culture/tella-household-vessels-and-hospitality.md) and [vessel fumigation](../processes/tella-vessel-fumigation-vs-smoked-malt.md).[^v114-tella]
+
 ## Source notes
 
 [^atlas-tella-context]: [Tella profile in World Beer Wiki](../styles/tella.md), retained research synthesis and the 2021 primary study. Direct access to the PMC source was blocked during this extension.
 [^atlas-hops-context]: [Hops reference in World Beer Wiki](hops.md), retained botanical identity and brewing context.
 
 [^v15-ethiopia-moringa]: [Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala (2021)](https://pubmed.ncbi.nlm.nih.gov/34845435/). Ajanaw Maru Birhanu, Tadesse Fikre Teferra and Tesfu Bekele Lema. Consulted 2026-10-27. Source access: PubMed indexed metadata and research summary: experimental ingredient substitution; not evidence of historic customary practice.
+
+[^v114-tella]: [A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic beverages in Ethiopia (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/). Tolcha Techane Alemu and colleagues. Consulted 2026-10-28. Access: Open review sections on locally varying Ethiopian tella, gesho, smoked or cleaned vessels, and grain preparations; original studies are not all independently inspected and no home-safety endorsement follows.

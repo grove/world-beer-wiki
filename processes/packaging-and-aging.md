@@ -28,8 +28,8 @@ sources:
   title: 'Bottle Conditioning: Technology and Mechanisms Applied in Refermented Beers (2020)'
   author_label: Brewing science review authors
   source_kind: open-technical-review
-  access_scope: Open full review on bottle refermentation, residual yeast, aroma and oxygen; not a homebrew
-    pressure recipe.
+  access_scope: Open full review on bottle refermentation, residual yeast, aroma and oxygen; not a homebrew pressure
+    recipe.
 - id: v18-aldehydes
   resource: https://brewingscience.de/index.php/brewingscience/article/view/517
   title: Technological strategies for controlling aldehyde formation in beer (2025)
@@ -42,15 +42,22 @@ sources:
   title: 'Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)'
   author_label: Tuur Mertens, Thomas Kunz and Brian R. Gibson
   source_kind: open-technical-review
-  access_scope: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels
-    are reported ranges, not regulatory limits.
+  access_scope: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels are reported
+    ranges, not regulatory limits.
 - id: v113-aldehydes-2025
   resource: https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548
   title: Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)
   author_label: Carolina Maia and David Cook
   source_kind: primary-analytical-beer-chemistry
-  access_scope: Publisher indexed full abstract and introduction; three commercial lager matrices after
-    freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.
+  access_scope: Publisher indexed full abstract and introduction; three commercial lager matrices after freeze-drying
+    and aldehyde spiking; not a shelf-life prediction for all beer.
+- id: v114-draught
+  resource: https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/
+  title: Draught Beer Quality Manual resource page (2026)
+  author_label: Brewers Association Technical Committee
+  source_kind: industry-technical-guidance
+  access_scope: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives;
+    numerical settings of the linked manual have not been independently assessed and are not prescribed.
 scope: Chemical and microbiological explanations of quality changes after filling.
 evidence_basis:
 - open-oxidation-review
@@ -100,6 +107,14 @@ A matrix-binding experiment with three commercial lager beers shows why aldehyde
 
 Read [bound and released aldehydes](../sensory/beer-matrix-bound-aldehydes.md) and [oxidative aging](../sensory/oxidative-aging.md) for related, separately scoped mechanisms.
 
+
+
+## Edition 1.14: newly sourced connections
+
+Packaging is not the last link in beer quality. The Brewers Association's guidance treats line cleaning, dispensing pressure, temperature and pouring as interdependent factors after a keg leaves the brewery. Those conditions can alter the drinking experience even when two kegs came from the same fermentation batch.[^v114-draught]
+
+This is service guidance, not experimental proof of each change in consumer perception. [Draught quality from keg to glass](draught-quality-from-keg-to-glass.md) and [draught equipment](../objects/draught-lines-and-gas-balance.md) extend the journey beyond filling and storage without inventing a universal pressure or freshness threshold.[^v114-draught]
+
 ## Source notes
 [^v14-aging]: [Transition Metals and Beer Oxidative Stability: Review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Mertens and colleagues. Consulted 2026-10-27. Access: Open text on oxygen, metals and also non-oxidative aging; no shelf-life prediction.
 
@@ -111,3 +126,5 @@ Read [bound and released aldehydes](../sensory/beer-matrix-bound-aldehydes.md) a
 [^v111-metals]: [Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Tuur Mertens, Thomas Kunz and Brian R. Gibson. Consulted 2026-10-28. Access: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels are reported ranges, not regulatory limits.
 
 [^v113-aldehydes-2025]: [Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)](https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548). Carolina Maia and David Cook. Consulted 2026-10-28. Access: Publisher indexed full abstract and introduction; three commercial lager matrices after freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.
+
+[^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.

@@ -18,6 +18,20 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v114-plzen
+  resource: https://www.prazdroj.cz/en/our-story/history
+  title: 'Prazdroj history: birth and spread of Pilsen lager'
+  author_label: Plzeňský Prazdroj
+  source_kind: producer-archival-history
+  access_scope: Full public producer-authored chronology; records the company's account of the 1842 Burghers Brewery,
+    brewing rights and later transport infrastructure; independent contemporaneous archives not checked.
+- id: v114-plzen-history
+  resource: https://www.breweryhistory.com/journal/archive/149/Rail.pdf
+  title: On the Founding of Pilsner Urquell (2012)
+  author_label: Evan Rail, Brewery History 149
+  source_kind: historical-research-indexed-excerpt
+  access_scope: Search-indexed beginning of the article, summarizing its use of the 1892 brewery jubilee history;
+    direct full article was blocked by web verification and is not represented as read.
 aliases:
 - Czech pilsner
 - Bohemian pilsner
@@ -71,6 +85,17 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+
+
+## Edition 1.14: newly sourced connections
+
+The Pilsen company chronology anchors Josef Groll's first batch at a new burghers' brewery on **5 October 1842**. That historical launch should not be treated as a flavor analysis of the 1842 beer or a declaration that all bottom fermentation began there. The contemporary judging style describes modern sensory expectations; the brewery history documents an institutional claim.[^v114-plzen]
+
+An indexed opening from Evan Rail's historical examination points to the brewery's 1892 jubilee narrative, which warrants scrutiny as a commemorative source. Compare [the full source-boundary discussion](../history/pilsen-1842-evidence-and-origin-myths.md) and [the town's brewing rights](../culture/pilsen-burgher-brewing-rights.md). The original PDF could not be inspected in full.[^v114-plzen-history]
+
 ## Source notes
 
 [^bjcp-2021-3b]: [BJCP 2021: Czech Premium Pale Lager](https://styles.bjcp.org/bjcp-2021-beer/3/3b-czech-premium-pale-lager). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^v114-plzen]: [Prazdroj history: birth and spread of Pilsen lager](https://www.prazdroj.cz/en/our-story/history). Plzeňský Prazdroj. Consulted 2026-10-28. Access: Full public producer-authored chronology; records the company's account of the 1842 Burghers Brewery, brewing rights and later transport infrastructure; independent contemporaneous archives not checked.
+[^v114-plzen-history]: [On the Founding of Pilsner Urquell (2012)](https://www.breweryhistory.com/journal/archive/149/Rail.pdf). Evan Rail, Brewery History 149. Consulted 2026-10-28. Access: Search-indexed beginning of the article, summarizing its use of the 1892 brewery jubilee history; direct full article was blocked by web verification and is not represented as read.

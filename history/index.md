@@ -72,3 +72,10 @@ New evidence-based references (all retain draft status):
 
 - [Jiahu archaeology: what changed between 2004 and 2026?](jiahu-2004-to-2026-reinterpretation.md) — Two analytical arguments about the same Neolithic site, showing why the evidence for ingredients and processes remains conditional.
 - [Shang and Zhou bronze vessels: different evidence from Jiahu](shang-zhou-bronze-fermented-beverages.md) — Ancient sealed vessels and their contents described by a 2004 analytical study, distinct from earlier pottery residue inferences.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [American beer: domestic labor, immigration and the rise of industry](american-beer-households-immigration-and-industry.md) — Smithsonian collection-level evidence for changing American brewing work and its archival limits.
+- [Pilsen 1842: between company chronicle and historical source](pilsen-1842-evidence-and-origin-myths.md) — What a producer chronology and a later historian can support about Pilsen brewing and what they cannot.
+- [When hop kilns became heritage buildings](from-oast-to-preserved-building.md) — What an English building survey can tell us about changing hop technology and land use.

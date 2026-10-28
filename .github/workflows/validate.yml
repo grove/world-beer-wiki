@@ -45,6 +45,8 @@ jobs:
         run: python tools/research_quality.py --edition 1.12 --json > research-quality-1-12.json
       - name: Check edition 1.13 research hygiene
         run: python tools/research_quality.py --edition 1.13 --json > research-quality-1-13.json
+      - name: Check edition 1.14 research hygiene
+        run: python tools/research_quality.py --edition 1.14 --json > research-quality-1-14.json
       - name: Verify inventory counts
         run: python tools/check_inventory.py --json > inventory-validation.json
       - name: Check complete generated subject directory
@@ -82,6 +84,7 @@ jobs:
             research-quality-1-11.json
             research-quality-1-12.json
             research-quality-1-13.json
+            research-quality-1-14.json
             inventory-validation.json
             wiki-snapshot.zip
           if-no-files-found: error

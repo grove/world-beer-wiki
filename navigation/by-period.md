@@ -93,3 +93,10 @@ Living context: [Paiwan millet occasions](../culture/paiwan-millet-and-community
 ## Edition 1.13 research connections
 
 Neolithic archaeological interpretation: [Jiahu 2004 and 2026 studies](../history/jiahu-2004-to-2026-reinterpretation.md). Studied present-day practices: [Muratina 2003 Kenyan thesis](../styles/muratina.md), [Bushera 2003 Uganda household work](../styles/bushera.md) and [2025 Tchoukoutou isolates](../microbiology/tchoukoutou-yeast-surveys-in-disagreement.md).
+
+
+## Edition 1.14 — further routes
+
+- [Pilsen first batch, 1842](../calendar/first-pilsen-batch-1842.md) is a dated event, not an evergreen festival
+- [Kent hop kiln history](../history/from-oast-to-preserved-building.md) describes changing rural industrial infrastructure
+- [American households and immigration](../history/american-beer-households-immigration-and-industry.md) is museum collection-level historical orientation

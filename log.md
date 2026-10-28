@@ -64,3 +64,7 @@ Add 31 source-scoped subject articles, 18 source-cited updates, eight cross-cate
 ## Research edition 1.13 — 28 October 2026
 
 Added 35 subject articles and 19 sourced revisions, extended 16 evidence-qualified relations, broadened scoped names/aliases to all thirteen research layers, and refreshed the source ledger, review queue and regression tests. See [the research update](editorial/research-update-1-13.md) and [validation](editorial/validation-report-1-13.md). These remain research drafts; no independent cultural or specialist review was completed.
+
+## 2026-10-28 — Research edition 1.14
+
+29 source-scoped new articles, 18 source-backed revisions, 15 annotated research works and eight field-to-glass evidence trails. Dated 1842 Pilsen history, English hop drying and buildings, living Belgian heritage, tella household practice, industrial yeast biology, draught systems, protein-foam experiments and circular by-products are compared without assuming identical evidence types. [Research update](editorial/research-update-1-14.md) · [Sources](references/atlas-sources-1-14.md) · [Review queue](editorial/source-review-queue-1-14.md). Independent specialist and community review remains open.

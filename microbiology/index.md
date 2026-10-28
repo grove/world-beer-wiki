@@ -101,3 +101,9 @@ New evidence-based references (all retain draft status):
 - [Tchapalo microbes: useful fermentation and later spoilage](tchapalo-fermentation-versus-spoilage.md) — Different Ivorian sorghum-beer studies on fermentation yeasts, lactic acid bacteria and selected spoilage challenges.
 - [Why Tchoukoutou yeast surveys identify different organisms](tchoukoutou-yeast-surveys-in-disagreement.md) — A method-specific comparison of studies from 2011, 2013 and 2025 that cannot be collapsed into one fixed yeast recipe.
 - [Yeast immobilization on Muratina fruit fibre](muratina-yeast-immobilization.md) — Immobilization of yeast on fibrous fruit material in a bounded 2003 thesis, not a certified general-use inoculum.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [Draught lines are not fermentation tanks](draught-lines-as-a-different-microbial-habitat.md) — Technical guidance on microbial deposits in beer service systems rather than desirable beer cultures.
+- [Lager yeast viability in a large-tank experiment](industrial-lager-yeast-viability.md) — A 2025 industrial high-gravity study, not a universal warm/cold fermentation recipe.

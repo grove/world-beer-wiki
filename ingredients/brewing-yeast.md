@@ -17,8 +17,7 @@ sources:
   title: Yeast Nutrition Fundamentals
   author_label: Lallemand Brewing / AB Vickers
   source_kind: producer-technical-documentation
-  access_scope: PDF text on yeast metabolites, nutrients and sugar uptake; product dosing recommendations
-    not adopted
+  access_scope: PDF text on yeast metabolites, nutrients and sugar uptake; product dosing recommendations not adopted
 - id: ing-yeast-domestication
   resource: https://www.cell.com/article/S0092867416310716/pdf
   title: Domestication and Divergence of Saccharomyces cerevisiae Beer Yeasts (2016)
@@ -27,68 +26,78 @@ sources:
   access_scope: article summary and research highlights; 157 industrial strains; DOI 10.1016/j.cell.2016.08.020
 - id: ing-lager-ancestry
   resource: https://pubmed.ncbi.nlm.nih.gov/21873232/
-  title: Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast
-    (2011)
+  title: Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast (2011)
   author_label: Diego Libkind and colleagues
   source_kind: primary-research
-  access_scope: indexed abstract; S. eubayanus ancestry of lager yeast; no single migration route or
-    invention date inferred
+  access_scope: indexed abstract; S. eubayanus ancestry of lager yeast; no single migration route or invention date
+    inferred
 - id: ing-sour-solutions
   resource: https://admin.lallemandbrewing.com/wp-content/uploads/2023/08/sour-solutions-bp-eng-digital-lalbrew-wildbrew-mascoma.pdf
   title: 'Lallemand Sour Solutions: Strain Comparison'
   author_label: Lallemand Brewing
   source_kind: producer-technical-documentation
-  access_scope: PDF comparison of acid-producing bacteria and yeasts; product availability and ABV claims
-    not used
+  access_scope: PDF comparison of acid-producing bacteria and yeasts; product availability and ABV claims not used
 - id: v13-saison-sta1
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7162825/
   title: A re-evaluation of diastatic Saccharomyces cerevisiae strains (2020)
   author_label: Authors, Applied Microbiology and Biotechnology
   source_kind: scientific-review
-  access_scope: Open-access review of STA1 and diastatic strains; no assertion that all saison yeasts
-    carry it.
+  access_scope: Open-access review of STA1 and diastatic strains; no assertion that all saison yeasts carry it.
 - id: v14-floc
   resource: https://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.2011.tb00495.x
   title: '125th Anniversary Review: Yeast Flocculation and Sedimentation (2011)'
   author_label: M. Vidgren and collaborators
   source_kind: microbiology-review-abstract
-  access_scope: 'Publisher abstract: FLO genes and environmental influence on flocculation; no universal
-    times or strain performance.'
+  access_scope: 'Publisher abstract: FLO genes and environmental influence on flocculation; no universal times or
+    strain performance.'
 - id: v18-thiol-time
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13476479/
-  title: A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped
-    beers (2026)
+  title: A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped beers
+    (2026)
   author_label: Pilot-scale thiol and transcriptomic study authors
   source_kind: primary-fermentation-research
-  access_scope: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not
-    a species-wide universal pattern.
+  access_scope: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings,
+    not a species-wide universal pattern.
 - id: v113-tchou-2025
   resource: https://pubmed.ncbi.nlm.nih.gov/41236300/
-  title: Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan
-    (2025)
+  title: Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan (2025)
   author_label: C. N. M. Nanoukon and colleagues
   source_kind: primary-isolate-study-abstract
-  access_scope: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot
-    be used as a population-wide species prevalence or health study.
+  access_scope: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot be used
+    as a population-wide species prevalence or health study.
 - id: v113-tchou-2013
   resource: https://pubmed.ncbi.nlm.nih.gov/23756236/
   title: Yeast dynamics during spontaneous fermentation of mawè and tchoukoutou (2013)
   author_label: A. Greppi and colleagues
   source_kind: primary-fermentation-study-abstract
-  access_scope: PubMed indexed abstract, two monitored productions of each food; culture-dependent and
-    -independent profiles differ and do not define a standard starter.
+  access_scope: PubMed indexed abstract, two monitored productions of each food; culture-dependent and -independent
+    profiles differ and do not define a standard starter.
+- id: v114-yeastplant
+  resource: https://www.mdpi.com/2227-9717/13/3/906
+  title: 'Optimization of Fermentation Parameters in a Brewery: Modulation of Yeast Growth and Yeast Cell Viability
+    (2025)'
+  author_label: Krzysztof Kucharczyk, Krzysztof Żyła and Tadeusz Tuszyński
+  source_kind: primary-industrial-process-study
+  access_scope: Public abstract and introduction indexed; high-gravity lager response-surface experiment in one
+    3,850-hL tank setting, not universal yeast pitching recommendations.
+- id: v114-waste
+  resource: https://www.mdpi.com/2304-8158/14/12/2081
+  title: 'Chemical Characterization of Hot Trub and Residual Yeast: Sustainable Agricultural Applications (2025)'
+  author_label: Foods research team, University of Chemistry and Technology Prague
+  source_kind: primary-byproduct-chemistry
+  access_scope: Accessible indexed abstract and methods summary on selected top- and bottom-fermented beer by-product
+    samples; screening for 57 mycotoxins does not certify all waste streams for food or soil use.
 aliases:
 - Brewer's yeast
 regions:
 - Cross-regional
-scope: Yeasts used in beer and related ferments; species, strain, culture and process are separate descriptive
-  levels.
+scope: Yeasts used in beer and related ferments; species, strain, culture and process are separate descriptive levels.
 evidence_basis:
 - primary-research
 - producer-technical-documentation
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian
-  or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian or community
+  representative.
 relations:
 - relation: compare_with
   target: ingredients/kveik
@@ -147,6 +156,14 @@ The 2025 sequencing account of tchoukoutou reports a different isolate distribut
 
 Read [why the surveys disagree](../microbiology/tchoukoutou-yeast-surveys-in-disagreement.md) and [the general methods guide](../categories/yeast-survey-method-disagreements.md).
 
+
+
+## Edition 1.14: newly sourced connections
+
+Yeast has a life cycle through the brewery. An industrial study measured cell multiplication and viability under a defined high-gravity lager process, showing why strain identity is not a complete description of handling conditions. These results should not become pitching rules for another system.[^v114-yeastplant]
+
+A 2025 analytical study treated residual brewery yeast as a **by-product material**, measuring chemical composition and screening selected samples before possible agricultural applications. It does not validate consuming or reusing arbitrary spent cultures. Compare [viability in large tanks](../microbiology/industrial-lager-yeast-viability.md) with [surplus yeast as material](surplus-brewers-yeast-as-material.md).[^v114-waste]
+
 ## Source notes
 [^ing-yeast-nutrition]: [Yeast Nutrition Fundamentals](https://connect.lallemandbrewing.com/wp-content/uploads/2022/11/Nutrition-Booklet-ENG-Digital-AB-Vickers.pdf). Lallemand Brewing / AB Vickers. Consulted 2026-10-27. Evidence used: PDF text on yeast metabolites, nutrients and sugar uptake; product dosing recommendations not adopted.
 [^ing-yeast-domestication]: [Domestication and Divergence of Saccharomyces cerevisiae Beer Yeasts (2016)](https://www.cell.com/article/S0092867416310716/pdf). Brigida Gallone and colleagues. Consulted 2026-10-27. Evidence used: article summary and research highlights; 157 industrial strains; DOI 10.1016/j.cell.2016.08.020.
@@ -172,3 +189,6 @@ A review of **diastatic *S. cerevisiae*** discusses the *STA1* glucoamylase gene
 [^v113-tchou-2025]: [Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan (2025)](https://pubmed.ncbi.nlm.nih.gov/41236300/). C. N. M. Nanoukon and colleagues. Consulted 2026-10-28. Access: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot be used as a population-wide species prevalence or health study.
 
 [^v113-tchou-2013]: [Yeast dynamics during spontaneous fermentation of mawè and tchoukoutou (2013)](https://pubmed.ncbi.nlm.nih.gov/23756236/). A. Greppi and colleagues. Consulted 2026-10-28. Access: PubMed indexed abstract, two monitored productions of each food; culture-dependent and -independent profiles differ and do not define a standard starter.
+
+[^v114-yeastplant]: [Optimization of Fermentation Parameters in a Brewery: Modulation of Yeast Growth and Yeast Cell Viability (2025)](https://www.mdpi.com/2227-9717/13/3/906). Krzysztof Kucharczyk, Krzysztof Żyła and Tadeusz Tuszyński. Consulted 2026-10-28. Access: Public abstract and introduction indexed; high-gravity lager response-surface experiment in one 3,850-hL tank setting, not universal yeast pitching recommendations.
+[^v114-waste]: [Chemical Characterization of Hot Trub and Residual Yeast: Sustainable Agricultural Applications (2025)](https://www.mdpi.com/2304-8158/14/12/2081). Foods research team, University of Chemistry and Technology Prague. Consulted 2026-10-28. Access: Accessible indexed abstract and methods summary on selected top- and bottom-fermented beer by-product samples; screening for 57 mycotoxins does not certify all waste streams for food or soil use.

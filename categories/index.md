@@ -82,3 +82,9 @@ New evidence-based references (all retain draft status):
 
 - [Opaque cereal beers and fermented cereal food-drinks](cereal-beer-versus-fermented-cereal-drink.md) — A comparison of beverage naming, cereal processing, producer context and measured alcohol without treating every cereal ferment as beer.
 - [When fermentation surveys disagree about the yeast](yeast-survey-method-disagreements.md) — A practical guide to different sample units, isolation, culture-independent methods and fermentation phases.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [An intangible-heritage inscription is not a beer style](heritage-inscription-is-not-a-style.md) — A method for interpreting heritage recognition without assigning recipes, ownership or sensory parameters.
+- [From field to glass: five distinct evidence layers](from-field-to-glass-evidence-chain.md) — A research map from crops, institutions and fermentation to packaging, service and sensory perception.

@@ -18,6 +18,13 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v114-smithsonian
+  resource: https://sova.si.edu/record/nmah.ac.1595
+  title: American Beer Brewing Oral History Collection, NMAH.AC.1595
+  author_label: Smithsonian National Museum of American History
+  source_kind: museum-finding-aid
+  access_scope: Full public collection-level finding aid and historical orientation; individual oral-history interviews,
+    recordings and transcripts not reviewed.
 aliases:
 - Standard American lager
 regions:
@@ -70,6 +77,16 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+
+
+## Edition 1.14: newly sourced connections
+
+The Smithsonian's beer-brewing collection frames the spread of professional lager production within **nineteenth-century immigration and industrialization**, rather than as a purely sensory improvement or an inevitable single invention. Earlier brewing work included domestic labor by women, enslaved workers and other people often omitted from commercial brand narratives.[^v114-smithsonian]
+
+A modern American lager category cannot substitute for the changing social history of who brewed and sold beer. The archive's collection-level finding aid is an orientation source, not evidence from specific interviews we read. Compare [American labor and immigration](../history/american-beer-households-immigration-and-industry.md) and [recorded brewing voices](../culture/american-beer-oral-histories.md).[^v114-smithsonian]
+
 ## Source notes
 
 [^bjcp-2021-1b]: [BJCP 2021: American Lager](https://styles.bjcp.org/bjcp-2021-beer/1/1b-american-lager). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^v114-smithsonian]: [American Beer Brewing Oral History Collection, NMAH.AC.1595](https://sova.si.edu/record/nmah.ac.1595). Smithsonian National Museum of American History. Consulted 2026-10-28. Access: Full public collection-level finding aid and historical orientation; individual oral-history interviews, recordings and transcripts not reviewed.

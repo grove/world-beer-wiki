@@ -1,8 +1,8 @@
 ---
 type: Beer Category Guide
 title: How beer categories work
-description: A practical model for separating beer styles, local traditions, ingredients, processes, and
-  dated judging systems.
+description: A practical model for separating beer styles, local traditions, ingredients, processes, and dated judging
+  systems.
 tags:
 - classification
 - taxonomy
@@ -46,22 +46,22 @@ sources:
   title: From Expert Knowledge and Sensory Science to Food-and-Beer Pairing (2019)
   author_label: Food-pairing interview study authors
   source_kind: sensory-interview-abstract
-  access_scope: 'Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles;
-    not consumer preference laws.'
+  access_scope: 'Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles; not
+    consumer preference laws.'
 - id: v15-bjcp-2021
   resource: https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/
   title: 'BJCP 2021 Beer Style Guidelines: Official Introduction'
   author_label: Beer Judge Certification Program
   source_kind: official-guideline
-  access_scope: 'Official current beer-guideline introduction: grouping decisions, judging use and edition;
-    not a global historical taxonomy.'
+  access_scope: 'Official current beer-guideline introduction: grouping decisions, judging use and edition; not
+    a global historical taxonomy.'
 - id: v15-ba-2026
   resource: https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/
   title: Brewers Association 2026 Beer Style Guidelines
   author_label: Brewers Association
   source_kind: official-guideline
-  access_scope: Official 2026 guideline directory and use terms; names/edition referenced, no copied, altered
-    or paraphrased guideline definitions.
+  access_scope: Official 2026 guideline directory and use terms; names/edition referenced, no copied, altered or
+    paraphrased guideline definitions.
 - id: v19-vietnam-review
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4725306/
   title: 'Alcohol and Drinking Cultures in Vietnam: A Review (2015)'
@@ -69,13 +69,26 @@ sources:
   source_kind: scientific-social-review
   access_scope: Open indexed sections describing cultural variability, rural distillation and risks; explicitly
     a review, not direct S’Tieng fieldwork.
+- id: v114-unesco
+  resource: https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062
+  title: Beer culture in Belgium (2016 inscription)
+  author_label: UNESCO Intergovernmental Committee / Belgian submitting communities
+  source_kind: intangible-heritage-inscription
+  access_scope: Full UNESCO inscription page with description of social transmission and food context; inscription
+    is not a technical recipe or heritage status for each named beer.
+- id: v114-plzen
+  resource: https://www.prazdroj.cz/en/our-story/history
+  title: 'Prazdroj history: birth and spread of Pilsen lager'
+  author_label: Plzeňský Prazdroj
+  source_kind: producer-archival-history
+  access_scope: Full public producer-authored chronology; records the company's account of the 1842 Burghers Brewery,
+    brewing rights and later transport infrastructure; independent contemporaneous archives not checked.
 category_axis: multiple
-scope: Educational comparison across the linked profiles; not a new universal competition category or an
-  exhaustive world taxonomy.
+scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive
+  world taxonomy.
 evidence_basis: cited-primary-sources-and-editorial-comparison
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
-  representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
 relations:
 - relation: compares
   target: styles/kolsch
@@ -141,6 +154,14 @@ A category named in one framework can be absent or grouped differently in anothe
 
 A regional drinking-cultures review from Vietnam is a reminder that English words such as *beer*, *wine* and *liquor* can follow different rules from a local beverage's actual processing. Rice may be fermented into a communal jar drink or fermented and then distilled for a spirit. Neither belongs to a modern judging category solely because of the substrate. The [new comparative guide](rice-wine-beer-and-distillation-boundaries.md) and [rượu cần profile](../styles/ruou-can-vietnamese-jar-ferment.md) keep technology, local naming, service and social setting separate—without declaring a superior universal vocabulary.[^v19-vietnam-review]
 
+
+
+## Edition 1.14: newly sourced connections
+
+A heritage inscription, a brewer's first-batch chronology and a modern competition category are not three ways of reporting the same fact. UNESCO documents Belgian beer's social transmission and significance; Pilsen's producer documents a dated institutional history. Neither defines the entire sensory universe of “Belgian beer” or “Pilsner” for all eras.[^v114-unesco][^v114-plzen]
+
+Use [heritage versus style](heritage-inscription-is-not-a-style.md) and [field-to-glass evidence layers](from-field-to-glass-evidence-chain.md) to ask what each document is able to prove before grouping subjects into a family.[^v114-unesco]
+
 ## Source notes
 
 [^wiki-bjcp-introduction]: [BJCP 2021: Introduction to the guidelines](https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: Styles and Categories; purpose and limitations of judging categories.
@@ -158,3 +179,6 @@ A regional drinking-cultures review from Vietnam is a reminder that English word
 [^v15-ba-2026]: [Brewers Association 2026 Beer Style Guidelines](https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/). Brewers Association. Consulted 2026-10-27. Source access: Official 2026 guideline directory and use terms; names/edition referenced, no copied, altered or paraphrased guideline definitions.
 
 [^v19-vietnam-review]: [Alcohol and Drinking Cultures in Vietnam: A Review (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725306/). Review authors of Vietnam alcohol ethnography/public-health literature. Checked 2026-10-28. Access: Open indexed sections describing cultural variability, rural distillation and risks; explicitly a review, not direct S’Tieng fieldwork.
+
+[^v114-unesco]: [Beer culture in Belgium (2016 inscription)](https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062). UNESCO Intergovernmental Committee / Belgian submitting communities. Consulted 2026-10-28. Access: Full UNESCO inscription page with description of social transmission and food context; inscription is not a technical recipe or heritage status for each named beer.
+[^v114-plzen]: [Prazdroj history: birth and spread of Pilsen lager](https://www.prazdroj.cz/en/our-story/history). Plzeňský Prazdroj. Consulted 2026-10-28. Access: Full public producer-authored chronology; records the company's account of the 1842 Burghers Brewery, brewing rights and later transport infrastructure; independent contemporaneous archives not checked.

@@ -16,7 +16,7 @@ description: Every canonical subject title and explicitly declared alias across 
 tags: [wiki-documentation, navigation, aliases]
 status: draft
 generated:
-  by: world-beer-wiki/1.13
+  by: world-beer-wiki/1.14
   at: '2026-10-28T09:30:00Z'
 sources:
 - id: atlas-spec

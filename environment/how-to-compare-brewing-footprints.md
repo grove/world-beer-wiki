@@ -15,8 +15,8 @@ sources:
   title: Spent Grain Valorisation and Renewable Energy for Craft Breweries (2024)
   author_label: Sustainability review authors
   source_kind: open-review-abstract
-  access_scope: 'Open review abstract: opportunities and LCA limitations; not an actual emissions audit
-    for every brewery.'
+  access_scope: 'Open review abstract: opportunities and LCA limitations; not an actual emissions audit for every
+    brewery.'
 - id: v14-water
   resource: https://www.mdpi.com/2073-4441/17/8/1179
   title: Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)
@@ -29,30 +29,30 @@ sources:
   title: Energy Management of the Energy-Intensive Beer Production Stages (2026)
   author_label: Energy systems review authors
   source_kind: systematic-review
-  access_scope: Open published 2026 review focusing on energy-intensive processing, with illustrative
-    rather than universal energy intensities.
+  access_scope: Open published 2026 review focusing on energy-intensive processing, with illustrative rather than
+    universal energy intensities.
 - id: v16-mexico-lca
   resource: https://www.eemj.eu/index.php/EEMJ/article/view/5028
   title: Carbon and water footprints of micro craft breweries using a life cycle assessment approach (2024)
   author_label: Perea-Eguia, Wakida and Hernandez
   source_kind: primary-lca-abstract
-  access_scope: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle
-    boundaries and water footprint definitions require attention.
+  access_scope: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle boundaries
+    and water footprint definitions require attention.
 - id: v16-japan-lca
   resource: https://www.mdpi.com/2071-1050/17/24/11003
-  title: Assessing Sustainability Trade-Offs in Craft Beer Production Through Life Cycle and Costing Analysis
-    Scenarios (2025)
+  title: Assessing Sustainability Trade-Offs in Craft Beer Production Through Life Cycle and Costing Analysis Scenarios
+    (2025)
   author_label: Study authors
   source_kind: primary-lca-open-text
-  access_scope: Open article abstract on representative Japanese small brewery using 2024 data, specified
-    cradle-to-gate scope, bottled beer and excluded cultivation.
+  access_scope: Open article abstract on representative Japanese small brewery using 2024 data, specified cradle-to-gate
+    scope, bottled beer and excluded cultivation.
 - id: v17-pack-small
   resource: https://pubmed.ncbi.nlm.nih.gov/35104702/
   title: Packaging choice and coordinated distribution logistics in small-scale beer (2022)
   author_label: Dyfed Morgan and colleagues
   source_kind: primary-lca-abstract
-  access_scope: Indexed life-cycle abstract for seven breweries and modeled delivery scenarios; results
-    do not rank all formats universally.
+  access_scope: Indexed life-cycle abstract for seven breweries and modeled delivery scenarios; results do not rank
+    all formats universally.
 - id: v17-pack-comp
   resource: https://www.sciencedirect.com/science/article/pii/S0048969724050915
   title: Identifying the most sustainable beer packaging through life-cycle assessment (2024)
@@ -62,19 +62,26 @@ sources:
     than seven-brewery study.
 - id: v112-mahewu-2024
   resource: https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887
-  title: Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024;
-    first online 2023)
+  title: Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024; first online
+    2023)
   author_label: Kudita and colleagues
   source_kind: primary-survey-study
-  access_scope: Publisher open-access article summary and percentages; subsequent article access blocked;
-    respondents and stated preferences are not nationwide forecasts.
+  access_scope: Publisher open-access article summary and percentages; subsequent article access blocked; respondents
+    and stated preferences are not nationwide forecasts.
 - id: v113-czech-lca-2025
   resource: https://www.sciencedirect.com/science/article/pii/S2666784325001093
   title: 'Environmental impacts of beer: brewery scale and glass bottles in international trade (2025)'
   author_label: Czech brewery life-cycle assessment researchers
   source_kind: primary-life-cycle-study-abstract
-  access_scope: ScienceDirect open abstract/highlights comparing sampled Czech facilities, malt, packaging
-    and transport; conclusions depend on functional unit and return/reuse scenarios.
+  access_scope: ScienceDirect open abstract/highlights comparing sampled Czech facilities, malt, packaging and transport;
+    conclusions depend on functional unit and return/reuse scenarios.
+- id: v114-closedloop
+  resource: https://link.springer.com/article/10.1007/s43621-025-01962-8
+  title: Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)
+  author_label: Wu Hao and colleagues
+  source_kind: primary-industry-case-and-model
+  access_scope: Open-access full paper, a Tsingtao case and life-cycle scenario/model; self-reported and modelled
+    boundaries cannot be generalized to every brewery.
 scope: Method-focused comparison of competing resources and limits of brewery LCA studies.
 evidence_basis:
 - industrial-case-study
@@ -126,6 +133,14 @@ A 2025 Czech LCA comparison highlights variation across studied facility scale, 
 
 The [Czech case guide](czech-brewery-scale-and-packaging-lca.md) preserves the system boundaries.
 
+
+
+## Edition 1.14: newly sourced connections
+
+A 2025 industrial Chinese closed-loop supply-chain case reports operational and modelled resource changes in a defined brewing system. Even precise figures depend on whether the denominator is production volume, packaging mass or life-cycle functional unit, and whether electricity, upstream barley or distribution enter the boundary.[^v114-closedloop]
+
+It is therefore unsafe to translate the case into a universal per-pint carbon score or a ranking of household versus industrial beer. The new [case-versus-general-rule guide](brewery-closed-loop-case-vs-general-rule.md) provides the assumptions that should accompany such claims, alongside [brewery water and wastewater](brewery-water-and-wastewater.md).[^v114-closedloop]
+
 ## Source notes
 
 [^v14-circular]: [Spent Grain Valorisation and Renewable Energy for Craft Breweries (2024)](https://www.sciencedirect.com/science/article/pii/S0959652624009752). Sustainability review authors. Consulted 2026-10-27. Access: Open review abstract: opportunities and LCA limitations; not an actual emissions audit for every brewery.
@@ -149,3 +164,5 @@ Compare [the Mexican case](mexican-microbrewery-footprint-case.md) and [the Japa
 [^v112-mahewu-2024]: [Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024; first online 2023)](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887). Kudita and colleagues. Consulted 2026-10-28. Evidence access: Publisher open-access article summary and percentages; subsequent article access blocked; respondents and stated preferences are not nationwide forecasts.
 
 [^v113-czech-lca-2025]: [Environmental impacts of beer: brewery scale and glass bottles in international trade (2025)](https://www.sciencedirect.com/science/article/pii/S2666784325001093). Czech brewery life-cycle assessment researchers. Consulted 2026-10-28. Access: ScienceDirect open abstract/highlights comparing sampled Czech facilities, malt, packaging and transport; conclusions depend on functional unit and return/reuse scenarios.
+
+[^v114-closedloop]: [Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)](https://link.springer.com/article/10.1007/s43621-025-01962-8). Wu Hao and colleagues. Consulted 2026-10-28. Access: Open-access full paper, a Tsingtao case and life-cycle scenario/model; self-reported and modelled boundaries cannot be generalized to every brewery.

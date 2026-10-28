@@ -117,3 +117,10 @@ For Belgian comparisons see [Belgian families and farmhouse comparisons](../cate
 ## Edition 1.13 research connections
 
 Opaque sorghum beers: [Chibuku commercial context](../styles/chibuku.md), [Tchoukoutou household knowledge](../culture/tchoukoutou-household-enterprises.md), and [Tchapalo microbiology](../microbiology/tchapalo-fermentation-versus-spoilage.md). Other food-drinks: [Bushera](../styles/bushera.md), [Muratina](../styles/muratina.md).
+
+
+## Edition 1.14 — further routes
+
+- [Brewery-to-glass evidence chain](../categories/from-field-to-glass-evidence-chain.md)
+- [Heritage versus beer style](../categories/heritage-inscription-is-not-a-style.md)
+- [Belgian food heritage](../food/belgian-beer-and-cooking-as-heritage.md)

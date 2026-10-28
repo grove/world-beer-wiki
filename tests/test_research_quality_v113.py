@@ -155,7 +155,7 @@ class Edition113Tests(unittest.TestCase):
     def test_inventory_and_name_index_current(self):
         report=check_inventory(ROOT)
         self.assertTrue(report['ok'],report['errors'])
-        self.assertEqual(614,report['subject_articles'])
+        self.assertEqual(643,report['subject_articles'])
         self.assertEqual(13,len(report['sections']))
         self.assertEqual((ROOT/'navigation/all-names.md').read_text(encoding='utf-8'),render_names(ROOT))
         self.assertEqual((ROOT/'navigation/all-atlas-subjects.md').read_text(encoding='utf-8'),render_subjects(ROOT))

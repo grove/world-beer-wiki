@@ -1,24 +1,24 @@
 ---
 type: Implementation Progress Report
-title: Atlas scope and progress — edition 1.13
-description: Finite tracked deliverables for 93 work items with remaining review explicit.
+title: Atlas scope and progress — edition 1.14
+description: Finite implementation ledger for 100 work items, with unperformed review explicit.
 tags:
 - wiki-documentation
 - edition-1.13
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.13
-  at: '2026-10-28T09:30:00Z'
+  by: world-beer-wiki/1.14
+  at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
   title: World Beer Atlas expansion specification
 ---
 
-# Atlas scope and progress — edition 1.13
+# Atlas scope and progress — edition 1.14
 
-**Edition 1.13: 90 implemented, 1 planned, 2 deferred work items**. These are finite source-linked file deliverables, **not a percentage of the world's beer knowledge researched**. All new articles remain drafts; no independent community, brewing or scientific review is claimed.
+**Edition 1.14: 97 implemented, 1 planned, 2 deferred work items**. These are finite source-linked file deliverables, **not a percentage of the world's beer knowledge researched**. All new articles remain drafts; no independent community, brewing or scientific review is claimed.
 
 | ID | Deliverable | State | Paths |
 |---|---|---|---|
@@ -116,9 +116,23 @@ sources:
 | ATLAS-092 | Cross-section navigation and canonical source-cited revisions | implemented | [all names](../navigation/all-names.md) · [all atlas subjects](../navigation/all-atlas-subjects.md) · [edition 1 13 reading trails](../navigation/edition-1-13-reading-trails.md) |
 | ATLAS-093 | Release reproducibility, source review and regression checks | implemented | [atlas sources 1 13](../references/atlas-sources-1-13.md) · [research update 1 13](../editorial/research-update-1-13.md) · [validation report 1 13](../editorial/validation-report-1-13.md) · `tests/test_research_quality_v113.py` |
 
+| ATLAS-094 | Pilsen town brewery, 1842 historical evidence and exact date | implemented | [pilsen burgher brewing rights](../culture/pilsen-burgher-brewing-rights.md) · [pilsen 1842 evidence and origin myths](../history/pilsen-1842-evidence-and-origin-myths.md) · [first pilsen batch 1842](../calendar/first-pilsen-batch-1842.md) |
+
+| ATLAS-095 | Hop-growing work, drying infrastructure and seasonality | implemented | [kent hop farms and work](../culture/kent-hop-farms-and-work.md) · [english hop oast](../objects/english-hop-oast.md) · [hop drying cooling and packing](../processes/hop-drying-cooling-and-packing.md) · [english hop harvest and drying season](../calendar/english-hop-harvest-and-drying-season.md) |
+
+| ATLAS-096 | Belgian heritage, Ethiopian tella and labor accounts | implemented | [belgian beer learning networks](../culture/belgian-beer-learning-networks.md) · [tella household vessels and hospitality](../culture/tella-household-vessels-and-hospitality.md) · [american beer households immigration and industry](../history/american-beer-households-immigration-and-industry.md) |
+
+| ATLAS-097 | Industrial yeast, draught systems and physical process | implemented | [industrial lager yeast viability](../microbiology/industrial-lager-yeast-viability.md) · [industrial lager aeration and filling](../processes/industrial-lager-aeration-and-filling.md) · [draught lines as a different microbial habitat](../microbiology/draught-lines-as-a-different-microbial-habitat.md) · [draught lines and gas balance](../objects/draught-lines-and-gas-balance.md) |
+
+| ATLAS-098 | Foam compounds, hop handling and sensory-service interpretation | implemented | [humulinones and aged hops](../ingredients/humulinones-and-aged-hops.md) · [protein z humulinone foam](../sensory/protein-z-humulinone-foam.md) · [draught service vs brewery flavor](../sensory/draught-service-vs-brewery-flavor.md) |
+
+| ATLAS-099 | Circular by-products and environmental model boundaries | implemented | [hot trub and spent yeast valorization](../environment/hot-trub-and-spent-yeast-valorization.md) · [brewery closed loop case vs general rule](../environment/brewery-closed-loop-case-vs-general-rule.md) · [surplus brewers yeast as material](../ingredients/surplus-brewers-yeast-as-material.md) |
+
+| ATLAS-100 | Edition 1.14 integration, source provenance and maintenance tests | implemented | [atlas sources 1 14](../references/atlas-sources-1-14.md) · [research update 1 14](../editorial/research-update-1-14.md) · [validation report 1 14](../editorial/validation-report-1-14.md) · [edition 1 14 reading trails](../navigation/edition-1-14-reading-trails.md) · `tests/test_research_quality_v114.py` |
+
 ## Limits and next actions
 
-Implemented means the specific file and accepted check exist, not that its subject is exhaustive or human-approved. The [open source-review queue](source-review-queue-1-13.md) records missing expertise, local perspectives and full-text methods. ATLAS-012 remains planned, and ATLAS-013/014 are deferred.
+Implemented means the specific file and accepted check exist, not that its subject is exhaustive or human-approved. The [open source-review queue](source-review-queue-1-14.md) records missing expertise, local perspectives and full-text methods. ATLAS-012 remains planned, and ATLAS-013/014 are deferred.
 
 ## Reproduce the progress ledger
 
@@ -128,4 +142,4 @@ python tools/atlas.py progress
 python tools/atlas.py source-audit
 ```
 
-[Research update](research-update-1-13.md) · [Specification](atlas-specification.md) · [Home](../index.md).
+[Research update](research-update-1-14.md) · [Specification](atlas-specification.md) · [Home](../index.md).

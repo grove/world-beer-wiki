@@ -50,3 +50,9 @@ New evidence-based references (all retain draft status):
 
 - [Jiahu pottery: when the vessel becomes a laboratory sample](jiahu-pottery-residue-sampling.md) — Vessel residues analyzed chemically and microscopically; preservation conditions limit direct recreation.
 - [Muratina fruit-fibre fermentation carriers](muratina-fibrous-starter-carriers.md) — A named porous plant material used as a reusable yeast carrier in investigated Kenyan Muratina preparations.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [Draught lines, taps and dispensing gas](draught-lines-and-gas-balance.md) — An equipment-focused explanation of systems between a keg and a serving glass.
+- [English hop oasts: stowage, kiln and cowl](english-hop-oast.md) — The physical equipment behind regional hop handling, from field intake to cooling and packing.

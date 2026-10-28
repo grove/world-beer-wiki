@@ -291,3 +291,8 @@ The previous [names and aliases](all-names.md) index remains the 1.1 baseline. T
 ## Research edition 1.12
 
 [Nine research routes for edition 1.12](edition-1-12-reading-trails.md) compare mahewu, boza, kvass, aludi, amazake and Paiwan millet accounts without implying a single global family.
+
+
+## Research edition 1.14
+
+- [Edition 1.14 evidence-led reading trails](edition-1-14-reading-trails.md)

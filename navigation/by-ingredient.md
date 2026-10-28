@@ -61,3 +61,10 @@ For conversion methods and cultural scope, read [Starch fermentation and the bou
 ## Edition 1.13 research connections
 
 [Kigelia fruit fibre as yeast carrier](../ingredients/kigelia-fruit-fibre.md) · [Benin sorghum suitability](../ingredients/benin-brewing-sorghum-varieties.md) · [Chemical beer antioxidants without health claims](../ingredients/beer-antioxidants-versus-health-claims.md).
+
+
+## Edition 1.14 — further routes
+
+- [Harvested and dried hops](../ingredients/dried-hops-and-harvest-form.md)
+- [Humulinones and aged hops](../ingredients/humulinones-and-aged-hops.md)
+- [Surplus yeast as a material](../ingredients/surplus-brewers-yeast-as-material.md)
