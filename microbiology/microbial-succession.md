@@ -84,6 +84,18 @@ sources:
   source_kind: industry-technical-excerpt
   access_scope: Search-indexed excerpt of the retailer PDF on microbial deposits and service conditions; complete
     manual and local legal requirements not independently reviewed.
+- id: v116-lab
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/"
+  title: "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)"
+  author_label: "Florian A. Thesseling and colleagues"
+  source_kind: "open-laboratory-protocol-public-index"
+  access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
+- id: v116-ph
+  resource: "https://www.asbcnet.org/methods/beer-methods/beer-9-master-method"
+  title: "Beer 9: pH (Hydrogen Ion Concentration), Master the Method"
+  author_label: "American Society of Brewing Chemists"
+  source_kind: "official-analytical-method-summary"
+  access_scope: "Public ASBC meter-calibration and sample-measurement explanation; not a laboratory accreditation or drinking-water safety method."
 source_checked_on: '2026-10-27'
 review_note: Research draft; no independent microbiologist review.
 relations:
@@ -162,3 +174,15 @@ This is a useful contrast with lambic and household starters: the timing, purpos
 
 [^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.
 [^v114-draught-retail]: [Draught Beer Quality Manual for Retailers (2022)](https://cdn.brewersassociation.org/wp-content/uploads/2022/04/04193712/BP22-DBQMR-FINAL.pdf). Brewers Association. Consulted 2026-10-28. Access: Search-indexed excerpt of the retailer PDF on microbial deposits and service conditions; complete manual and local legal requirements not independently reviewed.
+
+## Edition 1.16: newly sourced connections
+
+A microbial succession argument should never rest solely on a plotted gravity or acidity curve. Thesseling and colleagues show how fermentation can be monitored through physical and chemical measurements in a controlled brewing setting, but those measurements do not themselves identify a bacterium, yeast strain or the cause of a compositional change.[^v116-lab]
+
+The ASBC's public pH guide emphasizes a calibrated meter and a specific sample. A recorded pH at one timepoint cannot reveal the entire succession of organisms before or after that instant. Complementary microbial culture or molecular evidence would still need its own controls and limitations.[^v116-ph]
+
+When integrating laboratory and ethnographic reports, retain sample timing, substrate, setting, detection versus activity and local name. Read [timepoints and inference](fermentation-timepoints-and-inference.md) and [why attenuation is not a species name](fermentation-endpoints-are-not-identities.md); these explain measurement gaps without rewriting community fermentation knowledge as a single laboratory model.
+
+[^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
+
+[^v116-ph]: [Beer 9: pH (Hydrogen Ion Concentration), Master the Method](https://www.asbcnet.org/methods/beer-methods/beer-9-master-method). American Society of Brewing Chemists. Checked 2026-10-28. Access: Public ASBC meter-calibration and sample-measurement explanation; not a laboratory accreditation or drinking-water safety method.

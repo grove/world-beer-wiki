@@ -37,6 +37,18 @@ sources:
   source_kind: artisan-association-cultural-account
   access_scope: Turkish-language public article on historic boza vendors, cold-season street service and
     named accompaniments; distant-origin and Evliya Çelebi numerical claims not independently verified.
+- id: v116-triangle
+  resource: "https://www.iso.org/standard/76666.html"
+  title: "ISO 4120:2021 Sensory analysis — Methodology — Triangle test"
+  author_label: "International Organization for Standardization"
+  source_kind: "official-standard-abstract"
+  access_scope: "Official scope and dated publication; ISO confirmed this edition in 2026. Full paywalled normative text was not accessed; no claim to reproduce its complete method."
+- id: v116-expect
+  resource: "https://www.sciencedirect.com/science/article/pii/S0950329322000374"
+  title: "How sensory and hedonic expectations shape perceived properties of regular and non-alcoholic beer (2022)"
+  author_label: "Helena Blackmore, Claire Hidrio and Martin R. Yeomans"
+  source_kind: "primary-consumer-study-abstract"
+  access_scope: "Publisher abstract and highlights of experimental expectancy effects; full sample methods and all subgroup estimates not examined."
 scope: Expert-interview principles and their limited transfer to actual diners.
 evidence_basis:
 - consumer-pairing-experiment-abstract
@@ -88,3 +100,15 @@ See [Istanbul boza vendors](../culture/istanbul-boza-sellers.md) and [Boza](../s
 [^v19-munich]: [Beer garden guide: how-to beer garden](https://www.munich.travel/en/topics/eat-drink/beer-garden-munich-tips). Munich municipal tourism portal. Checked 2026-10-28. Access: Full municipal tourism article describing the 1812 ordinance and modern food/service customs; not an independently inspected 1812 decree.
 
 [^v112-boza-artisans]: [Bozacılar: İstanbul Esnaf ve Sanatkarlar Odaları Birliği (2019)](https://www.istesob.org.tr/bozacilar/). İstanbul Esnaf ve Sanatkarlar Odaları Birliği. Consulted 2026-10-28. Evidence access: Turkish-language public article on historic boza vendors, cold-season street service and named accompaniments; distant-origin and Evliya Çelebi numerical claims not independently verified.
+
+## Edition 1.16: newly sourced connections
+
+For pairing research, distinguish whether the experiment asks **can participants tell two beers apart** or **which pairing do they prefer**. ISO 4120:2021 defines a forced-choice sensory discrimination method and explicitly cautions that it does not identify which attribute changed or tell which product is liked more. A triangle-test result cannot, alone, crown a best beer for a dish.[^v116-triangle]
+
+A published abstract of experiments with regular and non-alcoholic beer also reports effects of expectations associated with labels and colour in a specific setting. That suggests a design issue for pairing research: what a taster reads before sampling can be part of the observation, not evidence that a pairing has fixed universal appeal.[^v116-expect]
+
+Preserve the dish preparation, beer versions, participant sample, blinding and uncertainty. See [difference tests are not pairing rankings](difference-tests-do-not-rank-pairings.md) and [triangle-test limitations](../sensory/triangle-tests-for-beer.md). These sources do not make nutritional or allergy-safety recommendations.
+
+[^v116-triangle]: [ISO 4120:2021 Sensory analysis — Methodology — Triangle test](https://www.iso.org/standard/76666.html). International Organization for Standardization. Checked 2026-10-28. Access: Official scope and dated publication; ISO confirmed this edition in 2026. Full paywalled normative text was not accessed; no claim to reproduce its complete method.
+
+[^v116-expect]: [How sensory and hedonic expectations shape perceived properties of regular and non-alcoholic beer (2022)](https://www.sciencedirect.com/science/article/pii/S0950329322000374). Helena Blackmore, Claire Hidrio and Martin R. Yeomans. Checked 2026-10-28. Access: Publisher abstract and highlights of experimental expectancy effects; full sample methods and all subgroup estimates not examined.

@@ -41,6 +41,18 @@ sources:
   author_label: "Gérard Liger-Belair and Clara Cilindre"
   source_kind: "primary-physical-chemistry-experiment-and-model"
   access_scope: "Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test."
+- id: v116-color
+  resource: "https://www.bjcp.org/education-training/education-resources/color-guide/"
+  title: "BJCP Color Guide: Technical Background"
+  author_label: "Beer Judge Certification Program"
+  source_kind: "official-colour-education"
+  access_scope: "Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate."
+- id: v116-bjcpEval
+  resource: "https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/beer-evaluation/"
+  title: "Beer Evaluation and the Judging Process"
+  author_label: "Beer Judge Certification Program"
+  source_kind: "official-education-guide"
+  access_scope: "Public tasting and context guide, originally tied to older examination material; practical judging advice is not controlled consumer research."
 regions:
 - Cross-regional
 scope: An equipment-focused explanation of systems between a keg and a serving glass.
@@ -98,3 +110,15 @@ Compare [beer-clean glassware](beer-clean-glassware.md), [nucleation sites](glas
 [^v115-glass]: [The Official Beer Glass Cleaning Guide (2024)](https://coloradobeer.org/tech-safety-posts/beer-glass-cleaning-guide/). Colorado Brewers Guild. Consulted 2026-10-28. Access: Public cleaning and glass-surface observations; not microbiological certification of individual glasses.
 
 [^v115-bubbles]: [How Many CO2 Bubbles in a Glass of Beer? (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/). Gérard Liger-Belair and Clara Cilindre. Consulted 2026-10-28. Access: Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test.
+
+## Edition 1.16: newly sourced connections
+
+Presentation affects what can be inferred from a beer's appearance. The BJCP colour guide explains how SRM is measured under standardized optical conditions; its printed guide helps estimate rather than certify colour. A beer in a draught glass can look different as a result of light path, clarity and glass geometry, without having changed its measured colour in a properly prepared laboratory sample.[^v116-color]
+
+BJCP judging education also identifies lighting, distractions and sample handling as relevant to sensory evaluation. That guidance is about judging conditions, not the result of a microbial inspection of a specific bar or line.[^v116-bjcpEval]
+
+For draught-quality research keep *dispense gas, line condition, serving glass, laboratory measurement and tasting impression* as distinct evidence. Consult [beer colour in a glass](../sensory/beer-colour-in-a-glass.md) and [triangle-test context](../sensory/triangle-tests-for-beer.md).
+
+[^v116-color]: [BJCP Color Guide: Technical Background](https://www.bjcp.org/education-training/education-resources/color-guide/). Beer Judge Certification Program. Checked 2026-10-28. Access: Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate.
+
+[^v116-bjcpEval]: [Beer Evaluation and the Judging Process](https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/beer-evaluation/). Beer Judge Certification Program. Checked 2026-10-28. Access: Public tasting and context guide, originally tied to older examination material; practical judging advice is not controlled consumer research.

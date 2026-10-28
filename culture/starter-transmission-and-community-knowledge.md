@@ -41,6 +41,18 @@ sources:
   source_kind: community-quoted-news-agency-report
   access_scope: Full news-agency report quotes named local makers, cooperative founder and cultural officers
     in Binh Phuoc; a legend is a narrated legend, not historical proof.
+- id: v116-sumner
+  resource: "https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/john-richardson-saccharometry-and-the-poundsperbarrel-extract-the-construction-of-a-quantity/75E8354AAEDE78D92127B4F820DCC09A"
+  title: "John Richardson, saccharometry and the pounds-per-barrel extract: the construction of a quantity (2001)"
+  author_label: "James Sumner"
+  source_kind: "academic-history-abstract"
+  access_scope: "Publisher abstract of a historiographical article on Richardson's brewing extract quantity; paywalled body and archival notes not inspected."
+- id: v116-lab
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/"
+  title: "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)"
+  author_label: "Florian A. Thesseling and colleagues"
+  source_kind: "open-laboratory-protocol-public-index"
+  access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
 regions:
 - Asia; comparative
 scope: Comparative interpretation of documented Himalayan and Vietnamese starter samples; direct cultural
@@ -97,3 +109,15 @@ A Vietnam News Agency report names S’Tieng craftswomen in Binh Phuoc, describe
 [^v15-banhmen-2008]: [Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as determined by PCR-mediated DGGE (2008)](https://pubmed.ncbi.nlm.nih.gov/18838186/). Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan. Consulted 2026-10-27. Access: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
 
 [^v19-stieng]: [Can winemaking, a unique traditional craft of the S’Tieng people (2022)](https://en.vietnamplus.vn/can-winemaking-a-unique-traditional-craft-of-the-stieng-people-post232176.vnp). Vietnam News Agency / VietnamPlus. Checked 2026-10-28. Access: Full news-agency report quotes named local makers, cooperative founder and cultural officers in Binh Phuoc; a legend is a narrated legend, not historical proof.
+
+## Edition 1.16: newly sourced connections
+
+Modern instrumentation can describe what a researcher measured in one sample; it cannot by itself certify what knowledge an apprenticeship or community transmits. An open laboratory brewing guide describes standardized gravity, colour and fermentation endpoints to support controlled experiments. Those protocols have a different purpose from a locally situated account of how a named starter is learned, maintained or shared.[^v116-lab]
+
+In an unrelated British historical case, James Sumner's study abstract interprets John Richardson's saccharometry as a commercial project that helped give a constructed extract quantity authority. This is not a lineage claim between British measurement history and the communities described on this page; it illustrates why **the source of authority matters**.[^v116-sumner]
+
+Do not infer consent, a universal microbial composition or a precise formula from a published instrument reading. See [brewing numbers and institutional authority](brewing-numbers-and-institutional-authority.md) and [fermentation samples through time](../microbiology/fermentation-timepoints-and-inference.md). Local maker perspectives remain necessary.
+
+[^v116-sumner]: [John Richardson, saccharometry and the pounds-per-barrel extract: the construction of a quantity (2001)](https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/john-richardson-saccharometry-and-the-poundsperbarrel-extract-the-construction-of-a-quantity/75E8354AAEDE78D92127B4F820DCC09A). James Sumner. Checked 2026-10-28. Access: Publisher abstract of a historiographical article on Richardson's brewing extract quantity; paywalled body and archival notes not inspected.
+
+[^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.

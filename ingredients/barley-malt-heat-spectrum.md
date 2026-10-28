@@ -16,6 +16,18 @@ sources:
   author_label: Wine & Spirit Education Trust
   source_kind: professional-education
   access_scope: Educational overview of germination, kilning, color/flavor chemistry and enzyme tradeoffs.
+- id: v116-malt
+  resource: "https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/malt-and-adjuncts/"
+  title: "Malt and Adjuncts: Color"
+  author_label: "Beer Judge Certification Program"
+  source_kind: "official-educational-guide"
+  access_scope: "Public BJCP study guide summarizes malt contributions to color and wort processing; educational rather than a universal formula."
+- id: v116-color
+  resource: "https://www.bjcp.org/education-training/education-resources/color-guide/"
+  title: "BJCP Color Guide: Technical Background"
+  author_label: "Beer Judge Certification Program"
+  source_kind: "official-colour-education"
+  access_scope: "Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate."
 regions:
 - Cross-regional
 scope: Professional brewing education on malting heat treatments, flavor development and enzyme retention.
@@ -60,3 +72,15 @@ This explains general material transformations, not recipe specifications, malt-
 ## Source notes
 
 [^v13-malt-wset]: [How malt shapes beer (2026)](https://www.wsetglobal.com/knowledge-centre/blog/2026/how-malt-shapes-beer). Wine & Spirit Education Trust. Consulted 2026-10-27. Evidence accessed: Educational overview of germination, kilning, color/flavor chemistry and enzyme tradeoffs.
+
+## Edition 1.16: newly sourced connections
+
+The colour value given for a malt ingredient is not automatically the colour of the finished beer. BJCP's brewing-ingredient education describes colour as affected by malt selection as well as other processing conditions; translating one sack's colour specification into a specific beer's SRM requires further recipe and sampling evidence.[^v116-malt]
+
+The BJCP's separate colour guide describes beer SRM as a 430-nanometre optical measurement. A visually hazy or deeply coloured pour can complicate a naked-eye estimate, while a controlled laboratory sample and a printed comparison aid serve different purposes.[^v116-color]
+
+For historical or community ferment discussions, do not assign an exact malt-colour-derived beer number unless the recipe and method are actually documented. The [malt versus finished beer guide](malt-colour-versus-finished-beer-colour.md) and [beer colour laboratory method](../processes/beer-colour-measurement.md) keep physical ingredient identity and measured appearance distinct.
+
+[^v116-malt]: [Malt and Adjuncts: Color](https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/malt-and-adjuncts/). Beer Judge Certification Program. Checked 2026-10-28. Access: Public BJCP study guide summarizes malt contributions to color and wort processing; educational rather than a universal formula.
+
+[^v116-color]: [BJCP Color Guide: Technical Background](https://www.bjcp.org/education-training/education-resources/color-guide/). Beer Judge Certification Program. Checked 2026-10-28. Access: Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate.

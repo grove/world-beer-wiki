@@ -16,6 +16,18 @@ sources:
   author_label: Beer haze review authors
   source_kind: open-science-review
   access_scope: Open full review distinguishes biological and non-biological haze and colloid composition.
+- id: v116-lab
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/"
+  title: "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)"
+  author_label: "Florian A. Thesseling and colleagues"
+  source_kind: "open-laboratory-protocol-public-index"
+  access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
+- id: v116-color
+  resource: "https://www.bjcp.org/education-training/education-resources/color-guide/"
+  title: "BJCP Color Guide: Technical Background"
+  author_label: "Beer Judge Certification Program"
+  source_kind: "official-colour-education"
+  access_scope: "Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate."
 scope: Review-based account of suspended particles, filtration and intentional turbidity.
 evidence_basis:
 - open-science-review
@@ -48,3 +60,15 @@ Review-based account of suspended particles, filtration and intentional turbidit
 ## Source notes
 
 [^v14-haze]: [Haze in Beer from a Protein-Polyphenol Perspective (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/). Beer haze review authors. Consulted 2026-10-27. Access: Open full review distinguishes biological and non-biological haze and colloid composition.
+
+## Edition 1.16: newly sourced connections
+
+An optical colour result depends partly on what was left suspended in the sample. Thesseling and colleagues describe laboratory determination of beer or wort colour on prepared samples; that measured signal should not be treated as the appearance of the same drink in every unfiltered or naturally hazy service context.[^v116-lab]
+
+The BJCP colour guide ties SRM to a defined 430-nanometre optical path. A visual comparison guide can be useful during tasting, but clarity, glass and lighting influence what a drinker observes. Clarification may therefore affect analytical comparability without resolving every question about finished-beer haze stability or character.[^v116-color]
+
+When reviewing a beer, ask whether the reported colour was measured on filtered material, degassed beer or an undisturbed pour. This avoids inferring a recipe, safety status or quality failure from a single light-scattering observation. See [the dedicated colour assay guide](beer-colour-measurement.md) and [visual colour context](../sensory/beer-colour-in-a-glass.md).
+
+[^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
+
+[^v116-color]: [BJCP Color Guide: Technical Background](https://www.bjcp.org/education-training/education-resources/color-guide/). Beer Judge Certification Program. Checked 2026-10-28. Access: Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate.

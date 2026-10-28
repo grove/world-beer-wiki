@@ -40,6 +40,12 @@ sources:
   source_kind: official-regional-cultural-account
   access_scope: English government tourism description of Georgian mountain beer, seasonal festivities
     and ceremonial contexts; not independently community-verified or a UNESCO listing.
+- id: v116-lab
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/"
+  title: "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)"
+  author_label: "Florian A. Thesseling and colleagues"
+  source_kind: "open-laboratory-protocol-public-index"
+  access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
 regions:
 - Cross-regional
 scope: Comparison of a Wari archaeological closure event with seasonal and starter preparation described
@@ -105,3 +111,13 @@ See [Paiwan ritual timing](paiwan-five-year-ritual-and-millet-wine.md) and [Geor
 [^v112-paiwan-agency]: [Paiwan: customs, millet harvest and Five-Year Ritual](https://www.cip.gov.tw/en/tribe/grid-list/E8D1B17F6A81D678D0636733C6861689/info.html?cumid=D0636733C6861689). Taiwan Council of Indigenous Peoples. Consulted 2026-10-28. Evidence access: Public English agency description of certain Paiwan practices; community variation and restricted ceremonial detail not independently reviewed.
 
 [^v112-aludi-georgia]: [Georgian Aludi](https://georgia.travel/georgian-beer-aludi). Georgia Travel, Georgian National Tourism Administration. Consulted 2026-10-28. Evidence access: English government tourism description of Georgian mountain beer, seasonal festivities and ceremonial contexts; not independently community-verified or a UNESCO listing.
+
+## Edition 1.16: newly sourced connections
+
+The time printed beside a fermentation measurement and the date of a community gathering describe different events. A laboratory brewing protocol may record gravity at several fermentation stages, but that sequence is bounded by one batch and a defined experimental setup. It cannot supply the day of a local ceremony or the schedule of another producer.[^v116-lab]
+
+In this atlas, a reported **sampling time** belongs to technical research metadata; a dated historical document belongs to history; a recurring public event requires its own verified temporal and local evidence. Nor should a day of fermentation be converted to a universal “ready by day N” food-safety claim.
+
+Compare [fermentation timepoint interpretation](../microbiology/fermentation-timepoints-and-inference.md) with [historical extract research](../history/richardson-saccharometry-and-extract.md). The second reading does not establish a modern observance. The distinction protects both the original scientific study and a living cultural calendar.
+
+[^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
