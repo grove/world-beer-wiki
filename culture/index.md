@@ -120,3 +120,10 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.16 — measurements, history and evidence
 
 - [Who calls brewing numbers authoritative?](brewing-numbers-and-institutional-authority.md) — Technical measurement and lived brewing knowledge differ.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Arsi malt-barley contracts](arsi-malt-barley-farm-contracts.md) — A particular Ethiopian value chain, not a national uniform contract.
+- [Malt-barley households and food security](malt-barley-and-household-food-security.md) — Household study estimates are not consumption or national health claims.
+- [Bere cultivation and regional knowledge](orkney-bere-knowledge-and-revival.md) — Named island cultivation, markets and source voices.
+- [Estie malt-barley cooperatives](estie-malt-barley-cooperatives.md) — Trust-based market evidence contrasted with Arsi contracting.

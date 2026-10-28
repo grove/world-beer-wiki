@@ -89,3 +89,7 @@ New evidence-based references (all retain draft status):
 
 - [John Richardson and extract](richardson-saccharometry-and-extract.md) — 18th-century commercial construction of measurement.
 - [From visual comparison to instrumental colour](from-lovibond-comparisons-to-srm.md) — Why historical descriptors cannot be assigned exact modern SRM.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Uncertain date of Bere's introduction](bere-introduction-date-uncertain.md) — Ancient barley and present landrace are not proven identical.

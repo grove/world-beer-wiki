@@ -52,3 +52,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.16 — measurements, history and evidence
 
 - [Difference tests and food pairing](difference-tests-do-not-rank-pairings.md) — Controlled detectability cannot rank meal preferences.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Spent grain as food/feed: evidence limits](spent-grain-and-food-safety-boundaries.md) — By-product reuse is not an automatic regulatory or safety clearance.
+- [Bere as bread and brewing grain](bere-grain-food-and-brewing-boundaries.md) — One crop can be flour, feed, malt and more without a single named recipe.

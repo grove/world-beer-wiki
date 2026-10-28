@@ -99,3 +99,9 @@ New evidence-based references (all retain draft status):
 - [Beer metrics versus beverage identity](beer-metrics-versus-beverage-identity.md) — Numbers need sample context and cannot define cultural names.
 - [pH, titratable acidity and sourness](acidity-ph-ta-and-sourness.md) — Different measurements and perceptions, not safety standards.
 - [Difference tests versus quality scores](difference-tests-versus-quality-scores.md) — Detectability and preference are different research questions.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Field fungi versus starter microbes](field-fungus-vs-starter-microbes.md) — Plant-pathogen field research does not define living fermentation.
+- [Grain history versus foam defects](grain-contamination-vs-foam-defects.md) — Gushing, carbonation and glassware remain distinct mechanisms.
+- [Field-to-glass grain evidence](field-to-glass-grain-evidence.md) — Regulation, farm surveys, analytical assays and beer service answer different questions.

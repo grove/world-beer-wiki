@@ -66,3 +66,7 @@ New evidence-based references (all retain draft status):
 
 - [Hydrometers and readings](hydrometers-and-reading-conditions.md) — Sample temperature and scale context.
 - [A historical saccharometer](saccharometer-in-the-museum.md) — An approximately dated instrument, not a recipe or festival.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Grain stores and sample provenance](grain-stores-and-sample-provenance.md) — Storage conditions and sampled grain are distinct from an accepted food-safety lot.

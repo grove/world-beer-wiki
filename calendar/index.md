@@ -79,3 +79,7 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.16 — measured versus ceremonial time
 
 [Brewing time versus ceremonial time](brewing-time-versus-ceremonial-time.md) now links to [fermentation sampling and timepoint inference](../microbiology/fermentation-timepoints-and-inference.md). The 1784 Richardson catalogue year and the approximate date of a later saccharometer are historical evidence, **not recurring beer holidays**.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Barley harvest is seasonal, not fixed](barley-harvest-window-not-fixed.md) — Crop maturity is not a universal beer festival.

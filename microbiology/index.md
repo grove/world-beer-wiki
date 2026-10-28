@@ -116,3 +116,9 @@ New evidence-based references (all retain draft status):
 
 - [Gravity curves do not identify microbes](fermentation-endpoints-are-not-identities.md) — Physical/chemical outputs versus organism identification.
 - [Fermentation timepoints and inference](fermentation-timepoints-and-inference.md) — Sampling dates do not define all microbial succession.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Fusarium field strain effects](fusarium-strain-effects-in-barley.md) — Two cultivars and field years, not all barley.
+- [Plant-conjugated DON](plant-conjugated-don.md) — Metabolite transformations are not universal safety outcomes.
+- [DNA versus mycotoxin measurement](fungal-dna-versus-mycotoxin-measurement.md) — Different analytical targets and limits.
