@@ -67,6 +67,18 @@ sources:
   author_label: "James Sumner"
   source_kind: "academic-history-abstract"
   access_scope: "Publisher abstract of a historiographical article on Richardson's brewing extract quantity; paywalled body and archival notes not inspected."
+- id: v117-bere-review
+  resource: "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432"
+  title: "Back to the future: Using ancient Bere barley landraces for a sustainable future"
+  author_label: "Peter Martin and colleagues"
+  source_kind: "open-agronomic-and-heritage-review"
+  access_scope: "Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date."
+- id: v117-bere-institute
+  resource: "https://www.westhighland.uhi.ac.uk/en/research-enterprise/res-themes/silk/agronomy-and-agriculture-institute/research-on-cereals/"
+  title: "Research on cereals: Bere barley and modern varieties"
+  author_label: "University of the Highlands and Islands Agronomy Institute"
+  source_kind: "university-agriculture-research-summary"
+  access_scope: "Public indexed university overview of Bere research, resilient traits and local supply chains; direct URL returned a 502 during follow-up, not an independent field interview."
 aliases:
 - Finnish sahti
 regions:
@@ -175,3 +187,15 @@ Where a sahti source reports a locally named process or occasion, preserve that 
 [^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
 
 [^v116-sumner]: [John Richardson, saccharometry and the pounds-per-barrel extract: the construction of a quantity (2001)](https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/john-richardson-saccharometry-and-the-poundsperbarrel-extract-the-construction-of-a-quantity/75E8354AAEDE78D92127B4F820DCC09A). James Sumner. Checked 2026-10-28. Access: Publisher abstract of a historiographical article on Richardson's brewing extract quantity; paywalled body and archival notes not inspected.
+
+## Edition 1.17: newly sourced connections
+
+Beer traditions can use barley yet differ profoundly in locale, processing, name and historical documentation. The 2023-online/2025-issue Bere review describes a six-row Scottish-island barley landrace and its cultivation history; it does not document an ancestral relationship to Finnish sahti or establish that sahti's grain bill is a universal Bere recipe.[^v117-bere-review]
+
+University of the Highlands and Islands research on Bere focuses on island agronomy and crop markets, not on Finnish farmhouse fermentation. Comparing the two is useful for reading grain diversity, but the university's indexed overview cannot substitute for local sahti producer accounts or a direct cross-community historical study.[^v117-bere-institute]
+
+For a careful comparison, retain [Bere as a named ingredient](../ingredients/bere-six-row-barley.md) and [Orkney knowledge](../culture/orkney-bere-knowledge-and-revival.md) alongside the existing sahti sources. A shared cereal does not mean a shared recipe, organism, celebration or lineage.
+
+[^v117-bere-review]: [Back to the future: Using ancient Bere barley landraces for a sustainable future](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432). Peter Martin and colleagues. Checked 2026-10-28. Access: Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date.
+
+[^v117-bere-institute]: [Research on cereals: Bere barley and modern varieties](https://www.westhighland.uhi.ac.uk/en/research-enterprise/res-themes/silk/agronomy-and-agriculture-institute/research-on-cereals/). University of the Highlands and Islands Agronomy Institute. Checked 2026-10-28. Access: Public indexed university overview of Bere research, resilient traits and local supply chains; direct URL returned a 502 during follow-up, not an independent field interview.

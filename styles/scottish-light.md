@@ -18,6 +18,18 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v117-bere-review
+  resource: "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432"
+  title: "Back to the future: Using ancient Bere barley landraces for a sustainable future"
+  author_label: "Peter Martin and colleagues"
+  source_kind: "open-agronomic-and-heritage-review"
+  access_scope: "Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date."
+- id: v117-hot-steep
+  resource: "https://brewingscience.de/index.php/brewingscience/article/view/135"
+  title: "Hot Steep Malt Sensory Evaluation Method combined with Check-All-That-Apply (2025)"
+  author_label: "Doris Häge, Felix Baumgartner and Bernd Lindemann"
+  source_kind: "primary-sensory-experiment-publisher-abstract"
+  access_scope: "Full public publisher abstract describing selected heritage and modern spring barley samples; PDF methods and panel-level data not read. Sensory study is not a universal malt ranking."
 aliases:
 - 60-shilling ale
 - 60/-
@@ -74,3 +86,15 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^bjcp-2021-14a]: [BJCP 2021: Scottish Light](https://styles.bjcp.org/bjcp-2021-beer/14/14a-scottish-light). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+## Edition 1.17: newly sourced connections
+
+A Scottish beer-style name does not specify which barley landrace a producer used. Martin and colleagues' Bere review describes historical and current uses of an island-associated grain, including malting, food, feed and distilling. This is agricultural and historical source evidence, not a claim that every Scottish Light recipe uses Bere or that a current judging guideline preserves one old malt bill.[^v117-bere-review]
+
+A 2025 hot-steep malt sensory paper tested selected heritage and modern spring barley malts under a small-scale design. The named varieties in that abstract are not Bere, and malt-extract sensory comparisons cannot establish the flavor of a finished Scottish Light beer without a separately tested brew.[^v117-hot-steep]
+
+Distinguish the modern [style profile](scottish-light.md) from [Bere as a crop](../ingredients/bere-six-row-barley.md), [malt sensory evidence](../sensory/malt-hot-steep-experiments.md) and actual producer-specific recipes. Neither an ingredient nor a regional label provides a universal historical lineage.
+
+[^v117-bere-review]: [Back to the future: Using ancient Bere barley landraces for a sustainable future](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432). Peter Martin and colleagues. Checked 2026-10-28. Access: Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date.
+
+[^v117-hot-steep]: [Hot Steep Malt Sensory Evaluation Method combined with Check-All-That-Apply (2025)](https://brewingscience.de/index.php/brewingscience/article/view/135). Doris Häge, Felix Baumgartner and Bernd Lindemann. Checked 2026-10-28. Access: Full public publisher abstract describing selected heritage and modern spring barley samples; PDF methods and panel-level data not read. Sensory study is not a universal malt ranking.

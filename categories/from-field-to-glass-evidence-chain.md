@@ -38,6 +38,18 @@ sources:
   source_kind: primary-industry-case-and-model
   access_scope: Open-access full paper, a Tsingtao case and life-cycle scenario/model; self-reported and modelled
     boundaries cannot be generalized to every brewery.
+- id: v117-fusarium-trial
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/"
+  title: "Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)"
+  author_label: "Eva Maria Biehl and colleagues"
+  source_kind: "primary-controlled-malting-and-brewing-experiment"
+  access_scope: "PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol."
+- id: v117-eu-contaminants
+  resource: "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915"
+  title: "Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026"
+  author_label: "European Commission"
+  source_kind: "official-consolidated-eu-regulation"
+  access_scope: "EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision."
 regions:
 - Cross-regional
 scope: A research map from crops, institutions and fermentation to packaging, service and sensory perception.
@@ -92,3 +104,15 @@ The descriptions preserve the cited source's study population, region, time and 
 [^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.
 
 [^v114-closedloop]: [Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)](https://link.springer.com/article/10.1007/s43621-025-01962-8). Wu Hao and colleagues. Consulted 2026-10-28. Access: Open-access full paper, a Tsingtao case and life-cycle scenario/model; self-reported and modelled boundaries cannot be generalized to every brewery.
+
+## Edition 1.17: newly sourced connections
+
+A single sample can cross several evidence layers without keeping the same interpretation. The 2026 Biehl controlled experiment tracks different Fusarium-associated metabolites from deliberately inoculated barley through malt and brewed beer. It demonstrates that chemical forms and measured fractions can change with processing, but cannot determine the status of an unrelated commercial lot or every consumer's exposure.[^v117-fusarium-trial]
+
+The European Union's 2023/915 contaminant rules, in the consolidated version available on 28 October 2026, specify categories and criteria for food products. The legal applicability of a cereal threshold is not automatically a beer compliance test. A regulation's existence also cannot prove that the experiment's batch or any named product has been approved.[^v117-eu-contaminants]
+
+Read the new [field-to-glass grain evidence guide](field-to-glass-grain-evidence.md) alongside [process transfer](../processes/fusarium-malt-to-beer-transformation.md). This reinforces the distinction among field surveys, chemical experiments, quality control, sensory observations and current legal interpretation.
+
+[^v117-fusarium-trial]: [Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/). Eva Maria Biehl and colleagues. Checked 2026-10-28. Access: PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol.
+
+[^v117-eu-contaminants]: [Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915). European Commission. Checked 2026-10-28. Access: EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision.

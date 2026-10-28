@@ -74,6 +74,18 @@ sources:
   source_kind: peer-reviewed-secondary-ethnographic-review
   access_scope: Open review sections on locally varying Ethiopian tella, gesho, smoked or cleaned vessels, and grain
     preparations; original studies are not all independently inspected and no home-safety endorsement follows.
+- id: v117-contracts-2021
+  resource: "https://link.springer.com/article/10.1186/s40100-021-00198-0"
+  title: "Economics of contracts in African food systems: evidence from the malt barley sector in Ethiopia (2021)"
+  author_label: "Delelegne A. Tefera and Jos Bijman"
+  source_kind: "open-agricultural-economics-study"
+  access_scope: "Full open Ethiopia study using cross-sectional survey and statistical adjustment; Arsi contracting results not universal causal outcomes across all farmers."
+- id: v117-contracts-2022
+  resource: "https://link.springer.com/article/10.1186/s40066-022-00396-z"
+  title: "Are smallholder farmers benefiting from malt barley contract farming engagement in Ethiopia? (2022)"
+  author_label: "Zerhun Ganewo and colleagues"
+  source_kind: "open-agricultural-household-survey"
+  access_scope: "Full open 2022 study of 312 households with propensity-score matching on income and dietary diversity; association/estimation within its sampled setting, not a nutritional or national guarantee."
 aliases:
 - ጠላ
 regions:
@@ -193,3 +205,15 @@ These reading links extend navigation; the original source access notes above re
 [^v18-ethiopian-review]: [A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic beverages in Ethiopia (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/). Tolcha Techane Alemu. Consulted 2026-10-28. Access: Indexed open review excerpts synthesizing studies; used for category and food-context distinctions, not a new field observation.
 
 [^v114-tella]: [A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic beverages in Ethiopia (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/). Tolcha Techane Alemu and colleagues. Consulted 2026-10-28. Access: Open review sections on locally varying Ethiopian tella, gesho, smoked or cleaned vessels, and grain preparations; original studies are not all independently inspected and no home-safety endorsement follows.
+
+## Edition 1.17: newly sourced connections
+
+Ethiopian household tella and malt-barley contracts for industrial breweries are distinct subjects even though both involve cereals and the larger economy of brewing. Tefera and Bijman's 2021 Arsi study investigated farmer contracting and market participation in malt barley production; it did not survey every tella brewer's household methods, recipes or ceremonial practices.[^v117-contracts-2021]
+
+Ganewo and colleagues' 2022 household survey assessed income and dietary-diversity outcomes among malt-barley growers using a sampled comparison. Its reported household effects are not a measured nutritional effect of consuming tella or proof that contractual barley markets govern every local brewing tradition.[^v117-contracts-2022]
+
+For comparisons, keep [the tella profile](tella.md) tied to its own situated sources while linking to [Arsi market relationships](../culture/arsi-malt-barley-farm-contracts.md) and [household survey evidence](../culture/malt-barley-and-household-food-security.md). Product identity, agricultural contracts and historical hospitality require different kinds of evidence and do not imply community endorsement.
+
+[^v117-contracts-2021]: [Economics of contracts in African food systems: evidence from the malt barley sector in Ethiopia (2021)](https://link.springer.com/article/10.1186/s40100-021-00198-0). Delelegne A. Tefera and Jos Bijman. Checked 2026-10-28. Access: Full open Ethiopia study using cross-sectional survey and statistical adjustment; Arsi contracting results not universal causal outcomes across all farmers.
+
+[^v117-contracts-2022]: [Are smallholder farmers benefiting from malt barley contract farming engagement in Ethiopia? (2022)](https://link.springer.com/article/10.1186/s40066-022-00396-z). Zerhun Ganewo and colleagues. Checked 2026-10-28. Access: Full open 2022 study of 312 households with propensity-score matching on income and dietary diversity; association/estimation within its sampled setting, not a nutritional or national guarantee.
