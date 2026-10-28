@@ -1,7 +1,8 @@
 ---
 type: Related Fermented-Grain Tradition
 title: Boza — Turkish cereal-fermentation tradition
-description: A sourced profile of Boza — Turkish cereal-fermentation tradition, its character, brewing context, and important distinctions.
+description: A sourced profile of Boza — Turkish cereal-fermentation tradition, its character, brewing
+  context, and important distinctions.
 tags:
 - mixed-grain
 - lactic-fermentation
@@ -18,6 +19,29 @@ sources:
   source_kind: primary-research
   access_scope: full article text; experimental Turkish preparation
   author_label: Ömre Hancıoğlu and Mehmet Karapınar
+- id: v112-boza-1997
+  resource: https://pubmed.ncbi.nlm.nih.gov/9105937/
+  title: Microflora of Boza, a traditional fermented Turkish beverage (1997)
+  author_label: O. Hancıoğlu and M. Karapınar
+  source_kind: primary-culture-study-abstract
+  access_scope: PubMed abstract of one 24-hour inoculated boza preparation; measured ethanol and pH are
+    not universal drink limits.
+- id: v112-boza-review
+  resource: https://pubmed.ncbi.nlm.nih.gov/23859403/
+  title: 'A review on traditional Turkish fermented non-alcoholic beverages: microbiota, fermentation
+    process and quality characteristics (2013)'
+  author_label: Filiz Altay and colleagues
+  source_kind: secondary-review-abstract
+  access_scope: Publisher-indexed abstract of a Turkish review; labels and production ranges are not applicable
+    to every batch.
+- id: v112-boza-2022
+  resource: https://www.nature.com/articles/s41598-022-05086-1
+  title: Genomic and functional characterization of bacteriocinogenic lactic acid bacteria isolated from
+    Boza (2022)
+  author_label: Luciano Lopes Queiroz and colleagues
+  source_kind: primary-open-full-text
+  access_scope: Open genomic, biochemical and inhibition assays on three selected isolates from one Bulgarian
+    boza sample; not a consumer safety study.
 aliases: []
 regions:
 - West Asia
@@ -28,7 +52,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: source-specific research
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/kvass
@@ -68,6 +93,19 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+
+## Edition 1.12: newly sourced connections
+
+Turkish research on a **particular 24-hour experimental boza** reported an ethanol measurement of 0.79%, but this measured batch does not establish a universal limit for all Turkish or Balkan boza.[^v112-boza-1997] A broader review records different cereal substrates and processes; one drink name cannot certify its alcohol level, microflora, or food-safety properties.[^v112-boza-review] A Bulgarian genomic study isolated selected bacteriocinogenic lactic-acid bacteria from **one boza sample**. Antimicrobial assays performed on isolates are not evidence of medicinal benefit from drinking all boza.[^v112-boza-2022]
+
+Compare [cold-season Istanbul vendors](../culture/istanbul-boza-sellers.md), the [1997 sampled fermentation](../microbiology/boza-fermentation-1997.md), and the [Bulgarian isolates](../microbiology/bulgarian-boza-pediococcus.md).
+
 ## Source notes
 
 [^boza-study]: [Microflora of Boza, a traditional fermented Turkish beverage (1997)](https://www.academia.edu/86691237/Microflora_of_Boza_a_traditional_fermented_Turkish_beverage). Ömre Hancıoğlu and Mehmet Karapınar. Consulted 2026-10-27. Evidence used: full article text; experimental Turkish preparation.
+
+[^v112-boza-1997]: [Microflora of Boza, a traditional fermented Turkish beverage (1997)](https://pubmed.ncbi.nlm.nih.gov/9105937/). O. Hancıoğlu and M. Karapınar. Consulted 2026-10-28. Evidence access: PubMed abstract of one 24-hour inoculated boza preparation; measured ethanol and pH are not universal drink limits.
+
+[^v112-boza-review]: [A review on traditional Turkish fermented non-alcoholic beverages: microbiota, fermentation process and quality characteristics (2013)](https://pubmed.ncbi.nlm.nih.gov/23859403/). Filiz Altay and colleagues. Consulted 2026-10-28. Evidence access: Publisher-indexed abstract of a Turkish review; labels and production ranges are not applicable to every batch.
+
+[^v112-boza-2022]: [Genomic and functional characterization of bacteriocinogenic lactic acid bacteria isolated from Boza (2022)](https://www.nature.com/articles/s41598-022-05086-1). Luciano Lopes Queiroz and colleagues. Consulted 2026-10-28. Evidence access: Open genomic, biochemical and inhibition assays on three selected isolates from one Bulgarian boza sample; not a consumer safety study.

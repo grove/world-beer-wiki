@@ -108,3 +108,8 @@ For Belgian comparisons see [Belgian families and farmhouse comparisons](../cate
 ## Edition 1.11: related ferments beyond modern style families
 
 [Maguey sap and pulque](../styles/pulque.md) · [Cauim](../styles/cauim.md) · [Giroba](../styles/giroba.md) · [Kunun-zaki](../styles/kunun-zaki.md) · [Tepache](../styles/tepache.md). Compare by substrate and evidence in the [agave, cassava and cereal guide](../categories/agave-cassava-and-cereal-ferments.md), not by an invented shared beer genealogy.
+
+
+## Edition 1.12 additions
+
+[Low-alcohol cereal drink boundaries](../categories/low-alcohol-cereal-ferment-boundaries.md) · [Mahewu](../styles/mahewu.md) · [Boza](../styles/boza.md) · [Kvass](../styles/kvass.md) · [Amazake](../styles/amazake.md). Not all are formally categorized beer styles.

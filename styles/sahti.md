@@ -48,6 +48,13 @@ sources:
   source_kind: practitioner-advocacy-site
   access_scope: Practitioner presentation of ingredients, clubs, celebrations and product identity; not
     independent proof of precise antiquity.
+- id: v112-aludi-georgia
+  resource: https://georgia.travel/georgian-beer-aludi
+  title: Georgian Aludi
+  author_label: Georgia Travel, Georgian National Tourism Administration
+  source_kind: official-regional-cultural-account
+  access_scope: English government tourism description of Georgian mountain beer, seasonal festivities
+    and ceremonial contexts; not independently community-verified or a UNESCO listing.
 aliases:
 - Finnish sahti
 regions:
@@ -62,8 +69,8 @@ classification:
   code: '27'
   substyle: Sahti
 source_checked_on: '2026-10-28'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/gotlandsdricke
@@ -121,6 +128,11 @@ Comparison links are not claims of direct ancestry.
 
 UNESCO’s Lauhanvuori–Hämeenkangas Global Geopark overview describes sahti brewing as part of the region’s local heritage. The geopark designation is **not** a UNESCO inscription of sahti as its own intangible-heritage element. Compare [the situated cultural account](../culture/sahti-and-local-finnish-identity.md).[^v14-sahti]
 
+
+## Edition 1.12: newly sourced connections
+
+A Georgian regional tourism account describes [Aludi](aludi-georgian-highland-beer.md) as mountain beer associated with specific seasonal gatherings and ceremonial blessings. It makes a useful **comparison of local brewing and calendar knowledge** with Finnish Sahti; it does not support common ancestry or identical fermentation technique.[^v112-aludi-georgia] See [Georgian highland gatherings](../culture/georgian-highland-beer-and-blessings.md) and [seasonal traditions](../calendar/aludi-summer-gatherings.md).
+
 ## Source notes
 
 [^bjcp-2021-27i]: [BJCP 2021: Sahti](https://styles.bjcp.org/bjcp-2021-beer/27/27i-sahti). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
@@ -137,3 +149,5 @@ The [transmission case](../culture/sahti-apprenticeship-and-celebration.md) and 
 
 [^v16-sahti-maker]: [Lammin Sahti: history and transmission of sahti](https://www.sahti.fi/en/historiaa). Lammin Sahti. Consulted 2026-10-28. Access: Brewery’s first-person account of late-1960s apprenticeship, 1985 company, 1987 licensed service, and celebration use; not a nationwide census.
 [^v16-sahti-community]: [What is sahti?](https://visitsahti.fi/en/what-is-sahti/). Visit Sahti. Consulted 2026-10-28. Access: Practitioner presentation of ingredients, clubs, celebrations and product identity; not independent proof of precise antiquity.
+
+[^v112-aludi-georgia]: [Georgian Aludi](https://georgia.travel/georgian-beer-aludi). Georgia Travel, Georgian National Tourism Administration. Consulted 2026-10-28. Evidence access: English government tourism description of Georgian mountain beer, seasonal festivities and ceremonial contexts; not independently community-verified or a UNESCO listing.

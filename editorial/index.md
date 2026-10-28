@@ -36,3 +36,8 @@
 ## Edition 1.11
 
 [Edition 1.11 research and review limits](research-update-1-11.md) · [Evidence queue](source-review-queue-1-11.md) · [Validation](validation-report-1-11.md).
+
+
+## Research edition 1.12
+
+[Edition 1.12 research update](research-update-1-12.md) · [Independent review queue](source-review-queue-1-12.md) · [Validation](validation-report-1-12.md).

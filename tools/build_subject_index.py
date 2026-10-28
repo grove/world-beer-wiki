@@ -19,8 +19,8 @@ description: Automatically maintained index of all named subject articles in eve
 tags: [wiki-navigation, subjects]
 status: draft
 generated:
-  by: world-beer-wiki/1.11
-  at: '2026-10-28T08:55:00Z'
+  by: world-beer-wiki/1.12
+  at: '2026-10-28T08:00:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -72,7 +72,7 @@ def render(root):
                   '\n| Subject | Kind | Region / scope hint |\n|---|---|---|']
         for _,path,title,kind,region in records:
             lines.append(f'| [{esc(title)}](../{path}) | {esc(kind)} | {esc(region)} |')
-    lines.insert(1, f'\n**{total} canonical subject articles · {len(SUBJECT_DIRS)} reference sections · research edition 1.11.**\n')
+    lines.insert(1, f'\n**{total} canonical subject articles · {len(SUBJECT_DIRS)} reference sections · research edition 1.12.**\n')
     return '\n'.join(lines).rstrip()+'\n'
 
 

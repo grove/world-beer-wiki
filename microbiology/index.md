@@ -83,3 +83,13 @@ New evidence-based references (all retain draft status):
 - [Pulque microbial succession in a five-stage metagenomic study](pulque-five-stage-metagenomics.md)
 - [Tapirapé cauim: bacterial and yeast samples](tapirape-cauim-bacteria-and-yeast.md)
 - [Tepache microbiota and single-batch safety limits](tepache-sample-and-safety-boundaries.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [A Taiwanese millet ferment: 147 lactic-acid-bacterial isolates](taiwan-millet-starter-lab-study.md)
+- [Ikigage fermentation samples from southern Rwanda](ikigage-southern-rwanda-samples.md)
+- [Mahewu starter cultures in a 2026 controlled study](mahewu-starter-cultures-2026.md)
+- [Pediococcus and bacteriocins in one Bulgarian boza sample](bulgarian-boza-pediococcus.md)
+- [What changed in a 24-hour Turkish boza fermentation](boza-fermentation-1997.md)
+- [Where mahewu microorganisms came from in a 2019 study](mahewu-malt-origin.md)

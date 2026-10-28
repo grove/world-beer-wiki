@@ -72,3 +72,8 @@ New evidence-based references (all retain draft status):
 
 - [Agave, cassava and cereal ferments: distinct knowledge systems](agave-cassava-and-cereal-ferments.md)
 - [Fermentation acidity is not a safety certificate](acidification-is-not-safety-certification.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Low-alcohol cereal ferments: boza, kvass, mahewu and beer](low-alcohol-cereal-ferment-boundaries.md)

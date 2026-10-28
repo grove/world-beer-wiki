@@ -89,3 +89,11 @@ New evidence-based references (all retain draft status):
 - [Tapirapé cauim as household food and drink](tapirape-cauim-and-staple-food.md)
 - [Tupinambá of Olivença and fermented cassava food](tupinamba-olivenca-and-fermented-food.md)
 - [Umqombothi, ancestors and shared work](umqombothi-and-shared-social-work.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Boza vendors and the winter soundscape of Istanbul](istanbul-boza-sellers.md)
+- [Georgian highland beer, blessings and village gatherings](georgian-highland-beer-and-blessings.md)
+- [Mahewu cereal choice, availability and household practice](mahewu-cereal-choices.md)
+- [Paiwan millet, wine and community occasions](paiwan-millet-and-community-occasions.md)

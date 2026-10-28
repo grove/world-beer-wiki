@@ -41,6 +41,10 @@ jobs:
         run: python tools/research_quality.py --edition 1.10 --json > research-quality-1-10.json
       - name: Check edition 1.11 research hygiene
         run: python tools/research_quality.py --edition 1.11 --json > research-quality-1-11.json
+      - name: Check edition 1.12 research hygiene
+        run: python tools/research_quality.py --edition 1.12 --json > research-quality-1-12.json
+      - name: Verify inventory counts
+        run: python tools/check_inventory.py --json > inventory-validation.json
       - name: Check complete generated subject directory
         run: python tools/build_subject_index.py --check
       - name: Build portable snapshot of tracked files
@@ -74,6 +78,8 @@ jobs:
             research-quality-1-9.json
             research-quality-1-10.json
             research-quality-1-11.json
+            research-quality-1-12.json
+            inventory-validation.json
             wiki-snapshot.zip
           if-no-files-found: error
           retention-days: 14

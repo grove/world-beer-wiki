@@ -91,3 +91,8 @@ A microbial count from one time point is not a fermentation recipe or evidence o
 ## Research edition 1.11 — query and evidence cautions
 
 When asked whether pulque, cauim or kunun-zaki are "beer", return the local name and scope before a chemical comparison; a related-ferment entry is not a modern beer judging category. For organism queries distinguish **metagenomic read, cultured isolate, inferred pathway and demonstrated function**. Colonial ritual and tax abstracts are interpretations, not first-person community accounts. For stale-flavor questions retain beer recipe, oxygen pathway, storage time and sample type. Start with [edition 1.11 reading routes](../navigation/edition-1-11-reading-trails.md) and [provenance records](../references/atlas-sources-1-11.md).
+
+
+## Edition 1.12 reading guardrails
+
+When querying *mahewu*, distinguish millet malt as enzyme source and microorganism input. When querying *boza*, distinguish Turkish vendor history, Turkish experimental boza and Bulgarian selected isolates. For Taiwan, the lab study did **not identify its sampled community**; never assign it to a named Paiwan ritual. A [Mahewu starter trial](../microbiology/mahewu-starter-cultures-2026.md) does not certify food safety. See [edition 1.12 research paths](../navigation/edition-1-12-reading-trails.md) and [the original-source register](../references/atlas-sources-1-12.md).

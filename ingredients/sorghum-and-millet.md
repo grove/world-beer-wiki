@@ -24,29 +24,29 @@ sources:
   title: Investigation of Millet-Based Beer Fermentation and the Volatile Compounds Formed (2026)
   author_label: Katherine A. Thompson-Witrick and colleagues
   source_kind: primary-research
-  access_scope: retrieved publisher abstract, methods, limitations and conclusions; laboratory study, no universal
-    sensory claims adopted
+  access_scope: retrieved publisher abstract, methods, limitations and conclusions; laboratory study,
+    no universal sensory claims adopted
 - id: ing-sorghum-trial
   resource: https://www.mdpi.com/2311-5637/9/5/490
   title: 'Brewing with Unmalted and Malted Sorghum: Influence on Beer Quality (2023)'
   author_label: Marius Eduard Ciocan and colleagues
   source_kind: primary-research
-  access_scope: retrieved publisher abstract, methods and ingredient table; laboratory beers with added enzymes,
-    not a community survey
+  access_scope: retrieved publisher abstract, methods and ingredient table; laboratory beers with added
+    enzymes, not a community survey
 - id: v18-mbege
   resource: https://www.mdpi.com/2306-5710/2/3/21
   title: Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)
   author_label: Ryosuke Kubo and Method Kilasara
   source_kind: primary-field-observation
-  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence
-    and experimental bark comparison; not a region-wide census.
+  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing
+    sequence and experimental bark comparison; not a region-wide census.
 - id: v18-jaanr
   resource: https://indianjournals.com/article/ijm-46-4-004
   title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
   author_label: S. Thapa and J. P. Tamang
   source_kind: primary-research-abstract
-  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original
-    full paper not reviewed.
+  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim;
+    original full paper not reviewed.
 - id: v111-kunun-study
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/
   title: Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun
@@ -57,12 +57,28 @@ sources:
     descriptions are secondary, not nationwide consumption data.
 - id: v111-kunun-cultures
   resource: https://pubmed.ncbi.nlm.nih.gov/24414898/
-  title: The microbiology of kunun-zaki, a cereal beverage from northern Nigeria, during the fermentation process
-    (1995)
+  title: The microbiology of kunun-zaki, a cereal beverage from northern Nigeria, during the fermentation
+    process (1995)
   author_label: B. J. Efiuvwevwere and O. Akona
   source_kind: primary-microbiology-abstract
-  access_scope: PubMed abstract of one process sequence using steeped millet and wet milling; culture findings
-    should not be extrapolated to every producer.
+  access_scope: PubMed abstract of one process sequence using steeped millet and wet milling; culture
+    findings should not be extrapolated to every producer.
+- id: v112-mahewu-2024
+  resource: https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887
+  title: Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024;
+    first online 2023)
+  author_label: Kudita and colleagues
+  source_kind: primary-survey-study
+  access_scope: Publisher open-access article summary and percentages; subsequent article access blocked;
+    respondents and stated preferences are not nationwide forecasts.
+- id: v112-mahewu-2019
+  resource: https://pubmed.ncbi.nlm.nih.gov/30902861/
+  title: Composition and Origin of the Fermentation Microbiota of Mahewu, a Zimbabwean Fermented Cereal
+    Beverage (2019)
+  author_label: Felicitas Pswarayi and Michael G. Gänzle
+  source_kind: primary-microbiology-study
+  access_scope: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal
+    source tracking; full tables not independently reproduced.
 aliases: []
 regions:
 - Cross-regional
@@ -130,6 +146,13 @@ Nigerian [kunun-zaki](../styles/kunun-zaki.md) supplies a useful counterexample 
 
 The new [process comparison](../processes/kunun-zaki-slurry-and-gelatinization.md) separates ingredients, preparation and observed microbial change. Grain names do not uniquely identify starch conversion, serving context, exact alcohol content or safety.
 
+
+## Edition 1.12: newly sourced connections
+
+The Zimbabwe mahewu grain-choice survey discusses maize, sorghum and millet in a **nonstandardized cereal refreshment**, with availability affecting respondent preferences; this does not make those cereals functionally interchangeable in each fermentation.[^v112-mahewu-2024] Another study linked millet malt to the microbiota entering mahewu, illustrating why malt may carry organisms as well as enzymes.[^v112-mahewu-2019]
+
+Read [Mahewu](../styles/mahewu.md) and [Millet malt as a microbial source](millet-malt-as-microbial-input.md). **Taiwanese millet** in the [Taiwan Indigenous fermentation study](../microbiology/taiwan-millet-starter-lab-study.md) is not automatically the African finger-millet species documented elsewhere in this wiki.
+
 ## Source notes
 [^ing-sorghum-millet-malting]: [Effect of germination temperatures on proteolysis of sorghum and millet during malting and mashing (2012)](https://pubmed.ncbi.nlm.nih.gov/22440185/). Y. Chiba and colleagues. Consulted 2026-10-27. Evidence used: indexed abstract; DOI 10.1021/jf300965b; findings limited to studied malting conditions.
 [^ing-millet-trial]: [Investigation of Millet-Based Beer Fermentation and the Volatile Compounds Formed (2026)](https://www.mdpi.com/2306-5710/12/3/37). Katherine A. Thompson-Witrick and colleagues. Consulted 2026-10-27. Evidence used: retrieved publisher abstract, methods, limitations and conclusions; laboratory study, no universal sensory claims adopted.
@@ -140,3 +163,7 @@ The new [process comparison](../processes/kunun-zaki-slurry-and-gelatinization.m
 [^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.
 [^v111-kunun-study]: [Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun zaki) produced from millet (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/). Kunun-zaki fortification study authors. Consulted 2026-10-28. Access: Open experimental article with modified millet protocol and fortification context; seasonal/background descriptions are secondary, not nationwide consumption data.
 [^v111-kunun-cultures]: [The microbiology of kunun-zaki, a cereal beverage from northern Nigeria, during the fermentation process (1995)](https://pubmed.ncbi.nlm.nih.gov/24414898/). B. J. Efiuvwevwere and O. Akona. Consulted 2026-10-28. Access: PubMed abstract of one process sequence using steeped millet and wet milling; culture findings should not be extrapolated to every producer.
+
+[^v112-mahewu-2024]: [Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024; first online 2023)](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887). Kudita and colleagues. Consulted 2026-10-28. Evidence access: Publisher open-access article summary and percentages; subsequent article access blocked; respondents and stated preferences are not nationwide forecasts.
+
+[^v112-mahewu-2019]: [Composition and Origin of the Fermentation Microbiota of Mahewu, a Zimbabwean Fermented Cereal Beverage (2019)](https://pubmed.ncbi.nlm.nih.gov/30902861/). Felicitas Pswarayi and Michael G. Gänzle. Consulted 2026-10-28. Evidence access: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal source tracking; full tables not independently reproduced.

@@ -116,3 +116,9 @@ New evidence-based references (all retain draft status):
 - [Aguamiel and maguey agave sap](agave-aguamiel.md)
 - [Iron, copper and manganese in brewing](transition-metals-in-brewing.md)
 - [Pineapple rind and piloncillo in tepache](pineapple-rind-and-piloncillo.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Millet malt as starch resource and microbial carrier](millet-malt-as-microbial-input.md)
+- [Rye bread and malt in kvass](rye-bread-as-kvass-substrate.md)

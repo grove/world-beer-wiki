@@ -1,27 +1,38 @@
 ---
 type: Sensory Reasoning Guide
 title: Flavor detective — aroma is not an ingredient
-description: Read banana, citrus, coffee and cream as observations before treating them as ingredient declarations.
-tags: [sensory, aroma, evidence, comparison]
+description: Read banana, citrus, coffee and cream as observations before treating them as ingredient
+  declarations.
+tags:
+- sensory
+- aroma
+- evidence
+- comparison
 status: draft
-generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:35:00Z'}
-scope: Comparative reasoning from existing profiles and the new ingredient references; not chemical identification of a specific beer.
+generated:
+  by: world-beer-wiki/1.2
+  at: '2026-10-27T20:35:00Z'
+scope: Comparative reasoning from existing profiles and the new ingredient references; not chemical identification
+  of a specific beer.
 sources:
 - id: atlas-weissbier-context
   resource: /styles/weissbier.md
   title: Weissbier profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Retained distinction between fermentation-derived clove/banana impressions and actual additions.
+  access_scope: Retained distinction between fermentation-derived clove/banana impressions and actual
+    additions.
 - id: atlas-voss-context
   resource: /styles/vossaol.md
   title: Vossaøl profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Retained fieldwork account of orange-peel-like aroma without an orange-peel ingredient; attribution rather than a chemical assay.
+  access_scope: Retained fieldwork account of orange-peel-like aroma without an orange-peel ingredient;
+    attribution rather than a chemical assay.
 - id: atlas-stout-context
   resource: /styles/american-stout.md
   title: American Stout profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Retained distinction between roast-derived impressions and required coffee or chocolate additions.
+  access_scope: Retained distinction between roast-derived impressions and required coffee or chocolate
+    additions.
 - id: atlas-sugars-context
   resource: /ingredients/sugars.md
   title: Sugars, syrups and lactose reference in World Beer Wiki
@@ -32,16 +43,16 @@ sources:
   title: Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)
   author_label: Research authors
   source_kind: primary-brewing-chemistry-abstract
-  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation;
-    studied combinations not all wheat beer.
+  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast
+    fermentation; studied combinations not all wheat beer.
 - id: v16-tonto
   resource: https://pubmed.ncbi.nlm.nih.gov/42388651/
-  title: Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of Tonto
-    (2026)
+  title: Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of
+    Tonto (2026)
   author_label: Atwine et al.
   source_kind: primary-study-abstract
-  access_scope: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles, sensory
-    and methanol measurements; full paper not independently read.
+  access_scope: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles,
+    sensory and methanol measurements; full paper not independently read.
 - id: v18-hop-terpenes
   resource: https://www.sciencedirect.com/science/article/pii/S2772753X24000881
   title: Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using
@@ -56,14 +67,24 @@ sources:
     beers (2026)
   author_label: Pilot-scale thiol and transcriptomic study authors
   source_kind: primary-fermentation-research
-  access_scope: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not
-    a species-wide universal pattern.
+  access_scope: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale
+    settings, not a species-wide universal pattern.
+- id: v112-boza-1997
+  resource: https://pubmed.ncbi.nlm.nih.gov/9105937/
+  title: Microflora of Boza, a traditional fermented Turkish beverage (1997)
+  author_label: O. Hancıoğlu and M. Karapınar
+  source_kind: primary-culture-study-abstract
+  access_scope: PubMed abstract of one 24-hour inoculated boza preparation; measured ethanol and pH are
+    not universal drink limits.
 source_checked_on: '2026-10-28'
 review_note: Research draft; no sensory panel or analytical experiment conducted for this page.
 relations:
-- {relation: compare_with, target: ingredients/citrus-peel}
-- {relation: compare_with, target: ingredients/coriander}
-- {relation: compare_with, target: ingredients/lactose}
+- relation: compare_with
+  target: ingredients/citrus-peel
+- relation: compare_with
+  target: ingredients/coriander
+- relation: compare_with
+  target: ingredients/lactose
 ---
 
 # Flavor detective — aroma is not an ingredient
@@ -105,6 +126,11 @@ A 2024 model beer experiment with commercially available *S. cerevisiae* found m
 
 Trace [terpenoid conversion](hop-terpenoid-biotransformation.md), [thiol aroma reasoning](polyfunctional-thiols-and-aroma.md), and [a short detective story](../stories/why-fruity-beer-does-not-identify-the-hop.md). The distinction is between perception, chemical detection, and documented actual ingredients.
 
+
+## Edition 1.12: newly sourced connections
+
+A short Turkish boza study measured **ethanol and pH changes** during fermentation; the taste descriptors “sweet,” “sour,” and “grainy” should not be reverse-engineered into an alcohol percentage, specific starter, or safety claim. One studied preparation is not every boza experience.[^v112-boza-1997] Compare [Boza](../styles/boza.md) and [sweet-sour sensory boundaries](boza-sweet-sour-not-an-abv-reading.md).
+
 ## Source notes
 [^atlas-weissbier-context]: [Weissbier](../styles/weissbier.md), retained profile and its source.
 [^atlas-voss-context]: [Vossaøl](../styles/vossaol.md), retained field observations and attribution.
@@ -123,3 +149,5 @@ Follow [clove aroma](clove-aroma-and-4-vinylguaiacol.md), [banana descriptors](b
 [^v18-hop-terpenes]: [Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using SPME-GC/MS (2024)](https://www.sciencedirect.com/science/article/pii/S2772753X24000881). Food Chemistry Advances authors. Consulted 2026-10-28. Access: Open publisher abstract: eleven terpenoid standards added individually to US-05 model beer fermentation, not all finished beer recipes.
 
 [^v18-thiol-time]: [A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped beers (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13476479/). Pilot-scale thiol and transcriptomic study authors. Consulted 2026-10-28. Access: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not a species-wide universal pattern.
+
+[^v112-boza-1997]: [Microflora of Boza, a traditional fermented Turkish beverage (1997)](https://pubmed.ncbi.nlm.nih.gov/9105937/). O. Hancıoğlu and M. Karapınar. Consulted 2026-10-28. Evidence access: PubMed abstract of one 24-hour inoculated boza preparation; measured ethanol and pH are not universal drink limits.

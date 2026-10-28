@@ -461,3 +461,8 @@ These scoped titles are not additional standardized beer styles. New pages remai
 | Kunun-zaki | [Kunun-zaki](../styles/kunun-zaki.md) | Related Ferment Profile | canonical title; Nigeria, millet-based food-drink |
 | Pulque | [Pulque](../styles/pulque.md) | Related Ferment Profile | canonical title; Mexico, agave sap |
 | Tepache | [Tepache](../styles/tepache.md) | Related Ferment Profile | canonical title; Mexico, pineapple and sugar |
+
+
+## Edition 1.12 additions
+
+[Mahewu](../styles/mahewu.md) · [Aludi](../styles/aludi-georgian-highland-beer.md) · [Amazake](../styles/amazake.md) · [Taiwanese millet fermentation](../styles/taiwan-indigenous-millet-ferment.md). Existing [Boza](../styles/boza.md), [Kvass](../styles/kvass.md) and [Ikigage](../styles/ikigage.md) retain canonical paths.

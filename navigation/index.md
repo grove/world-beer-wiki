@@ -36,3 +36,8 @@
 ## Edition 1.11
 
 [Edition 1.11 nine research trails](edition-1-11-reading-trails.md) — pulque and colonial archives, Indigenous Brazilian ferments, Nigerian food-drinks and beer-stability chemistry.
+
+
+## Research edition 1.12
+
+[Edition 1.12 nine evidence reading trails](edition-1-12-reading-trails.md): fermented cereal drinks, laboratory scope, Paiwan ceremonial contexts and Georgian highlands.

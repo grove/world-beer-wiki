@@ -55,3 +55,8 @@ Add 31 source-scoped subject articles, 18 source-cited updates, eight cross-cate
 ## 2026-10-28 — Research edition 1.11
 
 34 new source-bounded articles and 18 substantively revised subjects, extending cultural and historical context around pulque, Brazilian cassava food-drinks, kunun-zaki, tepache, and brewing staling science. Adds 21 named external works with explicit access limitations, 9 linked research trails, directory navigation and regression checks (106 passing tests); preserves the 166 original profile paths. See [research update](editorial/research-update-1-11.md), [source supplement](references/atlas-sources-1-11.md), [validation](editorial/validation-report-1-11.md), and [outstanding review](editorial/source-review-queue-1-11.md). No independent community or specialist endorsement is claimed.
+
+
+## 2026-10-28 — research edition 1.12
+
+30 new articles, 18 source-backed existing-page revisions, 15 cited original source records, nine reading trails and explicit source review tasks. The [research report](editorial/research-update-1-12.md) preserves historical counts and access limits; no community review is asserted. [Source register](references/atlas-sources-1-12.md) · [Specification](editorial/atlas-specification.md).

@@ -141,3 +141,8 @@ Each linked article provides the relevant source context. [Research method](meth
 - **Giroba:** a cassava preparation described in [Tupinambá de Olivença ethnography](../styles/giroba.md); not a synonym for all cauim.
 - **Total package oxygen:** dissolved plus headspace oxygen after filling, distinct from subsequent closure ingress; see [oxygen pathways](../processes/beer-package-oxygen-pathways.md).
 - **Haze-active protein/polyphenol:** constituents discussed in [colloidal haze](../sensory/haze-and-protein-polyphenol-bonds.md), not a defect diagnosis for every intentionally hazy beer.
+
+
+## Edition 1.12 reading guardrails
+
+**Mahewu / amahewu:** a southern African fermented cereal food-drink with local variations; see [reference](../styles/mahewu.md). **Boza:** name used across multiple regional grain-fermented preparations; [one 1997 lab study](../microbiology/boza-fermentation-1997.md) is not a universal formula. **Amazake:** at least two Japanese sweet preparations distinguished by koji saccharification versus sake-lees use; see [reference](../styles/amazake.md). **Aludi:** a Georgian highland beer discussed in [regional documentation](../styles/aludi-georgian-highland-beer.md).

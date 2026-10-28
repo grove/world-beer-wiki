@@ -36,3 +36,8 @@ Source records, independent publications and independent confirmations are diffe
 ## Edition 1.11
 
 [Edition 1.11 annotated source register](atlas-sources-1-11.md) — actual full-text/abstract access, source classes and article backlinks.
+
+
+## Research edition 1.12
+
+[Edition 1.12 annotated source register](atlas-sources-1-12.md): 15 primary/secondary sources, actual access limits and citation backlinks.

@@ -62,3 +62,8 @@ New evidence-based references (all retain draft status):
 
 - [Cauim, pottery and colonial source problems](cauim-and-colonial-source-problems.md)
 - [Chalco pulque production and taxation, 1778–1821](chalco-pulque-taxation-1778-1821.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Alcohol prohibitions and negotiation in seventeenth-century Istanbul](ottoman-drink-restrictions-and-negotiation.md)

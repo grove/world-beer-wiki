@@ -52,3 +52,8 @@ For conversion methods and cultural scope, read [Starch fermentation and the bou
 ## Edition 1.11: new materials and their different drinks
 
 [Aguamiel](../ingredients/agave-aguamiel.md) → [Pulque](../styles/pulque.md). [Pineapple rind and piloncillo](../ingredients/pineapple-rind-and-piloncillo.md) → [Tepache](../styles/tepache.md). [Cassava](../ingredients/cassava.md) → [Cauim](../styles/cauim.md) and [Giroba](../styles/giroba.md). [Millet](../ingredients/sorghum-and-millet.md) → [Kunun-zaki](../styles/kunun-zaki.md). A material connection is not a mandatory ingredient rule for every named community.
+
+
+## Edition 1.12 additions
+
+[Millet malt as a microbial input](../ingredients/millet-malt-as-microbial-input.md), [rye bread in kvass](../ingredients/rye-bread-as-kvass-substrate.md), [sorghum and millets](../ingredients/sorghum-and-millet.md), and [koji-related starters](../ingredients/mould-and-mixed-starters.md) connect different substrates to different biochemical roles.

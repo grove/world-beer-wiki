@@ -30,3 +30,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.11: source-led additions
 
 - [Fermented cassava as food, drink and social practice](fermented-cassava-as-food-and-drink.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Amazake at the food-drink boundary](amazake-sugar-and-sake-lees.md)

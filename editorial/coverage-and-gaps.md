@@ -88,3 +88,8 @@ This edition adds focused histories of Abydos, Andean chicherías, Ghanaian pito
 ## Edition 1.11 evidence gaps
 
 The [research edition 1.11](research-update-1-11.md) addresses specific Mexican, Brazilian, Nigerian and brewing-chemistry examples, not complete regional representation. The [review queue](source-review-queue-1-11.md) identifies full-text and local-language research and community review still required. Extending coverage must not collapse Indigenous groups or treat secondary historical interpretations as living testimony.
+
+
+## Edition 1.12 reading guardrails
+
+The [edition 1.12 study](research-update-1-12.md) provides bounded contexts in Zimbabwe, Rwanda, Georgia, Türkiye, Bulgaria, Taiwan and Japan, not a survey of every region, participant or product. Still needed: local-language and community review, inaccessible full methods, taxonomy and starter-source verification. The [source queue](source-review-queue-1-12.md) records tasks; do not infer public rituals or safety claims from indexed laboratory abstracts.

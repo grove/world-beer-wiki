@@ -33,16 +33,15 @@ sources:
     rather than universal energy intensities.
 - id: v16-mexico-lca
   resource: https://www.eemj.eu/index.php/EEMJ/article/view/5028
-  title: Carbon and water footprints of micro craft breweries using a life cycle assessment approach
-    (2024)
+  title: Carbon and water footprints of micro craft breweries using a life cycle assessment approach (2024)
   author_label: Perea-Eguia, Wakida and Hernandez
   source_kind: primary-lca-abstract
   access_scope: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle
     boundaries and water footprint definitions require attention.
 - id: v16-japan-lca
   resource: https://www.mdpi.com/2071-1050/17/24/11003
-  title: Assessing Sustainability Trade-Offs in Craft Beer Production Through Life Cycle and Costing
-    Analysis Scenarios (2025)
+  title: Assessing Sustainability Trade-Offs in Craft Beer Production Through Life Cycle and Costing Analysis
+    Scenarios (2025)
   author_label: Study authors
   source_kind: primary-lca-open-text
   access_scope: Open article abstract on representative Japanese small brewery using 2024 data, specified
@@ -59,8 +58,16 @@ sources:
   title: Identifying the most sustainable beer packaging through life-cycle assessment (2024)
   author_label: Study authors
   source_kind: primary-lca-abstract
-  access_scope: Publisher abstract and highlights comparing PET keg, glass and aluminium; different
-    assumptions than seven-brewery study.
+  access_scope: Publisher abstract and highlights comparing PET keg, glass and aluminium; different assumptions
+    than seven-brewery study.
+- id: v112-mahewu-2024
+  resource: https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887
+  title: Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024;
+    first online 2023)
+  author_label: Kudita and colleagues
+  source_kind: primary-survey-study
+  access_scope: Publisher open-access article summary and percentages; subsequent article access blocked;
+    respondents and stated preferences are not nationwide forecasts.
 scope: Method-focused comparison of competing resources and limits of brewery LCA studies.
 evidence_basis:
 - industrial-case-study
@@ -99,6 +106,13 @@ A 2022 seven-brewery scenario study found that switching from single-use glass a
 
 The [packaging and transport comparison](beer-packaging-transport-and-return-loops.md) asks readers to check functional unit, reuse cycle, delivery distances and end-of-life treatment before comparing published footprints.
 
+
+## Edition 1.12: newly sourced connections
+
+A 2024 Zimbabwean mahewu survey examined **consumer grain preferences and availability**, not a whole-system life-cycle assessment. Regional crop substitution can matter for access and resilience, but a preference study does **not** establish a lower greenhouse-gas footprint for millet, sorghum or maize.[^v112-mahewu-2024]
+
+See [ingredient resilience questions](mahewu-grain-availability-and-resilience.md) and [Sorghum and millet](../ingredients/sorghum-and-millet.md).
+
 ## Source notes
 
 [^v14-circular]: [Spent Grain Valorisation and Renewable Energy for Craft Breweries (2024)](https://www.sciencedirect.com/science/article/pii/S0959652624009752). Sustainability review authors. Consulted 2026-10-27. Access: Open review abstract: opportunities and LCA limitations; not an actual emissions audit for every brewery.
@@ -118,3 +132,5 @@ Compare [the Mexican case](mexican-microbrewery-footprint-case.md) and [the Japa
 
 [^v17-pack-small]: [Packaging choice and coordinated distribution logistics in small-scale beer (2022)](https://pubmed.ncbi.nlm.nih.gov/35104702/). Dyfed Morgan and colleagues. Consulted 2026-10-28. Access: Indexed life-cycle abstract for seven breweries and modeled delivery scenarios; results do not rank all formats universally.
 [^v17-pack-comp]: [Identifying the most sustainable beer packaging through life-cycle assessment (2024)](https://www.sciencedirect.com/science/article/pii/S0048969724050915). Study authors. Consulted 2026-10-28. Access: Publisher abstract and highlights comparing PET keg, glass and aluminium; different assumptions than seven-brewery study.
+
+[^v112-mahewu-2024]: [Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024; first online 2023)](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887). Kudita and colleagues. Consulted 2026-10-28. Evidence access: Publisher open-access article summary and percentages; subsequent article access blocked; respondents and stated preferences are not nationwide forecasts.
