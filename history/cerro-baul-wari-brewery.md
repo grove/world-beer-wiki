@@ -1,8 +1,8 @@
 ---
 type: Historical Research
 title: 'Cerro Baúl: an excavated Wari brewery'
-description: Wari-period Cerro Baúl excavation in the Moquegua region of Peru, around the close of the first
-  millennium CE; site-specific reconstruction, not an Inca recipe.
+description: Wari-period Cerro Baúl excavation in the Moquegua region of Peru, around the close of
+  the first millennium CE; site-specific reconstruction, not an Inca recipe.
 tags:
 - history
 - research-edition-1.5
@@ -13,23 +13,31 @@ generated:
 sources:
 - id: v15-wari-2005
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
-  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
-    (2005)'
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro
+    Baúl, Peru (2005)'
   author_label: Michael E. Moseley and coauthors
   source_kind: primary-archaeological-paper
-  access_scope: Indexed excerpts of open article text returned in search; direct page open presented a browser
-    challenge; excavation claims limited to retrieved passages, not unseen figures.
+  access_scope: Indexed excerpts of open article text returned in search; direct page open presented
+    a browser challenge; excavation claims limited to retrieved passages, not unseen figures.
 - id: v15-wari-2024
   resource: https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/
   title: Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)
   author_label: Donna J. Nash, Matthew E. Biwer and Emilee Witte
   source_kind: peer-reviewed-archaeology-abstract
-  access_scope: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided
-    experiments; full paper not accessed.
+  access_scope: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and
+    informant-guided experiments; full paper not accessed.
+- id: v110-wari
+  resource: https://www.tandfonline.com/doi/full/10.1080/19442890.2023.2284072
+  title: 'Dreg Deposits and Domestic Beer Production: Assessing the Ubiquity of Chicha Production
+    in the Wari Empire (2024)'
+  author_label: Study authors, Ethnoarchaeology
+  source_kind: primary-archaeology-abstract
+  access_scope: Publisher abstract and metadata; domestic versus state-sponsored Wari Moquegua brewing
+    hypothesis only; full article inaccessible.
 regions:
 - Peru, Moquegua
-scope: Wari-period Cerro Baúl excavation in the Moquegua region of Peru, around the close of the first millennium
-  CE; site-specific reconstruction, not an Inca recipe.
+scope: Wari-period Cerro Baúl excavation in the Moquegua region of Peru, around the close of the
+  first millennium CE; site-specific reconstruction, not an Inca recipe.
 evidence_basis:
 - peer-reviewed-archaeology-abstract
 - primary-archaeological-paper
@@ -76,8 +84,17 @@ The original excavation reports staged feasting and deliberate destruction assoc
 
 Wari-period Cerro Baúl excavation in the Moquegua region of Peru, around the close of the first millennium CE; site-specific reconstruction, not an Inca recipe. This is a research draft; cited sampling, interviews, archives, guideline editions or experiments retain their stated limits. No independent specialist or community review is claimed.
 
+## Edition 1.10: newly sourced connections
+
+A 2024 study introduced an important scale argument: combining Cerro Baúl excavation and experiment-informed research, its authors suggest chicha production in the studied Wari Moquegua province was predominantly specialized and state-linked, not ubiquitous domestic brewing. This interpretation is bounded to the referenced province, period and evidence; it does not erase local household brewing elsewhere.[^v110-wari]
+
+For the distinction between a recovered fermentation vessel, experimental dregs, and a production institution, read the new [Wari dregs analysis](cerro-baul-dregs-and-state-brewing.md). An archaeological model can test what traces might survive, not reveal a complete historical recipe.
+
+
 ## Source notes
 
 [^v15-wari-2005]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley and coauthors. Consulted 2026-10-27. Access: Indexed excerpts of open article text returned in search; direct page open presented a browser challenge; excavation claims limited to retrieved passages, not unseen figures.
 
 [^v15-wari-2024]: [Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)](https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/). Donna J. Nash, Matthew E. Biwer and Emilee Witte. Consulted 2026-10-27. Access: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided experiments; full paper not accessed.
+
+[^v110-wari]: [Dreg Deposits and Domestic Beer Production: Assessing the Ubiquity of Chicha Production in the Wari Empire (2024)](https://www.tandfonline.com/doi/full/10.1080/19442890.2023.2284072). Study authors, Ethnoarchaeology. Consulted 2026-10-28. Access: Publisher abstract and metadata; domestic versus state-sponsored Wari Moquegua brewing hypothesis only; full article inaccessible.

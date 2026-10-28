@@ -15,15 +15,23 @@ sources:
   title: Iso-alpha-acids, Bitterness and Loss of Beer Quality during Storage (2012)
   author_label: Isabel Caballero, Carlos A. Blanco and María Porras
   source_kind: hop-chemistry-review
-  access_scope: Publisher text discusses heat isomerisation and breakdown; does not equate IBU with flavor
-    preference.
+  access_scope: Publisher text discusses heat isomerisation and breakdown; does not equate IBU with
+    flavor preference.
 - id: v14-hops-climate
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/
   title: Climate-induced Decline in the Quality and Quantity of European Hops (2023)
   author_label: European hop climate researchers
   source_kind: climate-primary-open-text
-  access_scope: 'Open full study: historical records and projections for specific European growing regions;
-    not all worldwide hops.'
+  access_scope: 'Open full study: historical records and projections for specific European growing
+    regions; not all worldwide hops.'
+- id: v110-photo-2001
+  resource: https://pubmed.ncbi.nlm.nih.gov/11757646/
+  title: Mechanism for formation of the lightstruck flavor in beer revealed by time-resolved electron
+    paramagnetic resonance (2001)
+  author_label: C. S. Burns and colleagues
+  source_kind: primary-photochemistry-abstract
+  access_scope: 'PubMed abstract: iso-alpha acid photodecomposition experiments in model solvents;
+    mechanism not a consumer threshold.'
 scope: Chemistry of bittering precursors and their changes in wort and packaged beer.
 evidence_basis:
 - climate-primary-open-text
@@ -35,8 +43,8 @@ relations:
   target: processes/alpha-acid-isomerization
   source_ids:
   - v14-hop
-  qualifier: Heating hop alpha acids produces iso-alpha-acid bittering compounds; product outcome depends
-    on process.
+  qualifier: Heating hop alpha acids produces iso-alpha-acid bittering compounds; product outcome
+    depends on process.
 ---
 
 # Hop alpha acids and iso-alpha acids
@@ -65,8 +73,17 @@ European harvest research tracks alpha-content changes in hop growing areas, but
 
 Chemistry of bittering precursors and their changes in wort and packaged beer. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
+## Edition 1.10: newly sourced connections
+
+Hop iso-alpha acids have a second significance beyond bitterness: selected bittering compounds react when exposed to light. A 2001 time-resolved electron-paramagnetic-resonance study demonstrated radical pathways during photodecomposition in a model solvent. This does not state a product-level shelf-life threshold or prove that hop aroma oils cause all sulfurous impressions.[^v110-photo-2001]
+
+Read [iso-alpha acid photolysis](iso-alpha-acids-and-photolysis.md) with the [existing lightstruck chemistry guide](../sensory/lightstruck-chemistry.md) to separate analytical mechanism from sensory observation.
+
+
 ## Source notes
 
 [^v14-hop]: [Iso-alpha-acids, Bitterness and Loss of Beer Quality during Storage (2012)](https://www.sciencedirect.com/science/article/pii/S0924224412000039). Isabel Caballero, Carlos A. Blanco and María Porras. Consulted 2026-10-27. Access: Publisher text discusses heat isomerisation and breakdown; does not equate IBU with flavor preference.
 
 [^v14-hops-climate]: [Climate-induced Decline in the Quality and Quantity of European Hops (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/). European hop climate researchers. Consulted 2026-10-27. Access: Open full study: historical records and projections for specific European growing regions; not all worldwide hops.
+
+[^v110-photo-2001]: [Mechanism for formation of the lightstruck flavor in beer revealed by time-resolved electron paramagnetic resonance (2001)](https://pubmed.ncbi.nlm.nih.gov/11757646/). C. S. Burns and colleagues. Consulted 2026-10-28. Access: PubMed abstract: iso-alpha acid photodecomposition experiments in model solvents; mechanism not a consumer threshold.

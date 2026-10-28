@@ -41,3 +41,7 @@ New evidence-based references (all retain draft status):
 
 - [Beer in clay: a tablet as a working document](ur-iii-beer-tablet-as-object.md) — Historical Material Culture Reference.
 - [The communal jar and bamboo straws in rượu cần service](vietnamese-communal-jar-and-straws.md) — Serving and Material Culture Reference.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Beer bottles as light barriers and flavor environments](beer-bottles-and-light-barriers.md) — Why container and light exposure can affect beer photo-chemistry; no universal bottle ranking.

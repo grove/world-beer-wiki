@@ -1,6 +1,6 @@
 # All beer and tradition profiles
 
-**173 canonical beer/tradition and related-ferment profiles in edition 1.8.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
+**177 canonical beer/tradition and related-ferment profiles in edition 1.10.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
 
 [Home](../index.md) · [Category guides](../categories/index.md) · [Ingredients](../ingredients/index.md) · [Names](../navigation/all-names.md) · [Regions](../navigation/by-region.md)
 
@@ -195,3 +195,8 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 
 - [Huangjiu: Chinese fermented cereal wine](huangjiu-chinese-cereal-wine.md) — Related Fermented-Grain Tradition.
 - [Rượu cần: Vietnamese jar-fermented drink](ruou-can-vietnamese-jar-ferment.md) — Related Fermented-Grain Tradition.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Khao mak: Thai sweet fermented rice](khao-mak-thai-fermented-rice.md) — Thai khao mak as a sweet rice ferment named in a Southeast Asian review; not identical with distilled sato or beer.
+- [Tapai ketan: fermented glutinous rice as food and drink](tapai-ketan.md) — Indonesian glutinous rice tapai as food-to-beverage continuum; not a BJCP beer style.

@@ -45,3 +45,7 @@ New evidence-based references (all retain draft status):
 
 - [Jar-wine occasions in Vietnam’s Central Highlands](vietnam-highland-jar-wine-occasions.md) — Seasonal and Cultural Calendar Reference.
 - [Munich: winter brewing and summer cellar service](munich-cellars-and-summer-service.md) — Seasonal Historical Context.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Masateadas are gatherings, not a universal calendar holiday](masateada-gatherings-without-fixed-dates.md) — Yaminahua masateada gatherings discussed in 2013 scholarship, without an established annual calendar date.

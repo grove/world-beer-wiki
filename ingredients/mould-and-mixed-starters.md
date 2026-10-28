@@ -1,7 +1,8 @@
 ---
 type: Ingredient Reference
 title: Mould and mixed starters
-description: Koji, nuruk and other starter systems that separate starch conversion from alcoholic fermentation.
+description: Koji, nuruk and other starter systems that separate starch conversion from alcoholic
+  fermentation.
 tags:
 - ingredient
 - starter
@@ -33,76 +34,92 @@ sources:
   access_scope: indexed abstract; experimental and commercial wheat-based nuruk samples
 - id: ing-rice-starter-comparison
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC6049790/
-  title: Comparative characteristics of rice wine fermentations using Monascus koji and rice nuruk (2017)
+  title: Comparative characteristics of rice wine fermentations using Monascus koji and rice nuruk
+    (2017)
   author_label: Hyun Man Shin, Jae Woong Lim, Cheol Gon Shin and Chul Soo Shin
   source_kind: primary-research
-  access_scope: published methods and results; comparison of selected cultured starters, not all traditional
-    nuruk or koji
+  access_scope: published methods and results; comparison of selected cultured starters, not all
+    traditional nuruk or koji
 - id: parakari-study
   resource: https://pubmed.ncbi.nlm.nih.gov/16389951/
   title: Parakari, an indigenous fermented beverage using amylolytic Rhizopus in Guyana (2005)
   author: human:terry-w-henkel
   source_kind: primary-research
-  access_scope: indexed title and abstract excerpt only; limited to identification of mold-assisted fermentation
+  access_scope: indexed title and abstract excerpt only; limited to identification of mold-assisted
+    fermentation
   author_label: Terry W. Henkel
 - id: v15-banhmen-2008
   resource: https://pubmed.ncbi.nlm.nih.gov/18838186/
-  title: Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as determined
-    by PCR-mediated DGGE (2008)
+  title: Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as
+    determined by PCR-mediated DGGE (2008)
   author_label: Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan
   source_kind: primary-microbiology-abstract
   access_scope: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
 - id: v15-himalaya-2019
   resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full
-  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters
-    of the Eastern Himalayas (2019)
+  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared
+    Dry Starters of the Eastern Himalayas (2019)
   author_label: Frontiers in Microbiology research team
   source_kind: primary-microbiology-open-text
-  access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community
-    differences; laboratory detections not proof of universal starter composition.'
+  access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation
+    and community differences; laboratory detections not proof of universal starter composition.'
 - id: v16-assam
   resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full
-  title: Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in
-    southern Assam (2024)
+  title: Metagenomic insights into traditional fermentation of rice-based beverages among ethnic
+    tribes in southern Assam (2024)
   author_label: Yumnam, Hazarika and Sharma
   source_kind: primary-field-and-sequencing-study
-  access_scope: Open HTML methods/results, 15 community-produced samples from five named groups (three each)
-    and 16S assay; no full ethnography or clinical outcome evidence.
+  access_scope: Open HTML methods/results, 15 community-produced samples from five named groups (three
+    each) and 16S assay; no full ethnography or clinical outcome evidence.
 - id: v17-bubod-1990
   resource: https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article
   title: Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)
   author_label: Michio Kozaki and Tai Uchimura
   source_kind: primary-isolate-study-abstract
-  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates
-    in studied material; full Japanese paper not read.
+  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast
+    isolates in studied material; full Japanese paper not read.
 - id: v17-unesco-sake
   resource: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977
   title: Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)
   author_label: UNESCO / Japanese nomination
   source_kind: heritage-inscription-record
-  access_scope: UNESCO indexed description and inscription decision; direct page can require browser challenge.
-    Heritage designation is not biochemical or ownership proof.
+  access_scope: UNESCO indexed description and inscription decision; direct page can require browser
+    challenge. Heritage designation is not biochemical or ownership proof.
 - id: v19-phab
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC6848222/
-  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters
-    of the Eastern Himalayas (2019)
+  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared
+    Dry Starters of the Eastern Himalayas (2019)
   author_label: Eastern Himalayan microbial-starter research team
   source_kind: primary-isolate-research
-  access_scope: 'Open indexed article and abstract: 35 dry-starter samples, 201 bacterial isolates, 16S rRNA
-    identification; bacteria isolates are not entire live starter or proof of safe practices.'
+  access_scope: 'Open indexed article and abstract: 35 dry-starter samples, 201 bacterial isolates,
+    16S rRNA identification; bacteria isolates are not entire live starter or proof of safe practices.'
+- id: v110-ragi-genetics
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/
+  title: Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)
+  author_label: Study authors, Journal of Microbiology
+  source_kind: primary-molecular-survey-excerpts
+  access_scope: Indexed full-text introduction and study description; Java ragi tapai isolates, not
+    global starter taxonomy; full methods not independently inspected.
+- id: v110-tape-1972
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC380483/
+  title: Tapé Fermentation (1972)
+  author_label: Ko Swan Djien
+  source_kind: primary-fermentation-research-abstract
+  access_scope: Original journal abstract via PMC index; selected two-organism laboratory system
+    using ragi isolates; no complete field study read.
 aliases:
 - Mold and mixed starters
 - Saccharifying starters
 regions:
 - Cross-regional
-scope: Comparative starter reference; named local starters are not aliases or assumed to contain identical
-  organisms.
+scope: Comparative starter reference; named local starters are not aliases or assumed to contain
+  identical organisms.
 evidence_basis:
 - primary-research
 - producer-association-technical-documentation
 source_checked_on: '2026-10-28'
-review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian
-  or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist,
+  historian or community representative.
 relations:
 - relation: compare_with
   target: styles/parakari
@@ -173,6 +190,13 @@ Read [bubod](bubod-starter.md), [sake heritage](../culture/japanese-koji-sake-he
 
 An Eastern Himalayan 2019 isolate study examined 35 samples representing several differently named dry starters, including Bhutanese *phab* and regional *marcha*, *paa*, *pee* and *phut*. Its 201 identified bacteria are a **subset of recoverable bacteria** from the studied materials, not a complete inventory of yeasts, molds or enzymatic functions. The reported ingredients and community names vary; there is no single interchangeable Himalayan starter. Compare the specific [phab case](../microbiology/phab-dry-starter-research.md) and [nuruk survey](../microbiology/nuruk-42-sample-survey.md) rather than assuming any one culture satisfies every grain-ferment method.[^v19-phab]
 
+## Edition 1.10: newly sourced connections
+
+Indonesian ragi tapai illustrates the distinction between a maintained starter and an individual cultured organism. A Java genetic survey describes fungal diversity in sampled ragi materials, while a much earlier 1972 experiment deliberately reconstituted a two-organism functional system from selected isolates.[^v110-ragi-genetics][^v110-tape-1972]
+
+These studies should not be conflated: laboratory sufficiency does not imply historical completeness, and a detected taxon does not automatically explain all local variants. Follow the [ragi ingredient](ragi-tapai.md) and the [1972 experimental history](../history/tape-fermentation-laboratory-model-1972.md) for those distinct research questions.
+
+
 ## Source notes
 
 [^ing-jssa-process]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/). Japan Sake and Shochu Makers Association. Consulted 2026-10-27. Evidence used: rice preparation, koji and parallel saccharification/fermentation sections.
@@ -197,3 +221,7 @@ Read [the situated five-drink comparison](../culture/southern-assam-five-beverag
 [^v17-unesco-sake]: [Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977). UNESCO / Japanese nomination. Consulted 2026-10-28. Access: UNESCO indexed description and inscription decision; direct page can require browser challenge. Heritage designation is not biochemical or ownership proof.
 
 [^v19-phab]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6848222/). Eastern Himalayan microbial-starter research team. Checked 2026-10-28. Access: Open indexed article and abstract: 35 dry-starter samples, 201 bacterial isolates, 16S rRNA identification; bacteria isolates are not entire live starter or proof of safe practices.
+
+[^v110-ragi-genetics]: [Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/). Study authors, Journal of Microbiology. Consulted 2026-10-28. Access: Indexed full-text introduction and study description; Java ragi tapai isolates, not global starter taxonomy; full methods not independently inspected.
+
+[^v110-tape-1972]: [Tapé Fermentation (1972)](https://pmc.ncbi.nlm.nih.gov/articles/PMC380483/). Ko Swan Djien. Consulted 2026-10-28. Access: Original journal abstract via PMC index; selected two-organism laboratory system using ragi isolates; no complete field study read.

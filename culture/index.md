@@ -74,3 +74,9 @@ New evidence-based references (all retain draft status):
 - [Mesopotamian beer as an administered resource](mesopotamian-beer-and-administration.md) — Archival Social History.
 - [Munich beer gardens: shade, shared tables and food](munich-beer-garden-public-life.md) — Institutional Cultural History.
 - [S’Tieng rượu cần: craft, livelihood and transmission](stieng-ruou-can-and-transmission.md) — Community-Reported Brewing Craft.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Cusco chicherías, maize harvests and women’s work](cusco-chicherias-maize-and-gendered-work.md) — Cusco-region ethnography from 2019, including Huarocondo; not a model for all Peruvian chicha.
+- [North-coast chicha: labor, tools and production scale](north-peru-chicha-labor-and-scale.md) — 2008 ethnoarchaeological two-region study of Peruvian north-coast chicha production.
+- [Yaminahua masateadas: hospitality, connection and tension](yaminahua-masateadas-and-kinship.md) — 2013 Yaminahua masato feast analysis in the Peruvian Amazon; no claim about all Amazonian communities.

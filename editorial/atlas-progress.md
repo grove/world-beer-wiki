@@ -1,15 +1,15 @@
 ---
 type: Implementation Progress Report
 title: Atlas scope and progress
-description: Source-derived finite scope ledger for World Beer Atlas edition 1.9.
+description: Finite scope and evidence ledger for World Beer Atlas edition 1.10.
 tags:
 - wiki-documentation
 - atlas
 - progress
 status: draft
 generated:
-  by: world-beer-wiki/1.9
-  at: '2026-10-28T07:35:00Z'
+  by: world-beer-wiki/1.10
+  at: '2026-10-28T08:50:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -18,7 +18,7 @@ sources:
 
 # Atlas scope and progress
 
-**Edition 1.9: 63 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
+**Edition 1.10: 69 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
 
 | ID | Workstream | Status | Reproducible deliverable paths |
 |---|---|---|---|
@@ -108,3 +108,20 @@ sources:
 ## Edition 1.9 scope and reproducibility
 
 31 new articles, 18 researched revisions and 18 distinct external works. The ledger marks only these defined deliverables as implemented; independent community/specialist review is still pending. [Research update](research-update-1-9.md) · [Sources](../references/atlas-sources-1-9.md) · [Review queue](source-review-queue-1-9.md).
+
+## Edition 1.10 delivered work
+
+The following scoped items are implemented, not independently reviewed.
+
+| ID | Workstream | State | Tracked entry points |
+|---|---|---|---|
+| ATLAS-067 | Amazonian feasts and Andean chicha social research | implemented | [yaminahua-masateadas-and-kinship.md](../culture/yaminahua-masateadas-and-kinship.md) · [cusco-chicherias-maize-and-gendered-work.md](../culture/cusco-chicherias-maize-and-gendered-work.md) · [north-peru-chicha-labor-and-scale.md](../culture/north-peru-chicha-labor-and-scale.md) · [masateada-gatherings-without-fixed-dates.md](../calendar/masateada-gatherings-without-fixed-dates.md) |
+| ATLAS-068 | Wari archaeological interpretation and laboratory-history boundaries | implemented | [cerro-baul-dregs-and-state-brewing.md](../history/cerro-baul-dregs-and-state-brewing.md) · [tape-fermentation-laboratory-model-1972.md](../history/tape-fermentation-laboratory-model-1972.md) |
+| ATLAS-069 | Ragi, tapai, khao mak and rice-ferment classification | implemented | [ragi-tapai.md](../ingredients/ragi-tapai.md) · [tapai-ketan.md](../styles/tapai-ketan.md) · [khao-mak-thai-fermented-rice.md](../styles/khao-mak-thai-fermented-rice.md) · [tapai-as-food-and-beverage.md](../food/tapai-as-food-and-beverage.md) |
+| ATLAS-070 | Alternative grains, enzymatic constraints and photo-chemistry | implemented | [buckwheat-and-extract-limits.md](../ingredients/buckwheat-and-extract-limits.md) · [quinoa-and-amaranth-in-beer.md](../ingredients/quinoa-and-amaranth-in-beer.md) · [gluten-free-starch-conversion.md](../processes/gluten-free-starch-conversion.md) · [riboflavin-and-beer-light.md](../ingredients/riboflavin-and-beer-light.md) |
+| ATLAS-071 | Low-alcohol methods, sensory effects and microbial challenge research | implemented | [nonalcoholic-beer-pathogen-challenge.md](../microbiology/nonalcoholic-beer-pathogen-challenge.md) · [thermal-and-membrane-dealcoholisation.md](../processes/thermal-and-membrane-dealcoholisation.md) · [worty-aroma-in-low-alcohol-beer.md](../sensory/worty-aroma-in-low-alcohol-beer.md) · [nonalcoholic-beer-methods-and-safety.md](../categories/nonalcoholic-beer-methods-and-safety.md) |
+| ATLAS-072 | Edition 1.10 provenance, 15 revisions, automation and reading paths | implemented | [atlas-sources-1-10.md](../references/atlas-sources-1-10.md) · [research-update-1-10.md](../editorial/research-update-1-10.md) · [validation-report-1-10.md](../editorial/validation-report-1-10.md) · [edition-1-10-reading-trails.md](../navigation/edition-1-10-reading-trails.md) · [test_research_quality_v110.py](../tests/test_research_quality_v110.py) |
+
+**What remains open:** ATLAS-012 community and independent subject-specialist reviews; additional source full-text/translation verification; actual product safety and gluten testing outside this encyclopedia. Licensed media and a live interactive calendar remain deferred.
+
+[New research update](research-update-1-10.md) · [Sources](../references/atlas-sources-1-10.md) · [Review queue](source-review-queue-1-10.md).

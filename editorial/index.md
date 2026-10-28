@@ -27,3 +27,7 @@
 ## Edition 1.9
 
 [Research and correction notes](research-update-1-9.md) · [Validation report](validation-report-1-9.md) · [Source-access and independent-review queue](source-review-queue-1-9.md) · [Specification](atlas-specification.md) · [Progress](atlas-progress.md).
+
+## Edition 1.10
+
+[Research update](research-update-1-10.md) · [Source-review queue](source-review-queue-1-10.md) · [Validation](validation-report-1-10.md) · [Expansion specification](atlas-specification.md).

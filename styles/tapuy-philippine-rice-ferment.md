@@ -1,8 +1,8 @@
 ---
 type: Related Fermented-Grain Tradition
 title: 'Tapuy: a Philippine rice-fermented beverage'
-description: A Philippine grain ferment studied through its rice starter bubod; related comparison rather
-  than a universal beer style.
+description: A Philippine grain ferment studied through its rice starter bubod; related comparison
+  rather than a universal beer style.
 tags:
 - research-edition-1.7
 - styles
@@ -19,8 +19,8 @@ sources:
   title: Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)
   author_label: Michio Kozaki and Tai Uchimura
   source_kind: primary-isolate-study-abstract
-  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates
-    in studied material; full Japanese paper not read.
+  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast
+    isolates in studied material; full Japanese paper not read.
 - id: v17-bubod-2025
   resource: https://link.springer.com/article/10.1007/s44187-025-00285-x
   title: Effects of starter cultures on the metabolite profile of tapuy lees (2025)
@@ -28,6 +28,13 @@ sources:
   source_kind: primary-study-open-article
   access_scope: Publisher open abstract and overview of variable bubod communities; no claim of clinical
     anti-aging benefit.
+- id: v110-ragi-genetics
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/
+  title: Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)
+  author_label: Study authors, Journal of Microbiology
+  source_kind: primary-molecular-survey-excerpts
+  access_scope: Indexed full-text introduction and study description; Java ragi tapai isolates, not
+    global starter taxonomy; full methods not independently inspected.
 regions:
 - Philippines
 scope: A Philippine grain ferment studied through its rice starter bubod; related comparison rather
@@ -67,7 +74,16 @@ This page neither relabels tapuy as lager nor assumes that the Philippine term h
 
 This is a bounded, AI-authored research draft. Sources support the cited study, institution or testimony; they do not establish a global recipe, guaranteed health or safety outcomes, or unbroken descent between traditions. See the [editorial method](../editorial/methodology.md) and [edition source notes](../references/atlas-sources-1-7.md).
 
+## Edition 1.10: newly sourced connections
+
+Regional Indonesian ragi tapai research provides a useful biochemical comparator for the Philippine tapuy starter system: both involve starch conversion supported by microbial mixtures, but their names, forms and histories must remain distinct. A Java genetic study is evidence for that regional starter research, not for transmission or equivalence with Philippine bubod.[^v110-ragi-genetics]
+
+Readers can compare [ragi tapai](../ingredients/ragi-tapai.md), [tapai ketan](tapai-ketan.md), and the earlier [bubod reference](../ingredients/bubod-starter.md) while keeping each account's stated place, sample and terminology. This is a comparison, not a claim of a shared obligatory microbe or recipe.
+
+
 ## Source notes
 
 [^v17-bubod-1990]: [Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article). Michio Kozaki and Tai Uchimura. Consulted 2026-10-28. Access: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates in studied material; full Japanese paper not read.
 [^v17-bubod-2025]: [Effects of starter cultures on the metabolite profile of tapuy lees (2025)](https://link.springer.com/article/10.1007/s44187-025-00285-x). Edward Kevin B. Bragais and Paul Mark B. Medina. Consulted 2026-10-28. Access: Publisher open abstract and overview of variable bubod communities; no claim of clinical anti-aging benefit.
+
+[^v110-ragi-genetics]: [Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/). Study authors, Journal of Microbiology. Consulted 2026-10-28. Access: Indexed full-text introduction and study description; Java ragi tapai isolates, not global starter taxonomy; full methods not independently inspected.

@@ -441,3 +441,10 @@ Search titles and alternative names across beer profiles, ingredients and catego
 | 日本酒 | [Sake](../styles/sake.md) | Related Fermented-Grain Tradition | alias within the linked article’s scope |
 
 [All profiles](../styles/index.md) · [Ingredients](../ingredients/index.md) · [Category guides](../categories/index.md) · [Home](../index.md)
+
+## New named related ferments in edition 1.10
+
+| Name | Scoped canonical article | Role |
+|---|---|---|
+| Tapai ketan | [Tapai ketan](../styles/tapai-ketan.md) | Related Indonesian fermented food and drink; not a BJCP beer style |
+| Khao mak | [Khao mak](../styles/khao-mak-thai-fermented-rice.md) | Thai sweet rice ferment, source-bounded and distinct from distillates |

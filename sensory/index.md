@@ -51,3 +51,7 @@ New evidence-based references (all retain draft status):
 ## Added in research edition 1.9
 
 - [Huangjiu aroma: microbes and metabolites are different measurements](huangjiu-microbes-and-aroma-association.md) — Sensory Evidence Guide.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Why some low-alcohol beers taste worty](worty-aroma-in-low-alcohol-beer.md) — Role of residual wort character, aldehydes, esters, ethanol and sugar fermentation in non-alcoholic beer.

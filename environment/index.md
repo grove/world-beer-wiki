@@ -26,3 +26,7 @@ New evidence-based references (all retain draft status):
 
 - [Packaging, transport distance and beer life-cycle comparisons](beer-packaging-transport-and-return-loops.md) — Why reusable glass, cans and kegs change relative performance when delivery systems and life-cycle boundaries change.
 - [Spent grain: circular value and handling constraints](spent-grain-food-safety-and-circularity.md) — A 2026 review of brewery by-products, processing options and the risks of assuming every reuse route is sustainable or food-safe.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Low-alcohol beer: energy, water and processing boundaries](low-alcohol-beer-processing-tradeoffs.md) — What environmental questions can and cannot be inferred from no-alcohol brewing method descriptions.

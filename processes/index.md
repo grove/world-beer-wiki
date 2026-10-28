@@ -60,3 +60,9 @@ New evidence-based references (all retain draft status):
 
 - [From botanical starter to shared jar: rượu cần stages](ruou-can-starter-jar-and-service.md) — Situated Brewing Process Explanation.
 - [Huangjiu: preparing grain, converting starch and fermenting](huangjiu-process-and-variation.md) — Brewing and Fermentation Process Reference.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Ragi starters: concurrent starch conversion and fermentation](ragi-parallel-starch-and-ethanol-fermentation.md) — Starch breakdown and ethanol production occurring through mixed starter functions in Indonesian tapé models.
+- [Removing alcohol: thermal and membrane methods](thermal-and-membrane-dealcoholisation.md) — Comparison of post-fermentation thermal and membrane approaches, not a validated processing protocol.
+- [Starch conversion when brewing without barley malt](gluten-free-starch-conversion.md) — Enzyme and grain-matrix challenges for replacing barley malt, with explicit gluten-free validation caveat.

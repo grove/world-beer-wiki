@@ -27,3 +27,7 @@ Source records, independent publications and independent confirmations are diffe
 ## Edition 1.9 source documentation
 
 [Annotated 1.9 sources](atlas-sources-1-9.md) map 18 actual works to source access and backlinks. A repeat citation is not additional corroboration.
+
+## Edition 1.10
+
+[Annotated 1.10 sources with backlinks](atlas-sources-1-10.md) explain access limits and distinguish one primary experimental study from repeated cross-references.

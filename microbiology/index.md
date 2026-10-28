@@ -70,3 +70,8 @@ New evidence-based references (all retain draft status):
 - [Manual and mechanized Huangjiu are research comparisons](huangjiu-manual-and-mechanized-microbes.md) — Fermentation Ecology Comparison.
 - [Nuruk in 42 samples: diversity, not a universal starter](nuruk-42-sample-survey.md) — Microbial Survey Interpretation.
 - [Phab and neighboring Himalayan dry starters: 35 samples](phab-dry-starter-research.md) — Microbial Isolate Research.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Amylomyces rouxii in ragi tapai research](amylomyces-and-ragi-tapai.md) — A Java regional genetic study of Amylomyces rouxii, with earlier ragi isolation comparison.
+- [Challenge tests and the safety boundaries of alcohol-free beer](nonalcoholic-beer-pathogen-challenge.md) — 2023 experimentally inoculated nonalcoholic craft-beer matrices; not a claim about every commercial beer.

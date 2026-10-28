@@ -19,25 +19,25 @@ sources:
   author: team:daniela-bassi-luigi-orru-jeison-cabanillas-vasquez-pier-sandro-cocconcelli-and-cecilia-fontana
   source_kind: primary-research
   access_scope: 'full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093'
-  author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia
-    Fontana
+  author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and
+    Cecilia Fontana
 - id: trad-chicha-archaeology
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
   title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro
     Baúl, Peru (2005)'
   author: team:trad-chicha-archaeology-authors
   source_kind: primary-research
-  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata; full
-    PMC page blocked during direct retrieval; DOI 10.1073/pnas.0508673102
-  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda
-    and Mario Ruales
+  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata;
+    full PMC page blocked during direct retrieval; DOI 10.1073/pnas.0508673102
+  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana
+    Miranda and Mario Ruales
 - id: v13-chicha
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7022331/
   title: 'Peruvian chicha: a focus on the microbial populations (2020)'
   author_label: Authors, journal review
   source_kind: academic-review
-  access_scope: Full open review inspected; examples from particular Peruvian regions and sources, not
-    one uniform recipe.
+  access_scope: Full open review inspected; examples from particular Peruvian regions and sources,
+    not one uniform recipe.
 - id: v14-chimu
   resource: https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1989.91.3.02a00090
   title: 'Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production
@@ -59,23 +59,39 @@ sources:
   title: Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)
   author_label: Donna J. Nash, Matthew E. Biwer and Emilee Witte
   source_kind: peer-reviewed-archaeology-abstract
-  access_scope: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided
-    experiments; full paper not accessed.
+  access_scope: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and
+    informant-guided experiments; full paper not accessed.
 - id: v16-chicha-2026
   resource: https://pubmed.ncbi.nlm.nih.gov/42728806/
-  title: 'Chicha de Jora: A Traditional Andean Fermented Beverage as a Complex Cereal Fermentation System
-    (2026)'
+  title: 'Chicha de Jora: A Traditional Andean Fermented Beverage as a Complex Cereal Fermentation
+    System (2026)'
   author_label: Torres-Cárdenas et al.
   source_kind: open-review-abstract
   access_scope: PubMed abstract and indexed review excerpts on maize, adjuncts and varied processes;
     not a universal recipe or evidence for health claims.
 - id: v17-piura
   resource: https://www.sciencedirect.com/science/article/pii/S0278416508000159
-  title: 'Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production (2008)'
+  title: 'Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production
+    (2008)'
   author_label: Frances M. Hayashida
   source_kind: primary-ethnoarchaeology-preview
   access_scope: Publisher abstract plus methods, Piura and Lambayeque section excerpts; full paywalled
     article not read.
+- id: v110-cusco
+  resource: https://periodicos.ufrn.br/equatorial/article/download/16400/12190/61014
+  title: 'Chicha de jora: cauim de milho germinado nos Andes peruanos (2019)'
+  author_label: Felipe Vargas Faulbaum, Equatorial
+  source_kind: primary-ethnographic-article
+  access_scope: Accessible PDF extracted text and abstract; Cusco-region fieldwork and described
+    household/commercial chicha; PDF image screenshot unavailable, so figures not independently inspected.
+- id: v110-northcoast
+  resource: https://www.sciencedirect.com/science/article/pii/S0278416508000159
+  title: 'Ancient beer and modern brewers: ethnoarchaeological observations of chicha production
+    in two regions of the North Coast of Peru (2008)'
+  author_label: Frances M. Hayashida
+  source_kind: primary-ethnoarchaeology-abstract
+  access_scope: Publisher abstract and metadata, not paid full text; technology, labor and inputs
+    discussed for two north-coast regions.
 aliases: []
 regions:
 - South America
@@ -84,11 +100,12 @@ regions:
 countries:
 - Peru
 tradition_status: living-tradition
-scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
+scope: The named tradition as documented in the cited sources; local variation is not exhaustively
+  represented.
 evidence_basis: primary research or community-authored documentation
 source_checked_on: '2026-10-28'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer,
+  or community representative.
 relations:
 - relation: compare_with
   target: styles/tesguino
@@ -166,6 +183,13 @@ Frances Hayashida’s interviews with women working in ten chicherías around Ch
 
 This research expands the [Piura chichera account](../culture/piura-chicheras-and-household-sales.md) and the [service-sign object](../objects/piura-chicha-white-flags.md). The **white flag** is documented in the study setting, not a universal symbol for every Andean beer or a current business listing.
 
+## Edition 1.10: newly sourced connections
+
+A 2019 Cusco-area ethnography describes maize harvest work, the *chichera* occupation and red sale markers outside household *chicherías*. This is a locally observed relationship between brewing, agricultural labor and public sociability, rather than a universal chicha service practice.[^v110-cusco]
+
+A separate 2008 study of two north-coast Peruvian regions examined the practical labor and material correlates of chicha production. Production scales, vessels and work schedules varied in that comparative frame; neither study supplies a single ancient-to-present recipe. Follow the [Cusco chichería case](../culture/cusco-chicherias-maize-and-gendered-work.md) and [north-coast labor context](../culture/north-peru-chicha-labor-and-scale.md) before assigning one place's evidence to all of Peru.[^v110-northcoast]
+
+
 ## Source notes
 
 [^chicha-jora-study]: [Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage (2020)](https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage). Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana. Consulted 2026-10-27. Evidence used: full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093.
@@ -193,3 +217,7 @@ Read [colonial-record interpretation](../history/chile-chicha-and-the-colonial-a
 [^v16-chicha-2026]: [Chicha de Jora: A Traditional Andean Fermented Beverage as a Complex Cereal Fermentation System (2026)](https://pubmed.ncbi.nlm.nih.gov/42728806/). Torres-Cárdenas et al.. Consulted 2026-10-28. Access: PubMed abstract and indexed review excerpts on maize, adjuncts and varied processes; not a universal recipe or evidence for health claims.
 
 [^v17-piura]: [Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production (2008)](https://www.sciencedirect.com/science/article/pii/S0278416508000159). Frances M. Hayashida. Consulted 2026-10-28. Access: Publisher abstract plus methods, Piura and Lambayeque section excerpts; full paywalled article not read.
+
+[^v110-cusco]: [Chicha de jora: cauim de milho germinado nos Andes peruanos (2019)](https://periodicos.ufrn.br/equatorial/article/download/16400/12190/61014). Felipe Vargas Faulbaum, Equatorial. Consulted 2026-10-28. Access: Accessible PDF extracted text and abstract; Cusco-region fieldwork and described household/commercial chicha; PDF image screenshot unavailable, so figures not independently inspected.
+
+[^v110-northcoast]: [Ancient beer and modern brewers: ethnoarchaeological observations of chicha production in two regions of the North Coast of Peru (2008)](https://www.sciencedirect.com/science/article/pii/S0278416508000159). Frances M. Hayashida. Consulted 2026-10-28. Access: Publisher abstract and metadata, not paid full text; technology, labor and inputs discussed for two north-coast regions.

@@ -1,6 +1,6 @@
 # Ingredients and brewing cultures
 
-These 46 references explain materials and biological cultures used across the wiki. They connect ingredient roles to named styles and regional traditions without treating a shared ingredient as proof of a shared identity. Each reference states its scope and cites the evidence for its claims.
+These 53 references explain materials and biological cultures used across the wiki. They connect ingredient roles to named styles and regional traditions without treating a shared ingredient as proof of a shared identity. Each reference states its scope and cites the evidence for its claims.
 
 ## Water and starch sources
 
@@ -101,3 +101,11 @@ New evidence-based references (all retain draft status):
 
 - [Two-row and six-row barley: a trait is not an origin story](barley-row-type-and-brewing-assumptions.md) — Agricultural Ingredient Reference.
 - [Wheat qu in Chinese Huangjiu](wheat-qu-and-huangjiu.md) — Fermentation Starter Ingredient Reference.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Buckwheat: a pseudocereal brewing substrate](buckwheat-and-extract-limits.md) — Buckwheat malting, extract, wort viscosity and limits of inferring gluten-free labels.
+- [Iso-alpha acids: bitterness and light reactions](iso-alpha-acids-and-photolysis.md) — Hop iso-alpha acid photo-decomposition and the origin of some light-struck notes.
+- [Quinoa and amaranth in experimental beer](quinoa-and-amaranth-in-beer.md) — Pseudocereal grain substitutions in a published 40-percent-partial-barley brewing experiment.
+- [Ragi tapai: a dried mixed fermentation starter](ragi-tapai.md) — Indonesian ragi tapai starch-converting starter, distinct from one chosen laboratory isolate.
+- [Riboflavin and the photochemistry of beer](riboflavin-and-beer-light.md) — Riboflavin as a light-responsive component in model beer and lager experiments.
