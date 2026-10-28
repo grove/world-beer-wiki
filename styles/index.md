@@ -217,3 +217,11 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 - [Amazake: koji sweet rice drink and sake-lees variants](amazake.md)
 - [Indigenous Taiwanese millet and rice ferments: evidence scope](taiwan-indigenous-millet-ferment.md)
 - [Mahewu (amahewu)](mahewu.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Bushera — Ugandan fermented cereal drink](bushera.md) — Regional fermented cereal food-drink documented by Ugandan household surveys and microbiology, not a fixed standardized alcoholic style.
+- [Chibuku — industrial opaque sorghum beer](chibuku.md) — A commercial opaque-beer production context distinct from living household traditions and their locally maintained cultures.
+- [Jiahu mixed fermented-beverage evidence](jiahu-fermented-beverage.md) — Archaeological reconstruction from Jiahu pottery residues, not a surviving named beer recipe or modern cereal style.
+- [Malwa (Ajon) — a Ugandan millet-ferment name](malwa-ajon.md) — A millet-based beverage discussed in secondary East African fermentation research; direct community verification and alcohol measurement remain outstanding.
+- [Muratina — a Kenyan fibre-carried fermented drink](muratina.md) — Kenyan fermented sugarcane-based drink in a 2003 thesis and a particular Agikuyu marriage-study context; not a universally defined beer or mead.

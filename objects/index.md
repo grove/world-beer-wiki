@@ -45,3 +45,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.10 — evidence-based expansion
 
 - [Beer bottles as light barriers and flavor environments](beer-bottles-and-light-barriers.md) — Why container and light exposure can affect beer photo-chemistry; no universal bottle ranking.
+
+## Research edition 1.13 — source-scoped additions
+
+- [Jiahu pottery: when the vessel becomes a laboratory sample](jiahu-pottery-residue-sampling.md) — Vessel residues analyzed chemically and microscopically; preservation conditions limit direct recreation.
+- [Muratina fruit-fibre fermentation carriers](muratina-fibrous-starter-carriers.md) — A named porous plant material used as a reusable yeast carrier in investigated Kenyan Muratina preparations.

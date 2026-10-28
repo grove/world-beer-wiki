@@ -61,3 +61,7 @@ New evidence-based references (all retain draft status):
 - [Aludi and Georgian mountain summer gatherings](aludi-summer-gatherings.md)
 - [Boza in Istanbul cold-season vending accounts](boza-in-cold-season-accounts.md)
 - [Paiwan Five-Year Ritual and millet-wine offerings](paiwan-five-year-ritual-and-millet-wine.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Muratina, marriage contexts and the danger of inventing dates](muratina-and-marriage-occasions.md) — A dated ethnographic source describing a social occasion, not a public annual calendar or universal event schedule.

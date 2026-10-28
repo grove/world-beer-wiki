@@ -68,3 +68,7 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.12 — documented contexts
 
 - [Boza: sweet, sour and the limits of sensory guessing](boza-sweet-sour-not-an-abv-reading.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Free, bound and released aldehydes during beer aging](beer-matrix-bound-aldehydes.md) — Concentrated beer-matrix experiments showing that aldehyde binding differs across sampled lager brands.

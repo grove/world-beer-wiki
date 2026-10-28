@@ -35,3 +35,7 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.12 — documented contexts
 
 - [Amazake at the food-drink boundary](amazake-sugar-and-sake-lees.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Bushera as grain-based food and drink](bushera-as-fermented-cereal-food.md) — How household cereal processing and fermentation make a locally named food-drink, not automatically a standard beer.

@@ -82,3 +82,11 @@ New evidence-based references (all retain draft status):
 - [Cooked cereal porridge and post-heating malt in mahewu](mahewu-cooked-porridge-and-malt.md)
 - [Koji amazake: starch sweetening without inevitable ethanol](koji-amazake-saccharification.md)
 - [Kvass from bread versus experimental malt wort](kvass-bread-versus-malt.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Bushera cereal germination and souring: reported variation](bushera-grain-germination-and-souring.md) — Household-survey stages of sorghum preparation and fermentation, without making them universal operating instructions.
+- [Jiahu: inferring mold and malt starch conversion](jiahu-starch-and-mould-inference.md) — New starch and fungal microfossil interpretations alongside the earlier pottery-residue chemistry, not a recreated brewing protocol.
+- [Process measurement in industrial opaque sorghum beer](commercial-opaque-beer-control.md) — How industrial Chibuku quality measurements differ from local household fermentation descriptions.
+- [Reusing a fibrous culture carrier in Muratina fermentation](muratina-sponge-reuse.md) — How a fruit-fibre carrier can introduce a previously cultivated yeast community into a new fermentation.
+- [Water reclamation trains for brewing: evidence and boundaries](brewery-water-reclamation-trains.md) — What pilot treatment and life-cycle studies can and cannot establish about water reuse in brewing.

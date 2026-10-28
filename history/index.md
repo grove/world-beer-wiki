@@ -67,3 +67,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.12 — documented contexts
 
 - [Alcohol prohibitions and negotiation in seventeenth-century Istanbul](ottoman-drink-restrictions-and-negotiation.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Jiahu archaeology: what changed between 2004 and 2026?](jiahu-2004-to-2026-reinterpretation.md) — Two analytical arguments about the same Neolithic site, showing why the evidence for ingredients and processes remains conditional.
+- [Shang and Zhou bronze vessels: different evidence from Jiahu](shang-zhou-bronze-fermented-beverages.md) — Ancient sealed vessels and their contents described by a 2004 analytical study, distinct from earlier pottery residue inferences.

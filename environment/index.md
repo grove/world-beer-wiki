@@ -40,3 +40,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.12 — documented contexts
 
 - [Mahewu grain choices and the limits of climate-smart claims](mahewu-grain-availability-and-resilience.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Brewery water reuse: contrasting Italian LCA and Portuguese pilot evidence](brewery-water-reuse-italy-portugal.md) — Two distinct water-reclamation research designs: one life-cycle model and one monitored pilot process.
+- [Czech brewery scale, packaging and export: an LCA case](czech-brewery-scale-and-packaging-lca.md) — A 2025 primary life-cycle comparison with context-specific findings for brewery size and bottle routes.

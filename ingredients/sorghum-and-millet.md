@@ -79,6 +79,13 @@ sources:
   source_kind: primary-microbiology-study
   access_scope: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal
     source tracking; full tables not independently reproduced.
+- id: v113-tchou-2007
+  resource: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1470-6431.2006.00546.x
+  title: 'Household production of sorghum beer in Benin: technological and socio-economic aspects (2007)'
+  author_label: A. P. P. Kayodé, J. D. Hounhouigan, M. J. R. Nout and A. Niehof
+  source_kind: primary-household-survey-abstract
+  access_scope: Publisher and university-indexed abstract; older income amounts and sample-specific properties
+    are historical observations, not current prices or medical benefits.
 aliases: []
 regions:
 - Cross-regional
@@ -153,6 +160,12 @@ The Zimbabwe mahewu grain-choice survey discusses maize, sorghum and millet in a
 
 Read [Mahewu](../styles/mahewu.md) and [Millet malt as a microbial source](millet-malt-as-microbial-input.md). **Taiwanese millet** in the [Taiwan Indigenous fermentation study](../microbiology/taiwan-millet-starter-lab-study.md) is not automatically the African finger-millet species documented elsewhere in this wiki.
 
+## Edition 1.13: newly sourced connections
+
+A household study of Beninese tchoukoutou shows why the phrase “brewing sorghum” is incomplete without local producer decisions: respondents evaluated grain suitability and customers described preferences for opacity, sourness and color. These are situated quality judgments, not a universal cultivar league table.[^v113-tchou-2007]
+
+The new [grain-quality study](benin-brewing-sorghum-varieties.md) and [Tchoukoutou enterprise account](../culture/tchoukoutou-household-enterprises.md) trace the question back to dated evidence.
+
 ## Source notes
 [^ing-sorghum-millet-malting]: [Effect of germination temperatures on proteolysis of sorghum and millet during malting and mashing (2012)](https://pubmed.ncbi.nlm.nih.gov/22440185/). Y. Chiba and colleagues. Consulted 2026-10-27. Evidence used: indexed abstract; DOI 10.1021/jf300965b; findings limited to studied malting conditions.
 [^ing-millet-trial]: [Investigation of Millet-Based Beer Fermentation and the Volatile Compounds Formed (2026)](https://www.mdpi.com/2306-5710/12/3/37). Katherine A. Thompson-Witrick and colleagues. Consulted 2026-10-27. Evidence used: retrieved publisher abstract, methods, limitations and conclusions; laboratory study, no universal sensory claims adopted.
@@ -167,3 +180,5 @@ Read [Mahewu](../styles/mahewu.md) and [Millet malt as a microbial source](mille
 [^v112-mahewu-2024]: [Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024; first online 2023)](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887). Kudita and colleagues. Consulted 2026-10-28. Evidence access: Publisher open-access article summary and percentages; subsequent article access blocked; respondents and stated preferences are not nationwide forecasts.
 
 [^v112-mahewu-2019]: [Composition and Origin of the Fermentation Microbiota of Mahewu, a Zimbabwean Fermented Cereal Beverage (2019)](https://pubmed.ncbi.nlm.nih.gov/30902861/). Felicitas Pswarayi and Michael G. Gänzle. Consulted 2026-10-28. Evidence access: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal source tracking; full tables not independently reproduced.
+
+[^v113-tchou-2007]: [Household production of sorghum beer in Benin: technological and socio-economic aspects (2007)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1470-6431.2006.00546.x). A. P. P. Kayodé, J. D. Hounhouigan, M. J. R. Nout and A. Niehof. Consulted 2026-10-28. Access: Publisher and university-indexed abstract; older income amounts and sample-specific properties are historical observations, not current prices or medical benefits.

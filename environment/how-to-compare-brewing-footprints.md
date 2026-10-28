@@ -68,6 +68,13 @@ sources:
   source_kind: primary-survey-study
   access_scope: Publisher open-access article summary and percentages; subsequent article access blocked;
     respondents and stated preferences are not nationwide forecasts.
+- id: v113-czech-lca-2025
+  resource: https://www.sciencedirect.com/science/article/pii/S2666784325001093
+  title: 'Environmental impacts of beer: brewery scale and glass bottles in international trade (2025)'
+  author_label: Czech brewery life-cycle assessment researchers
+  source_kind: primary-life-cycle-study-abstract
+  access_scope: ScienceDirect open abstract/highlights comparing sampled Czech facilities, malt, packaging
+    and transport; conclusions depend on functional unit and return/reuse scenarios.
 scope: Method-focused comparison of competing resources and limits of brewery LCA studies.
 evidence_basis:
 - industrial-case-study
@@ -113,6 +120,12 @@ A 2024 Zimbabwean mahewu survey examined **consumer grain preferences and availa
 
 See [ingredient resilience questions](mahewu-grain-availability-and-resilience.md) and [Sorghum and millet](../ingredients/sorghum-and-millet.md).
 
+## Edition 1.13: newly sourced connections
+
+A 2025 Czech LCA comparison highlights variation across studied facility scale, malt production and packaging/transport systems, including how nonreturnable glass export routes change modeled impacts. Any external ranking must match functional units, electricity and logistics assumptions; the result is not a universal instruction to use cans or to avoid small breweries.[^v113-czech-lca-2025]
+
+The [Czech case guide](czech-brewery-scale-and-packaging-lca.md) preserves the system boundaries.
+
 ## Source notes
 
 [^v14-circular]: [Spent Grain Valorisation and Renewable Energy for Craft Breweries (2024)](https://www.sciencedirect.com/science/article/pii/S0959652624009752). Sustainability review authors. Consulted 2026-10-27. Access: Open review abstract: opportunities and LCA limitations; not an actual emissions audit for every brewery.
@@ -134,3 +147,5 @@ Compare [the Mexican case](mexican-microbrewery-footprint-case.md) and [the Japa
 [^v17-pack-comp]: [Identifying the most sustainable beer packaging through life-cycle assessment (2024)](https://www.sciencedirect.com/science/article/pii/S0048969724050915). Study authors. Consulted 2026-10-28. Access: Publisher abstract and highlights comparing PET keg, glass and aluminium; different assumptions than seven-brewery study.
 
 [^v112-mahewu-2024]: [Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024; first online 2023)](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887). Kudita and colleagues. Consulted 2026-10-28. Evidence access: Publisher open-access article summary and percentages; subsequent article access blocked; respondents and stated preferences are not nationwide forecasts.
+
+[^v113-czech-lca-2025]: [Environmental impacts of beer: brewery scale and glass bottles in international trade (2025)](https://www.sciencedirect.com/science/article/pii/S2666784325001093). Czech brewery life-cycle assessment researchers. Consulted 2026-10-28. Access: ScienceDirect open abstract/highlights comparing sampled Czech facilities, malt, packaging and transport; conclusions depend on functional unit and return/reuse scenarios.

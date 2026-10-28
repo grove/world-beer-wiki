@@ -41,3 +41,7 @@
 ## Research edition 1.12
 
 [Edition 1.12 nine evidence reading trails](edition-1-12-reading-trails.md): fermented cereal drinks, laboratory scope, Paiwan ceremonial contexts and Georgian highlands.
+
+## Research edition 1.13
+
+[Nine new evidence-led trails](edition-1-13-reading-trails.md) · [All 614 subject articles](all-atlas-subjects.md) · [Every scoped name and alias](all-names.md).

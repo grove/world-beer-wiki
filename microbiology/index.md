@@ -93,3 +93,11 @@ New evidence-based references (all retain draft status):
 - [Pediococcus and bacteriocins in one Bulgarian boza sample](bulgarian-boza-pediococcus.md)
 - [What changed in a 24-hour Turkish boza fermentation](boza-fermentation-1997.md)
 - [Where mahewu microorganisms came from in a 2019 study](mahewu-malt-origin.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Kpete-kpete: a retained sorghum-beer starter in Benin](kpete-kpete-sorghum-starter.md) — Traditional starter name and phenotypic yeast results from a small multi-site study; not a universal culture formula.
+- [Lactic acid bacteria detected in Ugandan bushera](bushera-lactic-acid-bacteria.md) — An isolate-based study of household and laboratory bushera, distinct from whole-community health or safety conclusions.
+- [Tchapalo microbes: useful fermentation and later spoilage](tchapalo-fermentation-versus-spoilage.md) — Different Ivorian sorghum-beer studies on fermentation yeasts, lactic acid bacteria and selected spoilage challenges.
+- [Why Tchoukoutou yeast surveys identify different organisms](tchoukoutou-yeast-surveys-in-disagreement.md) — A method-specific comparison of studies from 2011, 2013 and 2025 that cannot be collapsed into one fixed yeast recipe.
+- [Yeast immobilization on Muratina fruit fibre](muratina-yeast-immobilization.md) — Immobilization of yeast on fibrous fruit material in a bounded 2003 thesis, not a certified general-use inoculum.

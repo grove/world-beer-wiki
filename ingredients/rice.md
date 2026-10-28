@@ -65,6 +65,14 @@ sources:
   source_kind: primary-molecular-survey-excerpts
   access_scope: Indexed full-text introduction and study description; Java ragi tapai isolates, not
     global starter taxonomy; full methods not independently inspected.
+- id: v113-jiahu-2026
+  resource: https://www.mdpi.com/2571-9408/9/8/335
+  title: 'Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)'
+  author_label: Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo
+  source_kind: primary-archaeological-microfossil-study
+  access_scope: Publisher indexed abstract, introduction and selected contextual excerpts; direct article
+    opening failed; starch/fungal identifications are authors’ interpretation, not independently examined
+    images.
 aliases:
 - Brewing rice
 regions:
@@ -131,6 +139,12 @@ Rice can be a fermentation substrate, an adjunct, a carrier for mixed dry starte
 Compare the new [ragi tapai ingredient entry](ragi-tapai.md) and [tapai ketan](../styles/tapai-ketan.md). Grain identity alone does not establish a fermented product's local name, food-versus-drink status, or social role.
 
 
+## Edition 1.13: newly sourced connections
+
+The 2026 Jiahu microfossil reassessment discusses rice alongside other possible plant inputs and identifies starch-processing signatures interpreted as mold-assisted and malt-related saccharification. A prehistoric residue argument supports neither a universal ingredient proportion nor ancestry of a modern rice-beer tradition.[^v113-jiahu-2026]
+
+Compare the [Jiahu profile](../styles/jiahu-fermented-beverage.md) and [the starch-conversion evidence guide](../processes/jiahu-starch-and-mould-inference.md).
+
 ## Source notes
 
 [^ing-crisp-rice]: [Flaked Torrefied Rice](https://crispmalt.com/malts/flaked-torrefied-rice/). Crisp Malt. Consulted 2026-10-27. Evidence used: product description of cooking, gelatinisation and brewing role; health and gluten marketing claims not used.
@@ -143,3 +157,5 @@ Compare the new [ragi tapai ingredient entry](ragi-tapai.md) and [tapai ketan](.
 [^v19-huangjiu-review]: [The microbiome of Chinese rice wine (Huangjiu) (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/). Chinese rice-wine microbiome review authors. Checked 2026-10-28. Access: Open indexed review with process description and microbiome survey synthesis; production methods and species vary among locales.
 
 [^v110-ragi-genetics]: [Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/). Study authors, Journal of Microbiology. Consulted 2026-10-28. Access: Indexed full-text introduction and study description; Java ragi tapai isolates, not global starter taxonomy; full methods not independently inspected.
+
+[^v113-jiahu-2026]: [Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)](https://www.mdpi.com/2571-9408/9/8/335). Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo. Consulted 2026-10-28. Access: Publisher indexed abstract, introduction and selected contextual excerpts; direct article opening failed; starch/fungal identifications are authors’ interpretation, not independently examined images.

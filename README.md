@@ -42,21 +42,21 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 
 | Section | Entries | Purpose |
 |---|---:|---|
-| [Beer and tradition profiles](styles/index.md) | 186 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 58 | Materials, processing forms, enzymes and fermentation organisms. |
-| [Category guides](categories/index.md) | 36 | Explanations and comparisons across families and classification axes. |
-| [Culture](culture/index.md) | 56 | Situated institutions, work, exchange and knowledge. |
-| [Calendar](calendar/index.md) | 21 | Seasons and edition-specific events. |
-| [Microbiology](microbiology/index.md) | 52 | Organisms, cultures and ecological evidence. |
-| [Processes](processes/index.md) | 41 | Transformations and production comparisons. |
-| [Objects and service](objects/index.md) | 15 | Equipment and ways of presenting drinks. |
-| [Sensory](sensory/index.md) | 28 | Flavor reasoning and evidence boundaries. |
-| [Stories](stories/index.md) | 29 | Evidence-based narrative reading routes. |
-| [History and archaeology](history/index.md) | 34 | Historical policies, industrialization and ancient material evidence. |
-| [Environment](environment/index.md) | 14 | Climate, cultivation, energy, water and materials. |
-| [Beer with food](food/index.md) | 9 | Evidence-based pairing context and consumer study designs. |
+| [Beer and tradition profiles](styles/index.md) | 191 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
+| [Ingredients and cultures](ingredients/index.md) | 61 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Category guides](categories/index.md) | 38 | Explanations and comparisons across families and classification axes. |
+| [Culture](culture/index.md) | 60 | Situated institutions, work, exchange and knowledge. |
+| [Calendar](calendar/index.md) | 22 | Seasons and edition-specific events. |
+| [Microbiology](microbiology/index.md) | 57 | Organisms, cultures and ecological evidence. |
+| [Processes](processes/index.md) | 46 | Transformations and production comparisons. |
+| [Objects and service](objects/index.md) | 17 | Equipment and ways of presenting drinks. |
+| [Sensory](sensory/index.md) | 29 | Flavor reasoning and evidence boundaries. |
+| [Stories](stories/index.md) | 31 | Evidence-based narrative reading routes. |
+| [History and archaeology](history/index.md) | 36 | Historical policies, industrialization and ancient material evidence. |
+| [Environment](environment/index.md) | 16 | Climate, cultivation, energy, water and materials. |
+| [Beer with food](food/index.md) | 10 | Evidence-based pairing context and consumer study designs. |
 
-That is **579 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.12 research update](editorial/research-update-1-12.md) document delivered and remaining scope.
+That is **614 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.13 research update](editorial/research-update-1-13.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
@@ -137,3 +137,7 @@ Follow [seven question-led reading trails](navigation/edition-1-10-reading-trail
 ## Research edition 1.12
 
 The corpus now contains **579 subject articles**, with 30 newly researched references and 18 sourced extensions. Begin with [nine reading trails](navigation/edition-1-12-reading-trails.md) and the [actual source-access register](references/atlas-sources-1-12.md). The [scope ledger](editorial/atlas-progress.md) reports 83 implemented file-scoped items, one unfulfilled review item and two deferred features. Structural validation is not independent cultural, historical, scientific or food-safety review.
+
+## Current research edition 1.13
+
+The current corpus contains **614 subject articles**, including 35 new research cases and 19 source-grounded revisions. Start with the [nine edition 1.13 trails](navigation/edition-1-13-reading-trails.md), the [21-work annotated source register](references/atlas-sources-1-13.md), [scope ledger](editorial/atlas-progress.md), and [outstanding review queue](editorial/source-review-queue-1-13.md). All original study-period limitations and earlier release results remain dated and visible.

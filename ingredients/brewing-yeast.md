@@ -62,6 +62,21 @@ sources:
   source_kind: primary-fermentation-research
   access_scope: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not
     a species-wide universal pattern.
+- id: v113-tchou-2025
+  resource: https://pubmed.ncbi.nlm.nih.gov/41236300/
+  title: Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan
+    (2025)
+  author_label: C. N. M. Nanoukon and colleagues
+  source_kind: primary-isolate-study-abstract
+  access_scope: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot
+    be used as a population-wide species prevalence or health study.
+- id: v113-tchou-2013
+  resource: https://pubmed.ncbi.nlm.nih.gov/23756236/
+  title: Yeast dynamics during spontaneous fermentation of mawè and tchoukoutou (2013)
+  author_label: A. Greppi and colleagues
+  source_kind: primary-fermentation-study-abstract
+  access_scope: PubMed indexed abstract, two monitored productions of each food; culture-dependent and
+    -independent profiles differ and do not define a standard starter.
 aliases:
 - Brewer's yeast
 regions:
@@ -126,6 +141,12 @@ A 2026 pilot-scale investigation compared **selected commercial ale and lager ye
 
 This adds another example of why species labels cannot replace process details. Compare [thiol timing](../microbiology/thiol-release-and-yeast-timing.md), [ingredient precursors](polyfunctional-thiol-precursors.md), and [aroma clues](../sensory/polyfunctional-thiols-and-aroma.md).
 
+## Edition 1.13: newly sourced connections
+
+The 2025 sequencing account of tchoukoutou reports a different isolate distribution from older Beninese time-course research. This is not evidence that yeast biology changed overnight: municipality coverage, sample stage, growth method and taxonomic identification frame the observed population. A detected species is not a proof of its causal contribution to alcohol or aroma.[^v113-tchou-2025][^v113-tchou-2013]
+
+Read [why the surveys disagree](../microbiology/tchoukoutou-yeast-surveys-in-disagreement.md) and [the general methods guide](../categories/yeast-survey-method-disagreements.md).
+
 ## Source notes
 [^ing-yeast-nutrition]: [Yeast Nutrition Fundamentals](https://connect.lallemandbrewing.com/wp-content/uploads/2022/11/Nutrition-Booklet-ENG-Digital-AB-Vickers.pdf). Lallemand Brewing / AB Vickers. Consulted 2026-10-27. Evidence used: PDF text on yeast metabolites, nutrients and sugar uptake; product dosing recommendations not adopted.
 [^ing-yeast-domestication]: [Domestication and Divergence of Saccharomyces cerevisiae Beer Yeasts (2016)](https://www.cell.com/article/S0092867416310716/pdf). Brigida Gallone and colleagues. Consulted 2026-10-27. Evidence used: article summary and research highlights; 157 industrial strains; DOI 10.1016/j.cell.2016.08.020.
@@ -147,3 +168,7 @@ A review of **diastatic *S. cerevisiae*** discusses the *STA1* glucoamylase gene
 [^v14-floc]: [125th Anniversary Review: Yeast Flocculation and Sedimentation (2011)](https://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.2011.tb00495.x). M. Vidgren and collaborators. Consulted 2026-10-27. Access: Publisher abstract: FLO genes and environmental influence on flocculation; no universal times or strain performance.
 
 [^v18-thiol-time]: [A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped beers (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13476479/). Pilot-scale thiol and transcriptomic study authors. Consulted 2026-10-28. Access: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not a species-wide universal pattern.
+
+[^v113-tchou-2025]: [Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan (2025)](https://pubmed.ncbi.nlm.nih.gov/41236300/). C. N. M. Nanoukon and colleagues. Consulted 2026-10-28. Access: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot be used as a population-wide species prevalence or health study.
+
+[^v113-tchou-2013]: [Yeast dynamics during spontaneous fermentation of mawè and tchoukoutou (2013)](https://pubmed.ncbi.nlm.nih.gov/23756236/). A. Greppi and colleagues. Consulted 2026-10-28. Access: PubMed indexed abstract, two monitored productions of each food; culture-dependent and -independent profiles differ and do not define a standard starter.

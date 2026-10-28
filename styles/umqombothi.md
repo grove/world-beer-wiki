@@ -74,6 +74,13 @@ sources:
   source_kind: primary-microbiology-study
   access_scope: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal
     source tracking; full tables not independently reproduced.
+- id: v113-chibuku-2018
+  resource: https://onlinelibrary.wiley.com/doi/full/10.1002/jib.466
+  title: Process improvement of opaque beer (chibuku) using multivariate control charts (2018)
+  author_label: Mawonike and colleagues
+  source_kind: primary-industrial-brewing-study
+  access_scope: Wiley open introductory text and abstract on Zimbabwean industrial opaque beer and monitored
+    manufacturing parameters; producer-specific industrial context, not rural homebrew census.
 aliases:
 - Umqomboti
 regions:
@@ -151,6 +158,12 @@ The Zimbabwe fermented-food review distinguishes alcoholic cereal beers from the
 
 Read [Mahewu](mahewu.md) and [Millet malt as a microbial input](../ingredients/millet-malt-as-microbial-input.md) as carefully scoped comparisons.
 
+## Edition 1.13: newly sourced connections
+
+An industrial brewing study of Zimbabwean Chibuku describes a commercially monitored opaque beer with a sorghum/maize process. This makes a useful comparison for texture and active fermentation, but its production parameters are not evidence of one mandatory process for South African umqombothi or of ownership of community terminology.[^v113-chibuku-2018]
+
+The separate [Chibuku profile](chibuku.md) and [commercial-production context](../culture/chibuku-and-industrial-opaque-beer.md) preserve the brand-versus-living-tradition distinction.
+
 ## Source notes
 
 [^umqombothi-review]: [Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer) (2020)](https://www.mdpi.com/2227-9717/8/11/1451). Hlangwani et al. Consulted 2026-10-27. Evidence used: published process and sensory overview.
@@ -172,3 +185,5 @@ Read [the methods interpretation](../microbiology/umqombothi-amplicons-and-predi
 [^v112-zimbabwe-review]: [A review of traditional fermented foods and beverages of Zimbabwe (1999)](https://pubmed.ncbi.nlm.nih.gov/10598109/). T. H. Gadaga, A. N. Mutukumira, J. A. Narvhus and S. B. Feresu. Consulted 2026-10-28. Evidence access: PubMed abstract, distinguishing nonalcoholic maize refreshments and alcoholic malt beers; no original household observations inspected.
 
 [^v112-mahewu-2019]: [Composition and Origin of the Fermentation Microbiota of Mahewu, a Zimbabwean Fermented Cereal Beverage (2019)](https://pubmed.ncbi.nlm.nih.gov/30902861/). Felicitas Pswarayi and Michael G. Gänzle. Consulted 2026-10-28. Evidence access: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal source tracking; full tables not independently reproduced.
+
+[^v113-chibuku-2018]: [Process improvement of opaque beer (chibuku) using multivariate control charts (2018)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.466). Mawonike and colleagues. Consulted 2026-10-28. Access: Wiley open introductory text and abstract on Zimbabwean industrial opaque beer and monitored manufacturing parameters; producer-specific industrial context, not rural homebrew census.

@@ -113,3 +113,7 @@ For Belgian comparisons see [Belgian families and farmhouse comparisons](../cate
 ## Edition 1.12 additions
 
 [Low-alcohol cereal drink boundaries](../categories/low-alcohol-cereal-ferment-boundaries.md) · [Mahewu](../styles/mahewu.md) · [Boza](../styles/boza.md) · [Kvass](../styles/kvass.md) · [Amazake](../styles/amazake.md). Not all are formally categorized beer styles.
+
+## Edition 1.13 research connections
+
+Opaque sorghum beers: [Chibuku commercial context](../styles/chibuku.md), [Tchoukoutou household knowledge](../culture/tchoukoutou-household-enterprises.md), and [Tchapalo microbiology](../microbiology/tchapalo-fermentation-versus-spoilage.md). Other food-drinks: [Bushera](../styles/bushera.md), [Muratina](../styles/muratina.md).

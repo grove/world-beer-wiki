@@ -59,6 +59,20 @@ sources:
   source_kind: primary-mixed-methods-abstract
   access_scope: PubMed indexed abstract of Tapirapé peanut/rice cauim with culture-dependent and DGGE methods;
     separate substrate and sample.
+- id: v113-tchou-2013
+  resource: https://pubmed.ncbi.nlm.nih.gov/23756236/
+  title: Yeast dynamics during spontaneous fermentation of mawè and tchoukoutou (2013)
+  author_label: A. Greppi and colleagues
+  source_kind: primary-fermentation-study-abstract
+  access_scope: PubMed indexed abstract, two monitored productions of each food; culture-dependent and
+    -independent profiles differ and do not define a standard starter.
+- id: v113-tchapalo-2022
+  resource: https://pubmed.ncbi.nlm.nih.gov/35344598/
+  title: Detection of spoilage-causing yeasts and bacteria in tchapalo (2022)
+  author_label: C. K. Attchelouwa and colleagues
+  source_kind: primary-shelf-life-challenge-study-abstract
+  access_scope: 'PubMed abstract: 11 selected strains inoculated into sterile-filtered tchapalo over three
+    days; sensory and volatiles are specific to that challenge system.'
 source_checked_on: '2026-10-27'
 review_note: Research draft; no independent microbiologist review.
 relations:
@@ -107,6 +121,12 @@ A five-stage whole-genome survey of [pulque](../microbiology/pulque-five-stage-m
 
 Relative read abundance, isolate counts and measured metabolites answer different questions. Neither experiment proves that a named community maintains one unchanging culture or supplies evidence of food safety in an untested batch.
 
+## Edition 1.13: newly sourced connections
+
+A 2013 Beninese study monitored spontaneous fermentations and noted that direct molecular detection and culturing did not reveal exactly the same yeast species. By contrast, a 2022 Ivorian study challenged finished filtered tchapalo with selected strains and recorded shelf-life sensory changes. The first observes evolving communities; the second tests behavior in an altered beer system. Neither is a universal demonstration of which organisms must appear in every traditional beer.[^v113-tchou-2013][^v113-tchapalo-2022]
+
+See [the isolate-method comparison](../categories/yeast-survey-method-disagreements.md) and [tchapalo fermentation versus spoilage](tchapalo-fermentation-versus-spoilage.md).
+
 ## Source notes
 [^atlas-sesotho]: [Bacterial and Fungal Dynamics During the Fermentation Process of Sesotho, a Traditional Beer of Southern Africa](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01451/full), Cason and colleagues, 2020. Sampling design and abstract consulted 27 October 2026.
 [^atlas-bacteria-overview]: [Brewing bacteria overview in World Beer Wiki](../ingredients/brewing-bacteria.md), retained methodological distinctions and cited sources.
@@ -116,3 +136,7 @@ Relative read abundance, isolate counts and measured metabolites answer differen
 [^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.
 [^v111-pulque-stages]: [Genomic profiling of bacterial and fungal communities and their predictive functionality during pulque fermentation by whole-genome shotgun sequencing (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7493934/). Shotgun-metagenomic research team. Consulted 2026-10-28. Access: Open study abstract and indexed methods/results of five pulque stages; read counts and predicted functions do not demonstrate universal organisms or causation.
 [^v111-cauim-dynamics]: [Determination of dynamic characteristics of microbiota in a fermented beverage produced by Brazilian Amerindians (2010)](https://pubmed.ncbi.nlm.nih.gov/20413168/). Fermentation-microbiology research team. Consulted 2026-10-28. Access: PubMed indexed abstract of Tapirapé peanut/rice cauim with culture-dependent and DGGE methods; separate substrate and sample.
+
+[^v113-tchou-2013]: [Yeast dynamics during spontaneous fermentation of mawè and tchoukoutou (2013)](https://pubmed.ncbi.nlm.nih.gov/23756236/). A. Greppi and colleagues. Consulted 2026-10-28. Access: PubMed indexed abstract, two monitored productions of each food; culture-dependent and -independent profiles differ and do not define a standard starter.
+
+[^v113-tchapalo-2022]: [Detection of spoilage-causing yeasts and bacteria in tchapalo (2022)](https://pubmed.ncbi.nlm.nih.gov/35344598/). C. K. Attchelouwa and colleagues. Consulted 2026-10-28. Access: PubMed abstract: 11 selected strains inoculated into sterile-filtered tchapalo over three days; sensory and volatiles are specific to that challenge system.

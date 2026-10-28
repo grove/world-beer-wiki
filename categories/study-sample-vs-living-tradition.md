@@ -50,6 +50,21 @@ sources:
   source_kind: indigenous-affairs-institutional-account
   access_scope: Public English agency description of certain Paiwan practices; community variation and
     restricted ceremonial detail not independently reviewed.
+- id: v113-tchou-2011
+  resource: https://academicjournals.org/journal/AJMR/article-abstract/7A0D4F212818
+  title: Diversity of yeasts involved in fermentation of tchoukoutou (2011)
+  author_label: A. P. P. Kayodé and colleagues
+  source_kind: primary-culture-study-abstract
+  access_scope: Open publisher abstract summarizing 12 beers from four locations and 40 identified yeast
+    isolates; isolates do not represent all communities.
+- id: v113-tchou-2025
+  resource: https://pubmed.ncbi.nlm.nih.gov/41236300/
+  title: Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan
+    (2025)
+  author_label: C. N. M. Nanoukon and colleagues
+  source_kind: primary-isolate-study-abstract
+  access_scope: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot
+    be used as a population-wide species prevalence or health study.
 regions:
 - Cross-regional
 scope: A practical guide to interpreting fieldwork, isolate counts, claims about community practice and
@@ -105,6 +120,12 @@ A 2013 laboratory survey of a Taiwanese Indigenous millet alcoholic beverage **d
 
 Compare the [millet study](../microbiology/taiwan-millet-starter-lab-study.md) with the [Paiwan institutional account](../culture/paiwan-millet-and-community-occasions.md).
 
+## Edition 1.13: newly sourced connections
+
+Beninese tchoukoutou provides a concrete counterexample to the idea of one universal microbial recipe. A 2011 phenotypic isolate survey reported *S. cerevisiae* as predominant, while a 2025 sequencing survey identified a higher share of *S. pombe* within its own isolate set. These are neither representative censuses of every fermenting cell nor reasons to declare one community account incorrect without comparing sampling and methods.[^v113-tchou-2011][^v113-tchou-2025]
+
+Read [the detailed methods guide](yeast-survey-method-disagreements.md) and [the local starter case](../microbiology/kpete-kpete-sorghum-starter.md).
+
 ## Source notes
 
 [^v16-assam]: [Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in southern Assam (2024)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full). Yumnam, Hazarika and Sharma. Consulted 2026-10-28. Access: Open HTML methods/results, 15 community-produced samples from five named groups (three each) and 16S assay; no full ethnography or clinical outcome evidence.
@@ -114,3 +135,7 @@ Compare the [millet study](../microbiology/taiwan-millet-starter-lab-study.md) w
 [^v112-taiwan-lab-2013]: [The diversity of lactic acid bacteria in a traditional Taiwanese millet alcoholic beverage during fermentation (2013)](https://hub.tmu.edu.tw/en/publications/the-diversity-of-lactic-acid-bacteria-in-a-traditional-taiwanese-/). Shiou-Huei Chao, Hui-Yu Huang, Ya-Huei Kang, Koichi Watanabe and Ying-Chieh Tsai. Consulted 2026-10-28. Evidence access: Taipei Medical University indexed abstract: 147 isolates/38 groups and stage-specific findings; sampled communities not named, so cannot be assigned to Paiwan ceremonies.
 
 [^v112-paiwan-agency]: [Paiwan: customs, millet harvest and Five-Year Ritual](https://www.cip.gov.tw/en/tribe/grid-list/E8D1B17F6A81D678D0636733C6861689/info.html?cumid=D0636733C6861689). Taiwan Council of Indigenous Peoples. Consulted 2026-10-28. Evidence access: Public English agency description of certain Paiwan practices; community variation and restricted ceremonial detail not independently reviewed.
+
+[^v113-tchou-2011]: [Diversity of yeasts involved in fermentation of tchoukoutou (2011)](https://academicjournals.org/journal/AJMR/article-abstract/7A0D4F212818). A. P. P. Kayodé and colleagues. Consulted 2026-10-28. Access: Open publisher abstract summarizing 12 beers from four locations and 40 identified yeast isolates; isolates do not represent all communities.
+
+[^v113-tchou-2025]: [Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan (2025)](https://pubmed.ncbi.nlm.nih.gov/41236300/). C. N. M. Nanoukon and colleagues. Consulted 2026-10-28. Access: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot be used as a population-wide species prevalence or health study.

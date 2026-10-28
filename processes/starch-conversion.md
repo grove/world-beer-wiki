@@ -101,6 +101,22 @@ sources:
   source_kind: primary-application-study-abstract
   access_scope: Indexed research abstract; three cultured strains and barley malt optimization are experimental,
     not an ancestral kvass recipe.
+- id: v113-jiahu-2026
+  resource: https://www.mdpi.com/2571-9408/9/8/335
+  title: 'Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)'
+  author_label: Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo
+  source_kind: primary-archaeological-microfossil-study
+  access_scope: Publisher indexed abstract, introduction and selected contextual excerpts; direct article
+    opening failed; starch/fungal identifications are authors’ interpretation, not independently examined
+    images.
+- id: v113-bushera-2003
+  resource: https://naroinfohub.naro.go.ug/RepDetails?pn=811
+  title: Production methods and composition of Bushera, a Ugandan traditional fermented cereal beverage
+    (2003)
+  author_label: C. M. B. K. Muyanja, J. K. Kikafunda, J. A. Narvhus and colleagues
+  source_kind: primary-household-production-survey-abstract
+  access_scope: Ugandan national agricultural research indexed abstract from Kabale and Rukungiri; household
+    percentages and durations are study results, not standard methods.
 source_checked_on: '2026-10-28'
 review_note: Research draft; explanatory comparison, not an interchangeable ingredient list.
 relations:
@@ -170,6 +186,12 @@ A useful three-way distinction is **koji-driven starch saccharification** in Jap
 
 Read [Koji amazake](koji-amazake-saccharification.md) and [bread versus malt](kvass-bread-versus-malt.md).
 
+## Edition 1.13: newly sourced connections
+
+A 2026 microfossil reassessment of Jiahu infers mold-assisted conversion and possible malt-related processing from damaged archaeological starch and fungal remains. By comparison, a 2003 household survey documents grain soaking and germination for Ugandan bushera, a living cereal food-drink. The two kinds of evidence should not be collapsed into a single cultural lineage or exact recipe.[^v113-jiahu-2026][^v113-bushera-2003]
+
+Follow [Jiahu process evidence](jiahu-starch-and-mould-inference.md) and [Bushera grain stages](bushera-grain-germination-and-souring.md).
+
 ## Source notes
 [^atlas-schlenkerla-process]: [Malting and brewing process of Schlenkerla Smoked Beer](https://www.schlenkerla.de/rauchbier/prozess/prozesse.html), Schlenkerla. Production stages consulted 27 October 2026; producer-specific account.
 [^atlas-jss-koji]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/), Japan Sake and Shochu Makers Association. Koji and fermentation sections consulted 27 October 2026.
@@ -197,3 +219,7 @@ Compare [munkoyo saccharification](munkoyo-root-starch-conversion.md) with [feru
 [^v112-amazake-2021]: [Ingredients, Functionality, and Safety of the Japanese Traditional Sweet Drink Amazake (2021)](https://pubmed.ncbi.nlm.nih.gov/34200668/). Atsushi Kurahashi. Consulted 2026-10-28. Evidence access: PubMed abstract for two amazake production types; author works for a sake producer; purported health benefits not evaluated here.
 
 [^v112-kvass-2022]: [Fermentation process optimization, chemical analysis, and storage stability evaluation of a probiotic barley malt kvass (2022)](https://pubmed.ncbi.nlm.nih.gov/35616735/). Panpan Wang and colleagues. Consulted 2026-10-28. Evidence access: Indexed research abstract; three cultured strains and barley malt optimization are experimental, not an ancestral kvass recipe.
+
+[^v113-jiahu-2026]: [Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)](https://www.mdpi.com/2571-9408/9/8/335). Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo. Consulted 2026-10-28. Access: Publisher indexed abstract, introduction and selected contextual excerpts; direct article opening failed; starch/fungal identifications are authors’ interpretation, not independently examined images.
+
+[^v113-bushera-2003]: [Production methods and composition of Bushera, a Ugandan traditional fermented cereal beverage (2003)](https://naroinfohub.naro.go.ug/RepDetails?pn=811). C. M. B. K. Muyanja, J. K. Kikafunda, J. A. Narvhus and colleagues. Consulted 2026-10-28. Access: Ugandan national agricultural research indexed abstract from Kabale and Rukungiri; household percentages and durations are study results, not standard methods.
