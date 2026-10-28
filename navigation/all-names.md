@@ -448,3 +448,16 @@ Search titles and alternative names across beer profiles, ingredients and catego
 |---|---|---|
 | Tapai ketan | [Tapai ketan](../styles/tapai-ketan.md) | Related Indonesian fermented food and drink; not a BJCP beer style |
 | Khao mak | [Khao mak](../styles/khao-mak-thai-fermented-rice.md) | Thai sweet rice ferment, source-bounded and distinct from distillates |
+
+
+## Related ferments documented in edition 1.11
+
+These scoped titles are not additional standardized beer styles. New pages remain in the complete [subject index](all-atlas-subjects.md).
+
+| Name | Canonical article | Kind | Name role |
+|---|---|---|---|
+| Cauim | [Cauim](../styles/cauim.md) | Related Ferment Profile | canonical title; Brazil, cassava and other food substrates |
+| Giroba | [Giroba](../styles/giroba.md) | Related Ferment Profile | canonical title; Brazil, Bahia, fermented cassava food-drink |
+| Kunun-zaki | [Kunun-zaki](../styles/kunun-zaki.md) | Related Ferment Profile | canonical title; Nigeria, millet-based food-drink |
+| Pulque | [Pulque](../styles/pulque.md) | Related Ferment Profile | canonical title; Mexico, agave sap |
+| Tepache | [Tepache](../styles/tepache.md) | Related Ferment Profile | canonical title; Mexico, pineapple and sugar |

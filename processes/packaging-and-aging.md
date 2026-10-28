@@ -21,8 +21,8 @@ sources:
   title: Photooxidative Degradation of Beer Bittering Principles (2005)
   author_label: Photochemistry research team
   source_kind: primary-chemistry-abstract
-  access_scope: 'ACS abstract: riboflavin excited state and radicals from bittering compounds yielding
-    lightstruck precursor; not a consumer experiment.'
+  access_scope: 'ACS abstract: riboflavin excited state and radicals from bittering compounds yielding lightstruck
+    precursor; not a consumer experiment.'
 - id: v14-bottle
   resource: https://www.mdpi.com/2306-5710/6/3/56
   title: 'Bottle Conditioning: Technology and Mechanisms Applied in Refermented Beers (2020)'
@@ -35,8 +35,15 @@ sources:
   title: Technological strategies for controlling aldehyde formation in beer (2025)
   author_label: Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen
   source_kind: scientific-review-abstract
-  access_scope: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal
-    shelf-life extrapolation.
+  access_scope: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal shelf-life
+    extrapolation.
+- id: v111-metals
+  resource: https://onlinelibrary.wiley.com/doi/10.1002/jib.699
+  title: 'Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)'
+  author_label: Tuur Mertens, Thomas Kunz and Brian R. Gibson
+  source_kind: open-technical-review
+  access_scope: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels
+    are reported ranges, not regulatory limits.
 scope: Chemical and microbiological explanations of quality changes after filling.
 evidence_basis:
 - open-oxidation-review
@@ -74,6 +81,12 @@ A 2025 review describes multiple routes to **staling aldehydes**, including reac
 
 Compare [aldehydes and aging](../sensory/beer-staling-and-aldehydes.md), [stability mechanisms](beer-clarification-and-stability.md), and the [packaging environmental assessment](../environment/beer-packaging-transport-and-return-loops.md). Quality and life-cycle footprints are distinct comparison objectives.
 
+## Edition 1.11: newly sourced connections
+
+The oxidative-stability review distinguishes oxygen already dissolved in finished beer, oxygen in package headspace, and oxygen that can enter through materials or closures after filling. Each is a different pathway, and the chemical outcome also depends on the beer matrix and catalytic transition metals. A bottle/can label is therefore not enough to predict a reliable expiry date.[^v111-metals]
+
+The new [package oxygen pathways](beer-package-oxygen-pathways.md) reference links to [material life-cycle boundaries](../environment/packaging-chemistry-and-life-cycle.md). A package can provide good light or oxygen protection without automatically being environmentally preferable in every distribution system.
+
 ## Source notes
 [^v14-aging]: [Transition Metals and Beer Oxidative Stability: Review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Mertens and colleagues. Consulted 2026-10-27. Access: Open text on oxygen, metals and also non-oxidative aging; no shelf-life prediction.
 
@@ -82,3 +95,4 @@ Compare [aldehydes and aging](../sensory/beer-staling-and-aldehydes.md), [stabil
 [^v14-bottle]: [Bottle Conditioning: Technology and Mechanisms Applied in Refermented Beers (2020)](https://www.mdpi.com/2306-5710/6/3/56). Brewing science review authors. Consulted 2026-10-27. Access: Open full review on bottle refermentation, residual yeast, aroma and oxygen; not a homebrew pressure recipe.
 
 [^v18-aldehydes]: [Technological strategies for controlling aldehyde formation in beer (2025)](https://brewingscience.de/index.php/brewingscience/article/view/517). Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen. Consulted 2026-10-28. Access: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal shelf-life extrapolation.
+[^v111-metals]: [Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Tuur Mertens, Thomas Kunz and Brian R. Gibson. Consulted 2026-10-28. Access: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels are reported ranges, not regulatory limits.

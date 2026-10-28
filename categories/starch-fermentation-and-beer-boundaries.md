@@ -1,8 +1,8 @@
 ---
 type: Beer Category Guide
 title: Starch fermentation and the boundaries of beer
-description: Compare malt beers, mixed-starter grain drinks and related starch ferments without erasing
-  local beverage identities.
+description: Compare malt beers, mixed-starter grain drinks and related starch ferments without erasing local
+  beverage identities.
 tags:
 - starch
 - grain
@@ -23,8 +23,8 @@ sources:
   author_label: Imayotsukasa Brewery
 - id: trad-munkoyo-fermentation
   resource: https://pubmed.ncbi.nlm.nih.gov/9039570/
-  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase
-    source (1997)
+  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source
+    (1997)
   author: team:trad-munkoyo-fermentation-authors
   source_kind: primary-research
   access_scope: PubMed abstract of original experimental fermentation research; full paper not inspected
@@ -34,52 +34,67 @@ sources:
   title: Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)
   author_label: Michio Kozaki and Tai Uchimura
   source_kind: primary-isolate-study-abstract
-  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast
-    isolates in studied material; full Japanese paper not read.
+  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates in
+    studied material; full Japanese paper not read.
 - id: v17-unesco-sake
   resource: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977
   title: Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)
   author_label: UNESCO / Japanese nomination
   source_kind: heritage-inscription-record
-  access_scope: UNESCO indexed description and inscription decision; direct page can require browser
-    challenge. Heritage designation is not biochemical or ownership proof.
+  access_scope: UNESCO indexed description and inscription decision; direct page can require browser challenge.
+    Heritage designation is not biochemical or ownership proof.
 - id: v18-shawi
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/
-  title: Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage
-    (2020)
+  title: Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage (2020)
   author_label: A. Bussalleu and colleagues, with participating Shawi community
   source_kind: community-partnered-primary-research
-  access_scope: Open article text indexed in search, methods, participatory photographs and sample
-    results; one Shawi community and 11 masato samples, no safety certification.
+  access_scope: Open article text indexed in search, methods, participatory photographs and sample results;
+    one Shawi community and 11 masato samples, no safety certification.
 - id: v18-ethiopian-review
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/
-  title: A review of the production, quality, and safety of traditionally fermented cereal-based
-    alcoholic beverages in Ethiopia (2024)
+  title: A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic
+    beverages in Ethiopia (2024)
   author_label: Tolcha Techane Alemu
   source_kind: scientific-review
-  access_scope: Indexed open review excerpts synthesizing studies; used for category and food-context
-    distinctions, not a new field observation.
+  access_scope: Indexed open review excerpts synthesizing studies; used for category and food-context distinctions,
+    not a new field observation.
 - id: v19-vietnam-review
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4725306/
   title: 'Alcohol and Drinking Cultures in Vietnam: A Review (2015)'
   author_label: Review authors of Vietnam alcohol ethnography/public-health literature
   source_kind: scientific-social-review
-  access_scope: Open indexed sections describing cultural variability, rural distillation and risks;
-    explicitly a review, not direct S’Tieng fieldwork.
+  access_scope: Open indexed sections describing cultural variability, rural distillation and risks; explicitly
+    a review, not direct S’Tieng fieldwork.
 - id: v110-ragi-genetics
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/
   title: Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)
   author_label: Study authors, Journal of Microbiology
   source_kind: primary-molecular-survey-excerpts
-  access_scope: Indexed full-text introduction and study description; Java ragi tapai isolates, not
-    global starter taxonomy; full methods not independently inspected.
+  access_scope: Indexed full-text introduction and study description; Java ragi tapai isolates, not global
+    starter taxonomy; full methods not independently inspected.
+- id: v111-pulque-review
+  resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2016.01026/full
+  title: 'Pulque, a Traditional Mexican Alcoholic Fermented Beverage: Historical, Microbiological, and Technical
+    Aspects (2016)'
+  author_label: Escalante and colleagues
+  source_kind: review-open-full-text
+  access_scope: Open article text including process and microorganism discussion; historical and health-benefit
+    literature is secondary, not independently established.
+- id: v111-kunun-study
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/
+  title: Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun
+    zaki) produced from millet (2015)
+  author_label: Kunun-zaki fortification study authors
+  source_kind: primary-food-experiment-open-text
+  access_scope: Open experimental article with modified millet protocol and fortification context; seasonal/background
+    descriptions are secondary, not nationwide consumption data.
 category_axis: substrate-and-cultural-scope
-scope: Educational comparison across the linked profiles; not a new universal competition category
-  or an exhaustive world taxonomy.
+scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive
+  world taxonomy.
 evidence_basis: cited-primary-sources-and-editorial-comparison
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer,
-  or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compares
   target: styles/sake
@@ -159,6 +174,12 @@ Indonesia's *tapai ketan* and Thai *khao mak* make the boundary between fermente
 See [tapai ketan](../styles/tapai-ketan.md), [khao mak](../styles/khao-mak-thai-fermented-rice.md), and the [food-and-beer boundary guide](fermented-food-and-beer-boundaries.md). The guiding rule remains comparison without forced ancestry or renamed local identities.
 
 
+## Edition 1.11: newly sourced connections
+
+A [pulque](../styles/pulque.md) review describes fermentation of agave sap rich in available sugar, while a Nigerian [kunun-zaki](../styles/kunun-zaki.md) experiment documents grain wet milling and gelatinization. These are useful cross-boundary comparisons, yet neither becomes a malted-barley beer by using the English word 'ferment'.[^v111-pulque-review][^v111-kunun-study]
+
+The [agave, cassava and cereal comparison](agave-cassava-and-cereal-ferments.md) now separates biochemical substrate from cultural ownership and naming. A lightly fermented food-drink, Indigenous cassava preparation or commercially standardized modern beer has its own evidence limits.
+
 ## Source notes
 [^sake-producer]: [Rice and Koji (2018)](https://imayotsukasa.co.jp/en/blog-en/1817/). Imayotsukasa Brewery. Consulted 2026-10-27. Evidence used: producer explanation of rice and koji preparation; not a complete sake taxonomy.
 
@@ -174,3 +195,5 @@ See [tapai ketan](../styles/tapai-ketan.md), [khao mak](../styles/khao-mak-thai-
 [^v19-vietnam-review]: [Alcohol and Drinking Cultures in Vietnam: A Review (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725306/). Review authors of Vietnam alcohol ethnography/public-health literature. Checked 2026-10-28. Access: Open indexed sections describing cultural variability, rural distillation and risks; explicitly a review, not direct S’Tieng fieldwork.
 
 [^v110-ragi-genetics]: [Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/). Study authors, Journal of Microbiology. Consulted 2026-10-28. Access: Indexed full-text introduction and study description; Java ragi tapai isolates, not global starter taxonomy; full methods not independently inspected.
+[^v111-pulque-review]: [Pulque, a Traditional Mexican Alcoholic Fermented Beverage: Historical, Microbiological, and Technical Aspects (2016)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2016.01026/full). Escalante and colleagues. Consulted 2026-10-28. Access: Open article text including process and microorganism discussion; historical and health-benefit literature is secondary, not independently established.
+[^v111-kunun-study]: [Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun zaki) produced from millet (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/). Kunun-zaki fortification study authors. Consulted 2026-10-28. Access: Open experimental article with modified millet protocol and fortification context; seasonal/background descriptions are secondary, not nationwide consumption data.

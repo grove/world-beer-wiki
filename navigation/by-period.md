@@ -79,3 +79,8 @@ Read [Historical evidence, living traditions and revivals](../categories/histori
 [Gose](../styles/gose.md) · [Grodziskie](../styles/grodziskie.md) · [Kentucky Common](../styles/kentucky-common.md) · [Lichtenhainer](../styles/lichtenhainer.md)
 
 [Coverage and gaps](../editorial/coverage-and-gaps.md) · [All profiles](../styles/index.md) · [Home](../index.md)
+
+
+## Edition 1.11: distinct evidence periods for related ferments
+
+[Pulque ritual in colonial accounts](../culture/nahua-first-pulque-ritual-in-colonial-records.md) and [Chalco tax history](../history/chalco-pulque-taxation-1778-1821.md) are dated historical interpretations. [Modern Tapirapé cauim research](../microbiology/tapirape-cauim-bacteria-and-yeast.md) is a sampled study, not evidence of an unchanged sixteenth-century recipe. See the [archive-method guide](../history/cauim-and-colonial-source-problems.md).

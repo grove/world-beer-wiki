@@ -15,8 +15,8 @@ sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.5'
-implementation_status: eighth-installment-implemented
+specification_version: '1.6'
+implementation_status: ninth-installment-implemented
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -623,6 +623,63 @@ work_items:
   - tests/test_research_quality_v110.py
   delivered_scope: Cited revisions, 19-source register, reproducible checks and seven navigation trails;
     expert review remains uncompleted.
+- id: ATLAS-073
+  title: Document agave sap and Mexican pulque culture
+  state: implemented
+  paths:
+  - styles/pulque.md
+  - ingredients/agave-aguamiel.md
+  - history/chalco-pulque-taxation-1778-1821.md
+  delivered_scope: Named beverage, microbial processes and colonial archives are distinguished; neither rituals nor taxes become universal contemporary practice.
+- id: ATLAS-074
+  title: Deepen Brazilian Indigenous cassava fermentation without erasure
+  state: implemented
+  paths:
+  - styles/cauim.md
+  - styles/giroba.md
+  - history/cauim-and-colonial-source-problems.md
+  delivered_scope: Distinguish Guarani, Tupinambá and Tapirapé communities and different centuries, substrates and evidence genres.
+- id: ATLAS-075
+  title: Document Nigerian food-drinks and South African social use
+  state: implemented
+  paths:
+  - styles/kunun-zaki.md
+  - culture/umqombothi-and-shared-social-work.md
+  - calendar/kunun-zaki-dry-season-association.md
+  delivered_scope: A mild grain drink, social service and reported seasonal preference are not reduced to fixed beer styles or a festival date.
+- id: ATLAS-076
+  title: Reconcile organism detection, process and food-safety evidence
+  state: implemented
+  paths:
+  - microbiology/pulque-five-stage-metagenomics.md
+  - microbiology/tapirape-cauim-bacteria-and-yeast.md
+  - categories/acidification-is-not-safety-certification.md
+  delivered_scope: Five-stage sequencing, sampled cultures and health/safety inferences remain separate; no uncontrolled fermentation protocol.
+- id: ATLAS-077
+  title: Extend hoppy-aging, aldehyde and colloidal science
+  state: implemented
+  paths:
+  - sensory/hoppy-ale-aroma-during-storage.md
+  - sensory/haze-and-protein-polyphenol-bonds.md
+  - processes/wort-aldehydes-before-packaging.md
+  delivered_scope: Controlled and review evidence is scoped by sample, measured endpoint and storage system.
+- id: ATLAS-078
+  title: Revise canonical reference pages with cited context
+  state: implemented
+  paths:
+  - styles/umqombothi.md
+  - styles/burukutu.md
+  - sensory/oxidative-aging.md
+  delivered_scope: Eighteen existing subjects receive source-cited edition-1.11 sections; all canonical paths remain stable.
+- id: ATLAS-079
+  title: Publish 1.11 source ledger, navigation and checks
+  state: implemented
+  paths:
+  - references/atlas-sources-1-11.md
+  - navigation/edition-1-11-reading-trails.md
+  - editorial/research-update-1-11.md
+  - tests/test_research_quality_v111.py
+  delivered_scope: Source-use backlinks, progress tracking, index, offline validation and site staging are reproducible; independent review remains unperformed.
 ---
 
 # World Beer Atlas expansion specification
@@ -826,3 +883,10 @@ This eighth bounded research installment adds 27 articles and makes 15 substanti
 - Laboratory inoculation of low-alcohol products provides specific microbial-risk evidence, not retail contamination claims or a home food-preservation protocol. Photochemical mechanism does not diagnose every 'skunky' bottle or define a safe exposure threshold.
 
 The new [source register](../references/atlas-sources-1-10.md), [release validation](validation-report-1-10.md) and [review queue](source-review-queue-1-10.md) preserve the access limitations. ATLAS-012 independent community/specialist review is **still planned**; media and live-calendar features remain deferred.
+
+
+## 16. Edition 1.11 — identified voices, local ferments and chemical evidence
+
+Edition 1.11 adds **34 source-scoped subjects and 18 sourced revisions**, recorded in ATLAS-073 through ATLAS-079. Existing pages and their canonical paths remain stable. This ledger says the named deliverable exists; it does not claim global coverage or independent expert approval. [The 1.11 research update](research-update-1-11.md) and [source supplement](../references/atlas-sources-1-11.md) identify the exact sources, access limitations and article backlinks.
+
+**Method boundaries:** Colonial clerical and tax accounts are mediated records, not community-endorsed rituals; a sampled Brazilian preparation does not define another community’s recipe. Microbial sequencing and isolated culture counts do not certify safety, health benefits or metabolic function. Staling chemistry is sample-, time- and system-dependent. The [review queue](source-review-queue-1-11.md) retains the unperformed full-text, local-language and community checks. ATLAS-012 remains *planned*; media and live atlas features remain *deferred*.

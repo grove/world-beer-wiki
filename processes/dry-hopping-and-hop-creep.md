@@ -1,23 +1,42 @@
 ---
 type: Brewing Process Reference
 title: Dry hopping and hop creep
-description: An aroma-focused addition can also alter fermentability; the outcome depends on the actual materials and conditions.
-tags: [process, hops, enzymes, fermentation]
+description: An aroma-focused addition can also alter fermentability; the outcome depends on the actual materials
+  and conditions.
+tags:
+- process
+- hops
+- enzymes
+- fermentation
 status: draft
-generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:25:00Z'}
-scope: Explanatory extension of the existing hops reference, including its registered Cascade-hop experiment; not a cultivar-wide quantitative prediction.
+generated:
+  by: world-beer-wiki/1.2
+  at: '2026-10-27T20:25:00Z'
+scope: Explanatory extension of the existing hops reference, including its registered Cascade-hop experiment;
+  not a cultivar-wide quantitative prediction.
 sources:
 - id: atlas-hops-context
   resource: /ingredients/hops.md
   title: Hops reference in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Retained hop-function and 2018 hop-creep research summary. Direct PubMed access returned a browser challenge and publisher access failed during this update; no new full-text verification claimed.
+  access_scope: Retained hop-function and 2018 hop-creep research summary. Direct PubMed access returned a
+    browser challenge and publisher access failed during this update; no new full-text verification claimed.
+- id: v111-dryhop-expt
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8229854/
+  title: Impact of Dry Hopping on Beer Flavor Stability (2021)
+  author_label: Dry-hop experimental research team
+  source_kind: primary-brewing-experiment-open-text
+  access_scope: Open controlled pale-ale trial, ten vessels, chemical oxidation markers and trained panel;
+    one recipe/rate, not universal hop dosage guidance.
 source_checked_on: '2026-10-27'
 review_note: Research draft based on retained evidence; primary-paper access remains a research task.
 relations:
-- {relation: compare_with, target: ingredients/hops}
-- {relation: compare_with, target: styles/american-ipa}
-- {relation: compare_with, target: processes/starch-conversion}
+- relation: compare_with
+  target: ingredients/hops
+- relation: compare_with
+  target: styles/american-ipa
+- relation: compare_with
+  target: processes/starch-conversion
 ---
 
 # Dry hopping and hop creep
@@ -40,6 +59,13 @@ The practical lesson for a knowledge base is to permit more than one role for an
 
 This extension relies on the existing reference's source-checked abstract and preserves that limitation. The primary paper was not newly obtained in full. It is not a packaging-stability guarantee, an operating protocol or evidence that every cultivar and product behaves like the tested Cascade material.
 
+## Edition 1.11: newly sourced connections
+
+A controlled pale-ale dry-hop experiment separated contact time from aging and measured both chemical oxidation markers and a small trained sensory panel. The panel's strongest distinction was aging, not hop-contact duration; chemistry did not prove that participants perceived a universal flavor difference between contact regimens.[^v111-dryhop-expt]
+
+Read [dry-hop contact and aging](../sensory/dry-hop-contact-and-aging.md). This study is about flavor stability rather than direct proof of enzyme-mediated hop creep. It must **not** be used to infer how much residual sugar a different yeast will ferment or to prescribe one universal hop-contact schedule.
+
 ## Source notes
 
 [^atlas-hops-context]: [Hops reference in World Beer Wiki](../ingredients/hops.md), including Kirkpatrick and Shellhammer's registered 2018 abstract, DOI 10.1021/acs.jafc.8b03563. Fresh direct access was blocked during this extension.
+[^v111-dryhop-expt]: [Impact of Dry Hopping on Beer Flavor Stability (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8229854/). Dry-hop experimental research team. Consulted 2026-10-28. Access: Open controlled pale-ale trial, ten vessels, chemical oxidation markers and trained panel; one recipe/rate, not universal hop dosage guidance.

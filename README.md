@@ -42,21 +42,21 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 
 | Section | Entries | Purpose |
 |---|---:|---|
-| [Beer and tradition profiles](styles/index.md) | 177 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 53 | Materials, processing forms, enzymes and fermentation organisms. |
-| [Category guides](categories/index.md) | 33 | Explanations and comparisons across families and classification axes. |
-| [Culture](culture/index.md) | 47 | Situated institutions, work, exchange and knowledge. |
-| [Calendar](calendar/index.md) | 17 | Seasons and edition-specific events. |
-| [Microbiology](microbiology/index.md) | 42 | Organisms, cultures and ecological evidence. |
-| [Processes](processes/index.md) | 33 | Transformations and production comparisons. |
+| [Beer and tradition profiles](styles/index.md) | 182 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
+| [Ingredients and cultures](ingredients/index.md) | 56 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Category guides](categories/index.md) | 35 | Explanations and comparisons across families and classification axes. |
+| [Culture](culture/index.md) | 52 | Situated institutions, work, exchange and knowledge. |
+| [Calendar](calendar/index.md) | 18 | Seasons and edition-specific events. |
+| [Microbiology](microbiology/index.md) | 46 | Organisms, cultures and ecological evidence. |
+| [Processes](processes/index.md) | 37 | Transformations and production comparisons. |
 | [Objects and service](objects/index.md) | 15 | Equipment and ways of presenting drinks. |
-| [Sensory](sensory/index.md) | 23 | Flavor reasoning and evidence boundaries. |
-| [Stories](stories/index.md) | 25 | Evidence-based narrative reading routes. |
-| [History and archaeology](history/index.md) | 31 | Historical policies, industrialization and ancient material evidence. |
-| [Environment](environment/index.md) | 12 | Climate, cultivation, energy, water and materials. |
-| [Beer with food](food/index.md) | 7 | Evidence-based pairing context and consumer study designs. |
+| [Sensory](sensory/index.md) | 27 | Flavor reasoning and evidence boundaries. |
+| [Stories](stories/index.md) | 27 | Evidence-based narrative reading routes. |
+| [History and archaeology](history/index.md) | 33 | Historical policies, industrialization and ancient material evidence. |
+| [Environment](environment/index.md) | 13 | Climate, cultivation, energy, water and materials. |
+| [Beer with food](food/index.md) | 8 | Evidence-based pairing context and consumer study designs. |
 
-That is **515 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.10 research update](editorial/research-update-1-10.md) document delivered and remaining scope.
+That is **549 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.11 research update](editorial/research-update-1-11.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
@@ -90,7 +90,7 @@ python tools/atlas.py source-audit > atlas-source-audit.json
 python tools/build_subject_index.py --check
 ```
 
-If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [current validation report](editorial/validation-report-1-10.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
+If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [current validation report](editorial/validation-report-1-11.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
 
 ## Sources and rights
 
@@ -127,3 +127,8 @@ Reproduce edition hygiene with `python tools/research_quality.py --edition 1.8 -
 ## Research edition 1.10
 
 Follow [seven question-led reading trails](navigation/edition-1-10-reading-trails.md) through 27 new and 15 substantially revised research entries. The [source register](references/atlas-sources-1-10.md) records exact consulted access, while the [scope ledger](editorial/atlas-progress.md) and [review queue](editorial/source-review-queue-1-10.md) keep independent verification visibly open.
+
+
+## Research edition 1.11
+
+**549 subject articles across 13 sections**, including 34 new source-bounded entries and 18 sourced canonical revisions. Read [nine question-led paths](navigation/edition-1-11-reading-trails.md) and the [new source register](references/atlas-sources-1-11.md). A source being accessible or a test passing is not independent historical, scientific, safety or community verification.

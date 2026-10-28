@@ -66,3 +66,9 @@ New evidence-based references (all retain draft status):
 - [Gluten-free beer: ingredients, process and evidence](gluten-free-beer-and-process-boundaries.md) — Cereal alternatives, starch-conversion constraints and the difference between an adjunct experiment and verified gluten-free product.
 - [Non-alcoholic beer: method, aroma and microbial hurdles](nonalcoholic-beer-methods-and-safety.md) — Process classifications for non-alcoholic beer, with jurisdictional labels and laboratory-safety limits.
 - [When fermented food is compared with beer](fermented-food-and-beer-boundaries.md) — Comparing tapai, khao mak, tapuy and malt beer without erasing local beverage/food names.
+
+
+## Edition 1.11: source-led additions
+
+- [Agave, cassava and cereal ferments: distinct knowledge systems](agave-cassava-and-cereal-ferments.md)
+- [Fermentation acidity is not a safety certificate](acidification-is-not-safety-certification.md)

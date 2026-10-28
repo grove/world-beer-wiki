@@ -16,24 +16,23 @@ sources:
 - id: tradition-corpus
   resource: /styles/index.md
   title: Individually sourced tradition profiles
-  access_scope: 'Internal editorial navigation: individual profiles hold their own source and access
-    notes.'
+  access_scope: 'Internal editorial navigation: individual profiles hold their own source and access notes.'
 - id: tradition-method
   resource: /editorial/methodology.md
   title: Research and evidence method
-  access_scope: Internal methodology reference for scope and editorial comparisons; not an independent
-    external publication.
+  access_scope: Internal methodology reference for scope and editorial comparisons; not an independent external
+    publication.
 - id: v13-belgium-unesco
   resource: https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062
   title: 'Beer culture in Belgium: Representative List inscription 01062 (2016)'
   author_label: UNESCO Intangible Cultural Heritage
   source_kind: institutional-heritage-record
-  access_scope: Official inscription and public summary viewed; describes cultural practices, not all
-    individual recipes.
+  access_scope: Official inscription and public summary viewed; describes cultural practices, not all individual
+    recipes.
 - id: v16-assam
   resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full
-  title: Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes
-    in southern Assam (2024)
+  title: Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in
+    southern Assam (2024)
   author_label: Yumnam, Hazarika and Sharma
   source_kind: primary-field-and-sequencing-study
   access_scope: Open HTML methods/results, 15 community-produced samples from five named groups (three each)
@@ -43,10 +42,23 @@ sources:
   title: 'Produce from Africa’s Gardens: Potential for Leafy Vegetable and Fruit Fermentations (2016)'
   author_label: Review authors
   source_kind: open-review
-  access_scope: Open review text/excerpts on African banana-fermented beverages and Rwandan urugwa, using
-    cited secondary descriptions; not firsthand fieldwork.
-scope: An editorial comparison route, not a single beer style, cultural identity, or exhaustive world
-  census.
+  access_scope: Open review text/excerpts on African banana-fermented beverages and Rwandan urugwa, using cited
+    secondary descriptions; not firsthand fieldwork.
+- id: v111-cauim-history
+  resource: https://revistas.usp.br/revmae/pt_BR/article/view/109531
+  title: 'O cauim e as beberagens dos Guarani e Tupinambá: equipamentos, técnicas de preparação e consumo (1998)'
+  author_label: Francisco Silva Noelli and José Proenza Brochado
+  source_kind: archaeological-ethnohistorical-abstract
+  access_scope: USP journal abstract; study of sixteenth/seventeenth-century accounts and archaeological vessels;
+    original documents and pottery analysis not independently examined.
+- id: v111-giroba
+  resource: https://revistas.usp.br/revhistoria/pt_BR/article/view/19025
+  title: 'Nojo, prazer e persistência: beber fermentado entre os Tupinambá de Olivença (2006)'
+  author_label: Susana de Matos Viegas
+  source_kind: primary-ethnography-abstract
+  access_scope: USP journal abstract on giroba, sociality and historical transformations among Tupinambá of
+    Olivença; full ethnography not read.
+scope: An editorial comparison route, not a single beer style, cultural identity, or exhaustive world census.
 evidence_basis: Synthesis of the linked profiles; each preserves its own sources and limits.
 source_checked_on: '2026-10-28'
 review_note: AI research draft; the category does not imply community endorsement.
@@ -104,6 +116,12 @@ Coverage is uneven. Further work should seek locally authored histories, communi
 
 [Category directory](index.md) · [All beer profiles](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [Coverage and gaps](../editorial/coverage-and-gaps.md)
 
+## Edition 1.11: newly sourced connections
+
+Brazilian cauim research demonstrates why a shared colonial term should not collapse modern peoples or their histories. A 1998 archaeological-ethnohistorical paper compares Guarani and Tupinambá records; a 2006 ethnography treats giroba among the Tupinambá of Olivença as a changing fermented-food practice. The temporal and cultural distinctions are central evidence, not inconvenient exceptions.[^v111-cauim-history][^v111-giroba]
+
+Use the [Cauim](../styles/cauim.md), [Giroba](../styles/giroba.md) and [source-problems](../history/cauim-and-colonial-source-problems.md) pages as a case study. Community names, consent, and source type deserve priority over an imposed global beer lineage.
+
 ## Source notes
 
 [^tradition-corpus]: [Profile directory](../styles/index.md). Follow the individual pages in the table for primary sources, access limits, and geographical scope; comparison groupings are editorial.
@@ -124,3 +142,5 @@ See [the Assam cultural comparison](../culture/southern-assam-five-beverage-stud
 
 [^v16-assam]: [Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in southern Assam (2024)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full). Yumnam, Hazarika and Sharma. Consulted 2026-10-28. Access: Open HTML methods/results, 15 community-produced samples from five named groups (three each) and 16S assay; no full ethnography or clinical outcome evidence.
 [^v16-banana-review]: [Produce from Africa’s Gardens: Potential for Leafy Vegetable and Fruit Fermentations (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4932199/). Review authors. Consulted 2026-10-28. Access: Open review text/excerpts on African banana-fermented beverages and Rwandan urugwa, using cited secondary descriptions; not firsthand fieldwork.
+[^v111-cauim-history]: [O cauim e as beberagens dos Guarani e Tupinambá: equipamentos, técnicas de preparação e consumo (1998)](https://revistas.usp.br/revmae/pt_BR/article/view/109531). Francisco Silva Noelli and José Proenza Brochado. Consulted 2026-10-28. Access: USP journal abstract; study of sixteenth/seventeenth-century accounts and archaeological vessels; original documents and pottery analysis not independently examined.
+[^v111-giroba]: [Nojo, prazer e persistência: beber fermentado entre os Tupinambá de Olivença (2006)](https://revistas.usp.br/revhistoria/pt_BR/article/view/19025). Susana de Matos Viegas. Consulted 2026-10-28. Access: USP journal abstract on giroba, sociality and historical transformations among Tupinambá of Olivença; full ethnography not read.

@@ -1,8 +1,8 @@
 ---
 type: Beer Style
 title: Hazy IPA
-description: Hazy IPA as a sensory style, distinct from opacity alone, with research on why haze cannot
-  identify a recipe.
+description: Hazy IPA as a sensory style, distinct from opacity alone, with research on why haze cannot identify
+  a recipe.
 tags:
 - ale
 - hoppy
@@ -32,6 +32,13 @@ sources:
   author_label: Beer haze review authors
   source_kind: open-science-review
   access_scope: Open full review distinguishes biological and non-biological haze and colloid composition.
+- id: v111-haze
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/
+  title: 'Haze in Beer: Its Formation and Alleviating Strategies, from a Protein–Polyphenol Complex Angle (2021)'
+  author_label: Barley and beer haze review authors
+  source_kind: open-protein-polyphenol-review
+  access_scope: Open review on colloidal haze, haze-active proteins, polyphenols and treatments; discussion
+    emphasizes instability rather than every intentionally hazy style.
 aliases:
 - New England IPA
 - NEIPA
@@ -40,15 +47,15 @@ regions:
 - North America
 tradition_status: contemporary
 scope: Modern reference description; historical statements are limited to the cited evidence.
-evidence_basis: official definitions with attributed primary accounts or primary research; access limits
-  recorded per source
+evidence_basis: official definitions with attributed primary accounts or primary research; access limits recorded
+  per source
 classification:
   system: BJCP Beer Style Guidelines
   edition: '2021'
   code: 21C
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/american-ipa
@@ -94,6 +101,12 @@ The guideline is a style target; the research is evidence about an experimental 
 
 Research on beer turbidity distinguishes protein-polyphenol colloids, polysaccharides and microbial causes. An intentionally hazy IPA should not be diagnosed from its appearance alone. Read [haze and clarity](../sensory/beer-haze-and-clarity.md).[^v14-haze]
 
+## Edition 1.11: newly sourced connections
+
+A [haze chemistry review](../sensory/haze-and-protein-polyphenol-bonds.md) concerns specific haze-active proteins and polyphenols and strategies to reduce colloidal instability. That evidence cannot be used to dismiss intended haze in a modern IPA, nor does it prove that every cloudy IPA uses the same haze-forming chemistry.[^v111-haze]
+
+Readers should distinguish judging and producer descriptions of the style from the analytical mechanisms that sometimes cause unwanted haze during storage. Foam, protein fractions, hop-derived polyphenols and microbiological turbidity are separate variables rather than interchangeable meanings of 'cloudy'.
+
 ## Source notes
 
 [^bjcp-2021-21c]: [BJCP 2021: Hazy IPA](https://styles.bjcp.org/bjcp-2021-beer/21/21c-hazy-ipa). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
@@ -101,3 +114,4 @@ Research on beer turbidity distinguishes protein-polyphenol colloids, polysaccha
 [^modern-haze-huismann]: [Unfilterable Beer Haze Part I: The Investigation of an India Pale Ale Haze](https://doi.org/10.1080/03610470.2021.1937460). Margaux Huismann, Fraser Gormley, Dzeti Dzait, R. Alex Speers and Dawn L. Maskell. Consulted 2026-10-27. Evidence used: publisher abstract and Heriot-Watt publication record; full paper not inspected.
 
 [^v14-haze]: [Haze in Beer from a Protein-Polyphenol Perspective (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/). Beer haze review authors. Consulted 2026-10-27. Access: Open full review distinguishes biological and non-biological haze and colloid composition.
+[^v111-haze]: [Haze in Beer: Its Formation and Alleviating Strategies, from a Protein–Polyphenol Complex Angle (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/). Barley and beer haze review authors. Consulted 2026-10-28. Access: Open review on colloidal haze, haze-active proteins, polyphenols and treatments; discussion emphasizes instability rather than every intentionally hazy style.

@@ -56,3 +56,9 @@ New evidence-based references (all retain draft status):
 
 - [1972 tapé experiment: what a two-microbe starter demonstrates](tape-fermentation-laboratory-model-1972.md) — 1972 laboratory isolation and controlled reconstitution of Indonesian ragi-related rice tapé.
 - [Cerro Baúl dregs and the question of domestic Wari brewing](cerro-baul-dregs-and-state-brewing.md) — 2024 abstract on state-sponsored specialization versus domestic chicha production in Wari Moquegua.
+
+
+## Edition 1.11: source-led additions
+
+- [Cauim, pottery and colonial source problems](cauim-and-colonial-source-problems.md)
+- [Chalco pulque production and taxation, 1778–1821](chalco-pulque-taxation-1778-1821.md)

@@ -75,3 +75,11 @@ New evidence-based references (all retain draft status):
 
 - [Amylomyces rouxii in ragi tapai research](amylomyces-and-ragi-tapai.md) — A Java regional genetic study of Amylomyces rouxii, with earlier ragi isolation comparison.
 - [Challenge tests and the safety boundaries of alcohol-free beer](nonalcoholic-beer-pathogen-challenge.md) — 2023 experimentally inoculated nonalcoholic craft-beer matrices; not a claim about every commercial beer.
+
+
+## Edition 1.11: source-led additions
+
+- [Kunun-zaki microbiology during steeping and fermentation](kunun-zaki-microbial-succession.md)
+- [Pulque microbial succession in a five-stage metagenomic study](pulque-five-stage-metagenomics.md)
+- [Tapirapé cauim: bacterial and yeast samples](tapirape-cauim-bacteria-and-yeast.md)
+- [Tepache microbiota and single-batch safety limits](tepache-sample-and-safety-boundaries.md)

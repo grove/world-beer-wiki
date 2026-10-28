@@ -1,44 +1,73 @@
 ---
 type: Fermentation Ecology Reference
 title: Microbial succession and the limits of a species list
-description: How to read changing populations, functional evidence and sampling limits across fermentation studies.
-tags: [microbiology, ecology, evidence, fermentation]
+description: How to read changing populations, functional evidence and sampling limits across fermentation
+  studies.
+tags:
+- microbiology
+- ecology
+- evidence
+- fermentation
 status: draft
-generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:20:00Z'}
-scope: Interpretation of two specified research settings and of microbial evidence; not a universal succession timetable.
+generated:
+  by: world-beer-wiki/1.2
+  at: '2026-10-27T20:20:00Z'
+scope: Interpretation of two specified research settings and of microbial evidence; not a universal succession
+  timetable.
 sources:
 - id: atlas-sesotho
   resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01451/full
-  title: Bacterial and Fungal Dynamics During the Fermentation Process of Sesotho, a Traditional Beer of Southern Africa
+  title: Bacterial and Fungal Dynamics During the Fermentation Process of Sesotho, a Traditional Beer of Southern
+    Africa
   author_label: Errol D. Cason and colleagues
   source_kind: primary-research
-  access_scope: 2020 article, introduction and sampling design; five breweries and five production stages, without biological batch replicates within breweries.
+  access_scope: 2020 article, introduction and sampling design; five breweries and five production stages,
+    without biological batch replicates within breweries.
 - id: atlas-bacteria-overview
   resource: /ingredients/brewing-bacteria.md
   title: Brewing bacteria overview in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Retained distinctions among organism detection, metabolites, sensory effect and inoculation method.
+  access_scope: Retained distinctions among organism detection, metabolites, sensory effect and inoculation
+    method.
 - id: v18-borde
   resource: https://www.sciencedirect.com/science/article/pii/S2666154324005350
-  title: 'Characterization of borde: microbial analysis, rheological profiling, and functional attributes
-    (2024)'
+  title: 'Characterization of borde: microbial analysis, rheological profiling, and functional attributes (2024)'
   author_label: Borde study authors
   source_kind: primary-laboratory-field-study
-  access_scope: Open publisher abstract and highlights; three Ethiopian sampling locations; biochemical
-    and in-vitro results are not human health effects.
+  access_scope: Open publisher abstract and highlights; three Ethiopian sampling locations; biochemical and
+    in-vitro results are not human health effects.
 - id: v18-jaanr
   resource: https://indianjournals.com/article/ijm-46-4-004
   title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
   author_label: S. Thapa and J. P. Tamang
   source_kind: primary-research-abstract
-  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim;
-    original full paper not reviewed.
+  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original
+    full paper not reviewed.
+- id: v111-pulque-stages
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7493934/
+  title: Genomic profiling of bacterial and fungal communities and their predictive functionality during pulque
+    fermentation by whole-genome shotgun sequencing (2020)
+  author_label: Shotgun-metagenomic research team
+  source_kind: primary-metagenomic-study
+  access_scope: Open study abstract and indexed methods/results of five pulque stages; read counts and predicted
+    functions do not demonstrate universal organisms or causation.
+- id: v111-cauim-dynamics
+  resource: https://pubmed.ncbi.nlm.nih.gov/20413168/
+  title: Determination of dynamic characteristics of microbiota in a fermented beverage produced by Brazilian
+    Amerindians (2010)
+  author_label: Fermentation-microbiology research team
+  source_kind: primary-mixed-methods-abstract
+  access_scope: PubMed indexed abstract of Tapirapé peanut/rice cauim with culture-dependent and DGGE methods;
+    separate substrate and sample.
 source_checked_on: '2026-10-27'
 review_note: Research draft; no independent microbiologist review.
 relations:
-- {relation: compare_with, target: culture/sesotho-social-occasions}
-- {relation: compare_with, target: processes/spontaneous-fermentation}
-- {relation: compare_with, target: microbiology/brettanomyces}
+- relation: compare_with
+  target: culture/sesotho-social-occasions
+- relation: compare_with
+  target: processes/spontaneous-fermentation
+- relation: compare_with
+  target: microbiology/brettanomyces
 ---
 
 # Microbial succession and the limits of a species list
@@ -72,6 +101,12 @@ Two further cases illustrate why fermentation **stage** and **sampling method** 
 
 Compare [borde ecology](borde-microbial-succession.md), [jaanr ecology](jaanr-microbial-succession.md), and the [Shamita time-course](shamita-overnight-fermentation.md). Culture detection, demonstrated metabolic function and drinker perception remain separate claims.
 
+## Edition 1.11: newly sourced connections
+
+A five-stage whole-genome survey of [pulque](../microbiology/pulque-five-stage-metagenomics.md) reports changes in relative organisms alongside sugar, ethanol and acid. A separate [Tapirapé cauim study](tapirape-cauim-bacteria-and-yeast.md) examined peanut/rice fermentations with both culture-dependent methods and molecular profiles. The key finding across these **different** studies is the importance of stage, substrate and detection method—not a globally universal microbial order.[^v111-pulque-stages][^v111-cauim-dynamics]
+
+Relative read abundance, isolate counts and measured metabolites answer different questions. Neither experiment proves that a named community maintains one unchanging culture or supplies evidence of food safety in an untested batch.
+
 ## Source notes
 [^atlas-sesotho]: [Bacterial and Fungal Dynamics During the Fermentation Process of Sesotho, a Traditional Beer of Southern Africa](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01451/full), Cason and colleagues, 2020. Sampling design and abstract consulted 27 October 2026.
 [^atlas-bacteria-overview]: [Brewing bacteria overview in World Beer Wiki](../ingredients/brewing-bacteria.md), retained methodological distinctions and cited sources.
@@ -79,3 +114,5 @@ Compare [borde ecology](borde-microbial-succession.md), [jaanr ecology](jaanr-mi
 [^v18-borde]: [Characterization of borde: microbial analysis, rheological profiling, and functional attributes (2024)](https://www.sciencedirect.com/science/article/pii/S2666154324005350). Borde study authors. Consulted 2026-10-28. Access: Open publisher abstract and highlights; three Ethiopian sampling locations; biochemical and in-vitro results are not human health effects.
 
 [^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.
+[^v111-pulque-stages]: [Genomic profiling of bacterial and fungal communities and their predictive functionality during pulque fermentation by whole-genome shotgun sequencing (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7493934/). Shotgun-metagenomic research team. Consulted 2026-10-28. Access: Open study abstract and indexed methods/results of five pulque stages; read counts and predicted functions do not demonstrate universal organisms or causation.
+[^v111-cauim-dynamics]: [Determination of dynamic characteristics of microbiota in a fermented beverage produced by Brazilian Amerindians (2010)](https://pubmed.ncbi.nlm.nih.gov/20413168/). Fermentation-microbiology research team. Consulted 2026-10-28. Access: PubMed indexed abstract of Tapirapé peanut/rice cauim with culture-dependent and DGGE methods; separate substrate and sample.

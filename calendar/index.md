@@ -49,3 +49,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.10 — evidence-based expansion
 
 - [Masateadas are gatherings, not a universal calendar holiday](masateada-gatherings-without-fixed-dates.md) — Yaminahua masateada gatherings discussed in 2013 scholarship, without an established annual calendar date.
+
+
+## Edition 1.11: source-led additions
+
+- [Kunun-zaki and the dry-season context](kunun-zaki-dry-season-association.md)

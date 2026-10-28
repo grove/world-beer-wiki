@@ -109,3 +109,10 @@ New evidence-based references (all retain draft status):
 - [Quinoa and amaranth in experimental beer](quinoa-and-amaranth-in-beer.md) — Pseudocereal grain substitutions in a published 40-percent-partial-barley brewing experiment.
 - [Ragi tapai: a dried mixed fermentation starter](ragi-tapai.md) — Indonesian ragi tapai starch-converting starter, distinct from one chosen laboratory isolate.
 - [Riboflavin and the photochemistry of beer](riboflavin-and-beer-light.md) — Riboflavin as a light-responsive component in model beer and lager experiments.
+
+
+## Edition 1.11: source-led additions
+
+- [Aguamiel and maguey agave sap](agave-aguamiel.md)
+- [Iron, copper and manganese in brewing](transition-metals-in-brewing.md)
+- [Pineapple rind and piloncillo in tepache](pineapple-rind-and-piloncillo.md)

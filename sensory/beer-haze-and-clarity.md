@@ -29,6 +29,13 @@ sources:
   source_kind: open-science-review
   access_scope: Open literature review on hop polyphenols, bitterness, aroma and analytical IBU limits; review
     not direct replication.
+- id: v111-haze
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/
+  title: 'Haze in Beer: Its Formation and Alleviating Strategies, from a Protein–Polyphenol Complex Angle (2021)'
+  author_label: Barley and beer haze review authors
+  source_kind: open-protein-polyphenol-review
+  access_scope: Open review on colloidal haze, haze-active proteins, polyphenols and treatments; discussion
+    emphasizes instability rather than every intentionally hazy style.
 scope: Open review distinguishing physical colloidal and biological haze mechanisms.
 evidence_basis:
 - malting-primary-study
@@ -71,6 +78,12 @@ A review of dry-hopping chemistry distinguishes volatile aroma extraction from p
 
 Read [hop polyphenols](hop-polyphenols-and-astringency.md), [bitterness as a sensory problem](bitterness-is-not-one-number.md) and [hazy IPA](../styles/hazy-ipa.md).
 
+## Edition 1.11: newly sourced connections
+
+A review of colloidal haze emphasizes particular protein–polyphenol interactions, barley material properties and trade-offs in adsorbent stabilization. Haze instability in a beer sold as clear should not be equated with the **deliberate** appearance of [hazy IPA](../styles/hazy-ipa.md), a traditional opaque ferment or a different source of turbidity.[^v111-haze]
+
+The focused [protein–polyphenol haze reference](haze-and-protein-polyphenol-bonds.md) separates chemistry from style preference. A product's appearance, flavor and package stability need their own measurements before one can assess quality.
+
 ## Source notes
 
 [^v14-haze]: [Haze in Beer from a Protein-Polyphenol Perspective (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/). Beer haze review authors. Consulted 2026-10-27. Access: Open full review distinguishes biological and non-biological haze and colloid composition.
@@ -78,3 +91,4 @@ Read [hop polyphenols](hop-polyphenols-and-astringency.md), [bitterness as a sen
 [^v14-malt]: [Changes in Malt Quality during Production in Two Commercial Malt Houses (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.609). Malt analysis researchers. Consulted 2026-10-27. Access: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt houses.
 
 [^v15-dryhop-review]: [Effects of Dry-Hopping on Beer Chemistry and Sensory Properties—A Review (2023)](https://pmc.ncbi.nlm.nih.gov/articles/pmid/37764422/). Molecules review authors. Consulted 2026-10-27. Source access: Open literature review on hop polyphenols, bitterness, aroma and analytical IBU limits; review not direct replication.
+[^v111-haze]: [Haze in Beer: Its Formation and Alleviating Strategies, from a Protein–Polyphenol Complex Angle (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/). Barley and beer haze review authors. Consulted 2026-10-28. Access: Open review on colloidal haze, haze-active proteins, polyphenols and treatments; discussion emphasizes instability rather than every intentionally hazy style.

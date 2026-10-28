@@ -103,3 +103,8 @@ For Belgian comparisons see [Belgian families and farmhouse comparisons](../cate
 [Boza — Turkish cereal-fermentation tradition](../styles/boza.md) · [Fruit beer](../styles/fruit-beer.md)
 
 [Ingredient references](../ingredients/index.md) · [All profiles](../styles/index.md) · [Home](../index.md)
+
+
+## Edition 1.11: related ferments beyond modern style families
+
+[Maguey sap and pulque](../styles/pulque.md) · [Cauim](../styles/cauim.md) · [Giroba](../styles/giroba.md) · [Kunun-zaki](../styles/kunun-zaki.md) · [Tepache](../styles/tepache.md). Compare by substrate and evidence in the [agave, cassava and cereal guide](../categories/agave-cassava-and-cereal-ferments.md), not by an invented shared beer genealogy.

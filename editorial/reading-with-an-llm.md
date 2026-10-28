@@ -86,3 +86,8 @@ When answering questions about tapuy, sake or named pito/chicha practices, resol
 ## Edition 1.8: guardrails for cross-study retrieval
 
 A microbial count from one time point is not a fermentation recipe or evidence of food safety. A published anthropological **abstract** is not a full fieldwork transcript. The Shawi masato coliform comparison is explicitly exploratory and **not** a potable-water recommendation. Separate aroma precursors, finished chemical concentrations and perceived flavors; do not promote associations into direct cause. Read [evidence trails](../navigation/edition-1-8-reading-trails.md), [source limits](../references/atlas-sources-1-8.md), and [unreviewed work](source-review-queue-1-8.md).
+
+
+## Research edition 1.11 — query and evidence cautions
+
+When asked whether pulque, cauim or kunun-zaki are "beer", return the local name and scope before a chemical comparison; a related-ferment entry is not a modern beer judging category. For organism queries distinguish **metagenomic read, cultured isolate, inferred pathway and demonstrated function**. Colonial ritual and tax abstracts are interpretations, not first-person community accounts. For stale-flavor questions retain beer recipe, oxygen pathway, storage time and sample type. Start with [edition 1.11 reading routes](../navigation/edition-1-11-reading-trails.md) and [provenance records](../references/atlas-sources-1-11.md).

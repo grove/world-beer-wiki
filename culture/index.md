@@ -80,3 +80,12 @@ New evidence-based references (all retain draft status):
 - [Cusco chicherías, maize harvests and women’s work](cusco-chicherias-maize-and-gendered-work.md) — Cusco-region ethnography from 2019, including Huarocondo; not a model for all Peruvian chicha.
 - [North-coast chicha: labor, tools and production scale](north-peru-chicha-labor-and-scale.md) — 2008 ethnoarchaeological two-region study of Peruvian north-coast chicha production.
 - [Yaminahua masateadas: hospitality, connection and tension](yaminahua-masateadas-and-kinship.md) — 2013 Yaminahua masato feast analysis in the Peruvian Amazon; no claim about all Amazonian communities.
+
+
+## Edition 1.11: source-led additions
+
+- [Kunun-zaki, spices and everyday drinking](kunun-zaki-as-everyday-drink.md)
+- [Nahua maguey and first-pulque rituals in colonial records](nahua-first-pulque-ritual-in-colonial-records.md)
+- [Tapirapé cauim as household food and drink](tapirape-cauim-and-staple-food.md)
+- [Tupinambá of Olivença and fermented cassava food](tupinamba-olivenca-and-fermented-food.md)
+- [Umqombothi, ancestors and shared work](umqombothi-and-shared-social-work.md)

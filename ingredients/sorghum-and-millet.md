@@ -24,15 +24,15 @@ sources:
   title: Investigation of Millet-Based Beer Fermentation and the Volatile Compounds Formed (2026)
   author_label: Katherine A. Thompson-Witrick and colleagues
   source_kind: primary-research
-  access_scope: retrieved publisher abstract, methods, limitations and conclusions; laboratory study,
-    no universal sensory claims adopted
+  access_scope: retrieved publisher abstract, methods, limitations and conclusions; laboratory study, no universal
+    sensory claims adopted
 - id: ing-sorghum-trial
   resource: https://www.mdpi.com/2311-5637/9/5/490
   title: 'Brewing with Unmalted and Malted Sorghum: Influence on Beer Quality (2023)'
   author_label: Marius Eduard Ciocan and colleagues
   source_kind: primary-research
-  access_scope: retrieved publisher abstract, methods and ingredient table; laboratory beers with added
-    enzymes, not a community survey
+  access_scope: retrieved publisher abstract, methods and ingredient table; laboratory beers with added enzymes,
+    not a community survey
 - id: v18-mbege
   resource: https://www.mdpi.com/2306-5710/2/3/21
   title: Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)
@@ -45,8 +45,24 @@ sources:
   title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
   author_label: S. Thapa and J. P. Tamang
   source_kind: primary-research-abstract
-  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim;
-    original full paper not reviewed.
+  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original
+    full paper not reviewed.
+- id: v111-kunun-study
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/
+  title: Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun
+    zaki) produced from millet (2015)
+  author_label: Kunun-zaki fortification study authors
+  source_kind: primary-food-experiment-open-text
+  access_scope: Open experimental article with modified millet protocol and fortification context; seasonal/background
+    descriptions are secondary, not nationwide consumption data.
+- id: v111-kunun-cultures
+  resource: https://pubmed.ncbi.nlm.nih.gov/24414898/
+  title: The microbiology of kunun-zaki, a cereal beverage from northern Nigeria, during the fermentation process
+    (1995)
+  author_label: B. J. Efiuvwevwere and O. Akona
+  source_kind: primary-microbiology-abstract
+  access_scope: PubMed abstract of one process sequence using steeped millet and wet milling; culture findings
+    should not be extrapolated to every producer.
 aliases: []
 regions:
 - Cross-regional
@@ -108,6 +124,12 @@ Two studies identify **finger millet** (*Eleusine coracana*) in technologically 
 
 Follow [finger millet as an ingredient](finger-millet-in-traditional-ferments.md), [Mbege](../styles/mbege.md), and [Jaanr research](../microbiology/jaanr-microbial-succession.md).
 
+## Edition 1.11: newly sourced connections
+
+Nigerian [kunun-zaki](../styles/kunun-zaki.md) supplies a useful counterexample to assuming that millet must become a fully alcoholic beer. A 2015 study describes wet milling, partial gelatinization, mild fermentation and a refreshment context; a 1995 study monitored changing bacteria and yeasts in its particular millet process. Neither should be merged into the defined identity of [Burukutu](../styles/burukutu.md).[^v111-kunun-study][^v111-kunun-cultures]
+
+The new [process comparison](../processes/kunun-zaki-slurry-and-gelatinization.md) separates ingredients, preparation and observed microbial change. Grain names do not uniquely identify starch conversion, serving context, exact alcohol content or safety.
+
 ## Source notes
 [^ing-sorghum-millet-malting]: [Effect of germination temperatures on proteolysis of sorghum and millet during malting and mashing (2012)](https://pubmed.ncbi.nlm.nih.gov/22440185/). Y. Chiba and colleagues. Consulted 2026-10-27. Evidence used: indexed abstract; DOI 10.1021/jf300965b; findings limited to studied malting conditions.
 [^ing-millet-trial]: [Investigation of Millet-Based Beer Fermentation and the Volatile Compounds Formed (2026)](https://www.mdpi.com/2306-5710/12/3/37). Katherine A. Thompson-Witrick and colleagues. Consulted 2026-10-27. Evidence used: retrieved publisher abstract, methods, limitations and conclusions; laboratory study, no universal sensory claims adopted.
@@ -116,3 +138,5 @@ Follow [finger millet as an ingredient](finger-millet-in-traditional-ferments.md
 [^v18-mbege]: [Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)](https://www.mdpi.com/2306-5710/2/3/21). Ryosuke Kubo and Method Kilasara. Consulted 2026-10-28. Access: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence and experimental bark comparison; not a region-wide census.
 
 [^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.
+[^v111-kunun-study]: [Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun zaki) produced from millet (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/). Kunun-zaki fortification study authors. Consulted 2026-10-28. Access: Open experimental article with modified millet protocol and fortification context; seasonal/background descriptions are secondary, not nationwide consumption data.
+[^v111-kunun-cultures]: [The microbiology of kunun-zaki, a cereal beverage from northern Nigeria, during the fermentation process (1995)](https://pubmed.ncbi.nlm.nih.gov/24414898/). B. J. Efiuvwevwere and O. Akona. Consulted 2026-10-28. Access: PubMed abstract of one process sequence using steeped millet and wet milling; culture findings should not be extrapolated to every producer.

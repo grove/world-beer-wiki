@@ -18,8 +18,15 @@ sources:
   title: Technological strategies for controlling aldehyde formation in beer (2025)
   author_label: Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen
   source_kind: scientific-review-abstract
-  access_scope: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal
-    shelf-life extrapolation.
+  access_scope: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal shelf-life
+    extrapolation.
+- id: v111-wort-carbonyl
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC10453677/
+  title: Effect of Wort Boiling System and Hopping Regime on Wort and Beer Stale-Flavor Aldehydes (2023)
+  author_label: Pilot-brewing aldehyde research team
+  source_kind: primary-200l-trials-open-text
+  access_scope: Open 200-L lager pilot study with 15 monitored carbonyls; pressurized/atmospheric comparison
+    and fermentation changes are setting-dependent.
 regions:
 - Cross-regional
 scope: 2025 research synthesis of aldehyde formation and storage-related changes; no universal best-before
@@ -54,6 +61,13 @@ Bottle conditioning, barrel maturation, controlled aging and unwanted flavor det
 
 The [packaging and aging process](../processes/packaging-and-aging.md), [stability and clarification](../processes/beer-clarification-and-stability.md) and [environmental packaging context](../environment/beer-packaging-transport-and-return-loops.md) answer different questions. A material that minimizes oxidation may have other tradeoffs in transport or resource use. Technical comparisons should preserve each study's functional unit and measured conditions.
 
+## Edition 1.11: newly sourced connections
+
+A 200-L pale-lager experiment monitored 15 carbonyl compounds across different wort-boiling systems and hopping regimes. Several free aldehydes decreased during fermentation; some precursor effects were visible in wort before packaging even when the fresh beers had similar free-aldehyde levels. This is a reason to distinguish **fresh concentration**, **bound precursor** and **future sensory change**.[^v111-wort-carbonyl]
+
+See [wort aldehydes before packaging](../processes/wort-aldehydes-before-packaging.md). The pilot brew cannot set a shelf-life standard for all beer or prove that every pressurized boiling system produces a particular off-flavor in market products.
+
 ## Source notes
 
 [^v18-aldehydes]: [Technological strategies for controlling aldehyde formation in beer (2025)](https://brewingscience.de/index.php/brewingscience/article/view/517). Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen. Consulted 2026-10-28. Access: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal shelf-life extrapolation.
+[^v111-wort-carbonyl]: [Effect of Wort Boiling System and Hopping Regime on Wort and Beer Stale-Flavor Aldehydes (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10453677/). Pilot-brewing aldehyde research team. Consulted 2026-10-28. Access: Open 200-L lager pilot study with 15 monitored carbonyls; pressurized/atmospheric comparison and fermentation changes are setting-dependent.

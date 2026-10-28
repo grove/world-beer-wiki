@@ -31,3 +31,8 @@
 ## Edition 1.10
 
 [Research update](research-update-1-10.md) · [Source-review queue](source-review-queue-1-10.md) · [Validation](validation-report-1-10.md) · [Expansion specification](atlas-specification.md).
+
+
+## Edition 1.11
+
+[Edition 1.11 research and review limits](research-update-1-11.md) · [Evidence queue](source-review-queue-1-11.md) · [Validation](validation-report-1-11.md).

@@ -200,3 +200,12 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 
 - [Khao mak: Thai sweet fermented rice](khao-mak-thai-fermented-rice.md) — Thai khao mak as a sweet rice ferment named in a Southeast Asian review; not identical with distilled sato or beer.
 - [Tapai ketan: fermented glutinous rice as food and drink](tapai-ketan.md) — Indonesian glutinous rice tapai as food-to-beverage continuum; not a BJCP beer style.
+
+
+## Edition 1.11: source-led additions
+
+- [Cauim](cauim.md)
+- [Giroba](giroba.md)
+- [Kunun-zaki](kunun-zaki.md)
+- [Pulque](pulque.md)
+- [Tepache](tepache.md)

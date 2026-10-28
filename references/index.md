@@ -31,3 +31,8 @@ Source records, independent publications and independent confirmations are diffe
 ## Edition 1.10
 
 [Annotated 1.10 sources with backlinks](atlas-sources-1-10.md) explain access limits and distinguish one primary experimental study from repeated cross-references.
+
+
+## Edition 1.11
+
+[Edition 1.11 annotated source register](atlas-sources-1-11.md) — actual full-text/abstract access, source classes and article backlinks.

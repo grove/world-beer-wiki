@@ -34,6 +34,20 @@ sources:
   source_kind: primary-research
   access_scope: abstract only; DOI 10.1111/ijfs.12921
   author_label: Maria Gabriela C. P. Miguel and colleagues
+- id: v111-cauim-history
+  resource: https://revistas.usp.br/revmae/pt_BR/article/view/109531
+  title: 'O cauim e as beberagens dos Guarani e Tupinambá: equipamentos, técnicas de preparação e consumo (1998)'
+  author_label: Francisco Silva Noelli and José Proenza Brochado
+  source_kind: archaeological-ethnohistorical-abstract
+  access_scope: USP journal abstract; study of sixteenth/seventeenth-century accounts and archaeological vessels;
+    original documents and pottery analysis not independently examined.
+- id: v111-cauim-bacteria
+  resource: https://pubmed.ncbi.nlm.nih.gov/17888538/
+  title: Microbial population present in fermented beverage cauim produced by Brazilian Amerindians (2007)
+  author_label: E. G. Almeida, C. C. T. C. Rachid and R. F. Schwan
+  source_kind: primary-culture-study-abstract
+  access_scope: PubMed indexed abstract of sampled Tapirapé cassava cauim and isolates; measurements and taxon
+    assignments are study-specific.
 aliases:
 - Manioc
 - Yuca
@@ -84,8 +98,16 @@ The parakari and caxiri papers were used at abstract level for the claims made h
 
 [Ingredient directory](index.md) · [All beer entries](../styles/index.md) · [Research method](../editorial/methodology.md)
 
+## Edition 1.11: newly sourced connections
+
+Cassava appears in several geographically and culturally distinct fermented foods. A historical interpretation of Guarani and Tupinambá cauim includes equipment and ingredients from colonial-era records; a later Tapirapé microbiology study followed a cassava ferment with changing acidity. Both broaden the botanical reference but are **not** the same recipe, era or community.[^v111-cauim-history][^v111-cauim-bacteria]
+
+Browse the [cauim article](../styles/cauim.md), [Tapirapé food context](../culture/tapirape-cauim-and-staple-food.md) and [giroba ethnography](../styles/giroba.md). Neither microbial acidification nor the word 'cassava' alone establishes nutritional adequacy, safe toxin removal or a universal preparation method; those are separate questions requiring tested procedures and appropriate expertise.
+
 ## Source notes
 
 [^parakari-community]: [Indigenous Heritage 2020: Importance of Parakari](https://cobracollective.org/news/indigenous-heritage-2020-importance-of-parakari.php). Cobra Collective and community researchers in Parikwarinawa. Consulted 2026-10-27. Evidence used: accompanying written community account; video not independently transcribed.
 [^parakari-study]: [Parakari, an indigenous fermented beverage using amylolytic Rhizopus in Guyana (2005)](https://pubmed.ncbi.nlm.nih.gov/16389951/). Terry W. Henkel. Consulted 2026-10-27. Evidence used: indexed title and abstract excerpt only; limited to identification of mold-assisted fermentation.
 [^caxiri-study]: [Physicochemical and microbiological description of Caxiri – a cassava and corn alcoholic beverage (2015)](https://www.researchgate.net/publication/280914078_Physicochemical_and_microbiological_description_of_Caxiri_-_a_cassava_and_corn_alcoholic_beverage). Maria Gabriela C. P. Miguel and colleagues. Consulted 2026-10-27. Evidence used: abstract only; DOI 10.1111/ijfs.12921.
+[^v111-cauim-history]: [O cauim e as beberagens dos Guarani e Tupinambá: equipamentos, técnicas de preparação e consumo (1998)](https://revistas.usp.br/revmae/pt_BR/article/view/109531). Francisco Silva Noelli and José Proenza Brochado. Consulted 2026-10-28. Access: USP journal abstract; study of sixteenth/seventeenth-century accounts and archaeological vessels; original documents and pottery analysis not independently examined.
+[^v111-cauim-bacteria]: [Microbial population present in fermented beverage cauim produced by Brazilian Amerindians (2007)](https://pubmed.ncbi.nlm.nih.gov/17888538/). E. G. Almeida, C. C. T. C. Rachid and R. F. Schwan. Consulted 2026-10-28. Access: PubMed indexed abstract of sampled Tapirapé cassava cauim and isolates; measurements and taxon assignments are study-specific.
