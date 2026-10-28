@@ -139,3 +139,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.15 — sourced evidence and boundaries
 
 - [Dissolved CO2 in beer](dissolved-carbon-dioxide-in-beer.md) — Package carbonation, gas release and glass bubble dynamics in a studied lager.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Malt versus finished-beer colour](malt-colour-versus-finished-beer-colour.md) — Ingredient specification does not equal an observed beer.
+- [Hop bitter fractions and lab signals](hop-bitter-fractions-and-analytical-signals.md) — Why one optical IBU value cannot identify every bitter compound.

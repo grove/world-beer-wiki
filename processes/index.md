@@ -103,3 +103,10 @@ New evidence-based references (all retain draft status):
 
 - [CO2 from bottle to glass](carbonation-from-bottle-to-glass.md) — What a model of the pour can and cannot establish.
 - [ABV cannot identify the production route](abv-labels-do-not-describe-process.md) — Strength declarations are separate from yeast/process methods and microbiological risk.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Optical colour measurement](beer-colour-measurement.md) — Beer SRM and EBC in documented laboratory context.
+- [Bitterness units and hop chemistry](bitterness-units-and-hop-chemistry.md) — An IBU is not a taste thermometer.
+- [Gravity, extract and estimated ABV](gravity-extract-and-estimated-alcohol.md) — Distinguishing observed density from calculated strength.
+- [How pH differs from titratable acidity](ph-versus-titratable-acidity.md) — Why pH and acid neutralization are separate measures.

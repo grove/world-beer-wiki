@@ -93,3 +93,9 @@ New evidence-based references (all retain draft status):
 
 - [A regulated name is not a judging style](jurisdictional-beer-names-vs-styles.md) — Legal classes, international style vocabularies and community terminology require different evidence.
 - [No-/low-alcohol descriptors across borders](no-low-alcohol-descriptors-across-borders.md) — US current labels compared with an England-applicable 2023 UK policy consultation, not a supposed enacted rule.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Beer metrics versus beverage identity](beer-metrics-versus-beverage-identity.md) — Numbers need sample context and cannot define cultural names.
+- [pH, titratable acidity and sourness](acidity-ph-ta-and-sourness.md) — Different measurements and perceptions, not safety standards.
+- [Difference tests versus quality scores](difference-tests-versus-quality-scores.md) — Detectability and preference are different research questions.

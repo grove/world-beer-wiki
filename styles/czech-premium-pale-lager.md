@@ -32,6 +32,18 @@ sources:
   source_kind: historical-research-indexed-excerpt
   access_scope: Search-indexed beginning of the article, summarizing its use of the 1892 brewery jubilee history;
     direct full article was blocked by web verification and is not represented as read.
+- id: v116-color
+  resource: "https://www.bjcp.org/education-training/education-resources/color-guide/"
+  title: "BJCP Color Guide: Technical Background"
+  author_label: "Beer Judge Certification Program"
+  source_kind: "official-colour-education"
+  access_scope: "Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate."
+- id: v116-lab
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/"
+  title: "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)"
+  author_label: "Florian A. Thesseling and colleagues"
+  source_kind: "open-laboratory-protocol-public-index"
+  access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
 aliases:
 - Czech pilsner
 - Bohemian pilsner
@@ -99,3 +111,15 @@ An indexed opening from Evan Rail's historical examination points to the brewery
 
 [^v114-plzen]: [Prazdroj history: birth and spread of Pilsen lager](https://www.prazdroj.cz/en/our-story/history). Plzeňský Prazdroj. Consulted 2026-10-28. Access: Full public producer-authored chronology; records the company's account of the 1842 Burghers Brewery, brewing rights and later transport infrastructure; independent contemporaneous archives not checked.
 [^v114-plzen-history]: [On the Founding of Pilsner Urquell (2012)](https://www.breweryhistory.com/journal/archive/149/Rail.pdf). Evan Rail, Brewery History 149. Consulted 2026-10-28. Access: Search-indexed beginning of the article, summarizing its use of the 1892 brewery jubilee history; direct full article was blocked by web verification and is not represented as read.
+
+## Edition 1.16: newly sourced connections
+
+A modern Czech premium pale lager profile may include an SRM range for judging, but an instrument's measured sample colour is not a direct reconstruction of the first nineteenth-century product. The BJCP's colour education gives SRM as a specific optical measurement, using a blue-light wavelength and defined light path; its printed visual guide has separate approximation limits.[^v116-color]
+
+An open laboratory guide describes EBC/SRM relationships and preparation of wort and beer samples, showing why a value must be attached to the **actual stage and analytical condition** of the beer.[^v116-lab] The modern competition category can be compared with historic accounts without pretending that the analytical reading was observed in 1842 or that it specifies every malt choice.
+
+Follow [measurement versus identity](../categories/beer-metrics-versus-beverage-identity.md) and [SRM versus visual appearance](../sensory/beer-colour-in-a-glass.md). No original nineteenth-century pale-lager optical sample or full recipe was studied here.
+
+[^v116-color]: [BJCP Color Guide: Technical Background](https://www.bjcp.org/education-training/education-resources/color-guide/). Beer Judge Certification Program. Checked 2026-10-28. Access: Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate.
+
+[^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.

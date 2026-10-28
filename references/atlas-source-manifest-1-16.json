@@ -1,0 +1,159 @@
+{
+  "edition": "1.16",
+  "checked_on": "2026-10-28",
+  "editorial_scope": "Methods of measuring beer color, bitterness, extract, acidity and sensory change; historical context and transfer limits. All texts are AI-researched drafts.",
+  "sources": [
+    {
+      "id": "v116-lab",
+      "title": "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)",
+      "author_label": "Florian A. Thesseling and colleagues",
+      "resource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/",
+      "source_kind": "open-laboratory-protocol-public-index",
+      "access_scope": "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
+    },
+    {
+      "id": "v116-color",
+      "title": "BJCP Color Guide: Technical Background",
+      "author_label": "Beer Judge Certification Program",
+      "resource": "https://www.bjcp.org/education-training/education-resources/color-guide/",
+      "source_kind": "official-colour-education",
+      "access_scope": "Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate."
+    },
+    {
+      "id": "v116-bitterMethod",
+      "title": "Beer 23: Bitterness Units (BU), Manual Isooctane Extraction",
+      "author_label": "American Society of Brewing Chemists",
+      "resource": "https://www.asbcnet.org/methods/beer-methods/beer-23-master-method",
+      "source_kind": "official-analytical-method-summary",
+      "access_scope": "Full public method summary of solvent extraction and 275-nm absorbance; proprietary/full method not independently reviewed. Hazardous chemicals are not an at-home procedure."
+    },
+    {
+      "id": "v116-bitterReview",
+      "title": "Changes in beer bitterness level during the beer production process (2023)",
+      "author_label": "Krystian Klimczak and Monika Cioch-Skoneczny",
+      "resource": "https://link.springer.com/article/10.1007/s00217-022-04154-0",
+      "source_kind": "open-peer-reviewed-chemistry-review",
+      "access_scope": "Open full research review of hop acid transformations, humulinones, polyphenols and limits of spectrophotometric IBU; not new measured sensory preference data."
+    },
+    {
+      "id": "v116-ibuStudy",
+      "title": "Evaluation of Components Contributing to the International Bitterness Unit of Wort and Beer (2022)",
+      "author_label": "Journal of the American Society of Brewing Chemists research authors",
+      "resource": "https://www.tandfonline.com/doi/full/10.1080/03610470.2021.1878684",
+      "source_kind": "primary-research-abstract",
+      "access_scope": "Publisher indexed abstract with studied beers having similar BU but unlike iso-alpha acid profiles; full article was not accessible during this research."
+    },
+    {
+      "id": "v116-ph",
+      "title": "Beer 9: pH (Hydrogen Ion Concentration), Master the Method",
+      "author_label": "American Society of Brewing Chemists",
+      "resource": "https://www.asbcnet.org/methods/beer-methods/beer-9-master-method",
+      "source_kind": "official-analytical-method-summary",
+      "access_scope": "Public ASBC meter-calibration and sample-measurement explanation; not a laboratory accreditation or drinking-water safety method."
+    },
+    {
+      "id": "v116-ta",
+      "title": "Beer 8: Total Acidity as Titratable Acidity, Master the Method",
+      "author_label": "American Society of Brewing Chemists",
+      "resource": "https://www.asbcnet.org/methods/beer-methods/beer-8-master-method",
+      "source_kind": "official-analytical-method-summary",
+      "access_scope": "Public titration/end-point explanation and method limitations; not a test for foodborne pathogens or identification of all individual acids."
+    },
+    {
+      "id": "v116-triangle",
+      "title": "ISO 4120:2021 Sensory analysis — Methodology — Triangle test",
+      "author_label": "International Organization for Standardization",
+      "resource": "https://www.iso.org/standard/76666.html",
+      "source_kind": "official-standard-abstract",
+      "access_scope": "Official scope and dated publication; ISO confirmed this edition in 2026. Full paywalled normative text was not accessed; no claim to reproduce its complete method."
+    },
+    {
+      "id": "v116-room",
+      "title": "ISO 8589:2007 Sensory analysis — General guidance for the design of test rooms",
+      "author_label": "International Organization for Standardization",
+      "resource": "https://www.iso.org/standard/36385.html",
+      "source_kind": "official-standard-abstract",
+      "access_scope": "Official abstract and 2026 confirmation of room-design guidance; full standard and 2014 amendment not read."
+    },
+    {
+      "id": "v116-bjcpEval",
+      "title": "Beer Evaluation and the Judging Process",
+      "author_label": "Beer Judge Certification Program",
+      "resource": "https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/beer-evaluation/",
+      "source_kind": "official-education-guide",
+      "access_scope": "Public tasting and context guide, originally tied to older examination material; practical judging advice is not controlled consumer research."
+    },
+    {
+      "id": "v116-expect",
+      "title": "How sensory and hedonic expectations shape perceived properties of regular and non-alcoholic beer (2022)",
+      "author_label": "Helena Blackmore, Claire Hidrio and Martin R. Yeomans",
+      "resource": "https://www.sciencedirect.com/science/article/pii/S0950329322000374",
+      "source_kind": "primary-consumer-study-abstract",
+      "access_scope": "Publisher abstract and highlights of experimental expectancy effects; full sample methods and all subgroup estimates not examined."
+    },
+    {
+      "id": "v116-sumner",
+      "title": "John Richardson, saccharometry and the pounds-per-barrel extract: the construction of a quantity (2001)",
+      "author_label": "James Sumner",
+      "resource": "https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/john-richardson-saccharometry-and-the-poundsperbarrel-extract-the-construction-of-a-quantity/75E8354AAEDE78D92127B4F820DCC09A",
+      "source_kind": "academic-history-abstract",
+      "access_scope": "Publisher abstract of a historiographical article on Richardson's brewing extract quantity; paywalled body and archival notes not inspected."
+    },
+    {
+      "id": "v116-museum",
+      "title": "Improved saccharometer, object 1954-382",
+      "author_label": "Science Museum Group Collection",
+      "resource": "https://collection.sciencemuseumgroup.org.uk/objects/co12693/improved-saccharometer-hydrometer-saccharometer",
+      "source_kind": "museum-object-catalogue",
+      "access_scope": "Full museum object metadata identifies Dring and Fage, circa 1830, components and dimensions; photographs and full rights-controlled media not reproduced."
+    },
+    {
+      "id": "v116-wellcome",
+      "title": "Tables and directions for using the saccharometer (1784)",
+      "author_label": "John Richardson; Wellcome Collection catalogue",
+      "resource": "https://wellcomecollection.org/works/xzjap396",
+      "source_kind": "archival-publication-catalogue",
+      "access_scope": "Public collection bibliographic entry dates the print to 1784; the listed source text is not treated as read in full."
+    },
+    {
+      "id": "v116-vocab",
+      "title": "ISO 5492:2008 Sensory analysis — Vocabulary",
+      "author_label": "International Organization for Standardization",
+      "resource": "https://www.iso.org/standard/38051.html",
+      "source_kind": "official-standard-abstract",
+      "access_scope": "Official 2008 standard scope, 2016 amendment notice and 2024 confirmation; 107-page vocabulary not accessed."
+    },
+    {
+      "id": "v116-malt",
+      "title": "Malt and Adjuncts: Color",
+      "author_label": "Beer Judge Certification Program",
+      "resource": "https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/malt-and-adjuncts/",
+      "source_kind": "official-educational-guide",
+      "access_scope": "Public BJCP study guide summarizes malt contributions to color and wort processing; educational rather than a universal formula."
+    },
+    {
+      "id": "v116-proficiency",
+      "title": "ASBC Laboratory Proficiency Program: Recommended Methods",
+      "author_label": "American Society of Brewing Chemists",
+      "resource": "https://www.asbcnet.org/lab/lpp",
+      "source_kind": "official-lab-method-directory",
+      "access_scope": "Public list maps beer analytes to method families, not a claim that any particular brewery laboratory passed proficiency testing."
+    },
+    {
+      "id": "v116-nolo",
+      "title": "NA Beer / Low Alcohol Beer / 0.0 Beer Methods",
+      "author_label": "American Society of Brewing Chemists",
+      "resource": "https://www.asbcnet.org/methods/nablab-0-0-methods",
+      "source_kind": "official-method-applicability-index",
+      "access_scope": "Public matrix of method applicability to low-/no-alcohol beer; full testing data and methods are not reproduced."
+    },
+    {
+      "id": "v116-methodVideos",
+      "title": "Beer Methods Series",
+      "author_label": "American Society of Brewing Chemists and Brewers Association",
+      "resource": "https://www.asbcnet.org/lab/methods-videos/beer-methods-series",
+      "source_kind": "official-analytical-method-index",
+      "access_scope": "Public method-demonstration index for gravity, apparent extract, acidity, pH and degassing; full member-only procedural text not claimed."
+    }
+  ]
+}

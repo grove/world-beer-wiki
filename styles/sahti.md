@@ -55,6 +55,18 @@ sources:
   source_kind: official-regional-cultural-account
   access_scope: English government tourism description of Georgian mountain beer, seasonal festivities
     and ceremonial contexts; not independently community-verified or a UNESCO listing.
+- id: v116-lab
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/"
+  title: "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)"
+  author_label: "Florian A. Thesseling and colleagues"
+  source_kind: "open-laboratory-protocol-public-index"
+  access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
+- id: v116-sumner
+  resource: "https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/john-richardson-saccharometry-and-the-poundsperbarrel-extract-the-construction-of-a-quantity/75E8354AAEDE78D92127B4F820DCC09A"
+  title: "John Richardson, saccharometry and the pounds-per-barrel extract: the construction of a quantity (2001)"
+  author_label: "James Sumner"
+  source_kind: "academic-history-abstract"
+  access_scope: "Publisher abstract of a historiographical article on Richardson's brewing extract quantity; paywalled body and archival notes not inspected."
 aliases:
 - Finnish sahti
 regions:
@@ -151,3 +163,15 @@ The [transmission case](../culture/sahti-apprenticeship-and-celebration.md) and 
 [^v16-sahti-community]: [What is sahti?](https://visitsahti.fi/en/what-is-sahti/). Visit Sahti. Consulted 2026-10-28. Access: Practitioner presentation of ingredients, clubs, celebrations and product identity; not independent proof of precise antiquity.
 
 [^v112-aludi-georgia]: [Georgian Aludi](https://georgia.travel/georgian-beer-aludi). Georgia Travel, Georgian National Tourism Administration. Consulted 2026-10-28. Evidence access: English government tourism description of Georgian mountain beer, seasonal festivities and ceremonial contexts; not independently community-verified or a UNESCO listing.
+
+## Edition 1.16: newly sourced connections
+
+Laboratory quantities can support comparisons with historic or living ferment traditions, but they do not define the tradition's identity. Thesseling and colleagues describe contemporary laboratory measurements of wort gravity, alcohol estimates and colour in specified cereal-beer experiments. These measurements have a clear scientific purpose, not authority to infer a standardized sahti recipe from a single result.[^v116-lab]
+
+James Sumner's historical abstract shows that even a seemingly neutral brewing extract measure was promoted in a particular commercial and social context. This is a comparison of **measurement authorities**, not evidence that eighteenth-century British saccharometry directly shaped Finnish community practice.[^v116-sumner]
+
+Where a sahti source reports a locally named process or occasion, preserve that source's terminology and regional scope. Where a modern producer reports gravity, record its sample method and producer rather than attributing it to all makers. Read [who authorizes a brewing number](../culture/brewing-numbers-and-institutional-authority.md) and [gravity interpretation](../processes/gravity-extract-and-estimated-alcohol.md). Independent local-language and practitioner review remains needed.
+
+[^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
+
+[^v116-sumner]: [John Richardson, saccharometry and the pounds-per-barrel extract: the construction of a quantity (2001)](https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/john-richardson-saccharometry-and-the-poundsperbarrel-extract-the-construction-of-a-quantity/75E8354AAEDE78D92127B4F820DCC09A). James Sumner. Checked 2026-10-28. Access: Publisher abstract of a historiographical article on Richardson's brewing extract quantity; paywalled body and archival notes not inspected.

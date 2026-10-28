@@ -111,3 +111,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.15 — sourced evidence and boundaries
 
 - [No-/low-alcohol microbiology versus labeling](nolo-hurdles-are-not-label-rules.md) — A pathogen challenge study cannot certify every beer sharing an alcohol descriptor.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Gravity curves do not identify microbes](fermentation-endpoints-are-not-identities.md) — Physical/chemical outputs versus organism identification.
+- [Fermentation timepoints and inference](fermentation-timepoints-and-inference.md) — Sampling dates do not define all microbial succession.

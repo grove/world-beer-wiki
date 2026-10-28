@@ -43,20 +43,20 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 | Section | Entries | Purpose |
 |---|---:|---|
 | [Beer and tradition profiles](styles/index.md) | 191 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 65 | Materials, processing forms, enzymes and fermentation organisms. |
-| [Category guides](categories/index.md) | 42 | Explanations and comparisons across families and classification axes. |
-| [Culture](culture/index.md) | 65 | Situated institutions, work, exchange and knowledge. |
+| [Ingredients and cultures](ingredients/index.md) | 67 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Category guides](categories/index.md) | 45 | Explanations and comparisons across families and classification axes. |
+| [Culture](culture/index.md) | 66 | Situated institutions, work, exchange and knowledge. |
 | [Calendar](calendar/index.md) | 25 | Seasons and edition-specific events. |
-| [Microbiology](microbiology/index.md) | 60 | Organisms, cultures and ecological evidence. |
-| [Processes](processes/index.md) | 52 | Transformations and production comparisons. |
-| [Objects and service](objects/index.md) | 21 | Equipment and ways of presenting drinks. |
-| [Sensory](sensory/index.md) | 33 | Flavor reasoning and evidence boundaries. |
-| [Stories](stories/index.md) | 35 | Evidence-based narrative reading routes. |
-| [History and archaeology](history/index.md) | 41 | Historical policies, industrialization and ancient material evidence. |
-| [Environment](environment/index.md) | 20 | Climate, cultivation, energy, water and materials. |
-| [Beer with food](food/index.md) | 12 | Evidence-based pairing context and consumer study designs. |
+| [Microbiology](microbiology/index.md) | 62 | Organisms, cultures and ecological evidence. |
+| [Processes](processes/index.md) | 56 | Transformations and production comparisons. |
+| [Objects and service](objects/index.md) | 23 | Equipment and ways of presenting drinks. |
+| [Sensory](sensory/index.md) | 36 | Flavor reasoning and evidence boundaries. |
+| [Stories](stories/index.md) | 37 | Evidence-based narrative reading routes. |
+| [History and archaeology](history/index.md) | 43 | Historical policies, industrialization and ancient material evidence. |
+| [Environment](environment/index.md) | 21 | Climate, cultivation, energy, water and materials. |
+| [Beer with food](food/index.md) | 13 | Evidence-based pairing context and consumer study designs. |
 
-That is **662 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.15 research update](editorial/research-update-1-15.md) document delivered and remaining scope.
+That is **685 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.16 research update](editorial/research-update-1-16.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
@@ -90,7 +90,7 @@ python tools/atlas.py source-audit > atlas-source-audit.json
 python tools/build_subject_index.py --check
 ```
 
-If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [current validation report](editorial/validation-report-1-15.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
+If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [current validation report](editorial/validation-report-1-16.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
 
 ## Sources and rights
 
@@ -146,6 +146,10 @@ At the edition 1.13 release, the corpus contained **614 subject articles**, incl
 
 [Eight evidence-led trails](navigation/edition-1-14-reading-trails.md) introduce 29 new reference pages and 18 sourced revisions. The [research update](editorial/research-update-1-14.md), [source register](references/atlas-sources-1-14.md), [validation](editorial/validation-report-1-14.md), and [review queue](editorial/source-review-queue-1-14.md) describe the limited evidence and open verification needs.
 
-## Current research edition 1.15
+## Research edition 1.15 (historical)
 
 The wiki now contains **662 subject articles across thirteen sections**, with 19 new source-scoped studies and 13 substantial revisions. Explore the [seven edition 1.15 trails](navigation/edition-1-15-reading-trails.md), [16-work source-use register](references/atlas-sources-1-15.md), [research update](editorial/research-update-1-15.md), [review queue](editorial/source-review-queue-1-15.md), and [validation record](editorial/validation-report-1-15.md). This remains an AI-researched draft corpus with independent scientific, regulatory and community checks outstanding.
+
+## Current research edition 1.16
+
+**685 subject articles across thirteen sections**, including 23 newly researched guides and 16 source-cited revisions. Begin with [eight research trails](navigation/edition-1-16-reading-trails.md), the [19-work source manifest](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-16/references/atlas-source-manifest-1-16.json), [generated source backlinks](references/atlas-sources-1-16.md), [review queue](editorial/source-review-queue-1-16.md) and [validation instructions](editorial/validation-report-1-16.md). These are research drafts without independent specialist, cultural, legal or food-safety endorsement.

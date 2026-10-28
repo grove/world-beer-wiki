@@ -17,6 +17,18 @@ sources:
   source_kind: institutional-history
   access_scope: History of Kjeldahl method, pure-culture research and Sørensen pH; no claim of unique
     global invention without qualification.
+- id: v116-ph
+  resource: "https://www.asbcnet.org/methods/beer-methods/beer-9-master-method"
+  title: "Beer 9: pH (Hydrogen Ion Concentration), Master the Method"
+  author_label: "American Society of Brewing Chemists"
+  source_kind: "official-analytical-method-summary"
+  access_scope: "Public ASBC meter-calibration and sample-measurement explanation; not a laboratory accreditation or drinking-water safety method."
+- id: v116-ta
+  resource: "https://www.asbcnet.org/methods/beer-methods/beer-8-master-method"
+  title: "Beer 8: Total Acidity as Titratable Acidity, Master the Method"
+  author_label: "American Society of Brewing Chemists"
+  source_kind: "official-analytical-method-summary"
+  access_scope: "Public titration/end-point explanation and method limitations; not a test for foodborne pathogens or identification of all individual acids."
 scope: Carlsberg Foundation’s institutional history of Sørensen and its biochemical research.
 evidence_basis:
 - institutional-history
@@ -49,3 +61,15 @@ Carlsberg Foundation’s institutional history of Sørensen and its biochemical 
 ## Source notes
 
 [^v14-lab]: [Carlsberg Research Laboratory: scientific breakthroughs](https://www.carlsbergfondet.dk/en/about-the-foundation/the-carlsberg-family/carlsberg-research-laboratory/). Carlsberg Foundation. Consulted 2026-10-27. Access: History of Kjeldahl method, pure-culture research and Sørensen pH; no claim of unique global invention without qualification.
+
+## Edition 1.16: newly sourced connections
+
+The modern brewing laboratory maintains a distinction between the pH scale and titratable acidity. ASBC Beer 9 describes a calibrated electrochemical pH reading on a specific beer sample, while ASBC Beer 8 describes the separate volume-of-base endpoint used for titratable acidity. They are different analytical outputs with different sources of measurement uncertainty.[^v116-ph][^v116-ta]
+
+Those modern methods are useful context for the historical development of brewery chemistry, but they must not be retroactively attributed to every early brewer or treated as complete histories of Carlsberg, Sørensen or individual methods. A measured pH alone also does not show the concentrations of all acid species or certify microbiological safety.
+
+For the technical distinction follow [pH and titratable acidity](../processes/ph-versus-titratable-acidity.md), and for the broader historical authority of instruments see [Richardson's commercial extract quantity](richardson-saccharometry-and-extract.md). Neither link establishes a direct historical lineage between the two research settings.
+
+[^v116-ph]: [Beer 9: pH (Hydrogen Ion Concentration), Master the Method](https://www.asbcnet.org/methods/beer-methods/beer-9-master-method). American Society of Brewing Chemists. Checked 2026-10-28. Access: Public ASBC meter-calibration and sample-measurement explanation; not a laboratory accreditation or drinking-water safety method.
+
+[^v116-ta]: [Beer 8: Total Acidity as Titratable Acidity, Master the Method](https://www.asbcnet.org/methods/beer-methods/beer-8-master-method). American Society of Brewing Chemists. Checked 2026-10-28. Access: Public titration/end-point explanation and method limitations; not a test for foodborne pathogens or identification of all individual acids.

@@ -48,3 +48,7 @@ New evidence-based references (all retain draft status):
 ## Edition 1.15 — research and evidence limits
 
 - [Alcohol descriptors on a beer menu](alcohol-descriptors-on-a-menu.md) — Jurisdiction, product labels and one bounded pairing experiment.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Difference tests and food pairing](difference-tests-do-not-rank-pairings.md) — Controlled detectability cannot rank meal preferences.

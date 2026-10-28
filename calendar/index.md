@@ -75,3 +75,7 @@ New evidence-based references (all retain draft status):
 ## Edition 1.15 — sourced evidence and boundaries
 
 - [20 August 1991: ATF marketing circular](atf-nonalcoholic-marketing-circular-1991.md) — A dated industry regulatory record, explicitly not an annual non-alcoholic beer festival.
+
+## Research edition 1.16 — measured versus ceremonial time
+
+[Brewing time versus ceremonial time](brewing-time-versus-ceremonial-time.md) now links to [fermentation sampling and timepoint inference](../microbiology/fermentation-timepoints-and-inference.md). The 1784 Richardson catalogue year and the approximate date of a later saccharometer are historical evidence, **not recurring beer holidays**.

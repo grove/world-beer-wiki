@@ -46,6 +46,24 @@ sources:
   source_kind: open-science-review
   access_scope: Open literature review on hop polyphenols, bitterness, aroma and analytical IBU limits; review
     not direct replication.
+- id: v116-bitterMethod
+  resource: "https://www.asbcnet.org/methods/beer-methods/beer-23-master-method"
+  title: "Beer 23: Bitterness Units (BU), Manual Isooctane Extraction"
+  author_label: "American Society of Brewing Chemists"
+  source_kind: "official-analytical-method-summary"
+  access_scope: "Full public method summary of solvent extraction and 275-nm absorbance; proprietary/full method not independently reviewed. Hazardous chemicals are not an at-home procedure."
+- id: v116-bitterReview
+  resource: "https://link.springer.com/article/10.1007/s00217-022-04154-0"
+  title: "Changes in beer bitterness level during the beer production process (2023)"
+  author_label: "Krystian Klimczak and Monika Cioch-Skoneczny"
+  source_kind: "open-peer-reviewed-chemistry-review"
+  access_scope: "Open full research review of hop acid transformations, humulinones, polyphenols and limits of spectrophotometric IBU; not new measured sensory preference data."
+- id: v116-ibuStudy
+  resource: "https://www.tandfonline.com/doi/full/10.1080/03610470.2021.1878684"
+  title: "Evaluation of Components Contributing to the International Bitterness Unit of Wort and Beer (2022)"
+  author_label: "Journal of the American Society of Brewing Chemists research authors"
+  source_kind: "primary-research-abstract"
+  access_scope: "Publisher indexed abstract with studied beers having similar BU but unlike iso-alpha acid profiles; full article was not accessible during this research."
 aliases:
 - American India pale ale
 regions:
@@ -128,3 +146,17 @@ See [different kinds of bitterness](../sensory/bitterness-is-not-one-number.md) 
 [^v15-bitter-lab]: [Discrimination of Isointense Bitter Stimuli in a Beer Model System (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7352581/). Food science sensory research team. Consulted 2026-10-27. Source access: Indexed abstract and methods summary: three experimental tasks with nonalcoholic beer and defined bitterants; full paper not independently opened.
 
 [^v15-dryhop-review]: [Effects of Dry-Hopping on Beer Chemistry and Sensory Properties—A Review (2023)](https://pmc.ncbi.nlm.nih.gov/articles/pmid/37764422/). Molecules review authors. Consulted 2026-10-27. Source access: Open literature review on hop polyphenols, bitterness, aroma and analytical IBU limits; review not direct replication.
+
+## Edition 1.16: newly sourced connections
+
+An American IPA can have a style-guideline bitterness range and still create different sensory impressions in two drinkers. The ASBC's public Beer 23 summary describes bitterness units as an analytical extraction/absorbance result that can help breweries compare production runs; it is not a direct tasting-panel score.[^v116-bitterMethod]
+
+A chemistry review explains why humulinones, oxidized hop components and polyphenols complicate a simple equation between measured IBU and experienced bitterness, especially with dry hopping.[^v116-bitterReview] One abstracted experimental comparison even reports beers with similar IBU results but unlike iso-alpha acid concentrations. That is a bounded study, not a recalibration of the entire IPA family.[^v116-ibuStudy]
+
+Record whether an IPA's bitterness number is predicted or measured, and retain the source and date of any judging range. The [IBU method guide](../processes/bitterness-units-and-hop-chemistry.md) and [sensory comparison](../sensory/bitterness-is-not-one-number.md) explain why sensory identity cannot be compressed to a hop mass or single reading.
+
+[^v116-bitterMethod]: [Beer 23: Bitterness Units (BU), Manual Isooctane Extraction](https://www.asbcnet.org/methods/beer-methods/beer-23-master-method). American Society of Brewing Chemists. Checked 2026-10-28. Access: Full public method summary of solvent extraction and 275-nm absorbance; proprietary/full method not independently reviewed. Hazardous chemicals are not an at-home procedure.
+
+[^v116-bitterReview]: [Changes in beer bitterness level during the beer production process (2023)](https://link.springer.com/article/10.1007/s00217-022-04154-0). Krystian Klimczak and Monika Cioch-Skoneczny. Checked 2026-10-28. Access: Open full research review of hop acid transformations, humulinones, polyphenols and limits of spectrophotometric IBU; not new measured sensory preference data.
+
+[^v116-ibuStudy]: [Evaluation of Components Contributing to the International Bitterness Unit of Wort and Beer (2022)](https://www.tandfonline.com/doi/full/10.1080/03610470.2021.1878684). Journal of the American Society of Brewing Chemists research authors. Checked 2026-10-28. Access: Publisher indexed abstract with studied beers having similar BU but unlike iso-alpha acid profiles; full article was not accessible during this research.

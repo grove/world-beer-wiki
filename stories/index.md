@@ -86,3 +86,8 @@ New evidence-based references (all retain draft status):
 
 - [Why 0.0 needs a jurisdiction](zero-zero-is-not-a-global-definition.md) — A source trail through archived and current administrative vocabulary.
 - [Two explanations for beer bubbles](two-causes-of-bubbles-in-glass.md) — A service check and a laboratory model may point to different mechanisms.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [The number was not a recipe](the-number-was-not-a-recipe.md) — A material history of brewing extract.
+- [Two beers, one IBU](two-beers-one-ibu.md) — Similar lab values can hide chemical and sensory differences.

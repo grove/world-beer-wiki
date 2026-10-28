@@ -18,6 +18,18 @@ sources:
   title: Vossaøl profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
   access_scope: Retained distinction between a family culture, a commercial isolate and the whole Voss brewing practice.
+- id: v116-lab
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/"
+  title: "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)"
+  author_label: "Florian A. Thesseling and colleagues"
+  source_kind: "open-laboratory-protocol-public-index"
+  access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
+- id: v116-methodVideos
+  resource: "https://www.asbcnet.org/lab/methods-videos/beer-methods-series"
+  title: "Beer Methods Series"
+  author_label: "American Society of Brewing Chemists and Brewers Association"
+  source_kind: "official-analytical-method-index"
+  access_scope: "Public method-demonstration index for gravity, apparent extract, acidity, pH and degassing; full member-only procedural text not claimed."
 source_checked_on: '2026-10-27'
 review_note: Research draft; narrative framing is editorial, not additional historical evidence.
 relations:
@@ -52,3 +64,15 @@ The field observation does not supply an exact age for a culture, a complete mic
 
 [^atlas-voss-field]: [Brewing with kveik](https://www.garshol.priv.no/blog/291.html), Garshol, 22 June 2014. Main aroma observations consulted 27 October 2026; interpretation attributed to the observer.
 [^atlas-voss-context]: [Vossaøl profile in World Beer Wiki](../styles/vossaol.md), existing practice-versus-isolate distinction and underlying sources.
+
+## Edition 1.16: newly sourced connections
+
+A final gravity, attenuation estimate or laboratory alcohol figure describes a specific measured output, not a complete identity for the organism that fermented the drink. Thesseling and colleagues' open laboratory guide describes wort and beer measurements in controlled yeast experiments; changes in bulk density cannot tell the reader whether a community uses a mixed starter or exactly which microbial species created every aroma.[^v116-lab]
+
+The ASBC/BA method series presents density, apparent extract, pH and titratable acidity as distinct analytical procedures. A single value cannot stand in for their combined evidence, let alone for local knowledge and serving practice.[^v116-methodVideos]
+
+This distinction matters for yeast stories because a result measured on one sample is not a genetic fingerprint. See [gravity is not organism identity](../microbiology/fermentation-endpoints-are-not-identities.md) and [timepoints matter](../microbiology/fermentation-timepoints-and-inference.md). A story is not a microbial-food safety protocol.
+
+[^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
+
+[^v116-methodVideos]: [Beer Methods Series](https://www.asbcnet.org/lab/methods-videos/beer-methods-series). American Society of Brewing Chemists and Brewers Association. Checked 2026-10-28. Access: Public method-demonstration index for gravity, apparent extract, acidity, pH and degassing; full member-only procedural text not claimed.

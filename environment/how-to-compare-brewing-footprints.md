@@ -82,6 +82,18 @@ sources:
   source_kind: primary-industry-case-and-model
   access_scope: Open-access full paper, a Tsingtao case and life-cycle scenario/model; self-reported and modelled
     boundaries cannot be generalized to every brewery.
+- id: v116-proficiency
+  resource: "https://www.asbcnet.org/lab/lpp"
+  title: "ASBC Laboratory Proficiency Program: Recommended Methods"
+  author_label: "American Society of Brewing Chemists"
+  source_kind: "official-lab-method-directory"
+  access_scope: "Public list maps beer analytes to method families, not a claim that any particular brewery laboratory passed proficiency testing."
+- id: v116-lab
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/"
+  title: "A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)"
+  author_label: "Florian A. Thesseling and colleagues"
+  source_kind: "open-laboratory-protocol-public-index"
+  access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
 scope: Method-focused comparison of competing resources and limits of brewery LCA studies.
 evidence_basis:
 - industrial-case-study
@@ -166,3 +178,15 @@ Compare [the Mexican case](mexican-microbrewery-footprint-case.md) and [the Japa
 [^v113-czech-lca-2025]: [Environmental impacts of beer: brewery scale and glass bottles in international trade (2025)](https://www.sciencedirect.com/science/article/pii/S2666784325001093). Czech brewery life-cycle assessment researchers. Consulted 2026-10-28. Access: ScienceDirect open abstract/highlights comparing sampled Czech facilities, malt, packaging and transport; conclusions depend on functional unit and return/reuse scenarios.
 
 [^v114-closedloop]: [Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)](https://link.springer.com/article/10.1007/s43621-025-01962-8). Wu Hao and colleagues. Consulted 2026-10-28. Access: Open-access full paper, a Tsingtao case and life-cycle scenario/model; self-reported and modelled boundaries cannot be generalized to every brewery.
+
+## Edition 1.16: newly sourced connections
+
+Comparability in **beer laboratory quality control** and comparability in **environmental life-cycle assessment** are two different tasks. The ASBC's laboratory proficiency resource lists analytical methods for colour, bitterness, specific gravity and alcohol: these concern test results on beverage samples, not agricultural energy demand or packaging impacts.[^v116-proficiency]
+
+The open brewing laboratory guide describes standardized measurements for wort and beer, each with defined sample preparation. None of those readings, by itself, supplies the functional unit, life-cycle stages or upstream data required for an environmental footprint.[^v116-lab]
+
+A brewery can repeatably report one bitterness result and still require independent evidence for its water, energy, emissions or transport impacts. Do not infer green certification from high quality-control precision. Compare the [new analytical versus LCA boundary guide](analytical-consistency-is-not-a-life-cycle-footprint.md) and [the colour method](../processes/beer-colour-measurement.md).
+
+[^v116-proficiency]: [ASBC Laboratory Proficiency Program: Recommended Methods](https://www.asbcnet.org/lab/lpp). American Society of Brewing Chemists. Checked 2026-10-28. Access: Public list maps beer analytes to method families, not a claim that any particular brewery laboratory passed proficiency testing.
+
+[^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.

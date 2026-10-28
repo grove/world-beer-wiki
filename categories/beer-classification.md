@@ -95,6 +95,18 @@ sources:
   author_label: "Alcohol and Tobacco Tax and Trade Bureau"
   source_kind: "official-us-regulatory-guidance"
   access_scope: "Full public TTB 2023 designation guidance, including under-0.5% malt beverages, not global style terminology."
+- id: v116-triangle
+  resource: "https://www.iso.org/standard/76666.html"
+  title: "ISO 4120:2021 Sensory analysis — Methodology — Triangle test"
+  author_label: "International Organization for Standardization"
+  source_kind: "official-standard-abstract"
+  access_scope: "Official scope and dated publication; ISO confirmed this edition in 2026. Full paywalled normative text was not accessed; no claim to reproduce its complete method."
+- id: v116-bjcpEval
+  resource: "https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/beer-evaluation/"
+  title: "Beer Evaluation and the Judging Process"
+  author_label: "Beer Judge Certification Program"
+  source_kind: "official-education-guide"
+  access_scope: "Public tasting and context guide, originally tied to older examination material; practical judging advice is not controlled consumer research."
 category_axis: multiple
 scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive
   world taxonomy.
@@ -206,3 +218,15 @@ Compare the [new multi-authority guide](jurisdictional-beer-names-vs-styles.md) 
 [^v115-defs]: [Beer and Malt Beverages](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/beer-and-malt-beverage-definitions). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-28. Access: Full public US agency definitions under the IRC and FAA Act; not a definition for other countries.
 
 [^v115-clas]: [Malt Beverage Labeling: Class and Type Designation](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-class-and-type). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-28. Access: Full public TTB 2023 designation guidance, including under-0.5% malt beverages, not global style terminology.
+
+## Edition 1.16: newly sourced connections
+
+Quantitative evaluation is another axis that should not be folded into a category name. ISO 4120:2021 describes a forced-choice sensory discrimination method: it may establish whether two products are distinguishable under a defined design, but it does not tell which sample is preferred, what attribute changed or what the historical style of either product is.[^v116-triangle]
+
+The BJCP's public judging material instead describes style-oriented evaluation of aroma, appearance, flavour, mouthfeel and overall impression. A classification is a particular institution's framework, and a competition score is evidence for a judging decision, not a laboratory test or a vote by every maker of a local ferment.[^v116-bjcpEval]
+
+For retrieval and writing, preserve separately **style definition, edition, measured quantities, experiment type, population and local name**. Consult [how measurements relate to identity](beer-metrics-versus-beverage-identity.md) and [sensory difference versus quality](difference-tests-versus-quality-scores.md), rather than converting every result into a ranking.
+
+[^v116-triangle]: [ISO 4120:2021 Sensory analysis — Methodology — Triangle test](https://www.iso.org/standard/76666.html). International Organization for Standardization. Checked 2026-10-28. Access: Official scope and dated publication; ISO confirmed this edition in 2026. Full paywalled normative text was not accessed; no claim to reproduce its complete method.
+
+[^v116-bjcpEval]: [Beer Evaluation and the Judging Process](https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/beer-evaluation/). Beer Judge Certification Program. Checked 2026-10-28. Access: Public tasting and context guide, originally tied to older examination material; practical judging advice is not controlled consumer research.
