@@ -50,6 +50,18 @@ sources:
   author_label: "European Commission"
   source_kind: "official-consolidated-eu-regulation"
   access_scope: "EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision."
+- id: v119-wastewater26
+  resource: "https://www.mdpi.com/2076-3298/13/3/164"
+  title: "Small Breweries, Large Footprints? Environmental Implications of Brewing Waste (2026)"
+  author_label: "Environmental research review authors"
+  source_kind: "peer-reviewed-brewery-waste-and-wastewater-review"
+  access_scope: "Public indexed review covering variable wastewater COD, BOD, pH, solids and treatment options; cited ranges span different facilities, not universal discharge permissions."
+- id: v119-craftco2
+  resource: "https://www.tandfonline.com/doi/full/10.1080/03610470.2024.2417133"
+  title: "Valorisation of Carbon Dioxide from Fermentation in Craft Brewing: Potential Technologies, Brewer Interviews, and Three-Level System (2025)"
+  author_label: "Théo Grand, David Jenkins, Dawn Maskell and Shiwen Zhuang"
+  source_kind: "open-mixed-method-review-and-five-brewer-interviews"
+  access_scope: "Publisher indexed full-text excerpts including five semi-structured interviews with French craft breweries, technology options and conceptual shared infrastructure; direct full page intermittently gave 403. Not an implemented regional CO2 network."
 regions:
 - Cross-regional
 scope: A research map from crops, institutions and fermentation to packaging, service and sensory perception.
@@ -116,3 +128,15 @@ Read the new [field-to-glass grain evidence guide](field-to-glass-grain-evidence
 [^v117-fusarium-trial]: [Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/). Eva Maria Biehl and colleagues. Checked 2026-10-28. Access: PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol.
 
 [^v117-eu-contaminants]: [Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915). European Commission. Checked 2026-10-28. Access: EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision.
+
+## Edition 1.19: newly sourced connections
+
+The grain-to-beer evidence chain now has two additional industrial destinations: fermentation exhaust and wastewater. A 2026 brewery-waste review describes strongly varying organic demand and cleaning-related characteristics in wastewater streams; a sample's chemical oxygen demand is not the water volume used in crop production or a direct product safety judgment.[^v119-wastewater26]
+
+Grand and colleagues' 2025 research on craft brewing CO₂ recovery examines gas capture technology and interviews five French breweries. Their proposed regional valorization infrastructure is not a documented, operating treatment chain, and a captured fermenter gas stream is not automatically beverage-grade or permanently stored carbon.[^v119-craftco2]
+
+An atlas should keep material and evidence endpoints typed: crop, beer, gas, wastewater, resource recovery, social network and regulatory status. Compare [wastewater COD versus water footprints](wastewater-cod-is-not-water-footprint.md) and [gas recovery and carbon accounting](fermentation-co2-recovery-is-not-net-zero.md). Neither industrial recovery option defines a local beverage's cultural identity.
+
+[^v119-wastewater26]: [Small Breweries, Large Footprints? Environmental Implications of Brewing Waste (2026)](https://www.mdpi.com/2076-3298/13/3/164). Environmental research review authors. Checked 2026-10-28. Access: Public indexed review covering variable wastewater COD, BOD, pH, solids and treatment options; cited ranges span different facilities, not universal discharge permissions.
+
+[^v119-craftco2]: [Valorisation of Carbon Dioxide from Fermentation in Craft Brewing: Potential Technologies, Brewer Interviews, and Three-Level System (2025)](https://www.tandfonline.com/doi/full/10.1080/03610470.2024.2417133). Théo Grand, David Jenkins, Dawn Maskell and Shiwen Zhuang. Checked 2026-10-28. Access: Publisher indexed full-text excerpts including five semi-structured interviews with French craft breweries, technology options and conceptual shared infrastructure; direct full page intermittently gave 403. Not an implemented regional CO2 network.
