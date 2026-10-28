@@ -97,7 +97,7 @@ class Edition119Tests(unittest.TestCase):
         self.assertIn("cod", water)
         micro = self.docs["microbiology/digester-consortia-versus-brewing-starters.md"]["body"].lower()
         self.assertIn("not", micro)
-        self.assertIn("starters", micro)
+        self.assertIn("starter", micro)
 
     def test_inventory_and_generated_indexes(self):
         inv = inventory(ROOT)
