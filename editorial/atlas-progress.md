@@ -1,15 +1,15 @@
 ---
 type: Implementation Progress Report
 title: Atlas scope and progress
-description: Source-derived finite scope ledger for World Beer Atlas edition 1.7.
+description: Source-derived finite scope ledger for World Beer Atlas edition 1.9.
 tags:
 - wiki-documentation
 - atlas
 - progress
 status: draft
 generated:
-  by: world-beer-wiki/1.8
-  at: '2026-10-28T07:55:00Z'
+  by: world-beer-wiki/1.9
+  at: '2026-10-28T07:35:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -18,7 +18,7 @@ sources:
 
 # Atlas scope and progress
 
-**Edition 1.8: 56 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
+**Edition 1.9: 63 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
 
 | ID | Workstream | Status | Reproducible deliverable paths |
 |---|---|---|---|
@@ -83,6 +83,14 @@ sources:
 | ATLAS-058 | Hop chemistry, yeast effects and source-to-aroma uncertainty | implemented | [polyfunctional-thiol-precursors.md](../ingredients/polyfunctional-thiol-precursors.md) · [thiol-release-and-yeast-timing.md](../microbiology/thiol-release-and-yeast-timing.md) · [hop-terpenoid-biotransformation.md](../sensory/hop-terpenoid-biotransformation.md) |
 | ATLAS-059 | Evidence QA, indexes, research register and reading trails | implemented | [atlas-sources-1-8.md](../references/atlas-sources-1-8.md) · [research-update-1-8.md](../editorial/research-update-1-8.md) · [validation-report-1-8.md](../editorial/validation-report-1-8.md) · [edition-1-8-reading-trails.md](../navigation/edition-1-8-reading-trails.md) · `tests/test_research_quality_v18.py` |
 
+| ATLAS-060 | Vietnamese jar-ferment traditions, materials, occasions and livelihoods | implemented | [ruou-can-vietnamese-jar-ferment.md](../styles/ruou-can-vietnamese-jar-ferment.md) · [stieng-ruou-can-and-transmission.md](../culture/stieng-ruou-can-and-transmission.md) · [ma-ruou-can-in-lam-dong.md](../culture/ma-ruou-can-in-lam-dong.md) · [vietnamese-communal-jar-and-straws.md](../objects/vietnamese-communal-jar-and-straws.md) |
+| ATLAS-061 | Bhutanese ara culture and Himalayan phab laboratory comparison | implemented | [bhutan-ara-and-social-ritual.md](../culture/bhutan-ara-and-social-ritual.md) · [phab-dry-starter-research.md](../microbiology/phab-dry-starter-research.md) |
+| ATLAS-062 | Ur III and Sumerian archives, terminology and inference | implemented | [ur-iii-beer-ration-tablet.md](../history/ur-iii-beer-ration-tablet.md) · [sumerian-beer-terms-and-uncertainty.md](../history/sumerian-beer-terms-and-uncertainty.md) · [the-tablet-was-not-the-recipe.md](../stories/the-tablet-was-not-the-recipe.md) |
+| ATLAS-063 | Beer laws, civic gardens, public food and seasonal service | implemented | [beerhouse-act-1830-debates.md](../history/beerhouse-act-1830-debates.md) · [munich-beer-garden-1812.md](../history/munich-beer-garden-1812.md) · [brotzeit-and-the-munich-beer-garden.md](../food/brotzeit-and-the-munich-beer-garden.md) · [munich-cellars-and-summer-service.md](../calendar/munich-cellars-and-summer-service.md) |
+| ATLAS-064 | Korean and Chinese cereal starter ecology, process and sensory boundaries | implemented | [nuruk-42-sample-survey.md](../microbiology/nuruk-42-sample-survey.md) · [huangjiu-manual-and-mechanized-microbes.md](../microbiology/huangjiu-manual-and-mechanized-microbes.md) · [huangjiu-chinese-cereal-wine.md](../styles/huangjiu-chinese-cereal-wine.md) · [wheat-qu-and-huangjiu.md](../ingredients/wheat-qu-and-huangjiu.md) |
+| ATLAS-065 | Nubian ancient-grain genetics and archaeological interpretive limits | implemented | [qasr-ibrim-barley-ancient-dna.md](../history/qasr-ibrim-barley-ancient-dna.md) · [barley-row-type-and-brewing-assumptions.md](../ingredients/barley-row-type-and-brewing-assumptions.md) |
+| ATLAS-066 | Cross-domain revisions, original-source register, reproducible QA and reading trails | implemented | [atlas-sources-1-9.md](../references/atlas-sources-1-9.md) · [research-update-1-9.md](../editorial/research-update-1-9.md) · [validation-report-1-9.md](../editorial/validation-report-1-9.md) · [edition-1-9-reading-trails.md](../navigation/edition-1-9-reading-trails.md) · `tests/test_research_quality_v19.py` |
+
 ## What remains unverified
 
 **ATLAS-012**, independent community and specialist review, is still planned. Source access from a publisher abstract or a project narrative is not equivalent to reading all underlying records; an archival citation cannot certify the account’s representativeness. Licensed illustrations/recordings and a live interactive calendar remain deferred. The [edition 1.7 review queue](source-review-queue-1-7.md) and [earlier 1.6 queue](source-review-queue-1-6.md) identify specific work.
@@ -96,3 +104,7 @@ sources:
 ## Edition 1.8 delivered scope
 
 29 source-bounded articles and 14 original-article additions; 6 finite ledger items. All community and scientific peer review remains uncompleted. [Research update](research-update-1-8.md) · [Sources](../references/atlas-sources-1-8.md) · [Independent-review queue](source-review-queue-1-8.md).
+
+## Edition 1.9 scope and reproducibility
+
+31 new articles, 18 researched revisions and 18 distinct external works. The ledger marks only these defined deliverables as implemented; independent community/specialist review is still pending. [Research update](research-update-1-9.md) · [Sources](../references/atlas-sources-1-9.md) · [Review queue](source-review-queue-1-9.md).

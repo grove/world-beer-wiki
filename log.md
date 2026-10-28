@@ -43,3 +43,7 @@ Added 30 cited subject articles and research extensions to 22 established subjec
 ## 2026-10-28 · Research edition 1.8
 
 Add 29 source-bounded subjects, 14 existing-article research extensions and 7 new reading trails. Expand the finite specification by 6 IDs, publish an annotated source register and review queue, and extend research-hygiene checks across 1.6/1.7/1.8. Preserve all existing canonical URLs and source-access cautions. [Research notes](editorial/research-update-1-8.md).
+
+## 2026-10-28 — Research edition 1.9
+
+Add 31 source-scoped subject articles, 18 source-cited updates, eight cross-category trails, an annotated source/backlink register and independent-review queue. Distinguish community accounts, archival transactions, published law debates, original bacterial isolates, grain archaeology and observational flavor associations. Extend offline QA and preserve all original URLs. [Research update](editorial/research-update-1-9.md) · [Validation](editorial/validation-report-1-9.md).

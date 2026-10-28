@@ -19,6 +19,14 @@ sources:
   source_kind: primary-microbiology-open-text
   access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community
     differences; laboratory detections not proof of universal starter composition.'
+- id: v19-phab
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC6848222/
+  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters
+    of the Eastern Himalayas (2019)
+  author_label: Eastern Himalayan microbial-starter research team
+  source_kind: primary-isolate-research
+  access_scope: 'Open indexed article and abstract: 35 dry-starter samples, 201 bacterial isolates, 16S rRNA
+    identification; bacteria isolates are not entire live starter or proof of safe practices.'
 regions:
 - Eastern Himalayas
 scope: Laboratory identification of bacteria in geographically sampled starters; not a universal recipe or
@@ -68,6 +76,13 @@ Comparing multiple sampled starters is more informative than describing “the H
 
 Laboratory identification of bacteria in geographically sampled starters; not a universal recipe or independent evidence of drinking safety. This is a research draft; cited sampling, interviews, archives, guideline editions or experiments retain their stated limits. No independent specialist or community review is claimed.
 
+
+## Edition 1.9: newly sourced connections
+
+The Eastern Himalayan study by starter microbiologists reports 35 sampled dry starters and 201 bacterial isolates with molecular identification. It explicitly distinguishes *phab* in Bhutan from starter names recorded in Arunachal Pradesh and Nepal/Sikkim; regional naming and physical preparation are not synonyms. The method does **not** recover every organism that participated in fermentation or establish a household starter’s stability through generations. The [phab research explanation](phab-dry-starter-research.md) separates laboratory isolates from [Bhutanese ara’s documented social setting](../culture/bhutan-ara-and-social-ritual.md).[^v19-phab]
+
 ## Source notes
 
 [^v15-himalaya-2019]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full). Frontiers in Microbiology research team. Consulted 2026-10-27. Access: Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community differences; laboratory detections not proof of universal starter composition.
+
+[^v19-phab]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6848222/). Eastern Himalayan microbial-starter research team. Checked 2026-10-28. Access: Open indexed article and abstract: 35 dry-starter samples, 201 bacterial isolates, 16S rRNA identification; bacteria isolates are not entire live starter or proof of safe practices.

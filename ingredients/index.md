@@ -96,3 +96,8 @@ New evidence-based references (all retain draft status):
 - [Bound thiol precursors in malt and hops](polyfunctional-thiol-precursors.md) — Ingredient Chemistry Reference; An analytical chemistry study of disulfide-bound thiols in tested malt/hop materials plus hop-sample survey; no universal aroma yield.
 - [Finger millet in mbege and kodo ko jaanr](finger-millet-in-traditional-ferments.md) — Ingredient Reference; Finger millet (Eleusine coracana) as used in two independent documented fermentations, not all plants collectively called millet.
 - [Msesewe bark in one mbege field study](msesewe-stem-bark-in-mbege.md) — Botanical Ingredient Case Study; Named Rauvolfia caffra stem bark in the Kubo–Kilasara observed and experimental mbege process; not a botanical identification or safety guide.
+
+## Added in research edition 1.9
+
+- [Two-row and six-row barley: a trait is not an origin story](barley-row-type-and-brewing-assumptions.md) — Agricultural Ingredient Reference.
+- [Wheat qu in Chinese Huangjiu](wheat-qu-and-huangjiu.md) — Fermentation Starter Ingredient Reference.

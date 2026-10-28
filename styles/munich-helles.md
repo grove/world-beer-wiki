@@ -18,6 +18,13 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v19-munich
+  resource: https://www.munich.travel/en/topics/eat-drink/beer-garden-munich-tips
+  title: 'Beer garden guide: how-to beer garden'
+  author_label: Munich municipal tourism portal
+  source_kind: municipal-cultural-account
+  access_scope: Full municipal tourism article describing the 1812 ordinance and modern food/service customs;
+    not an independently inspected 1812 decree.
 aliases:
 - Helles
 regions:
@@ -30,7 +37,8 @@ classification:
   edition: '2021'
   code: 4A
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/german-pils
@@ -70,6 +78,13 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+
+## Edition 1.9: newly sourced connections
+
+Munich Helles is also a drink served in a particular civic setting. The city's tourism guide discusses Helles in beer gardens, communal tables and the long-lived practice of bringing outside food. This cultural description is **not a new Helles recipe** or evidence that every Helles must be served in one-litre mugs: service and beer-style specification are different axes. The [Munich beer-garden context](../culture/munich-beer-garden-public-life.md) and [Brotzeit reference](../food/brotzeit-and-the-munich-beer-garden.md) connect a familiar lager style to place without mistaking a venue custom for judging criteria.[^v19-munich]
+
 ## Source notes
 
 [^bjcp-2021-4a]: [BJCP 2021: Munich Helles](https://styles.bjcp.org/bjcp-2021-beer/4/4a-munich-helles). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+[^v19-munich]: [Beer garden guide: how-to beer garden](https://www.munich.travel/en/topics/eat-drink/beer-garden-munich-tips). Munich municipal tourism portal. Checked 2026-10-28. Access: Full municipal tourism article describing the 1812 ordinance and modern food/service customs; not an independently inspected 1812 decree.

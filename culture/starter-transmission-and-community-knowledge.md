@@ -34,10 +34,17 @@ sources:
   author_label: Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan
   source_kind: primary-microbiology-abstract
   access_scope: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
+- id: v19-stieng
+  resource: https://en.vietnamplus.vn/can-winemaking-a-unique-traditional-craft-of-the-stieng-people-post232176.vnp
+  title: Can winemaking, a unique traditional craft of the S’Tieng people (2022)
+  author_label: Vietnam News Agency / VietnamPlus
+  source_kind: community-quoted-news-agency-report
+  access_scope: Full news-agency report quotes named local makers, cooperative founder and cultural officers
+    in Binh Phuoc; a legend is a narrated legend, not historical proof.
 regions:
 - Asia; comparative
-scope: Comparative interpretation of documented Himalayan and Vietnamese starter samples; direct cultural descent
-  cannot be inferred.
+scope: Comparative interpretation of documented Himalayan and Vietnamese starter samples; direct cultural
+  descent cannot be inferred.
 evidence_basis:
 - primary-food-science-abstract
 - primary-microbiology-abstract
@@ -76,6 +83,11 @@ A good entry should retain the community’s name for the culture, the location 
 
 Comparative interpretation of documented Himalayan and Vietnamese starter samples; direct cultural descent cannot be inferred. This is a research draft; cited sampling, interviews, archives, guideline editions or experiments retain their stated limits. No independent specialist or community review is claimed.
 
+
+## Edition 1.9: newly sourced connections
+
+A Vietnam News Agency report names S’Tieng craftswomen in Binh Phuoc, describes intergenerational starter knowledge and a local cooperative for continuing production. It supplies a **specific modern example** of how technical practice and livelihood interact, while not authorizing publication of private botanical know-how or implying that one family's recipe stands for all makers. Compare [S’Tieng jar-wine transmission](stieng-ruou-can-and-transmission.md), [Ma jar-service narration](ma-ruou-can-in-lam-dong.md) and [phab isolate research](../microbiology/phab-dry-starter-research.md): community stewardship, institutional description and microbial assays answer different questions.[^v19-stieng]
+
 ## Source notes
 
 [^v15-himalaya-2019]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full). Frontiers in Microbiology research team. Consulted 2026-10-27. Access: Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community differences; laboratory detections not proof of universal starter composition.
@@ -83,3 +95,5 @@ Comparative interpretation of documented Himalayan and Vietnamese starter sample
 [^v15-banhmen-2007]: [Characteristics of some traditional Vietnamese starch-based rice wine fermentation starters (men) (2007)](https://www.sciencedirect.com/science/article/pii/S0023643805001763). N. T. P. Dung, F. M. Rombouts and M. J. R. Nout. Consulted 2026-10-27. Access: Publisher abstract: 29 starter samples, selected fermentation tests and isolated microbes; full article not accessed.
 
 [^v15-banhmen-2008]: [Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as determined by PCR-mediated DGGE (2008)](https://pubmed.ncbi.nlm.nih.gov/18838186/). Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan. Consulted 2026-10-27. Access: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
+
+[^v19-stieng]: [Can winemaking, a unique traditional craft of the S’Tieng people (2022)](https://en.vietnamplus.vn/can-winemaking-a-unique-traditional-craft-of-the-stieng-people-post232176.vnp). Vietnam News Agency / VietnamPlus. Checked 2026-10-28. Access: Full news-agency report quotes named local makers, cooperative founder and cultural officers in Binh Phuoc; a legend is a narrated legend, not historical proof.

@@ -30,8 +30,7 @@ sources:
   title: The Crisp Guide to Mashing
   author_label: Crisp Malt
   source_kind: producer-technical-documentation
-  access_scope: retrieved rice, maize and oats sections; no universal temperatures or addition limits
-    adopted
+  access_scope: retrieved rice, maize and oats sections; no universal temperatures or addition limits adopted
 - id: bjcp-2021-27f
   resource: https://styles.bjcp.org/bjcp-2021-beer/27/27f-pre-prohibition-lager
   title: 'BJCP 2021: Pre-Prohibition Lager'
@@ -51,6 +50,13 @@ sources:
   author_label: Briess Malt & Ingredients
   source_kind: producer-technical-documentation
   access_scope: retrieved product descriptions; specifications apply to the named products
+- id: v19-huangjiu-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/
+  title: The microbiome of Chinese rice wine (Huangjiu) (2022)
+  author_label: Chinese rice-wine microbiome review authors
+  source_kind: scientific-review
+  access_scope: Open indexed review with process description and microbiome survey synthesis; production
+    methods and species vary among locales.
 aliases:
 - Brewing rice
 regions:
@@ -105,6 +111,11 @@ These sources illustrate different roles, not every rice variety or regional pra
 
 [Ingredient directory](index.md) · [All beer entries](../styles/index.md) · [Research method](../editorial/methodology.md)
 
+
+## Edition 1.9: newly sourced connections
+
+The 2022 Huangjiu microbiome review describes multiple ways grain rice can become an alcoholic fermented drink: steaming the substrate, using wheat *qu* or related starters for enzymatic conversion, then managing a mixed fermentation. The grain itself does not explain the full resulting drink or its cultural name. Compare [Huangjiu](../styles/huangjiu-chinese-cereal-wine.md), [wheat qu](wheat-qu-and-huangjiu.md), [makgeolli](../styles/makgeolli.md) and [rượu cần](../styles/ruou-can-vietnamese-jar-ferment.md). Similar starch chemistry does not make these the same national tradition or a single standardized beer category.[^v19-huangjiu-review]
+
 ## Source notes
 
 [^ing-crisp-rice]: [Flaked Torrefied Rice](https://crispmalt.com/malts/flaked-torrefied-rice/). Crisp Malt. Consulted 2026-10-27. Evidence used: product description of cooking, gelatinisation and brewing role; health and gluten marketing claims not used.
@@ -113,3 +124,5 @@ These sources illustrate different roles, not every rice variety or regional pra
 [^bjcp-2021-27f]: [BJCP 2021: Pre-Prohibition Lager](https://styles.bjcp.org/bjcp-2021-beer/27/27f-pre-prohibition-lager). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 [^ing-gekkeikan-process]: [How to Make Sake](https://us.gekkeikan.com/sake-101/how-to-make-sake/). Gekkeikan Sake (USA). Consulted 2026-10-27. Evidence used: producer process overview; not an exhaustive account of all sake practices.
 [^ing-briess-products]: [Brewing products: flakes, roasted barley and rice hulls](https://brewingwithbriess.com/products/). Briess Malt & Ingredients. Consulted 2026-10-27. Evidence used: retrieved product descriptions; specifications apply to the named products.
+
+[^v19-huangjiu-review]: [The microbiome of Chinese rice wine (Huangjiu) (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/). Chinese rice-wine microbiome review authors. Checked 2026-10-28. Access: Open indexed review with process description and microbiome survey synthesis; production methods and species vary among locales.

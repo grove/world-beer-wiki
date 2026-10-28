@@ -23,6 +23,13 @@ sources:
   author_label: G. Donadini, M. D. Fumi and I. R. Newby-Clark
   source_kind: consumer-pairing-experiment-abstract
   access_scope: Publisher abstract of consumers and cheese/beer match perceptions; study-specific combinations.
+- id: v19-munich
+  resource: https://www.munich.travel/en/topics/eat-drink/beer-garden-munich-tips
+  title: 'Beer garden guide: how-to beer garden'
+  author_label: Munich municipal tourism portal
+  source_kind: municipal-cultural-account
+  access_scope: Full municipal tourism article describing the 1812 ordinance and modern food/service customs;
+    not an independently inspected 1812 decree.
 scope: Expert-interview principles and their limited transfer to actual diners.
 evidence_basis:
 - consumer-pairing-experiment-abstract
@@ -53,8 +60,15 @@ Instead of prescribing “stout goes with chocolate,” ask what bitterness, aci
 
 Expert-interview principles and their limited transfer to actual diners. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
+
+## Edition 1.9: newly sourced connections
+
+Not every link between beer and food is a claim about flavor compatibility. Munich’s municipal beer-garden guide describes a service culture in which guests can bring food from home, a practice it traces to an 1812 trade arrangement. This is primarily **social and legal history**, not a controlled pairing experiment. It belongs beside, but not inside, sensory evidence about how tastes interact. Compare [Brotzeit at the beer garden](brotzeit-and-the-munich-beer-garden.md) and [the city’s legal-history account](../history/munich-beer-garden-1812.md). A favorite dish chosen for tradition or convenience need not have a uniquely optimal sensory score.[^v19-munich]
+
 ## Source notes
 
 [^v14-food]: [From Expert Knowledge and Sensory Science to Food-and-Beer Pairing (2019)](https://www.sciencedirect.com/science/article/pii/S1878450X18300830). Food-pairing interview study authors. Consulted 2026-10-27. Access: Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles; not consumer preference laws.
 
 [^v14-cheese]: [Matches of Bottom-Fermented Red Beers with Cheeses (2015)](https://www.sciencedirect.com/science/article/pii/S0963996914006930). G. Donadini, M. D. Fumi and I. R. Newby-Clark. Consulted 2026-10-27. Access: Publisher abstract of consumers and cheese/beer match perceptions; study-specific combinations.
+
+[^v19-munich]: [Beer garden guide: how-to beer garden](https://www.munich.travel/en/topics/eat-drink/beer-garden-munich-tips). Munich municipal tourism portal. Checked 2026-10-28. Access: Full municipal tourism article describing the 1812 ordinance and modern food/service customs; not an independently inspected 1812 decree.

@@ -55,3 +55,8 @@ New evidence-based references (all retain draft status):
 - [Kodo ko jaanr: starch conversion and fermentation as a sequence](jaanr-finger-millet-fermentation.md) — Traditional Fermentation Process Case; Timing and changing communities in the Thapa–Tamang 2006 finger-millet study in Darjeeling and Sikkim.
 - [Nyalu and mso: two-stream fermentation in mbege](mbege-nyalu-and-mso.md) — Brewing Process Reference; Stages and interpretation observed in the 2016 northeastern Tanzanian field study; not an operational brewing protocol.
 - [Shawi masato preparation: cassava, mash and service](shawi-masato-preparation.md) — Traditional Fermentation Process Case; The sequence photographed with informed participation in one Shawi community in Loreto, Peru; other masato preparation systems differ.
+
+## Added in research edition 1.9
+
+- [From botanical starter to shared jar: rượu cần stages](ruou-can-starter-jar-and-service.md) — Situated Brewing Process Explanation.
+- [Huangjiu: preparing grain, converting starch and fermenting](huangjiu-process-and-variation.md) — Brewing and Fermentation Process Reference.

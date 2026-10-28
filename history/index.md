@@ -43,3 +43,11 @@ New evidence-based references (all retain draft status):
 - [Chicherías in Arequipa’s records, 1780–1845](arequipa-chicherias-colonial-republican-records.md) — An archival historian’s reading of chicha sellers, alcohol consumption and gendered social space in southern Peru.
 - [Medieval English brewing as household labor](brewsters-household-labor-in-medieval-england.md) — Judith Bennett’s analysis of wives, husbands, employees and the changing organization of commercial ale brewing in England.
 - [The Abydos brewery and Egypt’s early kings](abydos-early-royal-brewery.md) — Early Dynastic brewery structures at North Abydos, Egypt, with separation of excavated installations, estimated scale and the proposed funerary association.
+
+## Added in research edition 1.9
+
+- [An Ur III tablet records beer for messengers](ur-iii-beer-ration-tablet.md) — Archival Artifact Interpretation.
+- [England’s Beerhouse Act of 1830: licensing and argument](beerhouse-act-1830-debates.md) — Political and Legal Brewing History.
+- [Munich’s 1812 beer-garden ordinance in later civic memory](munich-beer-garden-1812.md) — Institutional Legal History.
+- [Qasr Ibrim barley: ancient DNA and grain diversity](qasr-ibrim-barley-ancient-dna.md) — Archaeobotanical Research Case.
+- [Sumerian beer words are not modern style labels](sumerian-beer-terms-and-uncertainty.md) — Historical Evidence Method.

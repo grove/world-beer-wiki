@@ -42,21 +42,21 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 
 | Section | Entries | Purpose |
 |---|---:|---|
-| [Beer and tradition profiles](styles/index.md) | 173 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 46 | Materials, processing forms, enzymes and fermentation organisms. |
-| [Category guides](categories/index.md) | 28 | Explanations and comparisons across families and classification axes. |
-| [Culture](culture/index.md) | 38 | Situated institutions, work, exchange and knowledge. |
-| [Calendar](calendar/index.md) | 14 | Seasons and edition-specific events. |
-| [Microbiology](microbiology/index.md) | 36 | Organisms, cultures and ecological evidence. |
-| [Processes](processes/index.md) | 28 | Transformations and production comparisons. |
-| [Objects and service](objects/index.md) | 12 | Equipment and ways of presenting drinks. |
-| [Sensory](sensory/index.md) | 21 | Flavor reasoning and evidence boundaries. |
-| [Stories](stories/index.md) | 21 | Evidence-based narrative reading routes. |
-| [History and archaeology](history/index.md) | 24 | Historical policies, industrialization and ancient material evidence. |
+| [Beer and tradition profiles](styles/index.md) | 175 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
+| [Ingredients and cultures](ingredients/index.md) | 48 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Category guides](categories/index.md) | 30 | Explanations and comparisons across families and classification axes. |
+| [Culture](culture/index.md) | 44 | Situated institutions, work, exchange and knowledge. |
+| [Calendar](calendar/index.md) | 16 | Seasons and edition-specific events. |
+| [Microbiology](microbiology/index.md) | 40 | Organisms, cultures and ecological evidence. |
+| [Processes](processes/index.md) | 30 | Transformations and production comparisons. |
+| [Objects and service](objects/index.md) | 14 | Equipment and ways of presenting drinks. |
+| [Sensory](sensory/index.md) | 22 | Flavor reasoning and evidence boundaries. |
+| [Stories](stories/index.md) | 23 | Evidence-based narrative reading routes. |
+| [History and archaeology](history/index.md) | 29 | Historical policies, industrialization and ancient material evidence. |
 | [Environment](environment/index.md) | 11 | Climate, cultivation, energy, water and materials. |
-| [Beer with food](food/index.md) | 5 | Evidence-based pairing context and consumer study designs. |
+| [Beer with food](food/index.md) | 6 | Evidence-based pairing context and consumer study designs. |
 
-That is **457 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.6 research update](editorial/research-update-1-6.md) document delivered and remaining scope.
+That is **488 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.9 research update](editorial/research-update-1-9.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
@@ -90,7 +90,7 @@ python tools/atlas.py source-audit > atlas-source-audit.json
 python tools/build_subject_index.py --check
 ```
 
-If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [1.5 validation report](editorial/validation-report-1-5.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
+If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [current validation report](editorial/validation-report-1-9.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
 
 ## Sources and rights
 
@@ -114,8 +114,12 @@ The [edition research-quality checker](tools/research_quality.py) adds source-ac
 
 The [edition 1.7 research update](editorial/research-update-1-7.md) records 26 new subject articles and 16 sourced existing-page revisions. Explore the [curated reading trails](navigation/edition-1-7-reading-trails.md), [source access register](references/atlas-sources-1-7.md), [review queue](editorial/source-review-queue-1-7.md), and updated [specification](editorial/atlas-specification.md). This is not independent community or scientific review.
 
-## Research edition 1.8
+## Research edition 1.8 (historical release)
 
-The [complete subject index](navigation/all-atlas-subjects.md) now covers 457 subject articles. [Seven reading trails](navigation/edition-1-8-reading-trails.md) connect 29 new fieldwork, culture and science articles with 14 sourced original-page updates. Research access limitations are explicit in the [source supplement](references/atlas-sources-1-8.md); source and community-review work remains documented in the [open queue](editorial/source-review-queue-1-8.md).
+At its release, the [complete subject index](navigation/all-atlas-subjects.md) covered 457 subject articles; the directory now reflects the current wiki. [Seven reading trails](navigation/edition-1-8-reading-trails.md) connect 29 new fieldwork, culture and science articles with 14 sourced original-page updates. Research access limitations are explicit in the [source supplement](references/atlas-sources-1-8.md); source and community-review work remains documented in the [open queue](editorial/source-review-queue-1-8.md).
 
 Reproduce edition hygiene with `python tools/research_quality.py --edition 1.8 --json`, alongside the original 1.6 and 1.7 checks. Structural and source metadata validation does not verify historical, scientific, cultural or food safety truth.
+
+## Current research edition 1.9
+
+**488 subject articles across 13 sections.** The [complete subject index](navigation/all-atlas-subjects.md) is generated from actual files. Edition 1.9 adds 31 source-scoped articles and 18 grounded updates to existing research, with [eight reading paths](navigation/edition-1-9-reading-trails.md), [source notes](references/atlas-sources-1-9.md), [research update](editorial/research-update-1-9.md) and [finite progress ledger](editorial/atlas-progress.md). This is an AI-authored research draft corpus, not independently community- or specialist-approved.

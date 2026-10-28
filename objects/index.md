@@ -36,3 +36,8 @@ New evidence-based references (all retain draft status):
 
 - [Abydos vats, fire legs and stoke holes](abydos-vats-and-fire-legs.md) — Ceramic cooking vessels and heating structures documented in the excavated early royal brewery at North Abydos.
 - [The white flag outside a Piura chichería](piura-chicha-white-flags.md) — A signal of household chicha service described in a northern Peruvian brewer interview study.
+
+## Added in research edition 1.9
+
+- [Beer in clay: a tablet as a working document](ur-iii-beer-tablet-as-object.md) — Historical Material Culture Reference.
+- [The communal jar and bamboo straws in rượu cần service](vietnamese-communal-jar-and-straws.md) — Serving and Material Culture Reference.

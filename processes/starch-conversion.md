@@ -13,16 +13,16 @@ status: draft
 generated:
   by: world-beer-wiki/1.2
   at: '2026-10-27T20:25:00Z'
-scope: A comparative explanation using a producer's malting account, a sake association's account and
-  the existing Munkoyo research profile.
+scope: A comparative explanation using a producer's malting account, a sake association's account and the
+  existing Munkoyo research profile.
 sources:
 - id: atlas-schlenkerla-process
   resource: https://www.schlenkerla.de/rauchbier/prozess/prozesse.html
   title: Malting and brewing process of Schlenkerla Smoked Beer
   author_label: Schlenkerla
   source_kind: producer-technical-documentation
-  access_scope: Steeping, germination, kilning, mashing and wort-separation descriptions; universal
-    historical and exclusivity claims not adopted.
+  access_scope: Steeping, germination, kilning, mashing and wort-separation descriptions; universal historical
+    and exclusivity claims not adopted.
 - id: atlas-jss-koji
   resource: https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/
   title: Sake Brewing Processes and Flavor
@@ -38,19 +38,19 @@ sources:
     limits.
 - id: v16-munkoyo
   resource: https://pubmed.ncbi.nlm.nih.gov/9039570/
-  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase
-    source (1997)
+  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source
+    (1997)
   author_label: Zulu, Dillon and Owens
   source_kind: primary-food-microbiology-abstract
-  access_scope: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental
-    fermentation with named microbes; not a survey of all Zambian recipes.
+  access_scope: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental fermentation
+    with named microbes; not a survey of all Zambian recipes.
 - id: v16-ferulic-2004
   resource: https://pubs.acs.org/doi/10.1021/jf0346556
   title: Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)
   author_label: Research authors
   source_kind: primary-brewing-chemistry-abstract
-  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast
-    fermentation; studied combinations not all wheat beer.
+  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation;
+    studied combinations not all wheat beer.
 - id: v17-bubod-1990
   resource: https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article
   title: Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)
@@ -63,15 +63,22 @@ sources:
   title: Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)
   author_label: Ryosuke Kubo and Method Kilasara
   source_kind: primary-field-observation
-  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence
-    and experimental bark comparison; not a region-wide census.
+  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing
+    sequence and experimental bark comparison; not a region-wide census.
 - id: v18-jaanr
   resource: https://indianjournals.com/article/ijm-46-4-004
   title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
   author_label: S. Thapa and J. P. Tamang
   source_kind: primary-research-abstract
-  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim;
-    original full paper not reviewed.
+  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original
+    full paper not reviewed.
+- id: v19-huangjiu-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/
+  title: The microbiome of Chinese rice wine (Huangjiu) (2022)
+  author_label: Chinese rice-wine microbiome review authors
+  source_kind: scientific-review
+  access_scope: Open indexed review with process description and microbiome survey synthesis; production
+    methods and species vary among locales.
 source_checked_on: '2026-10-28'
 review_note: Research draft; explanatory comparison, not an interchangeable ingredient list.
 relations:
@@ -122,6 +129,11 @@ In a documented Tanzanian **mbege** process, fermented banana nyalu and germinat
 
 Follow [mbege two-stream preparation](mbege-nyalu-and-mso.md), [jaanr fermentation timing](jaanr-finger-millet-fermentation.md), and [the finger-millet reference](../ingredients/finger-millet-in-traditional-ferments.md). This is comparison, not advice for uncontrolled fermentation or an origin claim.
 
+
+## Edition 1.9: newly sourced connections
+
+Huangjiu demonstrates a form of cereal starch conversion that cannot be reduced to a single European barley-malt mash. A 2022 scientific review describes grain soaking and steaming followed by wheat *qu* and other starter inputs; these support saccharification and fermentation in a regional process family. “Starter” should therefore record both its processed grain material and its actual microbial or enzymatic role. See [grain-to-Huangjiu stages](huangjiu-process-and-variation.md), [wheat qu](../ingredients/wheat-qu-and-huangjiu.md) and [parallel starch conversion](parallel-starch-and-alcohol-fermentation.md). The review is cross-study synthesis, not validation of every household method.[^v19-huangjiu-review]
+
 ## Source notes
 [^atlas-schlenkerla-process]: [Malting and brewing process of Schlenkerla Smoked Beer](https://www.schlenkerla.de/rauchbier/prozess/prozesse.html), Schlenkerla. Production stages consulted 27 October 2026; producer-specific account.
 [^atlas-jss-koji]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/), Japan Sake and Shochu Makers Association. Koji and fermentation sections consulted 27 October 2026.
@@ -141,3 +153,5 @@ Compare [munkoyo saccharification](munkoyo-root-starch-conversion.md) with [feru
 [^v18-mbege]: [Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)](https://www.mdpi.com/2306-5710/2/3/21). Ryosuke Kubo and Method Kilasara. Consulted 2026-10-28. Access: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence and experimental bark comparison; not a region-wide census.
 
 [^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.
+
+[^v19-huangjiu-review]: [The microbiome of Chinese rice wine (Huangjiu) (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/). Chinese rice-wine microbiome review authors. Checked 2026-10-28. Access: Open indexed review with process description and microbiome survey synthesis; production methods and species vary among locales.

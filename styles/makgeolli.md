@@ -41,6 +41,13 @@ sources:
   source_kind: primary-genomics-open-text
   access_scope: Open journal text excerpts on Saccharomycopsis fibuligera isolates from Korean nuruk; isolate
     results not representative of every starter.
+- id: v19-nuruk42
+  resource: https://pubmed.ncbi.nlm.nih.gov/23314366/
+  title: Analysis of microflora profile in Korean traditional nuruk (2013)
+  author_label: Korean traditional nuruk microbial survey authors
+  source_kind: primary-survey-abstract
+  access_scope: PubMed/Korean academic indexed abstract describing 42 nuruk samples and detected bacteria,
+    fungi and yeasts; full methods not independently checked.
 aliases:
 - 막걸리
 regions:
@@ -108,6 +115,11 @@ Genomic research on *Saccharomycopsis fibuligera* isolates from Korean wheat-bas
 
 The broader [starter-cake comparison](../categories/beer-starters-and-beverage-names.md) explains why the same biochemical problem can be solved by different regional practices. See also [starch-active yeasts](../microbiology/saccharomycopsis-fibuligera-in-starters.md).
 
+
+## Edition 1.9: newly sourced connections
+
+A survey of **42 Korean nuruk starters** found considerable microbial diversity; only a subset yielded the brewing organisms most often named in simple descriptions. This should not be read as evidence that every finished makgeolli lacks those microbes: a starter sampling survey and a fermenting-batch time course investigate different phases. The contrast is developed in [the 42-sample review](../microbiology/nuruk-42-sample-survey.md) and [makgeolli succession](../microbiology/makgeolli-time-course-not-one-snapshot.md). A traditional starter is therefore a material and community practice, not a laboratory organism checklist or guarantee of identical sensory results across makers.[^v19-nuruk42]
+
 ## Source notes
 
 [^makgeolli-research]: [Chemical and sensory profiles of makgeolli, Korean commercial rice wine, from descriptive, chemical, and volatile compound analyses (2014)](https://www.pfigueiredo.org/as42.pdf). Heeyong Jung and colleagues. Consulted 2026-10-27. Evidence used: paper p. 624, abstract and introduction; DOI 10.1016/j.foodchem.2013.11.127.
@@ -121,3 +133,5 @@ The Republic of Korea's Cultural Heritage Administration identified **makgeolli 
 [^v14-japan]: [Seeking Prehistoric Fermented Food in Japan and Korea (2021)](https://www.journals.uchicago.edu/doi/full/10.1086/715808). Shinya Shoda. Consulted 2026-10-27. Access: Publisher abstract: evidence assessment and identification uncertainty, not proof of dated brewing at a specific site.
 
 [^v15-fibuligera]: [Genomic and functional features of yeast species in Korean traditional fermented alcoholic beverage and soybean products (2023)](https://academic.oup.com/femsyr/article/doi/10.1093/femsyr/foac066/6958799). FEMS Yeast Research authors. Consulted 2026-10-27. Source access: Open journal text excerpts on Saccharomycopsis fibuligera isolates from Korean nuruk; isolate results not representative of every starter.
+
+[^v19-nuruk42]: [Analysis of microflora profile in Korean traditional nuruk (2013)](https://pubmed.ncbi.nlm.nih.gov/23314366/). Korean traditional nuruk microbial survey authors. Checked 2026-10-28. Access: PubMed/Korean academic indexed abstract describing 42 nuruk samples and detected bacteria, fungi and yeasts; full methods not independently checked.

@@ -23,3 +23,7 @@
 ## Edition 1.8 research and evidence checks
 
 [Research update](research-update-1-8.md) · [Validation report](validation-report-1-8.md) · [Source review queue](source-review-queue-1-8.md) · [Source register](../references/atlas-sources-1-8.md).
+
+## Edition 1.9
+
+[Research and correction notes](research-update-1-9.md) · [Validation report](validation-report-1-9.md) · [Source-access and independent-review queue](source-review-queue-1-9.md) · [Specification](atlas-specification.md) · [Progress](atlas-progress.md).

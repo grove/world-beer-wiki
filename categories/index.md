@@ -55,3 +55,8 @@ New evidence-based references (all retain draft status):
 - [Banana, millet and cassava: similar aims, different routes](banana-millet-and-cassava-fermentation-routes.md) — Beer Category Guide; Comparison of observed Tanzanian and Peruvian systems, not a historical diffusion map or universal style family.
 - [Foam, aging and aroma: interpreting beer sensory evidence](beer-foam-aging-and-aroma-misconceptions.md) — Beer Category Guide; Cross-cutting guide to distinct laboratory studies of proteins, oxidative aldehydes and hop/yeast aromatic molecules.
 - [When a fermented cereal is food as well as a drink](fermented-cereal-beverages-as-food.md) — Beer Category Guide; Comparative guide grounded in published Ethiopian borde/shamita research, with no automatic claim of nutritional or microbial safety.
+
+## Added in research edition 1.9
+
+- [Beer laws, public houses and communal drinking places](beer-laws-and-public-space.md) — Historical Comparison Guide.
+- [Rice wine, grain beer and distilled liquor: different questions](rice-wine-beer-and-distillation-boundaries.md) — Classification and Comparison Guide.

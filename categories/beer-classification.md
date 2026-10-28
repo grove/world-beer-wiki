@@ -1,8 +1,8 @@
 ---
 type: Beer Category Guide
 title: How beer categories work
-description: A practical model for separating beer styles, local traditions, ingredients, processes, and dated
-  judging systems.
+description: A practical model for separating beer styles, local traditions, ingredients, processes, and
+  dated judging systems.
 tags:
 - classification
 - taxonomy
@@ -62,9 +62,16 @@ sources:
   source_kind: official-guideline
   access_scope: Official 2026 guideline directory and use terms; names/edition referenced, no copied, altered
     or paraphrased guideline definitions.
+- id: v19-vietnam-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4725306/
+  title: 'Alcohol and Drinking Cultures in Vietnam: A Review (2015)'
+  author_label: Review authors of Vietnam alcohol ethnography/public-health literature
+  source_kind: scientific-social-review
+  access_scope: Open indexed sections describing cultural variability, rural distillation and risks; explicitly
+    a review, not direct S’Tieng fieldwork.
 category_axis: multiple
-scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive
-  world taxonomy.
+scope: Educational comparison across the linked profiles; not a new universal competition category or an
+  exhaustive world taxonomy.
 evidence_basis: cited-primary-sources-and-editorial-comparison
 source_checked_on: '2026-10-27'
 review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
@@ -129,6 +136,11 @@ Two influential modern classification systems have different purposes and update
 
 A category named in one framework can be absent or grouped differently in another. The wiki preserves each publisher and edition rather than synthesizing an imaginary universal classification. The [side-by-side guide](bjcp-2021-versus-ba-2026.md) explains how to interpret these claims without reproducing the BA’s protected guideline definitions.
 
+
+## Edition 1.9: newly sourced connections
+
+A regional drinking-cultures review from Vietnam is a reminder that English words such as *beer*, *wine* and *liquor* can follow different rules from a local beverage's actual processing. Rice may be fermented into a communal jar drink or fermented and then distilled for a spirit. Neither belongs to a modern judging category solely because of the substrate. The [new comparative guide](rice-wine-beer-and-distillation-boundaries.md) and [rượu cần profile](../styles/ruou-can-vietnamese-jar-ferment.md) keep technology, local naming, service and social setting separate—without declaring a superior universal vocabulary.[^v19-vietnam-review]
+
 ## Source notes
 
 [^wiki-bjcp-introduction]: [BJCP 2021: Introduction to the guidelines](https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: Styles and Categories; purpose and limitations of judging categories.
@@ -144,3 +156,5 @@ A category named in one framework can be absent or grouped differently in anothe
 [^v15-bjcp-2021]: [BJCP 2021 Beer Style Guidelines: Official Introduction](https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/). Beer Judge Certification Program. Consulted 2026-10-27. Source access: Official current beer-guideline introduction: grouping decisions, judging use and edition; not a global historical taxonomy.
 
 [^v15-ba-2026]: [Brewers Association 2026 Beer Style Guidelines](https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/). Brewers Association. Consulted 2026-10-27. Source access: Official 2026 guideline directory and use terms; names/edition referenced, no copied, altered or paraphrased guideline definitions.
+
+[^v19-vietnam-review]: [Alcohol and Drinking Cultures in Vietnam: A Review (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725306/). Review authors of Vietnam alcohol ethnography/public-health literature. Checked 2026-10-28. Access: Open indexed sections describing cultural variability, rural distillation and risks; explicitly a review, not direct S’Tieng fieldwork.

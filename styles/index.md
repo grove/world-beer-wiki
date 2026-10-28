@@ -190,3 +190,8 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 
 - [Borde: an Ethiopian cereal-based ferment](borde-ethiopian-fermented-cereal.md) — Related Fermented-Grain Tradition; Ethiopian cereal beverage as represented by a three-location 2024 laboratory study and a 2024 review; no nationally uniform formulation.
 - [Shamita: roasted-barley fermented food-drink](shamita-ethiopian-fermented-barley.md) — Related Fermented-Grain Tradition; Shamita described by Bacha and colleagues in Addis Ababa-linked samples and a secondary Ethiopian review; no standardized national recipe.
+
+## Added in research edition 1.9
+
+- [Huangjiu: Chinese fermented cereal wine](huangjiu-chinese-cereal-wine.md) — Related Fermented-Grain Tradition.
+- [Rượu cần: Vietnamese jar-fermented drink](ruou-can-vietnamese-jar-ferment.md) — Related Fermented-Grain Tradition.

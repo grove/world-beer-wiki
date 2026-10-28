@@ -2,35 +2,58 @@
 type: Festival Reference
 title: Oktoberfest as an event rather than a beer recipe
 description: Munich's festival history, a dated organizer listing and the distinction from Märzen and Festbier.
-tags: [calendar, festival, Munich, history]
+tags:
+- calendar
+- festival
+- Munich
+- history
 status: draft
-generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:20:00Z'}
+generated:
+  by: world-beer-wiki/1.2
+  at: '2026-10-27T20:20:00Z'
 scope: The City of Munich's historical account and announced 2026 edition dates; not all events called Oktoberfest.
-regions: [Europe, Germany, Munich]
+regions:
+- Europe
+- Germany
+- Munich
 sources:
 - id: atlas-oktoberfest-history
   resource: https://www.oktoberfest.de/en/magazine/tradition/the-history-of-oktoberfest
   title: A journey through the history of the Wiesn
   author_label: City of Munich, Oktoberfest.de
   source_kind: official-organizer-history
-  access_scope: Historical sections on the 1810 wedding and race, nineteenth-century organization and beer halls.
+  access_scope: Historical sections on the 1810 wedding and race, nineteenth-century organization and beer
+    halls.
 - id: atlas-oktoberfest-2026
   resource: https://www.oktoberfest.de/en
   title: Official Munich Oktoberfest 2026 dates
   author_label: City of Munich, Oktoberfest.de
   source_kind: official-organizer-announcement
-  access_scope: Explicit 2026 date range only; cached countdown and future-tense promotional copy not treated as current status.
+  access_scope: Explicit 2026 date range only; cached countdown and future-tense promotional copy not treated
+    as current status.
 - id: atlas-festival-style-context
   resource: /styles/festbier.md
   title: Festbier profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Existing distinction between golden Festbier and amber Märzen; not independently re-researched here.
+  access_scope: Existing distinction between golden Festbier and amber Märzen; not independently re-researched
+    here.
+- id: v19-oktoberfest-beergarden
+  resource: https://www.oktoberfest.de/en/magazine/eat-and-drink/the-beer-gardens-at-the-wiesn-and-in-munich
+  title: The traditional beer gardens at the Oktoberfest and in Munich
+  author_label: Oktoberfest official city-linked festival information
+  source_kind: festival-institutional-account
+  access_scope: Publicly indexed modern explanation of underground cellars, brewing calendar and 1812 ordinance;
+    historical details treated as institutional interpretation.
 calendar:
   kind: recurring-event
   system: Gregorian
   timing: Annual Munich festival; exact dates belong to each organizer-announced edition.
-  months: [9, 10]
-  source_ids: [atlas-oktoberfest-history, atlas-oktoberfest-2026]
+  months:
+  - 9
+  - 10
+  source_ids:
+  - atlas-oktoberfest-history
+  - atlas-oktoberfest-2026
   editions:
   - year: 2026
     start: '2026-09-19'
@@ -41,8 +64,10 @@ calendar:
 source_checked_on: '2026-10-27'
 review_note: Research draft; event occurrence and every program item not independently verified.
 relations:
-- {relation: compare_with, target: styles/festbier}
-- {relation: compare_with, target: styles/marzen}
+- relation: compare_with
+  target: styles/festbier
+- relation: compare_with
+  target: styles/marzen
 ---
 
 # Oktoberfest as an event rather than a beer recipe
@@ -65,8 +90,15 @@ This is why calendar exports preserve the year and consultation date. An old pag
 
 The organizer's historical narrative is useful for the event's self-described history. Detailed disputes about invention, attendance or a specific brewer's recipe would require additional sources. No current booking, pricing or trademark advice is offered here.
 
+
+## Edition 1.9: newly sourced connections
+
+The official Oktoberfest information connects Munich's older beer-cellar landscape and shaded gardens with service customs that preceded the modern event's current presentation. This is a historical and material context, **not an annual calendar rule**: Munich beer gardens exist outside Oktoberfest, and a historical autumn-to-spring brewing restriction does not set the dates for future festival editions. See [Munich’s storage season](munich-cellars-and-summer-service.md) and [beer-garden legal context](../history/munich-beer-garden-1812.md). The event date and the drinking tradition should remain separately sourced.[^v19-oktoberfest-beergarden]
+
 ## Source notes
 
 [^atlas-oktoberfest-history]: [A journey through the history of the Wiesn](https://www.oktoberfest.de/en/magazine/tradition/the-history-of-oktoberfest), City of Munich. Historical account consulted 27 October 2026.
 [^atlas-oktoberfest-2026]: [Official Munich Oktoberfest 2026 dates](https://www.oktoberfest.de/en), City of Munich. Explicit date range consulted 27 October 2026; promotional countdown ignored.
 [^atlas-festival-style-context]: [Festbier](../styles/festbier.md), existing World Beer Wiki profile and its BJCP source. Used as corpus context, not newly verified festival history.
+
+[^v19-oktoberfest-beergarden]: [The traditional beer gardens at the Oktoberfest and in Munich](https://www.oktoberfest.de/en/magazine/eat-and-drink/the-beer-gardens-at-the-wiesn-and-in-munich). Oktoberfest official city-linked festival information. Checked 2026-10-28. Access: Publicly indexed modern explanation of underground cellars, brewing calendar and 1812 ordinance; historical details treated as institutional interpretation.
