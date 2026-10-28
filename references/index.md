@@ -48,3 +48,7 @@ Source records, independent publications and independent confirmations are diffe
 ## Research edition 1.14
 
 - [Edition 1.14 annotated source register](atlas-sources-1-14.md)
+
+## Research edition 1.15
+
+[Edition 1.15 source-use register](atlas-sources-1-15.md) documents 16 distinct external works, the actual new and revised pages that cite them, and their access limitations. A reused work does not become independent corroboration.

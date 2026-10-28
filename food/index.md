@@ -44,3 +44,7 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.14 — evidence-led additions
 
 - [Beer in Belgian cuisine: heritage evidence versus tasting rules](belgian-beer-and-cooking-as-heritage.md) — How UNESCO records cooking and pairing practices without assigning universal preferred food matches.
+
+## Edition 1.15 — research and evidence limits
+
+- [Alcohol descriptors on a beer menu](alcohol-descriptors-on-a-menu.md) — Jurisdiction, product labels and one bounded pairing experiment.

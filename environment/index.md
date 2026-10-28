@@ -51,3 +51,8 @@ New evidence-based references (all retain draft status):
 
 - [A closed-loop brewery claim is not a universal LCA result](brewery-closed-loop-case-vs-general-rule.md) — Interpretation of a 2025 case and model involving Tsingtao supply chains and operations.
 - [Hot trub and spent yeast: what reuse studies actually establish](hot-trub-and-spent-yeast-valorization.md) — A 2025 analytical sample study and a 2026 review, distinct from proven field deployment.
+
+## Edition 1.15 — research and evidence limits
+
+- [Brewery water ratio versus product footprint](brewery-water-ratio-versus-water-footprint.md) — Avoid mixing operational liters with supply-chain water accounting.
+- [Direct versus indirect brewing water](direct-and-indirect-water-in-brewing.md) — Accounting categories and geographic scope without fabricated numbers.
