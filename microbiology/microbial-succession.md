@@ -18,6 +18,21 @@ sources:
   title: Brewing bacteria overview in World Beer Wiki
   source_kind: existing-corpus-synthesis
   access_scope: Retained distinctions among organism detection, metabolites, sensory effect and inoculation method.
+- id: v18-borde
+  resource: https://www.sciencedirect.com/science/article/pii/S2666154324005350
+  title: 'Characterization of borde: microbial analysis, rheological profiling, and functional attributes
+    (2024)'
+  author_label: Borde study authors
+  source_kind: primary-laboratory-field-study
+  access_scope: Open publisher abstract and highlights; three Ethiopian sampling locations; biochemical
+    and in-vitro results are not human health effects.
+- id: v18-jaanr
+  resource: https://indianjournals.com/article/ijm-46-4-004
+  title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
+  author_label: S. Thapa and J. P. Tamang
+  source_kind: primary-research-abstract
+  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim;
+    original full paper not reviewed.
 source_checked_on: '2026-10-27'
 review_note: Research draft; no independent microbiologist review.
 relations:
@@ -51,7 +66,16 @@ For an LLM or researcher, a useful summary keeps the sample location, stage, met
 
 The Sesotho study sampled five locations and five stages; its authors state that within-brewery biological batch replicates were unavailable. It therefore cannot establish the frequency of every pattern across repeated batches or every maker.[^atlas-sesotho] See [the cultural context](../culture/sesotho-social-occasions.md) for a separate limit: microbial sampling is not a detailed ethnography of ceremonies.
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+Two further cases illustrate why fermentation **stage** and **sampling method** must accompany organism names. A 2024 Ethiopian borde study followed changing populations in three sampling locations and later dominance of yeasts and lactic-acid bacteria. A 2006 kodo ko jaanr study describes different trajectories for moulds, yeasts, lactic-acid bacteria and sugar conversion in finger millet. Neither dataset is a census of its entire geographical tradition.[^v18-borde][^v18-jaanr]
+
+Compare [borde ecology](borde-microbial-succession.md), [jaanr ecology](jaanr-microbial-succession.md), and the [Shamita time-course](shamita-overnight-fermentation.md). Culture detection, demonstrated metabolic function and drinker perception remain separate claims.
+
+## Source notes
 [^atlas-sesotho]: [Bacterial and Fungal Dynamics During the Fermentation Process of Sesotho, a Traditional Beer of Southern Africa](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01451/full), Cason and colleagues, 2020. Sampling design and abstract consulted 27 October 2026.
 [^atlas-bacteria-overview]: [Brewing bacteria overview in World Beer Wiki](../ingredients/brewing-bacteria.md), retained methodological distinctions and cited sources.
+
+[^v18-borde]: [Characterization of borde: microbial analysis, rheological profiling, and functional attributes (2024)](https://www.sciencedirect.com/science/article/pii/S2666154324005350). Borde study authors. Consulted 2026-10-28. Access: Open publisher abstract and highlights; three Ethiopian sampling locations; biochemical and in-vitro results are not human health effects.
+
+[^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.

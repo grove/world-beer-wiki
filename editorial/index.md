@@ -19,3 +19,7 @@
 ## Edition 1.7 research and verification
 
 [Research update](research-update-1-7.md) · [Validation report](validation-report-1-7.md) · [Independent-review queue](source-review-queue-1-7.md) · [Source register](../references/atlas-sources-1-7.md).
+
+## Edition 1.8 research and evidence checks
+
+[Research update](research-update-1-8.md) · [Validation report](validation-report-1-8.md) · [Source review queue](source-review-queue-1-8.md) · [Source register](../references/atlas-sources-1-8.md).

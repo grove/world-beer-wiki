@@ -35,6 +35,13 @@ sources:
   source_kind: primary-microbiology-open-text
   access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community
     differences; laboratory detections not proof of universal starter composition.'
+- id: v18-jaanr
+  resource: https://indianjournals.com/article/ijm-46-4-004
+  title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
+  author_label: S. Thapa and J. P. Tamang
+  source_kind: primary-research-abstract
+  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim;
+    original full paper not reviewed.
 aliases:
 - Tongba (serving tradition)
 - Toongbaa (vessel)
@@ -113,8 +120,15 @@ Eastern Himalayan starter research identifies marcha as a mixed, dried cereal-fl
 
 The [starter-cake process](../processes/starter-cakes-and-starch-conversion.md) and [local knowledge guide](../culture/marcha-and-himalayan-starter-knowledge.md) help keep preparation, microbiology and cultural practice distinct.
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+A 2006 study by Thapa and Tamang measured changing microbial populations and chemistry during **finger-millet** fermentation in the Darjeeling hills and Sikkim. Their abstract reports changing yeasts, lactic-acid bacteria and mould counts, and links saccharification to starch-active organisms such as *Saccharomycopsis fibuligera* and *Rhizopus*. A sampled trajectory is not a universal culture composition.[^v18-jaanr]
+
+The paper also describes laboratory reconstruction with selected strains. Its acceptability result cannot certify that one isolate mixture is the true traditional starter for every maker. The full paper was not independently reviewed for this edition, so its indexed abstract remains the claim limit.[^v18-jaanr]
+
+Read [microbial succession](../microbiology/jaanr-microbial-succession.md), [process changes](../processes/jaanr-finger-millet-fermentation.md), and [finger millet in two unrelated traditions](../ingredients/finger-millet-in-traditional-ferments.md).
+
+## Source notes
 [^kodo-research]: [Product characterization of kodo ko jaanr: fermented finger millet beverage of the Himalayas (2004)](https://www.academia.edu/101230405/Product_characterization_of_kodo_ko_jaanr_fermented_finger_millet_beverage_of_the_Himalayas). Saroj Thapa and Jyoti Prakash Tamang. Consulted 2026-10-27. Evidence used: paper text, especially introduction and process description; DOI 10.1016/j.fm.2004.01.004.
 
 [^trad-kodo-dynamics]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr, a traditional alcoholic beverage of the Darjeeling hills and Sikkim (2006)](https://indianjournals.com/article/ijm-46-4-004). Saroj Thapa and Jyoti Prakash Tamang. Consulted 2026-10-27. Evidence used: publisher abstract only; Indian Journal of Microbiology 46(4), 333–341.
@@ -126,3 +140,5 @@ The [starter-cake process](../processes/starter-cakes-and-starch-conversion.md) 
 These reading links extend navigation; the original source access notes above remain unchanged.
 
 [^v15-himalaya-2019]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full). Frontiers in Microbiology research team. Consulted 2026-10-27. Source access: Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community differences; laboratory detections not proof of universal starter composition.
+
+[^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.

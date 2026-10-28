@@ -19,3 +19,7 @@
 ## Edition 1.7 reading routes
 
 [Six question-led research trails](edition-1-7-reading-trails.md) join the current atlas subject index and reading routes. This new navigation is grounded in canonical source-linked articles.
+
+## Edition 1.8
+
+[Seven evidence-based reading trails](edition-1-8-reading-trails.md) · [Complete subject index](all-atlas-subjects.md) · [Research update](../editorial/research-update-1-8.md).

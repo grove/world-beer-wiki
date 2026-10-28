@@ -19,3 +19,7 @@ Source records, independent publications and independent confirmations are diffe
 ## Edition 1.7 research
 
 [Research source supplement 1.7](atlas-sources-1-7.md) documents 25 source records with actual access limits and article backlinks. Citation of a source abstract does not imply full text access.
+
+## Edition 1.8 source record
+
+[Source supplement 1.8](atlas-sources-1-8.md) lists named works, access limits and page backlinks. Citation reuse is not independent confirmation.

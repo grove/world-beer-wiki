@@ -54,6 +54,14 @@ sources:
   source_kind: microbiology-review-abstract
   access_scope: 'Publisher abstract: FLO genes and environmental influence on flocculation; no universal
     times or strain performance.'
+- id: v18-thiol-time
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13476479/
+  title: A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped
+    beers (2026)
+  author_label: Pilot-scale thiol and transcriptomic study authors
+  source_kind: primary-fermentation-research
+  access_scope: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not
+    a species-wide universal pattern.
 aliases:
 - Brewer's yeast
 regions:
@@ -112,8 +120,13 @@ Genomic ancestry, commercial strain descriptions and sensory categories answer d
 
 Research on yeast flocculation associates aggregation with functional FLO genes and process-dependent factors such as calcium, pH and handling. Strain choice affects cell removal and recovery as well as aroma. See [flocculation](../microbiology/yeast-flocculation.md).[^v14-floc]
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+A 2026 pilot-scale investigation compared **selected commercial ale and lager yeast strains**, measuring polyfunctional thiols and gene expression over fermentation and processing. It reported early production peaks under particular conditions, strain-dependent responses and changes after fermentation. Gene-expression results alone did not predict the finished thiol concentration.[^v18-thiol-time]
+
+This adds another example of why species labels cannot replace process details. Compare [thiol timing](../microbiology/thiol-release-and-yeast-timing.md), [ingredient precursors](polyfunctional-thiol-precursors.md), and [aroma clues](../sensory/polyfunctional-thiols-and-aroma.md).
+
+## Source notes
 [^ing-yeast-nutrition]: [Yeast Nutrition Fundamentals](https://connect.lallemandbrewing.com/wp-content/uploads/2022/11/Nutrition-Booklet-ENG-Digital-AB-Vickers.pdf). Lallemand Brewing / AB Vickers. Consulted 2026-10-27. Evidence used: PDF text on yeast metabolites, nutrients and sugar uptake; product dosing recommendations not adopted.
 [^ing-yeast-domestication]: [Domestication and Divergence of Saccharomyces cerevisiae Beer Yeasts (2016)](https://www.cell.com/article/S0092867416310716/pdf). Brigida Gallone and colleagues. Consulted 2026-10-27. Evidence used: article summary and research highlights; 157 industrial strains; DOI 10.1016/j.cell.2016.08.020.
 [^ing-lager-ancestry]: [Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast (2011)](https://pubmed.ncbi.nlm.nih.gov/21873232/). Diego Libkind and colleagues. Consulted 2026-10-27. Evidence used: indexed abstract; S. eubayanus ancestry of lager yeast; no single migration route or invention date inferred.
@@ -132,3 +145,5 @@ A review of **diastatic *S. cerevisiae*** discusses the *STA1* glucoamylase gene
 [^v13-saison-sta1]: [A re-evaluation of diastatic Saccharomyces cerevisiae strains (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7162825/). Authors, Applied Microbiology and Biotechnology. Consulted 2026-10-27. Evidence accessed: Open-access review of STA1 and diastatic strains; no assertion that all saison yeasts carry it.
 
 [^v14-floc]: [125th Anniversary Review: Yeast Flocculation and Sedimentation (2011)](https://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.2011.tb00495.x). M. Vidgren and collaborators. Consulted 2026-10-27. Access: Publisher abstract: FLO genes and environmental influence on flocculation; no universal times or strain performance.
+
+[^v18-thiol-time]: [A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped beers (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13476479/). Pilot-scale thiol and transcriptomic study authors. Consulted 2026-10-28. Access: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not a species-wide universal pattern.

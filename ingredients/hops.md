@@ -68,6 +68,21 @@ sources:
   source_kind: primary-microbiology-abstract
   access_scope: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance
     mechanisms, not a universal species trait.
+- id: v18-hop-thiol-survey
+  resource: https://brewingscience.de/index.php/brewingscience/article/view/106
+  title: Determination of Variety Dependent Thiol Impact Based on LC-MS/MS Analysis (2024)
+  author_label: Christina Schmidt, Laura Hoferer and Martin Biendl
+  source_kind: primary-analytical-research-abstract
+  access_scope: 'Open journal abstract: 250 samples, 97 hop varieties and harvest/location variation;
+    not stable cultivar sensory grades.'
+- id: v18-hop-terpenes
+  resource: https://www.sciencedirect.com/science/article/pii/S2772753X24000881
+  title: Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using
+    SPME-GC/MS (2024)
+  author_label: Food Chemistry Advances authors
+  source_kind: primary-model-fermentation-study
+  access_scope: 'Open publisher abstract: eleven terpenoid standards added individually to US-05 model
+    beer fermentation, not all finished beer recipes.'
 aliases:
 - Humulus lupulus
 regions:
@@ -134,8 +149,13 @@ Product descriptions are examples of current materials; they are not endorsement
 
 European field observations and modeling identify changes in hop-ripening timing, yield and alpha-acid content in specific growing regions. Those measurements do not predict the sensory profile of every beer. See [climate and hop crops](../environment/climate-and-hop-crops.md).[^v14-hops-climate]
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+A 2024 LC-MS/MS survey of **250 hop samples across 97 varieties** reported substantial free-thiol variability by cultivar, origin, crop year and harvest timing. The variety name alone cannot guarantee one quantitative aroma profile. A separate 2024 model-beer experiment showed that a commercial yeast changed the measured composition of individually supplied terpenoids during fermentation.[^v18-hop-thiol-survey][^v18-hop-terpenes]
+
+Follow [thiol precursors](polyfunctional-thiol-precursors.md), [terpenoid transformation](../sensory/hop-terpenoid-biotransformation.md), and [why aroma does not identify a hop](../stories/why-fruity-beer-does-not-identify-the-hop.md). Chemical measurements, perceived flavor and advertised descriptors ask different questions.
+
+## Source notes
 [^ing-hop-study-guide]: [Hops — Beer Exam Study Guide](https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/hops/). Peter Garofalo; updated by Scott Bickham. Consulted 2026-10-27. Evidence used: botanical identity and distinction between measured and perceived bitterness; historical and simplistic universal IBU claims not used.
 [^ing-yakima-handbook]: [A Brewer's Handbook: Survivable Compounds (2022)](https://tools.yakimachief.com/documents/Survivable-Compounds-Handbook-2022.pdf). Yakima Chief Hops. Consulted 2026-10-27. Evidence used: readable indexed glossary excerpts on alpha acids, additions and biotransformation; direct PDF text extraction was corrupted.
 [^ing-yakima-products]: [Introducing the Product Usage Matrix](https://www.yakimachief.eu/resources/product-usage-matrix). Yakima Chief Hops. Consulted 2026-10-27. Evidence used: product descriptions for whole cones, pellets, extracts and aroma products; commercial claims kept product-specific.
@@ -163,3 +183,7 @@ The [hop-resistant LAB reference](../microbiology/hop-resistant-lactic-acid-bact
 
 [^v16-hop-review]: [The two faces of microorganisms in traditional brewing and implications for no- and low-alcohol beer (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10910910/). Review authors. Consulted 2026-10-28. Access: Open review text on iso-alpha acid antimicrobial effects, resistance and selected yeasts; organism behavior depends on strain and conditions.
 [^v16-hop-primary]: [Characterization of a highly hop-resistant Lactobacillus brevis strain lacking hop transport (2006)](https://pubmed.ncbi.nlm.nih.gov/17021196/). Study authors. Consulted 2026-10-28. Access: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance mechanisms, not a universal species trait.
+
+[^v18-hop-thiol-survey]: [Determination of Variety Dependent Thiol Impact Based on LC-MS/MS Analysis (2024)](https://brewingscience.de/index.php/brewingscience/article/view/106). Christina Schmidt, Laura Hoferer and Martin Biendl. Consulted 2026-10-28. Access: Open journal abstract: 250 samples, 97 hop varieties and harvest/location variation; not stable cultivar sensory grades.
+
+[^v18-hop-terpenes]: [Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using SPME-GC/MS (2024)](https://www.sciencedirect.com/science/article/pii/S2772753X24000881). Food Chemistry Advances authors. Consulted 2026-10-28. Access: Open publisher abstract: eleven terpenoid standards added individually to US-05 model beer fermentation, not all finished beer recipes.

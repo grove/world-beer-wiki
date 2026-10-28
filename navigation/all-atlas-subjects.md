@@ -5,8 +5,8 @@ description: Automatically maintained index of all named subject articles in eve
 tags: [wiki-navigation, subjects]
 status: draft
 generated:
-  by: world-beer-wiki/1.7
-  at: '2026-10-28T05:45:00Z'
+  by: world-beer-wiki/1.8
+  at: '2026-10-28T07:55:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -24,10 +24,10 @@ in this list.
 Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 
 
-**428 canonical subject articles · 13 reference sections · research edition 1.6.**
+**457 canonical subject articles · 13 reference sections · research edition 1.8.**
 
 
-## Styles (171)
+## Styles (173)
 
 
 | Subject | Kind | Region / scope hint |
@@ -62,6 +62,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Bière de Garde](../styles/biere-de-garde.md) | Beer Style | Europe |
 | [Black IPA](../styles/black-ipa.md) | Beer Style | North America |
 | [Blonde Ale](../styles/blonde-ale.md) | Beer Style | North America |
+| [Borde: an Ethiopian cereal-based ferment](../styles/borde-ethiopian-fermented-cereal.md) | Related Fermented-Grain Tradition | Ethiopia, East Africa |
 | [Boza — Turkish cereal-fermentation tradition](../styles/boza.md) | Related Fermented-Grain Tradition | West Asia, Türkiye |
 | [Brett beer](../styles/brett-beer.md) | Specialty Beer Category | International |
 | [British Brown Ale](../styles/british-brown-ale.md) | Beer Style | Europe |
@@ -172,6 +173,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Scottish Light](../styles/scottish-light.md) | Beer Style | Europe |
 | [Sesotho beer](../styles/sesotho-beer.md) | Beer Tradition | Southern Africa, Lesotho |
 | [Session IPA](../styles/session-ipa.md) | Beer Style | North America, International |
+| [Shamita: roasted-barley fermented food-drink](../styles/shamita-ethiopian-fermented-barley.md) | Related Fermented-Grain Tradition | Ethiopia, East Africa |
 | [Shangshan fermented-grain beverage](../styles/shangshan-beer.md) | Archaeological Brewing Evidence | East Asia, China |
 | [Specialty wood-aged beer](../styles/specialty-wood-aged-beer.md) | Specialty Beer Category | International |
 | [Steinbier and stone-heated beer](../styles/steinbier.md) | Brewing Process Tradition | Europe, Northern Europe |
@@ -204,7 +206,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Zu — Hmar rice-based ferment in southern Assam](../styles/zu-hmar.md) | Local Fermented Beverage Profile | Assam, India |
 | [Zutho](../styles/zutho.md) | Beer Tradition | South Asia, India |
 
-## Ingredients (42)
+## Ingredients (46)
 
 
 | Subject | Kind | Region / scope hint |
@@ -212,7 +214,9 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Banana juice as a fermentation substrate](../ingredients/banana-juice.md) | Ingredient Reference | East Africa, Cross-regional |
 | [Barley and malt](../ingredients/barley-and-malt.md) | Ingredient Reference | Cross-regional |
 | [Barley beta-glucans and wort texture](../ingredients/barley-beta-glucans.md) | Ingredients Reference | — |
+| [Barley proteins that help make beer foam](../ingredients/beer-foam-active-proteins.md) | Ingredient Chemistry Reference | Cross-regional |
 | [Bog myrtle (sweet gale) in herbal beer](../ingredients/bog-myrtle.md) | Ingredient Reference | Europe, Northern Europe |
+| [Bound thiol precursors in malt and hops](../ingredients/polyfunctional-thiol-precursors.md) | Ingredient Chemistry Reference | Cross-regional |
 | [Brewers’ spent grain as a resource](../ingredients/brewers-spent-grain.md) | Ingredients Reference | — |
 | [Brewing bacteria](../ingredients/brewing-bacteria.md) | Ingredient Reference | Cross-regional |
 | [Brewing yeast](../ingredients/brewing-yeast.md) | Ingredient Reference | Cross-regional |
@@ -221,6 +225,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Citrus peel and citrus-like aroma](../ingredients/citrus-peel.md) | Ingredient Reference | — |
 | [Coriander seed in spiced beer](../ingredients/coriander.md) | Ingredient Reference | — |
 | [Ferulic acid in wort and phenolic brewing aromas](../ingredients/ferulic-acid-in-wort.md) | Ingredient Chemistry Reference | Cross-regional |
+| [Finger millet in mbege and kodo ko jaanr](../ingredients/finger-millet-in-traditional-ferments.md) | Ingredient Reference | Tanzania, India |
 | [Fruit](../ingredients/fruit.md) | Ingredient Reference | Cross-regional |
 | [Gesho and moringa: experiment versus local tradition](../ingredients/gesho-versus-moringa-in-a-tella-study.md) | Ingredient Reference | Ethiopia |
 | [Gesho in tella](../ingredients/gesho.md) | Ingredient Reference | — |
@@ -237,6 +242,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Maize](../ingredients/maize.md) | Ingredient Reference | Cross-regional |
 | [Malt starch, gelatinization and enzyme action](../ingredients/malt-starch-structure.md) | Ingredients Reference | — |
 | [Mould and mixed starters](../ingredients/mould-and-mixed-starters.md) | Ingredient Reference | Cross-regional |
+| [Msesewe bark in one mbege field study](../ingredients/msesewe-stem-bark-in-mbege.md) | Botanical Ingredient Case Study | Tanzania |
 | [Oats](../ingredients/oats.md) | Ingredient Reference | Cross-regional |
 | [Pale, kilned and roasted malt: the heat spectrum](../ingredients/barley-malt-heat-spectrum.md) | Ingredient Processing Reference | Cross-regional |
 | [Rhynchosia roots as a starch-conversion ingredient in munkoyo](../ingredients/rhynchosia-root-for-munkoyo.md) | Ingredient Reference | Zambia, Southern Africa |
@@ -252,13 +258,14 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Wheat](../ingredients/wheat.md) | Ingredient Reference | Cross-regional |
 | [Yarrow and the uncertainty of historical herb blends](../ingredients/yarrow.md) | Ingredient Reference | Europe |
 
-## Categories (25)
+## Categories (28)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
 | [A sampled ferment is not a population of brewers](../categories/study-sample-vs-living-tradition.md) | Research Method Category Guide | Cross-regional |
 | [Banana beer, fruit fermentation and the limits of a name](../categories/banana-beer-boundaries.md) | Comparative Category Guide | East Africa, Cross-regional |
+| [Banana, millet and cassava: similar aims, different routes](../categories/banana-millet-and-cassava-fermentation-routes.md) | Beer Category Guide | Tanzania, Peru |
 | [Beer as intangible cultural heritage, not just a style](../categories/beer-as-intangible-heritage.md) | Category Guide | Europe, East Asia |
 | [Beer, agriculture and environmental trade-offs](../categories/beer-environment-and-agriculture.md) | Categories Reference | — |
 | [Beer, food and sensory context](../categories/beer-food-and-sensory-context.md) | Categories Reference | — |
@@ -266,6 +273,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Belgian families and farmhouse comparisons](../categories/belgian-and-farmhouse-ales.md) | Beer Category Guide | — |
 | [Beyond ale versus lager: fermentation ecosystems](../categories/fermentation-beyond-yeast-alone.md) | Category Guide | Cross-regional |
 | [British and Irish ales, cask and dispense](../categories/british-and-irish-ales.md) | Beer Category Guide | — |
+| [Foam, aging and aroma: interpreting beer sensory evidence](../categories/beer-foam-aging-and-aroma-misconceptions.md) | Beer Category Guide | Cross-regional |
 | [Gender and brewing: what different sources actually show](../categories/gender-and-brewing-what-the-sources-show.md) | Cross-Cultural Research Guide | England, Ghana |
 | [Herbal beers, gruit and contemporary botanical revival](../categories/herbal-beer-and-gruit.md) | Category Guide | Europe, Cross-regional |
 | [Historical evidence, living traditions and revivals](../categories/historical-and-revival-beers.md) | Beer Category Guide | — |
@@ -282,8 +290,9 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Traditional and Indigenous brewing](../categories/traditional-and-indigenous-beers.md) | Beer Category Guide | — |
 | [Two current judging frameworks, not one world beer taxonomy](../categories/bjcp-2021-versus-ba-2026.md) | Comparative Category Guide | Cross-regional |
 | [Wheat and rye beers](../categories/wheat-and-rye-beers.md) | Beer Category Guide | — |
+| [When a fermented cereal is food as well as a drink](../categories/fermented-cereal-beverages-as-food.md) | Beer Category Guide | Ethiopia, Cross-regional |
 
-## Culture (34)
+## Culture (38)
 
 
 | Subject | Kind | Region / scope hint |
@@ -291,6 +300,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [American brewing voices preserved in oral history](../culture/american-beer-oral-histories.md) | Cultural Case Study | United States |
 | [Beer culture in Belgium as living heritage](../culture/belgian-beer-as-living-heritage.md) | Cultural Heritage Case | Europe, Belgium |
 | [Black Is Beautiful: an international brewing collaboration](../culture/black-is-beautiful-brewing-collaboration.md) | Cultural Case Study | United States |
+| [Chagga-speaking ritual, millet and beer in Rombo](../culture/chagga-ritual-beer-in-rombo.md) | Cultural and Anthropological Research Case | Tanzania, Kilimanjaro |
 | [Chang in Nubri: work, ceremony and exchange](../culture/nubri-chang-and-social-life.md) | Ethnographic Cultural Case | South Asia, Nepal |
 | [Chicha and labor reciprocity on Peru’s north coast](../culture/chicha-and-labor-reciprocity.md) | Culture Reference | — |
 | [Chicheras, household production and sale days in Piura](../culture/piura-chicheras-and-household-sales.md) | Situated Cultural Economy | Peru, Piura |
@@ -304,6 +314,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Manyika brewing vessels and mhamba](../culture/manyika-clay-pots-and-mhamba.md) | Culture Reference | — |
 | [Mapuche fermented drinks and the voices in colonial sources](../culture/mapuche-fermented-drinks-and-source-voices.md) | Cultural Research Case | Chile, South America |
 | [Marcha and named Himalayan starter traditions](../culture/marcha-and-himalayan-starter-knowledge.md) | Cultural Case Study | Eastern Himalayas; Nepal, India, Bhutan |
+| [Mbege and the knowledge of two preparations](../culture/mbege-as-regional-knowledge.md) | Cultural Brewing Practice | Tanzania, Kilimanjaro |
 | [Norwegian juleøl, shared bowls and visiting](../culture/norwegian-juleol-and-hospitality.md) | Historical Cultural Practice | Northern Europe, Norway |
 | [Oxford alewives: gender, trade and town regulation](../culture/alewives-and-oxford-town-life.md) | Cultural Case Study | Oxford, England |
 | [Pito and women’s brewing enterprises in Wa](../culture/pito-enterprises-in-wa.md) | Culture Reference | — |
@@ -312,6 +323,8 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Sahti in a Finnish UNESCO geopark landscape](../culture/sahti-and-local-finnish-identity.md) | Culture Reference | — |
 | [Sake-making, koji and intangible heritage in Japan](../culture/japanese-koji-sake-heritage-and-apprenticeship.md) | Living Heritage Case | Japan |
 | [Sesotho beer between everyday commerce and gatherings](../culture/sesotho-social-occasions.md) | Cultural Practice | Southern Africa, Lesotho |
+| [Shamita between beverage and meal](../culture/shamita-as-food-drink.md) | Cultural Food and Fermentation Reference | Ethiopia |
+| [Shawi masato: daily life, photography and water evidence](../culture/shawi-masato-and-water.md) | Cultural and Community Research Case | Peru, Amazonia |
 | [Sorghum beer: makers, markets and grain choices](../culture/sorghum-beer-markets-and-makers.md) | Cultural Economy | Africa, West Africa |
 | [Tella, hospitality and household brewing in Ethiopian research](../culture/tella-hospitality-and-household-economy.md) | Cultural Brewing Context | Ethiopia |
 | [Tesgüino, invitation and reciprocal work in Norogachi](../culture/tesguino-and-reciprocity.md) | Cultural Practice | North America, Mexico |
@@ -343,7 +356,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Sahti occasions: weddings and funerals, not a fixed festival date](../calendar/sahti-occasions-without-a-fixed-date.md) | Occasion and Calendar Interpretation | Finland |
 | [Toer de Geuze and collaborative lambic culture](../calendar/toer-de-geuze.md) | Festival Reference | Europe, Belgium |
 
-## Microbiology (32)
+## Microbiology (36)
 
 
 | Subject | Kind | Region / scope hint |
@@ -351,12 +364,14 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Acetic acid bacteria in a brewing ecosystem](../microbiology/acetic-acid-bacteria.md) | Microorganism Group Reference | — |
 | [Aspergillus oryzae and rice koji](../microbiology/aspergillus-oryzae-and-koji.md) | Microorganism and Starter Reference | — |
 | [Bacterial diversity in Eastern Himalayan dry starters](../microbiology/himalayan-dry-starter-diversity.md) | Microbiology Reference | Eastern Himalayas |
+| [Borde: organisms changing during one sampled fermentation](../microbiology/borde-microbial-succession.md) | Microbial Ecology Research Case | Ethiopia |
 | [Brettanomyces and beer character](../microbiology/brettanomyces.md) | Microorganism Reference | — |
 | [Bánh men: microbial communities in Vietnamese starter cakes](../microbiology/vietnamese-banh-men-communities.md) | Microbiology Reference | Vietnam |
 | [Diacetyl: formation and removal during fermentation](../microbiology/diacetyl-formation-and-reduction.md) | Microbiology Reference | — |
 | [Diastatic Saccharomyces and the STA1 question](../microbiology/diastatic-saccharomyces.md) | Microorganism Mechanism | Cross-regional |
 | [Farmhouse yeast is not always a single strain](../microbiology/farmhouse-yeast-diversity.md) | Microbial Research Synthesis | Europe, Norway |
 | [HorA, HorC and the limits of hop-resistance markers](../microbiology/hora-horc-and-hop-resistance-markers.md) | Microbial Genomics and Mechanism | Cross-regional |
+| [Jaanr microbial succession: molds, yeasts and LAB over time](../microbiology/jaanr-microbial-succession.md) | Microbial Ecology Research Case | India, Sikkim |
 | [Kveik population history: new genomic evidence in 2026](../microbiology/kveik-population-history-2026.md) | Microbial Population Genetics Reference | Western Norway, Northern Europe |
 | [Lachancea and acid-producing brewing yeast](../microbiology/lachancea.md) | Microorganism Reference | — |
 | [Lactiplantibacillus plantarum in selected souring cultures](../microbiology/lactiplantibacillus-plantarum.md) | Microorganism Reference | — |
@@ -372,6 +387,8 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Reading the 2024 southern Assam rice-ferment microbiome survey](../microbiology/assam-rice-ferment-sampling.md) | Microbial Study Interpretation | Assam, India |
 | [Saccharomyces cerevisiae in brewing](../microbiology/saccharomyces-cerevisiae.md) | Microorganism Reference | — |
 | [Saccharomycopsis fibuligera: a starch-active yeast](../microbiology/saccharomycopsis-fibuligera-in-starters.md) | Microbiology Reference | East and South Asia |
+| [Shamita fermentation in Bacha, Mehari and Ashenafi’s study](../microbiology/shamita-overnight-fermentation.md) | Microbial Ecology Research Case | Ethiopia, Addis Ababa |
+| [Thiol release is time-dependent and strain-dependent](../microbiology/thiol-release-and-yeast-timing.md) | Fermentation Microbiology Research Case | Cross-regional |
 | [Umqombothi: amplicons, predicted functions and actual fermentation](../microbiology/umqombothi-amplicons-and-predicted-function.md) | Microbial Study Interpretation | South Africa |
 | [What 2026 genomics revealed about Norwegian kveik](../microbiology/kveik-genomic-research-2026.md) | Microbial Research Synthesis | Northern Europe, Norway |
 | [What a bubod and tapuy isolate study can establish](../microbiology/bubod-tapuy-isolate-study.md) | Primary Microbial Research Case | Philippines |
@@ -381,7 +398,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Yeast activity during bottle refermentation](../microbiology/refermentation-and-package-yeast.md) | Microbiology Reference | — |
 | [Yeast flocculation and sedimentation](../microbiology/yeast-flocculation.md) | Microbiology Reference | — |
 
-## Processes (24)
+## Processes (28)
 
 
 | Subject | Kind | Region / scope hint |
@@ -398,14 +415,18 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Dry starter cakes and the separation of fermentation tasks](../processes/starter-cakes-and-starch-conversion.md) | Brewing Process Reference | Asia |
 | [Gravity dispense and the changing architecture of pubs](../processes/cellar-and-gravity-dispense.md) | Serving Process Reference | United Kingdom |
 | [Hop alpha-acid isomerization during wort heating](../processes/alpha-acid-isomerization.md) | Processes Reference | — |
+| [How beer foam forms and why it falls](../processes/foam-formation-and-retention.md) | Brewing and Serving Process Reference | Cross-regional |
 | [Kettle souring and other routes to clean acidity](../processes/kettle-souring.md) | Brewing Process Reference | — |
+| [Kodo ko jaanr: starch conversion and fermentation as a sequence](../processes/jaanr-finger-millet-fermentation.md) | Traditional Fermentation Process Case | India, Sikkim |
 | [Laboratory isolates versus maintained brewing communities](../processes/isolates-and-living-starter-communities.md) | Brewing Process Reference | Cross-regional |
 | [Limiting alcohol through yeast sugar utilization](../processes/low-alcohol-by-limited-fermentation.md) | Brewing Process Reference | Cross-regional |
 | [Malting, kilning and roasting as distinct operations](../processes/malting-and-kilning.md) | Brewing Process Reference | Cross-regional |
 | [Munkoyo root-based saccharification versus malting](../processes/munkoyo-root-starch-conversion.md) | Brewing Process Reference | Zambia, Cross-regional |
+| [Nyalu and mso: two-stream fermentation in mbege](../processes/mbege-nyalu-and-mso.md) | Brewing Process Reference | Tanzania, Kilimanjaro |
 | [Packaging, oxygen, light and beer aging](../processes/packaging-and-aging.md) | Processes Reference | — |
 | [Parallel starch conversion and alcoholic fermentation](../processes/parallel-starch-and-alcohol-fermentation.md) | Brewing Biochemistry Process | Cross-regional |
 | [Raw ale and unboiled wort](../processes/raw-ale.md) | Brewing Process Reference | — |
+| [Shawi masato preparation: cassava, mash and service](../processes/shawi-masato-preparation.md) | Traditional Fermentation Process Case | Peru, Amazonia |
 | [Spontaneous inoculation and managed fermentation](../processes/spontaneous-fermentation.md) | Brewing Process Reference | — |
 | [Starch conversion across brewing traditions](../processes/starch-conversion.md) | Brewing Process Reference | — |
 | [When archaeological brewing experiments help—and when they do not](../processes/archaeological-brewing-reconstruction.md) | Brewing Process Reference | Andes, Peru |
@@ -429,13 +450,14 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Wari brewing vats and kero drinking cups](../objects/wari-brewing-vats-and-kero-cups.md) | Material Culture Reference | Peru |
 | [Yeast rings, logs and storage containers](../objects/yeast-storage-tools.md) | Brewing Object Reference | — |
 
-## Stories (18)
+## Stories (21)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
 | [A bacterium can be welcome in one beer and spoil another](../stories/when-a-bacterium-is-welcome-and-when-it-is-not.md) | Evidence-Based Beer Story | Cross-regional |
 | [A family yeast is not one genome](../stories/the-family-culture-is-not-a-single-genome.md) | Evidence-Based Beer Story | Norway, Northern Europe |
+| [A fruity beer does not identify its hop](../stories/why-fruity-beer-does-not-identify-the-hop.md) | Evidence-Based Brewing Story | Cross-regional |
 | [A starter cake is not a strain catalogue](../stories/a-cake-is-a-community-not-a-strain.md) | Research Story | Cross-regional |
 | [Can a changing climate change your beer?](../stories/will-climate-change-the-pint.md) | Stories Reference | — |
 | [Did brewing come before farming? A question from Raqefet Cave](../stories/was-beer-before-farming.md) | Evidence-based Archaeology Story | Near East |
@@ -444,6 +466,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [One beer, two judging books](../stories/one-title-two-guidelines.md) | Research Story | Cross-regional |
 | [One grain, many worlds](../stories/one-grain-many-worlds.md) | Comparative Reading Route | — |
 | [The banana that was never added](../stories/where-did-the-banana-aroma-come-from.md) | Evidence-Based Beer Story | Cross-regional, Uganda |
+| [The beer that begins as two different porridges](../stories/the-beer-with-two-porridges.md) | Evidence-Based Beer Story | Tanzania |
 | [The brewery once mistaken for a kiln](../stories/the-brewery-once-called-a-kiln.md) | Evidence-Based Beer Story | Egypt |
 | [The brewery they closed with fire](../stories/the-brewery-they-closed-with-fire.md) | Research Story | Peru |
 | [The culture that contained more than thirty yeasts](../stories/a-starter-is-more-than-a-strain.md) | Evidence-based Science Story | Europe, Northern Europe |
@@ -452,12 +475,14 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [The yeast that made sugar before another made alcohol](../stories/the-yeast-that-did-not-make-the-sugar.md) | Evidence-Based Beer Story | Philippines |
 | [Was the Reinheitsgebot a 500-year-old universal beer recipe?](../stories/beer-purity-myth.md) | Evidence-based Beer Story | Europe, Germany |
 | [What ancient beer cannot tell us](../stories/what-ancient-beer-cannot-tell-us.md) | Archaeological Reasoning Story | — |
+| [Why a fermented drink is not a water-safety certificate](../stories/fermentation-is-not-a-water-treatment.md) | Evidence-Based Research Story | Peru, Amazonia |
 
-## Sensory (16)
+## Sensory (21)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
+| [Beer aging and aldehydes: several pathways, not one clock](../sensory/beer-staling-and-aldehydes.md) | Sensory and Storage Research Guide | Cross-regional |
 | [Beer haze: intentional appearance or instability?](../sensory/beer-haze-and-clarity.md) | Sensory Reference | — |
 | [Bitterness: a measured stimulus is not a universal taste](../sensory/bitterness-is-not-one-number.md) | Sensory Research Guide | Cross-regional |
 | [Buttery diacetyl and beer maturation](../sensory/diacetyl-and-maturation.md) | Sensory Reference | — |
@@ -465,14 +490,18 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Diacetyl and other VDKs are moving fermentation targets](../sensory/vicinal-diketones-as-moving-target.md) | Sensory Chemistry Explanation | Cross-regional |
 | [DMS and cooked-cereal aroma: precursor, process and perception](../sensory/dms-and-cooked-cereal.md) | Sensory Reference | Cross-regional |
 | [Flavor detective — aroma is not an ingredient](../sensory/aroma-is-not-an-ingredient.md) | Sensory Reasoning Guide | — |
+| [Heating can alter LTP1 and foam behavior](../sensory/heat-ltp1-and-beer-foam.md) | Sensory Chemistry Research Case | Cross-regional |
 | [Hop polyphenols, lingering bitterness and dryness](../sensory/hop-polyphenols-and-astringency.md) | Sensory Research Guide | Cross-regional |
+| [Hop terpenoid biotransformation in a model beer](../sensory/hop-terpenoid-biotransformation.md) | Sensory Chemistry Research Case | Cross-regional |
 | [Nitrogenated beer, foam and visual perception](../sensory/nitrogen-and-foam.md) | Sensory Reference | — |
+| [Protein Z and beer foam: more than one barley molecule](../sensory/protein-z-and-foam.md) | Sensory Chemistry Reference | Cross-regional |
 | [Smoke, roast, baked mash and wood are different clues](../sensory/smoke-roast-and-wood.md) | Sensory Comparison Guide | — |
 | [Two routes to banana aroma: fruit and fermentation esters](../sensory/banana-fruit-vs-yeast-esters.md) | Sensory Comparison Reference | Cross-regional, Uganda |
 | [Volatile thiols: tropical notes without a tropical fruit addition](../sensory/thiols-and-fruit-aromas.md) | Sensory Reference | Cross-regional |
 | [Why a scientific sample is not a universal tasting profile](../sensory/research-samples-are-not-a-style-taste.md) | Sensory Research Guide | Cross-regional |
 | [Why beer can become lightstruck](../sensory/lightstruck-chemistry.md) | Sensory Reference | — |
 | [Why beer flavor changes during storage](../sensory/oxidative-aging.md) | Sensory Reference | — |
+| [Why thiol aromas are not simply hop-variety labels](../sensory/polyfunctional-thiols-and-aroma.md) | Sensory Chemistry Reference | Cross-regional |
 | [Yeast esters and phenols: why fruit and spice can appear without additions](../sensory/yeast-esters-and-phenols.md) | Sensory Reference | Cross-regional |
 
 ## History (24)

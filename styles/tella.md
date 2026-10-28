@@ -59,6 +59,14 @@ sources:
   source_kind: open-review-article
   access_scope: Open review on Ethiopian tella and household hospitality; process and cultural variation
     remain.
+- id: v18-ethiopian-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/
+  title: A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic
+    beverages in Ethiopia (2024)
+  author_label: Tolcha Techane Alemu
+  source_kind: scientific-review
+  access_scope: Indexed open review excerpts synthesizing studies; used for category and food-context distinctions,
+    not a new field observation.
 aliases:
 - ጠላ
 regions:
@@ -143,8 +151,13 @@ A 2025 open review of tella preparation discusses the drink as hospitality, an a
 
 The [cultural context article](../culture/tella-hospitality-and-household-economy.md) connects those claims with [gesho](../ingredients/gesho.md) and other cereal-brewing economies. The review's regional variation and source type remain explicit.
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+A 2024 review compares several **named Ethiopian** cereal ferments: tella, borde and shamita differ in grain preparation, texture, context and fermentation, even when reviewers group them together as locally consumed alcoholic or low-alcohol beverages. It would be incorrect to reduce borde and shamita to recipe variants of tella or apply a universal style definition to all three.[^v18-ethiopian-review]
+
+See [Borde](borde-ethiopian-fermented-cereal.md), [Shamita](shamita-ethiopian-fermented-barley.md), and [food-drink classification](../categories/fermented-cereal-beverages-as-food.md). The review synthesizes prior studies; it is not a new direct observation of every Ethiopian household.
+
+## Source notes
 [^tella-research]: [Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627356/). Birhanu, Teferra and Lema. Consulted 2026-10-27. Evidence used: full text; traditional baseline distinguished from experimental substitutions.
 
 [^trad-tella-jimma]: [Studies on indigenous preparation practices, effects of ingredients, fermentation time and pasteurization on quality and shelf stability of tella (2016)](https://repository.ju.edu.et/handle/123456789/2072?show=full). Shilimat Tolossa. Consulted 2026-10-27. Evidence used: indexed Jimma University thesis abstract and metadata; full thesis not inspected.
@@ -162,3 +175,5 @@ These reading links extend navigation; the original source access notes above re
 [^v15-ethiopia-moringa]: [Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala (2021)](https://pubmed.ncbi.nlm.nih.gov/34845435/). Ajanaw Maru Birhanu, Tadesse Fikre Teferra and Tesfu Bekele Lema. Consulted 2026-10-27. Source access: PubMed indexed metadata and research summary: experimental ingredient substitution; not evidence of historic customary practice.
 
 [^v17-tella-2025]: [Preparation method and physicochemical characteristics of Tella (2025)](https://link.springer.com/article/10.1186/s42779-025-00287-1). Rabira Lemessa Gudeta and colleagues. Consulted 2026-10-28. Access: Open review on Ethiopian tella and household hospitality; process and cultural variation remain.
+
+[^v18-ethiopian-review]: [A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic beverages in Ethiopia (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/). Tolcha Techane Alemu. Consulted 2026-10-28. Access: Indexed open review excerpts synthesizing studies; used for category and food-context distinctions, not a new field observation.

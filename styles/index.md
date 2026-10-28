@@ -1,6 +1,6 @@
 # All beer and tradition profiles
 
-**166 canonical profiles.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
+**173 canonical beer/tradition and related-ferment profiles in edition 1.8.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
 
 [Home](../index.md) · [Category guides](../categories/index.md) · [Ingredients](../ingredients/index.md) · [Names](../navigation/all-names.md) · [Regions](../navigation/by-region.md)
 
@@ -185,3 +185,8 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 ## Research edition 1.7 — situated evidence and comparative practice
 
 - [Tapuy: a Philippine rice-fermented beverage](tapuy-philippine-rice-ferment.md) — A Philippine grain ferment studied through its rice starter bubod; related comparison rather than a universal beer style.
+
+## New in research edition 1.8 — 2 articles
+
+- [Borde: an Ethiopian cereal-based ferment](borde-ethiopian-fermented-cereal.md) — Related Fermented-Grain Tradition; Ethiopian cereal beverage as represented by a three-location 2024 laboratory study and a 2024 review; no nationally uniform formulation.
+- [Shamita: roasted-barley fermented food-drink](shamita-ethiopian-fermented-barley.md) — Related Fermented-Grain Tradition; Shamita described by Bacha and colleagues in Addis Ababa-linked samples and a secondary Ethiopian review; no standardized national recipe.

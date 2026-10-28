@@ -58,3 +58,10 @@ New evidence-based references (all retain draft status):
 - [Sake-making, koji and intangible heritage in Japan](japanese-koji-sake-heritage-and-apprenticeship.md) — The 2024 UNESCO inscription describes transmitted rice-sake brewing skills, ceremony and collaborative craft, not a global beer style.
 - [Women brewing pito: an Upper West Ghana survey](ghana-pito-women-enterprise-survey.md) — Business constraints reported by a purposive study of women pito brewers across eight communities in Ghana’s Upper West Region.
 - [Tella, hospitality and household brewing in Ethiopian research](tella-hospitality-and-household-economy.md) — A 2025 review situates Ethiopian tella as hospitality, social occasion and household economic activity alongside a varied grain-and-gesho process.
+
+## New in research edition 1.8 — 4 articles
+
+- [Chagga-speaking ritual, millet and beer in Rombo](chagga-ritual-beer-in-rombo.md) — Cultural and Anthropological Research Case; Knut Christian Myhre’s abstracted 2015 anthropological analysis of Chagga-speaking people of Rombo District, Tanzania; detailed ritual choreography not verified.
+- [Mbege and the knowledge of two preparations](mbege-as-regional-knowledge.md) — Cultural Brewing Practice; The observed northeastern Tanzania process recorded by Kubo and Kilasara in 2016, not the full regional economy or every Chagga practice.
+- [Shamita between beverage and meal](shamita-as-food-drink.md) — Cultural Food and Fermentation Reference; Ethiopian review and Addis Ababa-linked microbiology research on shamita as a thick fermented cereal food-drink.
+- [Shawi masato: daily life, photography and water evidence](shawi-masato-and-water.md) — Cultural and Community Research Case; One participating Shawi community in Loreto, Peru, with 2015 samples and a 2017 participatory photography project; not all Amazon communities.

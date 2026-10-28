@@ -33,6 +33,20 @@ sources:
   source_kind: primary-research
   access_scope: retrieved publisher abstract, methods and ingredient table; laboratory beers with added
     enzymes, not a community survey
+- id: v18-mbege
+  resource: https://www.mdpi.com/2306-5710/2/3/21
+  title: Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)
+  author_label: Ryosuke Kubo and Method Kilasara
+  source_kind: primary-field-observation
+  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence
+    and experimental bark comparison; not a region-wide census.
+- id: v18-jaanr
+  resource: https://indianjournals.com/article/ijm-46-4-004
+  title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
+  author_label: S. Thapa and J. P. Tamang
+  source_kind: primary-research-abstract
+  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim;
+    original full paper not reviewed.
 aliases: []
 regions:
 - Cross-regional
@@ -88,8 +102,17 @@ The experiments cited here address brewing behaviour, with some work motivated b
 
 [Ingredient directory](index.md) · [All beer entries](../styles/index.md) · [Research method](../editorial/methodology.md)
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+Two studies identify **finger millet** (*Eleusine coracana*) in technologically distinct ferments. In a Tanzanian mbege field account, germinated grain formed the sweet mso preparation later mixed with fermented banana. In a Darjeeling/Sikkim kodo ko jaanr study, moulds, yeasts and lactic-acid bacteria changed over the observed finger-millet fermentation. Shared cereal identity does not establish matching starters or historical transmission.[^v18-mbege][^v18-jaanr]
+
+Follow [finger millet as an ingredient](finger-millet-in-traditional-ferments.md), [Mbege](../styles/mbege.md), and [Jaanr research](../microbiology/jaanr-microbial-succession.md).
+
+## Source notes
 [^ing-sorghum-millet-malting]: [Effect of germination temperatures on proteolysis of sorghum and millet during malting and mashing (2012)](https://pubmed.ncbi.nlm.nih.gov/22440185/). Y. Chiba and colleagues. Consulted 2026-10-27. Evidence used: indexed abstract; DOI 10.1021/jf300965b; findings limited to studied malting conditions.
 [^ing-millet-trial]: [Investigation of Millet-Based Beer Fermentation and the Volatile Compounds Formed (2026)](https://www.mdpi.com/2306-5710/12/3/37). Katherine A. Thompson-Witrick and colleagues. Consulted 2026-10-27. Evidence used: retrieved publisher abstract, methods, limitations and conclusions; laboratory study, no universal sensory claims adopted.
 [^ing-sorghum-trial]: [Brewing with Unmalted and Malted Sorghum: Influence on Beer Quality (2023)](https://www.mdpi.com/2311-5637/9/5/490). Marius Eduard Ciocan and colleagues. Consulted 2026-10-27. Evidence used: retrieved publisher abstract, methods and ingredient table; laboratory beers with added enzymes, not a community survey.
+
+[^v18-mbege]: [Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)](https://www.mdpi.com/2306-5710/2/3/21). Ryosuke Kubo and Method Kilasara. Consulted 2026-10-28. Access: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence and experimental bark comparison; not a region-wide census.
+
+[^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.

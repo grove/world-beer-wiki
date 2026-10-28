@@ -1,6 +1,6 @@
 # Category guides
 
-These **17 educational guides** explain how styles, ingredients, processes, places and periods overlap. They are reading maps, not 17 newly standardized beer styles. Begin with [How beer categories work](beer-classification.md).
+These **28 educational guides** explain how styles, ingredients, processes, places and periods overlap. They are reading maps, not 17 newly standardized beer styles. Begin with [How beer categories work](beer-classification.md).
 
 | Guide | What it explains |
 |---|---|
@@ -49,3 +49,9 @@ New evidence-based references (all retain draft status):
 
 - [Gender and brewing: what different sources actually show](gender-and-brewing-what-the-sources-show.md) — Compare medieval English archival histories, Ghanaian brewery enterprises and contemporary Peruvian chicherías without a global takeover myth.
 - [Koji, bubod, sake and the limits of beer categories](koji-sake-and-rice-ferment-boundaries.md) — How shared biochemical functions do not make Japanese sake, Philippine tapuy and conventional malt beer interchangeable categories.
+
+## New in research edition 1.8 — 3 articles
+
+- [Banana, millet and cassava: similar aims, different routes](banana-millet-and-cassava-fermentation-routes.md) — Beer Category Guide; Comparison of observed Tanzanian and Peruvian systems, not a historical diffusion map or universal style family.
+- [Foam, aging and aroma: interpreting beer sensory evidence](beer-foam-aging-and-aroma-misconceptions.md) — Beer Category Guide; Cross-cutting guide to distinct laboratory studies of proteins, oxidative aldehydes and hop/yeast aromatic molecules.
+- [When a fermented cereal is food as well as a drink](fermented-cereal-beverages-as-food.md) — Beer Category Guide; Comparative guide grounded in published Ethiopian borde/shamita research, with no automatic claim of nutritional or microbial safety.

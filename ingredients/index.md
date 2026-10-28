@@ -1,6 +1,6 @@
 # Ingredients and brewing cultures
 
-These 31 references explain materials and biological cultures used across the wiki. They connect ingredient roles to named styles and regional traditions without treating a shared ingredient as proof of a shared identity. Each reference states its scope and cites the evidence for its claims.
+These 46 references explain materials and biological cultures used across the wiki. They connect ingredient roles to named styles and regional traditions without treating a shared ingredient as proof of a shared identity. Each reference states its scope and cites the evidence for its claims.
 
 ## Water and starch sources
 
@@ -89,3 +89,10 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.7 — situated evidence and comparative practice
 
 - [Bubod: a Philippine rice-fermentation starter](bubod-starter.md) — Traditional mixed starter material used in tapuy, distinguished from any single yeast, mold isolate or manufactured enzyme.
+
+## New in research edition 1.8 — 4 articles
+
+- [Barley proteins that help make beer foam](beer-foam-active-proteins.md) — Ingredient Chemistry Reference; Protein Z and lipid-transfer proteins in malt and beer as characterized in laboratory and proteomics research, not a beer-foam formula.
+- [Bound thiol precursors in malt and hops](polyfunctional-thiol-precursors.md) — Ingredient Chemistry Reference; An analytical chemistry study of disulfide-bound thiols in tested malt/hop materials plus hop-sample survey; no universal aroma yield.
+- [Finger millet in mbege and kodo ko jaanr](finger-millet-in-traditional-ferments.md) — Ingredient Reference; Finger millet (Eleusine coracana) as used in two independent documented fermentations, not all plants collectively called millet.
+- [Msesewe bark in one mbege field study](msesewe-stem-bark-in-mbege.md) — Botanical Ingredient Case Study; Named Rauvolfia caffra stem bark in the Kubo–Kilasara observed and experimental mbege process; not a botanical identification or safety guide.

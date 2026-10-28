@@ -27,6 +27,13 @@ sources:
   source_kind: open-review
   access_scope: Open review text/excerpts on African banana-fermented beverages and Rwandan urugwa, using cited
     secondary descriptions; not firsthand fieldwork.
+- id: v18-mbege
+  resource: https://www.mdpi.com/2306-5710/2/3/21
+  title: Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)
+  author_label: Ryosuke Kubo and Method Kilasara
+  source_kind: primary-field-observation
+  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence
+    and experimental bark comparison; not a region-wide census.
 regions:
 - East Africa
 - Cross-regional
@@ -70,7 +77,14 @@ Fruit fermentation can contain variable microbes and fermentation by-products. T
 - [Banana Fruit Vs Yeast Esters](../sensory/banana-fruit-vs-yeast-esters.md)
 - [Sorghum And Millet](sorghum-and-millet.md)
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+In northeastern Tanzania, **mbege** illustrates a different banana-based process from a simply fermented fruit juice. A field study observed fermented banana porridge **nyalu** being combined with a sweet finger-millet porridge **mso**. The two stages make the **functional role of the fruit preparation** more precise than the mere label banana beer.[^v18-mbege]
+
+Compare [Mbege](../styles/mbege.md), [nyalu–mso brewing](../processes/mbege-nyalu-and-mso.md), and [finger millet](finger-millet-in-traditional-ferments.md). Ingredient identity is not a reliable shortcut to a single fermentation method.
+
+## Source notes
 [^v16-tonto]: [Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of Tonto (2026)](https://pubmed.ncbi.nlm.nih.gov/42388651/). Atwine et al.. Consulted 2026-10-28. Access: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles, sensory and methanol measurements; full paper not independently read.
 [^v16-banana-review]: [Produce from Africa’s Gardens: Potential for Leafy Vegetable and Fruit Fermentations (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4932199/). Review authors. Consulted 2026-10-28. Access: Open review text/excerpts on African banana-fermented beverages and Rwandan urugwa, using cited secondary descriptions; not firsthand fieldwork.
+
+[^v18-mbege]: [Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)](https://www.mdpi.com/2306-5710/2/3/21). Ryosuke Kubo and Method Kilasara. Consulted 2026-10-28. Access: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence and experimental bark comparison; not a region-wide census.
