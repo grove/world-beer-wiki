@@ -23,6 +23,24 @@ sources:
   source_kind: industry-technical-excerpt
   access_scope: Search-indexed excerpt of the retailer PDF on microbial deposits and service conditions; complete
     manual and local legal requirements not independently reviewed.
+- id: v115-ba
+  resource: "https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/"
+  title: "Draught Beer Quality Manual: public resource page"
+  author_label: "Brewers Association Technical Committee"
+  source_kind: "industry-technical-guidance-overview"
+  access_scope: "Accessible public draught guidance overview; the detailed technical manual has not been rechecked here."
+- id: v115-glass
+  resource: "https://coloradobeer.org/tech-safety-posts/beer-glass-cleaning-guide/"
+  title: "The Official Beer Glass Cleaning Guide (2024)"
+  author_label: "Colorado Brewers Guild"
+  source_kind: "industry-service-guidance"
+  access_scope: "Public cleaning and glass-surface observations; not microbiological certification of individual glasses."
+- id: v115-bubbles
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/"
+  title: "How Many CO2 Bubbles in a Glass of Beer? (2021)"
+  author_label: "Gérard Liger-Belair and Clara Cilindre"
+  source_kind: "primary-physical-chemistry-experiment-and-model"
+  access_scope: "Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test."
 regions:
 - Cross-regional
 scope: An equipment-focused explanation of systems between a keg and a serving glass.
@@ -66,3 +84,17 @@ The descriptions preserve the cited source's study population, region, time and 
 [^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.
 
 [^v114-draught-retail]: [Draught Beer Quality Manual for Retailers (2022)](https://cdn.brewersassociation.org/wp-content/uploads/2022/04/04193712/BP22-DBQMR-FINAL.pdf). Brewers Association. Consulted 2026-10-28. Access: Search-indexed excerpt of the retailer PDF on microbial deposits and service conditions; complete manual and local legal requirements not independently reviewed.
+
+## Edition 1.15: newly sourced connections
+
+An apparently clean draught line and a beer-clean serving glass are distinct parts of the route to the drinker. The Brewers Association addresses line cleaning, gas balance, pouring and glassware as linked technical topics. The Colorado Brewers Guild's public glass guide proposes observations of water sheeting, bubble adhesion and lacing; those are service checks rather than a microbiological test of the venue or its beer.[^v115-ba][^v115-glass]
+
+Physical chemistry gives a competing explanation for some bubble observations: Liger-Belair and Cilindre modeled CO2 release from microscopic glass features in a specific lager system. Intentionally designed nucleation sites and residue-induced bubbling cannot reliably be distinguished from a single photograph.[^v115-bubbles]
+
+Compare [beer-clean glassware](beer-clean-glassware.md), [nucleation sites](glass-surface-nucleation-sites.md), and [draught sensory changes](../sensory/draught-service-vs-brewery-flavor.md).
+
+[^v115-ba]: [Draught Beer Quality Manual: public resource page](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Accessible public draught guidance overview; the detailed technical manual has not been rechecked here.
+
+[^v115-glass]: [The Official Beer Glass Cleaning Guide (2024)](https://coloradobeer.org/tech-safety-posts/beer-glass-cleaning-guide/). Colorado Brewers Guild. Consulted 2026-10-28. Access: Public cleaning and glass-surface observations; not microbiological certification of individual glasses.
+
+[^v115-bubbles]: [How Many CO2 Bubbles in a Glass of Beer? (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/). Gérard Liger-Belair and Clara Cilindre. Consulted 2026-10-28. Access: Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test.

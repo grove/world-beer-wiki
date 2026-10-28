@@ -56,3 +56,8 @@ New evidence-based references (all retain draft status):
 
 - [Draught lines, taps and dispensing gas](draught-lines-and-gas-balance.md) — An equipment-focused explanation of systems between a keg and a serving glass.
 - [English hop oasts: stowage, kiln and cowl](english-hop-oast.md) — The physical equipment behind regional hop handling, from field intake to cooling and packing.
+
+## Edition 1.15 — research and evidence limits
+
+- [Beer-clean glassware](beer-clean-glassware.md) — Service observations, residue and the limits of visual checks.
+- [Microscopic nucleation sites in a beer glass](glass-surface-nucleation-sites.md) — Why a bubbling site need not prove an unclean glass.

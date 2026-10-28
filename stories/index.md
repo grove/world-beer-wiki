@@ -81,3 +81,8 @@ New evidence-based references (all retain draft status):
 
 - [What actually became new in Pilsen in 1842?](what-was-new-in-1842.md) — The more interesting story behind a famous first batch is an institution, not a single miraculous invention.
 - [Why should a beer encyclopedia care about an oast house?](why-a-hop-kiln-belongs-in-a-beer-wiki.md) — Follow the ingredient backward to the people and buildings that made brewing supplies storable.
+
+## Edition 1.15 — research and evidence limits
+
+- [Why 0.0 needs a jurisdiction](zero-zero-is-not-a-global-definition.md) — A source trail through archived and current administrative vocabulary.
+- [Two explanations for beer bubbles](two-causes-of-bubbles-in-glass.md) — A service check and a laboratory model may point to different mechanisms.

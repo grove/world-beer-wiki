@@ -83,6 +83,18 @@ sources:
   source_kind: producer-archival-history
   access_scope: Full public producer-authored chronology; records the company's account of the 1842 Burghers Brewery,
     brewing rights and later transport infrastructure; independent contemporaneous archives not checked.
+- id: v115-defs
+  resource: "https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/beer-and-malt-beverage-definitions"
+  title: "Beer and Malt Beverages"
+  author_label: "Alcohol and Tobacco Tax and Trade Bureau"
+  source_kind: "official-us-regulatory-guidance"
+  access_scope: "Full public US agency definitions under the IRC and FAA Act; not a definition for other countries."
+- id: v115-clas
+  resource: "https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-class-and-type"
+  title: "Malt Beverage Labeling: Class and Type Designation"
+  author_label: "Alcohol and Tobacco Tax and Trade Bureau"
+  source_kind: "official-us-regulatory-guidance"
+  access_scope: "Full public TTB 2023 designation guidance, including under-0.5% malt beverages, not global style terminology."
 category_axis: multiple
 scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive
   world taxonomy.
@@ -182,3 +194,15 @@ Use [heritage versus style](heritage-inscription-is-not-a-style.md) and [field-t
 
 [^v114-unesco]: [Beer culture in Belgium (2016 inscription)](https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062). UNESCO Intergovernmental Committee / Belgian submitting communities. Consulted 2026-10-28. Access: Full UNESCO inscription page with description of social transmission and food context; inscription is not a technical recipe or heritage status for each named beer.
 [^v114-plzen]: [Prazdroj history: birth and spread of Pilsen lager](https://www.prazdroj.cz/en/our-story/history). Plzeňský Prazdroj. Consulted 2026-10-28. Access: Full public producer-authored chronology; records the company's account of the 1842 Burghers Brewery, brewing rights and later transport infrastructure; independent contemporaneous archives not checked.
+
+## Edition 1.15: newly sourced connections
+
+The US example supplies a practical warning against treating technical style names as legal classes. TTB explains that *beer* as defined for US federal excise purposes and *malt beverage* as used for FAA Act labeling have **different scope**: in the latter definition both malted barley and hops are essential. The distinction is about the governing statute, not which drinks deserve a place in a global brewing reference.[^v115-defs]
+
+TTB class-and-type guidance also addresses the labels of products below 0.5% ABV, which can have permissible designations different from beer styles used in judging. Store legal scope, jurisdiction, style-guide edition, strength and culturally situated name separately rather than making one hierarchy do every job.[^v115-clas]
+
+Compare the [new multi-authority guide](jurisdictional-beer-names-vs-styles.md) and [historic US category context](../history/us-beer-vs-malt-beverage-definitions.md).
+
+[^v115-defs]: [Beer and Malt Beverages](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/beer-and-malt-beverage-definitions). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-28. Access: Full public US agency definitions under the IRC and FAA Act; not a definition for other countries.
+
+[^v115-clas]: [Malt Beverage Labeling: Class and Type Designation](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-class-and-type). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-28. Access: Full public TTB 2023 designation guidance, including under-0.5% malt beverages, not global style terminology.

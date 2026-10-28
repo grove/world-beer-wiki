@@ -135,7 +135,7 @@ class Edition114Tests(unittest.TestCase):
         self.assertFalse(self.load_errors,self.load_errors[:5])
         inv=check_inventory(ROOT)
         self.assertTrue(inv['ok'],inv['errors'])
-        self.assertEqual(643,inv['subject_articles'])
+        self.assertGreaterEqual(inv['subject_articles'],643)
         self.assertEqual(13,len(inv['sections']))
         self.assertEqual((ROOT/'navigation/all-names.md').read_text(),render_names(ROOT))
         self.assertEqual((ROOT/'navigation/all-atlas-subjects.md').read_text(),render_subjects(ROOT))

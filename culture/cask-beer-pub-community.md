@@ -31,6 +31,18 @@ sources:
   source_kind: primary-parliamentary-debate
   access_scope: Full digitized parliamentary debate transcript of competing positions; speakers’ claims are
     not verified economic or health outcomes.
+- id: v115-bjcp
+  resource: "https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/"
+  title: "Introduction to the 2021 Guidelines"
+  author_label: "Beer Judge Certification Program"
+  source_kind: "official-judging-guidelines"
+  access_scope: "Official 2021 introduction to competition style groupings; not legal label rules."
+- id: v115-ba
+  resource: "https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/"
+  title: "Draught Beer Quality Manual: public resource page"
+  author_label: "Brewers Association Technical Committee"
+  source_kind: "industry-technical-guidance-overview"
+  access_scope: "Accessible public draught guidance overview; the detailed technical manual has not been rechecked here."
 regions:
 - Europe
 - United Kingdom
@@ -92,3 +104,15 @@ The Commons debate of **21 May 1830** shows how retail licensing, competition am
 [^v13-camra-dispense]: [A history of beer dispense](https://members.camra.org.uk/learn-discover/discover/history-of-dispense/). Rachel Hendry, CAMRA. Consulted 2026-10-27. Evidence accessed: CAMRA educational history; beer engine and pub service, interpreted through its advocacy perspective.
 
 [^v19-hansard]: [Sale of Beer Bill, Commons debate, 21 May 1830](https://api.parliament.uk/historic-hansard/commons/1830/may/21/sale-of-beer-bill). United Kingdom Parliament, Historic Hansard. Checked 2026-10-28. Access: Full digitized parliamentary debate transcript of competing positions; speakers’ claims are not verified economic or health outcomes.
+
+## Edition 1.15: newly sourced connections
+
+Public drinking venues are places of service and association as well as sites of physical beer presentation. The BJCP's beer style introduction organizes judging categories; it is not an account of the social relationships sustaining a cask pub. Similarly, the Brewers Association's draught quality overview explains equipment, gas and pouring concerns without measuring the cultural role of any particular venue.[^v115-bjcp][^v115-ba]
+
+Those two technical documents are useful precisely because they **do not** stand in for local testimony. A pub history should distinguish cask conditioning and service from labor arrangements, licensing and community membership, relying on locally situated evidence when making social claims. Conversely, an institutional or historical account alone cannot verify physical quality or microbiological safety on a particular tap.
+
+For the technical side read [carbonation and service](../processes/carbonation-from-bottle-to-glass.md) and [clean glassware](../objects/beer-clean-glassware.md). For communities, retain the existing article's historically scoped evidence rather than assigning global norms.
+
+[^v115-bjcp]: [Introduction to the 2021 Guidelines](https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/). Beer Judge Certification Program. Consulted 2026-10-28. Access: Official 2021 introduction to competition style groupings; not legal label rules.
+
+[^v115-ba]: [Draught Beer Quality Manual: public resource page](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Accessible public draught guidance overview; the detailed technical manual has not been rechecked here.

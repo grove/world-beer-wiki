@@ -9,14 +9,14 @@ tags:
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.14
+  by: world-beer-wiki/1.15
   at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.9'
-implementation_status: twelfth-bounded-research-installment
+specification_version: '1.10'
+implementation_status: research-edition-1.15
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -866,11 +866,55 @@ work_items:
   - tests/test_research_quality_v114.py
   delivered_scope: 29 new subjects, 18 source-backed original-article extensions, eight navigation trails, source-use
     backlinks, modern CI and regression checks.
+- id: ATLAS-101
+  title: Jurisdictional beer vocabulary, low-alcohol labels and an exact historical agency date
+  state: implemented
+  paths:
+  - categories/jurisdictional-beer-names-vs-styles.md
+  - categories/no-low-alcohol-descriptors-across-borders.md
+  - history/us-beer-vs-malt-beverage-definitions.md
+  - calendar/atf-nonalcoholic-marketing-circular-1991.md
+  delivered_scope: Differentiate US tax/label law, BJCP judging categories and an archived 1991 marketing circular; English consultation proposals remain unverified as enacted law.
+- id: ATLAS-102
+  title: Carbon dioxide, glass surfaces, cleaning cues and model-bound sensory interpretation
+  state: implemented
+  paths:
+  - ingredients/dissolved-carbon-dioxide-in-beer.md
+  - processes/carbonation-from-bottle-to-glass.md
+  - objects/beer-clean-glassware.md
+  - objects/glass-surface-nucleation-sites.md
+  - sensory/beer-bubbles-and-model-boundaries.md
+  - sensory/foam-lacing-and-residues.md
+  delivered_scope: Explain a studied lager CO2 nucleation model and service cues without inferring all-glass hygiene, sterility or universal sensory quality.
+- id: ATLAS-103
+  title: Water accounting, no-alcohol safety boundaries and canonical integration
+  state: implemented
+  paths:
+  - environment/brewery-water-ratio-versus-water-footprint.md
+  - environment/direct-and-indirect-water-in-brewing.md
+  - microbiology/nolo-hurdles-are-not-label-rules.md
+  - food/alcohol-descriptors-on-a-menu.md
+  - categories/low-and-no-alcohol-beers.md
+  delivered_scope: Separate site ratios, upstream supply-chain footprints, sample-specific microbial challenge and legal labels; 13 original articles extended with source-cited connections.
+- id: ATLAS-104
+  title: Edition 1.15 source provenance, navigation, reproducibility and review queue
+  state: implemented
+  paths:
+  - references/atlas-sources-1-15.md
+  - navigation/edition-1-15-reading-trails.md
+  - navigation/all-names.md
+  - navigation/all-atlas-subjects.md
+  - editorial/research-update-1-15.md
+  - editorial/validation-report-1-15.md
+  - editorial/source-review-queue-1-15.md
+  - tests/test_research_quality_v115.py
+  delivered_scope: Nineteen new scoped subjects, thirteen sourced revisions, sixteen distinct works and seventy-six article-source placements, with independent review explicitly unperformed.
+
 ---
 
 # World Beer Atlas expansion specification
 
-**Specification 1.4 · research deliverables tracked through edition 1.13 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.10 · research deliverables tracked through edition 1.15 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
 
 The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
@@ -1103,3 +1147,9 @@ This edition contributes **35** source-scoped articles and **19** sourced revisi
 **29 new bounded subject articles and 18 sourced revisions** extend the atlas to 643 subjects. ATLAS-094–100 track the finite delivered work, not a worldwide completeness score. The 1842 Pilsen batch is one producer-documented historical event, not the invention of bottom fermentation. English hop-oast evidence concerns regional agricultural handling and surviving buildings, not a sensory chemistry experiment or an annual event date. Belgian UNESCO heritage recognition is not a unified style or recipe; Smithsonian collection summaries do not substitute for reading oral interviews. Ethiopian tella vessel-smoking accounts are secondary synthesis, not validated sanitization protocols.
 
 The 2025 industrial yeast experiment tests particular production-scale factor ranges; draught technical guidance describes maintenance and dispense, not sampled incidents at every bar. Humulinone/protein-Z assays and LTP1 heating experiments have different proteins, model systems and endpoints. Environmental comparisons retain functional units and distinguish a chemical screening, technology review and case-specific large brewery LCA. Every research article remains **draft**. [Edition report](research-update-1-14.md), [source uses](../references/atlas-sources-1-14.md), [review queue](source-review-queue-1-14.md), and [eight reading trails](../navigation/edition-1-14-reading-trails.md) document scope and open work. **ATLAS-012 independent review has not occurred**; media rights and interactive live event discovery remain deferred.
+
+## 20. Edition 1.15 — legal terms, glass physics and resource-accounting boundaries
+
+**19 new source-scoped subjects and 13 cited revisions** extend the atlas to 662 articles, tracked by ATLAS-101–104. This release compares TTB federal legal classes with independent BJCP judging terminology, archives a 20 August 1991 ATF marketing circular as an exact non-recurring historical event, and treats England's 2023 policy consultation as a proposal rather than present law. It separates package CO2 and a one-lager bubble model from glassware service cues, and distinguishes site water-use ratios from water-footprint accounting and product safety evidence.
+
+The [release report](research-update-1-15.md), [16-work source register](../references/atlas-sources-1-15.md), [open review queue](source-review-queue-1-15.md), [seven trails](../navigation/edition-1-15-reading-trails.md) and [validation record](validation-report-1-15.md) describe the actual deliverables. **ATLAS-012 remains planned**, with external cultural, regulatory, brewing, historical and microbiological review not performed. Media and live event discovery remain deferred.

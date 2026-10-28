@@ -17,6 +17,18 @@ sources:
   source_kind: primary-fluid-mechanics-open
   access_scope: Open experimental paper on gravity-driven bubble patterns in inclined containers and
     Guinness; not a tasting test.
+- id: v115-bubbles
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/"
+  title: "How Many CO2 Bubbles in a Glass of Beer? (2021)"
+  author_label: "Gérard Liger-Belair and Clara Cilindre"
+  source_kind: "primary-physical-chemistry-experiment-and-model"
+  access_scope: "Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test."
+- id: v115-glass
+  resource: "https://coloradobeer.org/tech-safety-posts/beer-glass-cleaning-guide/"
+  title: "The Official Beer Glass Cleaning Guide (2024)"
+  author_label: "Colorado Brewers Guild"
+  source_kind: "industry-service-guidance"
+  access_scope: "Public cleaning and glass-surface observations; not microbiological certification of individual glasses."
 scope: Fluid-mechanics experiment on Guinness bubble movement; not consumer hedonic results.
 evidence_basis:
 - primary-fluid-mechanics-open
@@ -49,3 +61,15 @@ Fluid-mechanics experiment on Guinness bubble movement; not consumer hedonic res
 ## Source notes
 
 [^v14-bubbles]: [Bubble Cascade in Guinness Beer Is Caused by Gravity Current Instability (2019)](https://www.nature.com/articles/s41598-019-42094-0). Scientific Reports fluid mechanics researchers. Consulted 2026-10-27. Access: Open experimental paper on gravity-driven bubble patterns in inclined containers and Guinness; not a tasting test.
+
+## Edition 1.15: newly sourced connections
+
+The familiar visual behavior of beer bubbles is not one universal carbonation test. A 2021 ACS Omega study investigated CO2 bubble nucleation after pouring a commercial lager, including dissolved gas, microcrevices and modeled site geometry. Its assumptions differ from nitrogenated dispense and deliberately nucleated glassware; it cannot be applied as a total-bubble benchmark for every foam system.[^v115-bubbles]
+
+A glass-service guide from the Colorado Brewers Guild uses lacing and adhering bubbles as cues for possible surface residue, while physical models show additional mechanisms for nucleation. Appearance alone therefore does not establish a cleaning fault, an ingredient fault or a standard gas blend. The proper question is which **gas, beverage, vessel, conditions and evidence method** were observed.[^v115-glass]
+
+See [the bubble-model scope](beer-bubbles-and-model-boundaries.md) and [cleanliness versus deliberate nucleation](../objects/beer-clean-glassware.md).
+
+[^v115-bubbles]: [How Many CO2 Bubbles in a Glass of Beer? (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/). Gérard Liger-Belair and Clara Cilindre. Consulted 2026-10-28. Access: Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test.
+
+[^v115-glass]: [The Official Beer Glass Cleaning Guide (2024)](https://coloradobeer.org/tech-safety-posts/beer-glass-cleaning-guide/). Colorado Brewers Guild. Consulted 2026-10-28. Access: Public cleaning and glass-surface observations; not microbiological certification of individual glasses.

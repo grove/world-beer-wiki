@@ -50,3 +50,7 @@
 - [Edition 1.14 research update](research-update-1-14.md)
 - [Edition 1.14 source-review queue](source-review-queue-1-14.md)
 - [Edition 1.14 validation](validation-report-1-14.md)
+
+## Research edition 1.15
+
+[Research update](research-update-1-15.md) · [Source-access review queue](source-review-queue-1-15.md) · [Validation and limitations](validation-report-1-15.md) · [Current specification](atlas-specification.md) · [Progress](atlas-progress.md).

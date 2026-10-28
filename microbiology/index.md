@@ -107,3 +107,7 @@ New evidence-based references (all retain draft status):
 
 - [Draught lines are not fermentation tanks](draught-lines-as-a-different-microbial-habitat.md) — Technical guidance on microbial deposits in beer service systems rather than desirable beer cultures.
 - [Lager yeast viability in a large-tank experiment](industrial-lager-yeast-viability.md) — A 2025 industrial high-gravity study, not a universal warm/cold fermentation recipe.
+
+## Edition 1.15 — sourced evidence and boundaries
+
+- [No-/low-alcohol microbiology versus labeling](nolo-hurdles-are-not-label-rules.md) — A pathogen challenge study cannot certify every beer sharing an alcohol descriptor.

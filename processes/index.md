@@ -98,3 +98,8 @@ New evidence-based references (all retain draft status):
 - [Hop drying: a three-stage historical supply process](hop-drying-cooling-and-packing.md) — A documented English sequence of drying, cooling and packing; not universal modern process settings.
 - [Lager aeration and tank filling as experimental variables](industrial-lager-aeration-and-filling.md) — An industrial 2025 response-surface study of fermentation operations and biological endpoints.
 - [Smoking a tella vessel is not smoking malt](tella-vessel-fumigation-vs-smoked-malt.md) — A cautious interpretation of Ethiopian vessel-preparation descriptions and different smoke pathways.
+
+## Edition 1.15 — sourced evidence and boundaries
+
+- [CO2 from bottle to glass](carbonation-from-bottle-to-glass.md) — What a model of the pour can and cannot establish.
+- [ABV cannot identify the production route](abv-labels-do-not-describe-process.md) — Strength declarations are separate from yeast/process methods and microbiological risk.

@@ -58,6 +58,18 @@ sources:
   source_kind: industry-technical-guidance
   access_scope: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives;
     numerical settings of the linked manual have not been independently assessed and are not prescribed.
+- id: v115-bubbles
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/"
+  title: "How Many CO2 Bubbles in a Glass of Beer? (2021)"
+  author_label: "Gérard Liger-Belair and Clara Cilindre"
+  source_kind: "primary-physical-chemistry-experiment-and-model"
+  access_scope: "Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test."
+- id: v115-ba
+  resource: "https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/"
+  title: "Draught Beer Quality Manual: public resource page"
+  author_label: "Brewers Association Technical Committee"
+  source_kind: "industry-technical-guidance-overview"
+  access_scope: "Accessible public draught guidance overview; the detailed technical manual has not been rechecked here."
 scope: Chemical and microbiological explanations of quality changes after filling.
 evidence_basis:
 - open-oxidation-review
@@ -128,3 +140,15 @@ This is service guidance, not experimental proof of each change in consumer perc
 [^v113-aldehydes-2025]: [Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)](https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548). Carolina Maia and David Cook. Consulted 2026-10-28. Access: Publisher indexed full abstract and introduction; three commercial lager matrices after freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.
 
 [^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.
+
+## Edition 1.15: newly sourced connections
+
+Packaging and service differ in more than exposure to oxygen. In a 2021 study, Liger-Belair and Cilindre measured dissolved carbon dioxide in a particular commercial lager and modeled its release after pouring into a glass. The visual streams of CO2 bubbles depend on nucleation conditions rather than only on the amount of gas present inside the original package.[^v115-bubbles]
+
+The Brewers Association's public draught quality overview treats gas balance, equipment and pouring as technical service variables. A package oxygen argument cannot, on its own, predict the final bubbling, foam or sensory experience. Keeping the gas-release process separate from staling chemistry makes the evidence chain more precise.[^v115-ba]
+
+Consult [packaged CO2 to glass](carbonation-from-bottle-to-glass.md) and [glass nucleation physics](../objects/glass-surface-nucleation-sites.md), neither of which gives operating pressure instructions.
+
+[^v115-bubbles]: [How Many CO2 Bubbles in a Glass of Beer? (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/). Gérard Liger-Belair and Clara Cilindre. Consulted 2026-10-28. Access: Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test.
+
+[^v115-ba]: [Draught Beer Quality Manual: public resource page](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Accessible public draught guidance overview; the detailed technical manual has not been rechecked here.
