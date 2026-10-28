@@ -13,3 +13,7 @@ Beer preferences can change with meal context. These pages compare study designs
 New evidence-based references (all retain draft status):
 
 - [Beer with food: separating situational associations from tasting tests](situational-pairing-and-storage-evidence.md) — Food Research Reference.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Cheese and beer pairing: preference is not a fixed rule](cheese-beer-preference-is-not-a-rule.md) — What a controlled consumer tasting study can and cannot tell us about favored cheese–beer combinations.

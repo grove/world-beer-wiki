@@ -50,3 +50,9 @@ New evidence-based references (all retain draft status):
 - [Reading the 2024 southern Assam rice-ferment microbiome survey](assam-rice-ferment-sampling.md) — Why 15 samples and bacterial sequencing are a snapshot rather than a starter recipe or health trial.
 - [Umqombothi: amplicons, predicted functions and actual fermentation](umqombothi-amplicons-and-predicted-function.md) — A 2023 comparison of raw ingredients and brewed samples, interpreted without treating DNA as a safety certificate.
 - [Why some lactic acid bacteria can survive hopped beer](hop-resistant-lactic-acid-bacteria.md) — Hop acids inhibit sensitive bacteria, but strain-level resistance can evolve or be selected.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [HorA, HorC and the limits of hop-resistance markers](hora-horc-and-hop-resistance-markers.md) — Two experimentally studied bacterial mechanisms plus a counterexample showing why hop-tolerant growth is not one gene.
+- [What a bubod and tapuy isolate study can establish](bubod-tapuy-isolate-study.md) — A 1990 Philippine rice-ferment study showing distinct starch-breaking and alcoholic roles among selected microbial isolates.
+- [Why filling lines matter in a brewery microbiome](craft-brewery-filling-line-microbes.md) — A study of 60 monitoring points in one craft brewery and selected spoilage-associated bacteria, not a general contamination rate.

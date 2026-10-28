@@ -78,3 +78,7 @@ The [complete subject directory](../navigation/all-atlas-subjects.md) now includ
 - For environmental rankings, do not compare [Mexican upstream water footprint](../environment/mexican-microbrewery-footprint-case.md) directly with [Japanese excluding-cultivation boundaries](../environment/japanese-small-brewery-lca-case.md).
 - A cultural occasion without an annually fixed date ([Sahti](../calendar/sahti-occasions-without-a-fixed-date.md)) must not be represented as a confirmed future festival event.
 - The [edition source supplement](../references/atlas-sources-1-6.md) states actual accessed portions. Preserve them in every generated answer; future retrieval may discover different evidence, but must not silently rewrite this research record.
+
+## Edition 1.7 retrieval and inference boundaries
+
+When answering questions about tapuy, sake or named pito/chicha practices, resolve canonical names before inferring a style classification. Use the [edition 1.7 source supplement](../references/atlas-sources-1-7.md) for accessed scope and never collapse observed isolates into a mandatory recipe, historical court cases into representative populations, or LCA scenarios into a universal rank. [Reading trails](../navigation/edition-1-7-reading-trails.md) are editorial connections, not causal ancestry.

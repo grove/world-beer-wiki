@@ -43,7 +43,8 @@ sources:
   title: Parakari, an indigenous fermented beverage using amylolytic Rhizopus in Guyana (2005)
   author: human:terry-w-henkel
   source_kind: primary-research
-  access_scope: indexed title and abstract excerpt only; limited to identification of mold-assisted fermentation
+  access_scope: indexed title and abstract excerpt only; limited to identification of mold-assisted
+    fermentation
   author_label: Terry W. Henkel
 - id: v15-banhmen-2008
   resource: https://pubmed.ncbi.nlm.nih.gov/18838186/
@@ -54,20 +55,34 @@ sources:
   access_scope: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
 - id: v15-himalaya-2019
   resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full
-  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters
-    of the Eastern Himalayas (2019)
+  title: Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry
+    Starters of the Eastern Himalayas (2019)
   author_label: Frontiers in Microbiology research team
   source_kind: primary-microbiology-open-text
-  access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community
-    differences; laboratory detections not proof of universal starter composition.'
+  access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and
+    community differences; laboratory detections not proof of universal starter composition.'
 - id: v16-assam
   resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full
   title: Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes
     in southern Assam (2024)
   author_label: Yumnam, Hazarika and Sharma
   source_kind: primary-field-and-sequencing-study
-  access_scope: Open HTML methods/results, 15 community-produced samples from five named groups (three each)
-    and 16S assay; no full ethnography or clinical outcome evidence.
+  access_scope: Open HTML methods/results, 15 community-produced samples from five named groups (three
+    each) and 16S assay; no full ethnography or clinical outcome evidence.
+- id: v17-bubod-1990
+  resource: https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article
+  title: Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)
+  author_label: Michio Kozaki and Tai Uchimura
+  source_kind: primary-isolate-study-abstract
+  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates
+    in studied material; full Japanese paper not read.
+- id: v17-unesco-sake
+  resource: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977
+  title: Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)
+  author_label: UNESCO / Japanese nomination
+  source_kind: heritage-inscription-record
+  access_scope: UNESCO indexed description and inscription decision; direct page can require browser
+    challenge. Heritage designation is not biochemical or ownership proof.
 aliases:
 - Mold and mixed starters
 - Saccharifying starters
@@ -139,6 +154,13 @@ A 2008 study detected fungi and bacteria in 52 Vietnamese bánh men starter samp
 
 Compare the [Vietnamese starter study](../microbiology/vietnamese-banh-men-communities.md), [Himalayan samples](../microbiology/himalayan-dry-starter-diversity.md), and [tasks performed by starter cakes](../processes/starter-cakes-and-starch-conversion.md).
 
+
+## Edition 1.7: newly sourced connections
+
+Philippine **bubod** and Japanese cultivated **koji** offer a useful comparison of two ways to support sugar formation from rice starch. A 1990 isolate study of bubod describes several organism groups and distinct activities, while UNESCO’s 2024 Japanese sake-making inscription emphasizes trained craft teams managing cultivated koji. A shared *function* does not establish identical communities or starters.[^v17-bubod-1990][^v17-unesco-sake]
+
+Read [bubod](bubod-starter.md), [sake heritage](../culture/japanese-koji-sake-heritage-and-apprenticeship.md) and [parallel conversion](../processes/parallel-starch-and-alcohol-fermentation.md). Isolate counts are not a recipe, and a heritage description is not a microbiome census.
+
 ## Source notes
 
 [^ing-jssa-process]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/). Japan Sake and Shochu Makers Association. Consulted 2026-10-27. Evidence used: rice preparation, koji and parallel saccharification/fermentation sections.
@@ -158,3 +180,6 @@ A 2024 southern Assam sampling study identifies distinct named **rice-beverage s
 Read [the situated five-drink comparison](../culture/southern-assam-five-beverage-study.md) and [the microbiome method](../microbiology/assam-rice-ferment-sampling.md) before inferring a universal microbial formula.
 
 [^v16-assam]: [Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in southern Assam (2024)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full). Yumnam, Hazarika and Sharma. Consulted 2026-10-28. Access: Open HTML methods/results, 15 community-produced samples from five named groups (three each) and 16S assay; no full ethnography or clinical outcome evidence.
+
+[^v17-bubod-1990]: [Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article). Michio Kozaki and Tai Uchimura. Consulted 2026-10-28. Access: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates in studied material; full Japanese paper not read.
+[^v17-unesco-sake]: [Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977). UNESCO / Japanese nomination. Consulted 2026-10-28. Access: UNESCO indexed description and inscription decision; direct page can require browser challenge. Heritage designation is not biochemical or ownership proof.

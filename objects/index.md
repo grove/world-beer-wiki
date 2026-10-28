@@ -31,3 +31,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.6 — additional source-scoped research
 
 - [Earthen pots and covers in southern Assam rice-fermentation accounts](assam-earthen-pots-and-covers.md) — Material context described by a named comparative study, not evidence of one compulsory vessel.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Abydos vats, fire legs and stoke holes](abydos-vats-and-fire-legs.md) — Ceramic cooking vessels and heating structures documented in the excavated early royal brewery at North Abydos.
+- [The white flag outside a Piura chichería](piura-chicha-white-flags.md) — A signal of household chicha service described in a northern Peruvian brewer interview study.

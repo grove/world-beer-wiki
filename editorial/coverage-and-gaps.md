@@ -75,3 +75,7 @@ The corpus has no systematic brewery catalogue, current product-availability ser
 ## Scope after edition 1.6
 
 The corpus now has **402** mixed subject articles. Four new drink profiles are **local or related-ferment references**, not four newly recognized universal judging styles. Several cultural case studies derive from just one primary sampling project or from secondary/producer sources and need independent community-language checking. Laboratory detection does not prove cultural practice, metabolic causality or food safety. Two environmental case studies have incompatible life-cycle boundaries. See the [1.6 review queue](source-review-queue-1-6.md) and [source supplement](../references/atlas-sources-1-6.md).
+
+## Edition 1.7 coverage and evidence gaps
+
+This edition adds focused histories of Abydos, Andean chicherías, Ghanaian pito enterprises, English brewsters, Japanese sake heritage and Philippine bubod, alongside laboratory and environmental explanations. It does **not** supply independently verified oral histories, full books behind abstracts, ancient recipes or universal packaging advice. The [edition 1.7 source-review queue](source-review-queue-1-7.md) records named open questions; ATLAS-012 remains planned.

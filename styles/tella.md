@@ -15,24 +15,24 @@ generated:
 sources:
 - id: tella-research
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8627356/
-  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho
-    with Moringa stenopetala (2021)
+  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of
+    Gesho with Moringa stenopetala (2021)
   author: team:birhanu-teferra-and-lema
   source_kind: primary-research
   access_scope: full text; traditional baseline distinguished from experimental substitutions
   author_label: Birhanu, Teferra and Lema
 - id: trad-tella-jimma
   resource: https://repository.ju.edu.et/handle/123456789/2072?show=full
-  title: Studies on indigenous preparation practices, effects of ingredients, fermentation time and pasteurization
-    on quality and shelf stability of tella (2016)
+  title: Studies on indigenous preparation practices, effects of ingredients, fermentation time and
+    pasteurization on quality and shelf stability of tella (2016)
   author: human:shilimat-tolossa
   source_kind: primary-research-thesis
   access_scope: indexed Jimma University thesis abstract and metadata; full thesis not inspected
   author_label: Shilimat Tolossa
 - id: trad-tella-lab
   resource: https://pubmed.ncbi.nlm.nih.gov/38397552/
-  title: Characterization of Autochthonous Lactic Acid Bacteria Isolated from a Traditional Ethiopian Beverage,
-    Tella (2024)
+  title: Characterization of Autochthonous Lactic Acid Bacteria Isolated from a Traditional Ethiopian
+    Beverage, Tella (2024)
   author: team:trad-tella-lab-authors
   source_kind: primary-research
   access_scope: PubMed metadata and indexed original-paper abstract; full PMC page blocked during retrieval
@@ -46,12 +46,19 @@ sources:
   access_scope: Review article sections on tella and gesho; no universal process or health claims adopted.
 - id: v15-ethiopia-moringa
   resource: https://pubmed.ncbi.nlm.nih.gov/34845435/
-  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho
-    with Moringa stenopetala (2021)
+  title: Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of
+    Gesho with Moringa stenopetala (2021)
   author_label: Ajanaw Maru Birhanu, Tadesse Fikre Teferra and Tesfu Bekele Lema
   source_kind: primary-experiment-abstract
-  access_scope: 'PubMed indexed metadata and research summary: experimental ingredient substitution; not evidence
-    of historic customary practice.'
+  access_scope: 'PubMed indexed metadata and research summary: experimental ingredient substitution;
+    not evidence of historic customary practice.'
+- id: v17-tella-2025
+  resource: https://link.springer.com/article/10.1186/s42779-025-00287-1
+  title: Preparation method and physicochemical characteristics of Tella (2025)
+  author_label: Rabira Lemessa Gudeta and colleagues
+  source_kind: open-review-article
+  access_scope: Open review on Ethiopian tella and household hospitality; process and cultural variation
+    remain.
 aliases:
 - ጠላ
 regions:
@@ -61,8 +68,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary fermentation research; regional scope limited to cited samples
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
-  representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/dolo
@@ -129,6 +136,13 @@ A 2021 experiment examined substitution with *Moringa stenopetala*. Its research
 
 Compare [gesho and moringa](../ingredients/gesho-versus-moringa-in-a-tella-study.md) with the [gesho botanical reference](../ingredients/gesho.md).
 
+
+## Edition 1.7: newly sourced connections
+
+A 2025 open review of tella preparation discusses the drink as hospitality, an accompaniment to social events and a household livelihood as well as a fermentation technology. This helps prevent an ingredient-only description that overlooks makers and guests, without implying every Ethiopian family brews or sells tella.[^v17-tella-2025]
+
+The [cultural context article](../culture/tella-hospitality-and-household-economy.md) connects those claims with [gesho](../ingredients/gesho.md) and other cereal-brewing economies. The review's regional variation and source type remain explicit.
+
 ## Source notes
 
 [^tella-research]: [Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627356/). Birhanu, Teferra and Lema. Consulted 2026-10-27. Evidence used: full text; traditional baseline distinguished from experimental substitutions.
@@ -146,3 +160,5 @@ These reading links extend navigation; the original source access notes above re
 [^v15-ethiopia-review]: [A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic beverages in Ethiopia (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/). Food Science and Nutrition review authors. Consulted 2026-10-27. Source access: Review article sections on tella and gesho; no universal process or health claims adopted.
 
 [^v15-ethiopia-moringa]: [Fermentation Dynamics of Ethiopian Traditional Beer (Tella) as Influenced by Substitution of Gesho with Moringa stenopetala (2021)](https://pubmed.ncbi.nlm.nih.gov/34845435/). Ajanaw Maru Birhanu, Tadesse Fikre Teferra and Tesfu Bekele Lema. Consulted 2026-10-27. Source access: PubMed indexed metadata and research summary: experimental ingredient substitution; not evidence of historic customary practice.
+
+[^v17-tella-2025]: [Preparation method and physicochemical characteristics of Tella (2025)](https://link.springer.com/article/10.1186/s42779-025-00287-1). Rabira Lemessa Gudeta and colleagues. Consulted 2026-10-28. Access: Open review on Ethiopian tella and household hospitality; process and cultural variation remain.

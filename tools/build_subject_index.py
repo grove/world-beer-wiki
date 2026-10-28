@@ -19,8 +19,8 @@ description: Automatically maintained index of all named subject articles in eve
 tags: [wiki-navigation, subjects]
 status: draft
 generated:
-  by: world-beer-wiki/1.6
-  at: '2026-10-28T05:40:00Z'
+  by: world-beer-wiki/1.7
+  at: '2026-10-28T05:45:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md

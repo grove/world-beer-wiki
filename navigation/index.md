@@ -15,3 +15,7 @@
 ## Edition 1.6
 
 [402 subject entries in one deterministic directory](all-atlas-subjects.md) · [Six evidence-based reading routes](atlas.md) · [30 new research articles](../editorial/research-update-1-6.md).
+
+## Edition 1.7 reading routes
+
+[Six question-led research trails](edition-1-7-reading-trails.md) join the current atlas subject index and reading routes. This new navigation is grounded in canonical source-linked articles.

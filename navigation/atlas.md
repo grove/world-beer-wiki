@@ -277,3 +277,7 @@ The previous [names and aliases](all-names.md) index remains the 1.1 baseline. T
 **Compare environmental studies properly:** [Mexico](../environment/mexican-microbrewery-footprint-case.md) → [Japan](../environment/japanese-small-brewery-lca-case.md) → [footprint methodology](../environment/how-to-compare-brewing-footprints.md).
 
 [Full new-article ledger](../editorial/research-update-1-6.md) · [Source records and access limits](../references/atlas-sources-1-6.md)
+
+## Edition 1.7 question-led paths
+
+[New edition reading trails](edition-1-7-reading-trails.md) connect 26 newly researched articles and their predecessors across thirteen sections. [Source supplement](../references/atlas-sources-1-7.md).

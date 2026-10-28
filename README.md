@@ -42,9 +42,9 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 
 | Section | Entries | Purpose |
 |---|---:|---|
-| [Beer and tradition profiles](styles/index.md) | 170 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 41 | Materials, processing forms, enzymes and fermentation organisms. |
-| [Category guides](categories/index.md) | 23 | Explanations and comparisons across families and classification axes. |
+| [Beer and tradition profiles](styles/index.md) | 171 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
+| [Ingredients and cultures](ingredients/index.md) | 42 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Category guides](categories/index.md) | 25 | Explanations and comparisons across families and classification axes. |
 | [Culture](culture/index.md) | 29 | Situated institutions, work, exchange and knowledge. |
 | [Calendar](calendar/index.md) | 13 | Seasons and edition-specific events. |
 | [Microbiology](microbiology/index.md) | 29 | Organisms, cultures and ecological evidence. |
@@ -56,7 +56,7 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 | [Environment](environment/index.md) | 9 | Climate, cultivation, energy, water and materials. |
 | [Beer with food](food/index.md) | 4 | Evidence-based pairing context and consumer study designs. |
 
-That is **402 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.6 research update](editorial/research-update-1-6.md) document delivered and remaining scope.
+That is **428 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.6 research update](editorial/research-update-1-6.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
@@ -109,3 +109,7 @@ Use the [complete subject index](navigation/all-atlas-subjects.md) to find every
 The [complete subject index](navigation/all-atlas-subjects.md) now spans 402 canonical entries. [Research journeys](navigation/atlas.md) connect banana-based ferments, Assamese community names, Finnish celebratory sahti, phenolic yeast aroma, kveik genomics, and environmental case studies. The [21-source edition supplement](references/atlas-sources-1-6.md) documents actual access and reused records.
 
 The [edition research-quality checker](tools/research_quality.py) adds source-access, citation-use and cross-link checks; it does not fact-check external studies or stand in for human community review. Run `python tools/research_quality.py --json` after the existing validator commands.
+
+## Research edition 1.7
+
+The [edition 1.7 research update](editorial/research-update-1-7.md) records 26 new subject articles and 16 sourced existing-page revisions. Explore the [curated reading trails](navigation/edition-1-7-reading-trails.md), [source access register](references/atlas-sources-1-7.md), [review queue](editorial/source-review-queue-1-7.md), and updated [specification](editorial/atlas-specification.md). This is not independent community or scientific review.

@@ -15,3 +15,7 @@
 [Research edition 1.5](research-update-1-5.md) · [Validation 1.5](validation-report-1-5.md) · [Open evidence and community-review queue](source-review-queue-1-5.md)
 
 [Edition 1.6 research update](research-update-1-6.md) · [Validation report](validation-report-1-6.md) · [Independent review queue](source-review-queue-1-6.md) · [Research hygiene tool](../tools/research_quality.py)
+
+## Edition 1.7 research and verification
+
+[Research update](research-update-1-7.md) · [Validation report](validation-report-1-7.md) · [Independent-review queue](source-review-queue-1-7.md) · [Source register](../references/atlas-sources-1-7.md).

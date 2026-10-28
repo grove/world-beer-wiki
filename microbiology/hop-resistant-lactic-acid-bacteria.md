@@ -14,18 +14,40 @@ generated:
 sources:
 - id: v16-hop-review
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC10910910/
-  title: The two faces of microorganisms in traditional brewing and implications for no- and low-alcohol beer (2024)
+  title: The two faces of microorganisms in traditional brewing and implications for no- and low-alcohol
+    beer (2024)
   author_label: Review authors
   source_kind: open-scientific-review
-  access_scope: Open review text on iso-alpha acid antimicrobial effects, resistance and selected yeasts; organism
-    behavior depends on strain and conditions.
+  access_scope: Open review text on iso-alpha acid antimicrobial effects, resistance and selected yeasts;
+    organism behavior depends on strain and conditions.
 - id: v16-hop-primary
   resource: https://pubmed.ncbi.nlm.nih.gov/17021196/
-  title: Characterization of a highly hop-resistant Lactobacillus brevis strain lacking hop transport (2006)
+  title: Characterization of a highly hop-resistant Lactobacillus brevis strain lacking hop transport
+    (2006)
   author_label: Study authors
   source_kind: primary-microbiology-abstract
-  access_scope: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance mechanisms,
-    not a universal species trait.
+  access_scope: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance
+    mechanisms, not a universal species trait.
+- id: v17-horA
+  resource: https://pubmed.ncbi.nlm.nih.gov/11514522/
+  title: Hop resistance in Lactobacillus brevis mediated by transporter HorA (2001)
+  author_label: K. Sakamoto and colleagues
+  source_kind: primary-experiment-abstract
+  access_scope: PubMed indexed abstract/metadata for HorA transport findings in experimental setting;
+    not species-wide screen.
+- id: v17-horC
+  resource: https://pubmed.ncbi.nlm.nih.gov/16696675/
+  title: horC confers beer-spoilage ability on hop-sensitive Lactobacillus brevis (2006)
+  author_label: K. Iijima and colleagues
+  source_kind: primary-experiment-abstract
+  access_scope: Indexed abstract of gene-specific experiment; no single-gene diagnostic claim.
+- id: v17-hop-alt
+  resource: https://pubmed.ncbi.nlm.nih.gov/17021196/
+  title: Characterization of a highly hop-resistant L. brevis strain lacking hop transport (2006)
+  author_label: Study authors
+  source_kind: primary-experiment-abstract
+  access_scope: 'Indexed abstract: metabolic/cell-wall adaptation in strain TMW 1.465; warns against
+    gene determinism.'
 regions:
 - Cross-regional
 scope: Hop acids inhibit sensitive bacteria, but strain-level resistance can evolve or be selected.
@@ -33,8 +55,8 @@ evidence_basis:
 - open-scientific-review
 - primary-microbiology-abstract
 source_checked_on: '2026-10-28'
-review_note: AI-researched, source-scoped draft; not independently reviewed by community members, historians or
-  scientists.
+review_note: AI-researched, source-scoped draft; not independently reviewed by community members, historians
+  or scientists.
 relations:
 - relation: compare_with
   target: styles/berliner-weisse
@@ -67,7 +89,18 @@ These are physiological mechanisms and selected strain experiments, not instruct
 - [Kettle Souring](../processes/kettle-souring.md)
 - [Hop Alpha Acids](../ingredients/hop-alpha-acids.md)
 
+
+## Edition 1.7: newly sourced connections
+
+Experimental studies have associated the **HorA** and **HorC** determinants with hop resistance in particular *L. brevis* systems. But a separate experiment with TMW 1.465 described effective resistance through metabolism, membranes and cell-wall changes despite no detected HorA transport route. These observations warn against promoting one gene into a universal spoilage diagnosis.[^v17-horA][^v17-horC][^v17-hop-alt]
+
+The [gene-marker comparison](hora-horc-and-hop-resistance-markers.md) and [filling-line case](craft-brewery-filling-line-microbes.md) separate mechanistic experiments from facility sampling. A targeted fermentation culture and a contaminant belong to different process contexts; no safety judgment follows from species identity alone.
+
 ## Source notes
 
 [^v16-hop-review]: [The two faces of microorganisms in traditional brewing and implications for no- and low-alcohol beer (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10910910/). Review authors. Consulted 2026-10-28. Access: Open review text on iso-alpha acid antimicrobial effects, resistance and selected yeasts; organism behavior depends on strain and conditions.
 [^v16-hop-primary]: [Characterization of a highly hop-resistant Lactobacillus brevis strain lacking hop transport (2006)](https://pubmed.ncbi.nlm.nih.gov/17021196/). Study authors. Consulted 2026-10-28. Access: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance mechanisms, not a universal species trait.
+
+[^v17-horA]: [Hop resistance in Lactobacillus brevis mediated by transporter HorA (2001)](https://pubmed.ncbi.nlm.nih.gov/11514522/). K. Sakamoto and colleagues. Consulted 2026-10-28. Access: PubMed indexed abstract/metadata for HorA transport findings in experimental setting; not species-wide screen.
+[^v17-horC]: [horC confers beer-spoilage ability on hop-sensitive Lactobacillus brevis (2006)](https://pubmed.ncbi.nlm.nih.gov/16696675/). K. Iijima and colleagues. Consulted 2026-10-28. Access: Indexed abstract of gene-specific experiment; no single-gene diagnostic claim.
+[^v17-hop-alt]: [Characterization of a highly hop-resistant L. brevis strain lacking hop transport (2006)](https://pubmed.ncbi.nlm.nih.gov/17021196/). Study authors. Consulted 2026-10-28. Access: Indexed abstract: metabolic/cell-wall adaptation in strain TMW 1.465; warns against gene determinism.

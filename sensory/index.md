@@ -35,3 +35,7 @@ New evidence-based references (all retain draft status):
 
 - [Clove aroma can come from yeast, not clove spice](clove-aroma-and-4-vinylguaiacol.md) — Follow ferulic acid through processing and phenolic yeast activity without inventing an ingredient list.
 - [Two routes to banana aroma: fruit and fermentation esters](banana-fruit-vs-yeast-esters.md) — Why a banana descriptor does not identify banana juice in the recipe.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Diacetyl and other VDKs are moving fermentation targets](vicinal-diketones-as-moving-target.md) — A mechanistic account of changing precursors, yeast removal and why one buttery-aroma reading is not a timeless recipe limit.

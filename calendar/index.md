@@ -36,3 +36,7 @@ New evidence-based references (all retain draft status):
 ## Edition 1.6 — additional source-scoped research
 
 - [Sahti occasions: weddings and funerals, not a fixed festival date](sahti-occasions-without-a-fixed-date.md) — How a documented Finnish celebration-centered beer resists an invented Gregorian event schedule.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Household chicha sales days in the Piura field study](piura-chicha-sales-days.md) — Local recurring sales schedules observed in a study of northern Peruvian women-run chicherías, not an annual festival.

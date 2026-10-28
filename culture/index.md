@@ -50,3 +50,11 @@ New evidence-based references (all retain draft status):
 - [Five beverages and five communities in southern Assam](southern-assam-five-beverage-study.md) — A close reading of named drinks, sample design and cultural limitations in a 2024 comparison.
 - [Mapuche fermented drinks and the voices in colonial sources](mapuche-fermented-drinks-and-source-voices.md) — What a Chilean literature review says about fermented beverages, women’s work and unequal historical records.
 - [Sahti apprenticeship and celebration in Finnish accounts](sahti-apprenticeship-and-celebration.md) — How one brewer learned from a neighbor and how sahti is described as an occasion-centered drink.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Chicheras, household production and sale days in Piura](piura-chicheras-and-household-sales.md) — A 2008 ethnoarchaeological account of women-run maize-beer production and commercial rhythms in northern Peru.
+- [Pito bars, migration and belonging in Ghana](ghana-pito-bars-migration-and-identity.md) — An anthropologist’s fieldwork on sorghum-beer service, sociality and migration in Brong Ahafo and northern Ghana.
+- [Sake-making, koji and intangible heritage in Japan](japanese-koji-sake-heritage-and-apprenticeship.md) — The 2024 UNESCO inscription describes transmitted rice-sake brewing skills, ceremony and collaborative craft, not a global beer style.
+- [Women brewing pito: an Upper West Ghana survey](ghana-pito-women-enterprise-survey.md) — Business constraints reported by a purposive study of women pito brewers across eight communities in Ghana’s Upper West Region.
+- [Tella, hospitality and household brewing in Ethiopian research](tella-hospitality-and-household-economy.md) — A 2025 review situates Ethiopian tella as hospitality, social occasion and household economic activity alongside a varied grain-and-gesho process.

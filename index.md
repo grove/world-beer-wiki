@@ -6,21 +6,21 @@ okf_version: "0.2"
 
 ## Beer styles, living traditions, ingredients and brewing categories
 
-**Research edition 1.6 · 28 October 2026 · 402 subject articles across thirteen reference layers**
+**Research edition 1.7 · 28 October 2026 · 428 subject articles across thirteen reference layers**
 
 An English-language, source-referenced Markdown knowledge base for readers and LLM retrieval. Start with a named beer, explore its ingredients, then compare the traditions and processes around it. Articles distinguish current judging descriptions, local practice, related ferments and historical evidence.
 
-The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.6](editorial/research-update-1-6.md).
+The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.7](editorial/research-update-1-7.md).
 
 ## Choose a route
 
 | Start here | What you will find |
 |---|---|
 | [How beer categories work](categories/beer-classification.md) | Separate style, fermentation, ingredient, region, period and serving method. |
-| [All beer and tradition profiles](styles/index.md) | 170 canonical articles, with kinds, geographical focus and explicit judging references. |
-| [Category guides](categories/index.md) | 23 comparative guides covering familiar families and cross-cutting processes. |
-| [Ingredients and cultures](ingredients/index.md) | 41 references covering grains, water, hops, cultures, botanicals and other additions. |
-| [Complete atlas subject index](navigation/all-atlas-subjects.md) | All 402 entries across thirteen reference layers, regenerated from article metadata. |
+| [All beer and tradition profiles](styles/index.md) | 171 canonical articles, with kinds, geographical focus and explicit judging references. |
+| [Category guides](categories/index.md) | 25 comparative guides covering familiar families and cross-cutting processes. |
+| [Ingredients and cultures](ingredients/index.md) | 42 references covering grains, water, hops, cultures, botanicals and other additions. |
+| [Complete atlas subject index](navigation/all-atlas-subjects.md) | All 428 entries across thirteen reference layers, regenerated from article metadata. |
 | [Names and aliases](navigation/all-names.md) | Search titles and scoped alternative names across all three sections. |
 | [By region](navigation/by-region.md) | Geographical routes through the beer and tradition profiles. |
 | [By family](navigation/by-family.md) | Topic and tag routes, with links into the category explanations. |
@@ -72,3 +72,7 @@ Articles remain AI-researched drafts with source-specific access limits. This is
 [Wari archaeology](history/cerro-baul-wari-brewery.md) · [Oxford alewives](culture/alewives-and-oxford-town-life.md) · [Himalayan starters](culture/marcha-and-himalayan-starter-knowledge.md) · [Vietnamese mixed starters](microbiology/vietnamese-banh-men-communities.md) · [Sensory bitterness](sensory/bitterness-is-not-one-number.md) · [BJCP 2021 and BA 2026](categories/bjcp-2021-versus-ba-2026.md) · [The full atlas directory](navigation/all-atlas-subjects.md)
 
 The [source supplement](references/atlas-sources-1-5.md) and [research review queue](editorial/source-review-queue-1-5.md) distinguish evidence, access limitations and work not independently checked.
+
+## Newly connected research: 1.7
+
+Follow the [six evidence-driven routes](navigation/edition-1-7-reading-trails.md): royal brewing at Abydos, women’s commercial brewing in several cultures, household chicha calendars in Piura, Philippine rice starters, beer microbiology, and conditional environmental claims. Each link leads to a research draft with its own source limitations. [All 428 subjects](navigation/all-atlas-subjects.md) · [Research update](editorial/research-update-1-7.md) · [Sources](references/atlas-sources-1-7.md) · [Review queue](editorial/source-review-queue-1-7.md).

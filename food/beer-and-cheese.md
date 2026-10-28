@@ -23,6 +23,13 @@ sources:
   source_kind: sensory-interview-abstract
   access_scope: 'Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles;
     not consumer preference laws.'
+- id: v17-cheese
+  resource: https://www.sciencedirect.com/science/article/abs/pii/S0950329313000931
+  title: Consumer preference for cheese and beer pairings (2013)
+  author_label: Gianluca Donadini, Maria Daria Fumi and Milena Lambri
+  source_kind: primary-consumer-study-abstract
+  access_scope: Publisher abstract of an 80-person sensory preference study; one sample setting, not
+    a universal pairing law.
 scope: A 2015 study of consumers tasting bottom-fermented red beers and cheeses.
 evidence_basis:
 - consumer-pairing-experiment-abstract
@@ -53,8 +60,17 @@ Compare the [expert interview framework](beer-food-pairing-as-a-hypothesis.md) w
 
 A 2015 study of consumers tasting bottom-fermented red beers and cheeses. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
+
+## Edition 1.7: newly sourced connections
+
+In a consumer tasting study with 80 participants, beer–cheese preference depended on more than liking the two products independently; eating cheese also affected perceived beer character. This is a limited sensory result rather than proof that a particular cheese and beer combination is universally optimal.[^v17-cheese]
+
+Read the [consumer-testing case](cheese-beer-preference-is-not-a-rule.md) alongside [pairing as a hypothesis](beer-food-pairing-as-a-hypothesis.md). Tasting environment, participant preferences and chosen products belong in the interpretation.
+
 ## Source notes
 
 [^v14-cheese]: [Matches of Bottom-Fermented Red Beers with Cheeses (2015)](https://www.sciencedirect.com/science/article/pii/S0963996914006930). G. Donadini, M. D. Fumi and I. R. Newby-Clark. Consulted 2026-10-27. Access: Publisher abstract of consumers and cheese/beer match perceptions; study-specific combinations.
 
 [^v14-food]: [From Expert Knowledge and Sensory Science to Food-and-Beer Pairing (2019)](https://www.sciencedirect.com/science/article/pii/S1878450X18300830). Food-pairing interview study authors. Consulted 2026-10-27. Access: Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles; not consumer preference laws.
+
+[^v17-cheese]: [Consumer preference for cheese and beer pairings (2013)](https://www.sciencedirect.com/science/article/abs/pii/S0950329313000931). Gianluca Donadini, Maria Daria Fumi and Milena Lambri. Consulted 2026-10-28. Access: Publisher abstract of an 80-person sensory preference study; one sample setting, not a universal pairing law.
