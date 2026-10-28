@@ -55,6 +55,18 @@ sources:
   author_label: "Dyfed Rhys Morgan, David Styles and Eifiona Thomas Lane"
   source_kind: "primary-seven-brewery-life-cycle-assessment-abstract"
   access_scope: "Full PubMed abstract from a seven-microbrewery LCA comparing reusable glass, aluminum cans, PET and steel kegs and distribution. The complete modeling inventory was not independently re-calculated; case and transport boundaries govern findings."
+- id: v119-swissice26
+  resource: "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/"
+  title: "Cool beer — all year round (April 2026)"
+  author_label: "Géraldine Lysser for Swiss National Museum"
+  source_kind: "national-museum-historical-interpretation"
+  access_scope: "Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced."
+- id: v119-chicagoice
+  resource: "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/"
+  title: "Refrigeration: Something's Brewing exhibit"
+  author_label: "University of Chicago Library"
+  source_kind: "university-library-historical-exhibition"
+  access_scope: "Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research."
 regions:
 - Europe
 - United Kingdom
@@ -138,3 +150,15 @@ A cask's material and a bar's social practices are different evidence classes. K
 [^v118-ppwr-guidance26]: [Commission Notice C/2026/3084 interpreting Regulation (EU) 2025/40 (10 June 2026)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026XC03084). European Commission. Consulted 2026-10-28. Access: Public indexed Commission guidance dated 10 June 2026 including distinction between HORECA kegs sold to venues and consumer sales packaging; detailed applicability to any actual operator not independently assessed.
 
 [^v118-lca22]: [Packaging choice and coordinated distribution logistics to reduce the environmental footprint of small-scale beer value chains (2022)](https://pubmed.ncbi.nlm.nih.gov/35104702/). Dyfed Rhys Morgan, David Styles and Eifiona Thomas Lane. Consulted 2026-10-28. Access: Full PubMed abstract from a seven-microbrewery LCA comparing reusable glass, aluminum cans, PET and steel kegs and distribution. The complete modeling inventory was not independently re-calculated; case and transport boundaries govern findings.
+
+## Edition 1.19: newly sourced connections
+
+Temperature-controlled beer storage has a material history that intersects with, but does not determine, pub community traditions. The Swiss National Museum describes ice ponds, cellar sites and later refrigeration as parts of the changing commercial beer landscape. It does not provide a firsthand survey of the people attending British cask pubs or demonstrate that a named community used the Swiss system.[^v119-swissice26]
+
+The University of Chicago Library exhibition situates refrigeration and storage within industrial brewing and beer distribution. Industrial equipment availability alone cannot identify a venue's hospitality customs, legal obligations or social meaning.[^v119-chicagoice]
+
+A cultural wiki must attribute cask practice to relevant local sources and keep inherited narratives distinct from machine history. Read [brewing and ice-cellar history](../history/ice-houses-to-mechanical-brewery-cooling.md) and [the ice-house object](../objects/historical-brewery-ice-house.md). These new links provide a comparison, not a claimed cultural lineage.
+
+[^v119-swissice26]: [Cool beer — all year round (April 2026)](https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/). Géraldine Lysser for Swiss National Museum. Checked 2026-10-28. Access: Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced.
+
+[^v119-chicagoice]: [Refrigeration: Something's Brewing exhibit](https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/). University of Chicago Library. Checked 2026-10-28. Access: Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research.

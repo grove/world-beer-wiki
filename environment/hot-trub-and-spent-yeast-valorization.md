@@ -23,6 +23,18 @@ sources:
   source_kind: secondary-systematic-literature-review
   access_scope: Public 2026 review abstract and indexed material on a 38-study evidence synthesis, technology readiness
     and economics; not a plant-level life-cycle inventory.
+- id: v119-spent26
+  resource: "https://www.mdpi.com/2071-1050/18/5/2464"
+  title: "Circular Valorization of Brewer’s Spent Grain and Brewer’s Yeast (2026)"
+  author_label: "Sustainability 2026 circular bioeconomy review authors"
+  source_kind: "peer-reviewed-spent-grain-and-yeast-review"
+  access_scope: "Public abstract of 38 selected papers from 2010–2024 comparing food, feed, energy and material reuse; not certification of a particular byproduct food/feed lot."
+- id: v119-bioenergy26
+  resource: "https://link.springer.com/article/10.1007/s12649-026-03515-0"
+  title: "Brewery Byproducts as Bioenergy Sources: A Review of Biohydrogen and Biomethane Production (2026)"
+  author_label: "Waste and Biomass Valorization review authors"
+  source_kind: "open-peer-reviewed-bioenergy-system-review"
+  access_scope: "Full open literature synthesis of brewery organic wastes, digester configurations, microbial interaction and resource limits; not actual gas production at a named brewery."
 regions:
 - Cross-regional
 scope: A 2025 analytical sample study and a 2026 review, distinct from proven field deployment.
@@ -66,3 +78,15 @@ The descriptions preserve the cited source's study population, region, time and 
 [^v114-waste]: [Chemical Characterization of Hot Trub and Residual Yeast: Sustainable Agricultural Applications (2025)](https://www.mdpi.com/2304-8158/14/12/2081). Foods research team, University of Chemistry and Technology Prague. Consulted 2026-10-28. Access: Accessible indexed abstract and methods summary on selected top- and bottom-fermented beer by-product samples; screening for 57 mycotoxins does not certify all waste streams for food or soil use.
 
 [^v114-circular]: [Circular Valorization of Brewer’s Spent Grain and Brewer’s Yeast (2026)](https://www.mdpi.com/2071-1050/18/5/2464). Nora Haring, Blažena Drábová and Milan Chňapek. Consulted 2026-10-28. Access: Public 2026 review abstract and indexed material on a 38-study evidence synthesis, technology readiness and economics; not a plant-level life-cycle inventory.
+
+## Edition 1.19: newly sourced connections
+
+Waste valorization is not one predetermined route from residual solids to energy. A 2026 circularity review surveys food/feed, biochemical, materials and energy uses for spent grain and surplus brewer's yeast. It is not evidence that the same material stream can simultaneously be counted as displaced food, energy fuel and fertilizer without a mass balance and allocation choice.[^v119-spent26]
+
+A 2026 bioenergy review assesses anaerobic digestion and biohydrogen or biomethane routes for different brewery wastes. Those technologies have microbial, compositional and scale limitations. A theoretical methane output is not a direct greenhouse-gas reduction or a food safety certificate for an untested residual.[^v119-bioenergy26]
+
+For the existing hot-trub guide retain the particular fraction, collection stage, analytical composition and desired destination. Read [byproducts as feedstocks](../ingredients/spent-grain-and-yeast-as-bioenergy-feedstocks.md) and [food waste versus digestion](../food/food-waste-brewing-is-not-wastewater-digestion.md). A circularity model cannot replace product-specific requirements.
+
+[^v119-spent26]: [Circular Valorization of Brewer’s Spent Grain and Brewer’s Yeast (2026)](https://www.mdpi.com/2071-1050/18/5/2464). Sustainability 2026 circular bioeconomy review authors. Checked 2026-10-28. Access: Public abstract of 38 selected papers from 2010–2024 comparing food, feed, energy and material reuse; not certification of a particular byproduct food/feed lot.
+
+[^v119-bioenergy26]: [Brewery Byproducts as Bioenergy Sources: A Review of Biohydrogen and Biomethane Production (2026)](https://link.springer.com/article/10.1007/s12649-026-03515-0). Waste and Biomass Valorization review authors. Checked 2026-10-28. Access: Full open literature synthesis of brewery organic wastes, digester configurations, microbial interaction and resource limits; not actual gas production at a named brewery.

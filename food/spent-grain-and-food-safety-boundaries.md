@@ -26,6 +26,18 @@ sources:
   author_label: "European Commission"
   source_kind: "official-dated-eu-amendment"
   access_scope: "Full public 2024 legal act applying from 1 July 2024; not evidence of identical limits for every cereal, beer and brewery by-product."
+- id: v119-foodwaste25
+  resource: "https://circulareconomyjournal.org/ojs/JoCE/article/view/215"
+  title: "Food Waste Utilisation in Beer Production: Enablers and Barriers in European Craft Brewing (2025)"
+  author_label: "Milica Končar"
+  source_kind: "open-small-sample-industry-interview-study"
+  access_scope: "Full public abstract studying seven craft practitioners in four European countries; survey of organizational barriers, not representative consumer tasting or ingredient safety testing."
+- id: v119-spent26
+  resource: "https://www.mdpi.com/2071-1050/18/5/2464"
+  title: "Circular Valorization of Brewer’s Spent Grain and Brewer’s Yeast (2026)"
+  author_label: "Sustainability 2026 circular bioeconomy review authors"
+  source_kind: "peer-reviewed-spent-grain-and-yeast-review"
+  access_scope: "Public abstract of 38 selected papers from 2010–2024 comparing food, feed, energy and material reuse; not certification of a particular byproduct food/feed lot."
 regions:
 - "Cross-regional"
 scope: "Brewer's spent grain as food or feed is not automatically safety-cleared; actual source evidence, not universal food safety, crop history or event schedule."
@@ -77,3 +89,15 @@ This article neither certifies food or beverage safety nor establishes a fixed u
 [^v117-eu-contaminants]: [Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915). European Commission. Checked 2026-10-28. Access: EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision.
 
 [^v117-eu-don-amendment]: [Commission Regulation (EU) 2024/1022 amending maximum levels of deoxynivalenol in food](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1022). European Commission. Checked 2026-10-28. Access: Full public 2024 legal act applying from 1 July 2024; not evidence of identical limits for every cereal, beer and brewery by-product.
+
+## Edition 1.19: newly sourced connections
+
+Food waste entering a new beer recipe and brewery spent grain leaving production are different material and regulatory pathways. Končar's 2025 qualitative study interviewed seven practitioners from four European countries about barriers and enablers to using food waste in beer. Its interview findings are not safety analyses of a named ingredient, nutrition results or a representative consumer tasting panel.[^v119-foodwaste25]
+
+A 2026 review of spent grain and surplus yeast surveys possible uses in food, feed, biotechnology, materials and energy. A potential application does not certify a byproduct lot for consumption, and using waste to produce methane is not itself a food process.[^v119-spent26]
+
+Preserve intended use, ingredient origin, testing regime and relevant legal category before comparing material reuse. Read [food waste in beer versus wastewater digestion](food-waste-brewing-is-not-wastewater-digestion.md) and [energy feedstocks](../ingredients/spent-grain-and-yeast-as-bioenergy-feedstocks.md). These are research paths, not food-preservation or waste-handling recipes.
+
+[^v119-foodwaste25]: [Food Waste Utilisation in Beer Production: Enablers and Barriers in European Craft Brewing (2025)](https://circulareconomyjournal.org/ojs/JoCE/article/view/215). Milica Končar. Checked 2026-10-28. Access: Full public abstract studying seven craft practitioners in four European countries; survey of organizational barriers, not representative consumer tasting or ingredient safety testing.
+
+[^v119-spent26]: [Circular Valorization of Brewer’s Spent Grain and Brewer’s Yeast (2026)](https://www.mdpi.com/2071-1050/18/5/2464). Sustainability 2026 circular bioeconomy review authors. Checked 2026-10-28. Access: Public abstract of 38 selected papers from 2010–2024 comparing food, feed, energy and material reuse; not certification of a particular byproduct food/feed lot.
