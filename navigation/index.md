@@ -62,3 +62,7 @@
 ## Research edition 1.17 — nine evidence-led routes
 
 [Nine field-to-glass reading trails](edition-1-17-reading-trails.md) · [713 current subjects](all-atlas-subjects.md) · [929 scoped titles and aliases](all-names.md). The routes connect barley crop timing, pathogens versus starters, chemical transfer, unexpected foam, Scottish Bere history, distinct Ethiopian grain markets, malt sensory experiments, by-product boundaries and agricultural climate evidence.
+
+## Research edition 1.18 — nine questions about packaged beer
+
+[Nine research-led reading trails](edition-1-18-reading-trails.md) connect oxygen, beer aging, lightstruck chemistry, refermentation, packaging footprints, the EU's 2026 packaging rules, crown-cork history and a Smithsonian beer can. [All 740 subjects](all-atlas-subjects.md) · [956 scoped names and aliases](all-names.md) · [Research update](../editorial/research-update-1-18.md).

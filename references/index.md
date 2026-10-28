@@ -62,3 +62,9 @@ Source records, independent publications and independent confirmations are diffe
 [Generated register of 19 works and 95 actual article-source uses](atlas-sources-1-17.md) · [Machine-readable research manifest](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-17/references/atlas-source-manifest-1-17.json) · [Source-consistency tool](../tools/build_edition_sources.py).
 
 The source record preserves what was actually accessible (including abstracts and indexed materials), while article backlinks are generated from metadata. Neither repeated citations nor a published laboratory study mean independent corroboration or a food-safety clearance.
+
+## Research edition 1.18 — packaging sources and provenance
+
+[Annotated register of 22 external works and 101 actual article-source uses](atlas-sources-1-18.md) · [Machine-readable source manifest](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-18/references/atlas-source-manifest-1-18.json) · [Source consistency auditor](../tools/build_edition_sources.py).
+
+The register is derived from citation-bearing article metadata. Full papers, indexed summaries, official regulations, protected technical methods and museum catalogues are distinct evidence classes. Reuse of a source across many articles is not independent corroboration.
