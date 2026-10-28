@@ -41,7 +41,7 @@ relations:
 - relation: compare_with
   target: food/can-liners-and-food-contact-evidence
 - relation: compare_with
-  target: sensory/beer-lightstruck-and-stale-are-different
+  target: sensory/lightstruck-vs-oxidative-staling
 ---
 
 # Food-contact compliance is not a beer flavor description
@@ -56,13 +56,13 @@ The European Commission's food-contact legislation overview identifies the under
 
 In a 2025 experiment on unpasteurized top-fermented beer, changing filtration, yeast and storage conditions affected particular sensory and chemical endpoints. The study did not test migration of BPA or the compliance of metal-can coatings. A stale aroma in a product therefore cannot be assigned to a regulated packaging substance based only on tasting.[^v118-storage25]
 
-A wiki should store **food-contact law**, **documented material composition**, **migration or compliance tests** and **consumer sensory observations** as distinct evidence types. Technical terms on packaging may describe performance, not a competition style or a food-safety certificate. Compare [contact layers](../objects/metal-can-linings-and-food-contact.md), [food questions](../food/can-liners-and-food-contact-evidence.md) and [staling distinctions](../sensory/beer-lightstruck-and-stale-are-different.md).
+A wiki should store **food-contact law**, **documented material composition**, **migration or compliance tests** and **consumer sensory observations** as distinct evidence types. Technical terms on packaging may describe performance, not a competition style or a food-safety certificate. Compare [contact layers](../objects/metal-can-linings-and-food-contact.md), [food questions](../food/can-liners-and-food-contact-evidence.md) and [staling distinctions](../sensory/lightstruck-vs-oxidative-staling.md).
 
 ## Explore connected subjects
 
 - [metal can linings and food contact](../objects/metal-can-linings-and-food-contact.md)
 - [can liners and food contact evidence](../food/can-liners-and-food-contact-evidence.md)
-- [beer lightstruck and stale are different](../sensory/beer-lightstruck-and-stale-are-different.md)
+- [beer lightstruck and stale are different](../sensory/lightstruck-vs-oxidative-staling.md)
 
 ## Evidence boundary
 
