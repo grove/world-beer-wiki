@@ -65,3 +65,9 @@ New evidence-based references (all retain draft status):
 
 - [Bere crop resilience](bere-barley-crop-resilience.md) — Regional agronomic evidence is not a global footprint label.
 - [Wet-weather crop risks](barley-harvest-wet-weather-risks.md) — Weather timing, dormancy, cultivars and production endpoints.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Seven-brewery and PET-keg case studies](seven-breweries-versus-pet-keg-case.md) — Why two published LCA outcomes cannot be ranked without boundaries.
+- [Returnable bottles and operational losses](returnable-bottles-and-system-losses.md) — Washing, breakage, return rates and product loss matter.
+- [EU packaging reuse scope](eu-packaging-reuse-law-scope.md) — 2026 application differs from later requirements and consumer packaging categories.

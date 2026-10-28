@@ -116,3 +116,9 @@ New evidence-based references (all retain draft status):
 - [Fusarium malt-to-beer transformations](fusarium-malt-to-beer-transformation.md) — Controlled inoculation is not a toxin-removal or consumer compliance process.
 - [Malting and grain fungi](malting-germination-and-grain-fungi.md) — Enzyme development and field-origin risk as distinct questions.
 - [Sprouting before harvest versus malting](preharvest-sprouting-versus-malting.md) — Identical biological concepts can have different process roles.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Two-phase total package oxygen](total-package-oxygen-has-two-phases.md) — Dissolved oxygen is not the complete container inventory.
+- [Cold-chain study limitations](cold-chain-experiment-is-not-a-universal-expiry.md) — One unpasteurized-ale trial does not define every beer's expiry.
+- [Pulsed-light processing tradeoffs](pulsed-light-has-a-flavor-tradeoff.md) — Lightstruck chemistry and microbial endpoints differ.

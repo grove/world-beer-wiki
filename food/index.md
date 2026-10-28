@@ -57,3 +57,7 @@ New evidence-based references (all retain draft status):
 
 - [Spent grain as food/feed: evidence limits](spent-grain-and-food-safety-boundaries.md) — By-product reuse is not an automatic regulatory or safety clearance.
 - [Bere as bread and brewing grain](bere-grain-food-and-brewing-boundaries.md) — One crop can be flour, feed, malt and more without a single named recipe.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Beer can liners and food-contact evidence](can-liners-and-food-contact-evidence.md) — Law, migration testing and taste are different evidence types.

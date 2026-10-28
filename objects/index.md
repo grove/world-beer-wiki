@@ -70,3 +70,9 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.17 — bounded field-to-glass evidence
 
 - [Grain stores and sample provenance](grain-stores-and-sample-provenance.md) — Storage conditions and sampled grain are distinct from an accepted food-safety lot.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Crown cork and liner](crown-cork-and-sealing-liner.md) — The actual crimped seal documented in an 1892 patent.
+- [Smithsonian Baltimore beer can](baltimore-handled-beer-can.md) — A specific handled can with documented industrial provenance.
+- [Metal cans and food-contact layers](metal-can-linings-and-food-contact.md) — Material law is different from any can's proven contents.
