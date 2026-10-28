@@ -52,3 +52,7 @@ Source records, independent publications and independent confirmations are diffe
 ## Research edition 1.15
 
 [Edition 1.15 source-use register](atlas-sources-1-15.md) documents 16 distinct external works, the actual new and revised pages that cite them, and their access limitations. A reused work does not become independent corroboration.
+
+## Research edition 1.16 — reproducible sources
+
+[Generated source register with 94 actual backlinks](atlas-sources-1-16.md) · [Machine-readable 19-work source manifest](atlas-source-manifest-1-16.json) · [Source consistency auditor](../tools/build_edition_sources.py). The register is generated from actual article use; an abstract or standard landing page is not the same as full-text review or independent verification.

@@ -54,3 +54,7 @@
 ## Research edition 1.15
 
 [Seven evidence-led reading trails](edition-1-15-reading-trails.md) connect labels, historical circulars, glassware physical chemistry, limited-alcohol safety research and brewery water accounting. [All 662 subjects](all-atlas-subjects.md) · [Names and aliases](all-names.md).
+
+## Research edition 1.16
+
+[Eight question-led measurement and evidence trails](edition-1-16-reading-trails.md) · [All 685 subjects](all-atlas-subjects.md) · [901 scoped names and aliases](all-names.md). The questions span IBU, colour, acidity, gravity, sensory discrimination, historical instruments, cultural identity and LCA boundaries.
