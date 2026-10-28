@@ -83,3 +83,9 @@ New evidence-based references (all retain draft status):
 
 - [Beer bubble counts as model, not sensory score](beer-bubbles-and-model-boundaries.md) — A single experimental lager cannot define every glass.
 - [Foam lacing, residues and competing explanations](foam-lacing-and-residues.md) — Practical service cues versus controlled CO2 physical chemistry.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Triangle sensory tests](triangle-tests-for-beer.md) — Difference detection without quality ranking.
+- [Beer colour in a glass](beer-colour-in-a-glass.md) — Lighting, viewing path and haze versus instrument SRM.
+- [Expectations from colour and labels](expectations-and-beer-colour.md) — Contextual consumer-study limits.

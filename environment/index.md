@@ -56,3 +56,7 @@ New evidence-based references (all retain draft status):
 
 - [Brewery water ratio versus product footprint](brewery-water-ratio-versus-water-footprint.md) — Avoid mixing operational liters with supply-chain water accounting.
 - [Direct versus indirect brewing water](direct-and-indirect-water-in-brewing.md) — Accounting categories and geographic scope without fabricated numbers.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Lab accuracy versus environmental footprints](analytical-consistency-is-not-a-life-cycle-footprint.md) — Analytical proficiency does not supply an LCA inventory.

@@ -84,3 +84,8 @@ New evidence-based references (all retain draft status):
 
 - [Two US definitions: beer and malt beverage](us-beer-vs-malt-beverage-definitions.md) — Federal tax and federal label meanings are not interchangeable.
 - [From a 1991 ATF marketing circular to TTB terminology](from-1991-atf-circular-to-current-guidance.md) — Two dated documentary snapshots, not a complete legal evolution.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [John Richardson and extract](richardson-saccharometry-and-extract.md) — 18th-century commercial construction of measurement.
+- [From visual comparison to instrumental colour](from-lovibond-comparisons-to-srm.md) — Why historical descriptors cannot be assigned exact modern SRM.

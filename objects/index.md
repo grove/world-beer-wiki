@@ -61,3 +61,8 @@ New evidence-based references (all retain draft status):
 
 - [Beer-clean glassware](beer-clean-glassware.md) — Service observations, residue and the limits of visual checks.
 - [Microscopic nucleation sites in a beer glass](glass-surface-nucleation-sites.md) — Why a bubbling site need not prove an unclean glass.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Hydrometers and readings](hydrometers-and-reading-conditions.md) — Sample temperature and scale context.
+- [A historical saccharometer](saccharometer-in-the-museum.md) — An approximately dated instrument, not a recipe or festival.

@@ -116,3 +116,7 @@ New evidence-based references (all retain draft status):
 ## Edition 1.15 — sourced evidence and boundaries
 
 - [Who gets to define beer?](institutional-vocabularies-of-beer.md) — The different authority of community naming, legislation, competitions and archived business guidance.
+
+## Research edition 1.16 — measurements, history and evidence
+
+- [Who calls brewing numbers authoritative?](brewing-numbers-and-institutional-authority.md) — Technical measurement and lived brewing knowledge differ.
