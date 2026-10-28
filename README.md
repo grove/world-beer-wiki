@@ -56,7 +56,7 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 | [Environment](environment/index.md) | 20 | Climate, cultivation, energy, water and materials. |
 | [Beer with food](food/index.md) | 12 | Evidence-based pairing context and consumer study designs. |
 
-That is **662 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.13 research update](editorial/research-update-1-13.md) document delivered and remaining scope.
+That is **662 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.15 research update](editorial/research-update-1-15.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 

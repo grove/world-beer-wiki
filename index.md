@@ -18,8 +18,8 @@ The [Atlas specification](editorial/atlas-specification.md) defines the scope an
 |---|---|
 | [How beer categories work](categories/beer-classification.md) | Separate style, fermentation, ingredient, region, period and serving method. |
 | [All beer and tradition profiles](styles/index.md) | 191 named beer/tradition, specialty and related-ferment profiles, distinguished by type and scope. |
-| [Category guides](categories/index.md) | 40 comparative category guides, not mutually exclusive styles. |
-| [Ingredients and cultures](ingredients/index.md) | 64 sources, botanicals, additions and cultures with named roles. |
+| [Category guides](categories/index.md) | 42 comparative category guides, not mutually exclusive styles. |
+| [Ingredients and cultures](ingredients/index.md) | 65 sources, botanicals, additions and cultures with named roles. |
 | [Complete atlas subject index](navigation/all-atlas-subjects.md) | All 662 entries across thirteen reference layers, regenerated from article metadata. |
 | [Names and aliases](navigation/all-names.md) | Search titles and scoped alternative names across all thirteen research sections. |
 | [By region](navigation/by-region.md) | Geographical routes through the beer and tradition profiles. |
@@ -31,16 +31,16 @@ The [Atlas specification](editorial/atlas-specification.md) defines the scope an
 
 | Explore | What it adds |
 |---|---|
-| [Culture and institutions](culture/index.md) | 64 situated cases of hospitality, work, exchange, livelihood and knowledge. |
-| [Seasons and calendars](calendar/index.md) | 24 events or seasonal accounts with explicit date and recurrence limits. |
-| [Microorganisms and ecology](microbiology/index.md) | 59 organism and ecological references with sampling limits. |
-| [Processes](processes/index.md) | 50 documented techniques, from starch conversion to aging. |
-| [Objects and serving](objects/index.md) | 19 equipment and service references. |
-| [Sensory reasoning](sensory/index.md) | 31 guides to flavor and experimental evidence. |
-| [Stories and discoveries](stories/index.md) | 33 source-grounded narrative reading routes. |
-| [Historical research and archaeology](history/index.md) | 39 archaeological, historical and historiographical studies. |
-| [Environment and brewing resources](environment/index.md) | 18 resource and environmental assessments. |
-| [Beer with food](food/index.md) | 11 evidence-driven food and pairing comparisons. |
+| [Culture and institutions](culture/index.md) | 65 situated cases of hospitality, work, exchange, livelihood and knowledge. |
+| [Seasons and calendars](calendar/index.md) | 25 events or seasonal accounts with explicit date and recurrence limits. |
+| [Microorganisms and ecology](microbiology/index.md) | 60 organism and ecological references with sampling limits. |
+| [Processes](processes/index.md) | 52 documented techniques, from starch conversion to aging. |
+| [Objects and serving](objects/index.md) | 21 equipment and service references. |
+| [Sensory reasoning](sensory/index.md) | 33 guides to flavor and experimental evidence. |
+| [Stories and discoveries](stories/index.md) | 35 source-grounded narrative reading routes. |
+| [Historical research and archaeology](history/index.md) | 41 archaeological, historical and historiographical studies. |
+| [Environment and brewing resources](environment/index.md) | 20 resource and environmental assessments. |
+| [Beer with food](food/index.md) | 12 evidence-driven food and pairing comparisons. |
 | [Atlas reading paths](navigation/atlas.md) | Follow people, materials, time and transformations across the layers. |
 
 ## Four worthwhile comparisons

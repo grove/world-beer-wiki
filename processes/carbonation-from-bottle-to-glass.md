@@ -16,7 +16,7 @@ sources:
   access_scope: "Open full ACS Omega paper with one commercial lager and idealized bubble-nucleation model; not a universal glass quality test."
 - id: v115-ba
   resource: "https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/"
-  title: "Draught Beer Quality Manual: public resource page (2026)"
+  title: "Draught Beer Quality Manual: public resource page"
   author_label: "Brewers Association Technical Committee"
   source_kind: "industry-technical-guidance-overview"
   access_scope: "Full public resource overview describing line cleaning, gas balance, pouring and glassware; detailed manual instructions not treated as verified."
@@ -67,4 +67,4 @@ This article distinguishes documentary source scope, observed measurements and e
 
 [^v115-bubbles]: [How Many CO2 Bubbles in a Glass of Beer? (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/). Gérard Liger-Belair and Clara Cilindre. Consulted 2026-10-28. Access: Open full ACS Omega paper with one commercial lager and idealized bubble-nucleation model; not a universal glass quality test.
 
-[^v115-ba]: [Draught Beer Quality Manual: public resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public resource overview describing line cleaning, gas balance, pouring and glassware; detailed manual instructions not treated as verified.
+[^v115-ba]: [Draught Beer Quality Manual: public resource page](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public resource overview describing line cleaning, gas balance, pouring and glassware; detailed manual instructions not treated as verified.

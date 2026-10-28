@@ -16,7 +16,7 @@ sources:
   access_scope: "Full public practical beer-glass cleaning and observational tests; not a microbiological sterility or regulatory certification."
 - id: v115-ba
   resource: "https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/"
-  title: "Draught Beer Quality Manual: public resource page (2026)"
+  title: "Draught Beer Quality Manual: public resource page"
   author_label: "Brewers Association Technical Committee"
   source_kind: "industry-technical-guidance-overview"
   access_scope: "Full public resource overview describing line cleaning, gas balance, pouring and glassware; detailed manual instructions not treated as verified."
@@ -67,4 +67,4 @@ This article distinguishes documentary source scope, observed measurements and e
 
 [^v115-glass]: [The Official Beer Glass Cleaning Guide (2024)](https://coloradobeer.org/tech-safety-posts/beer-glass-cleaning-guide/). Colorado Brewers Guild. Consulted 2026-10-28. Access: Full public practical beer-glass cleaning and observational tests; not a microbiological sterility or regulatory certification.
 
-[^v115-ba]: [Draught Beer Quality Manual: public resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public resource overview describing line cleaning, gas balance, pouring and glassware; detailed manual instructions not treated as verified.
+[^v115-ba]: [Draught Beer Quality Manual: public resource page](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public resource overview describing line cleaning, gas balance, pouring and glassware; detailed manual instructions not treated as verified.
