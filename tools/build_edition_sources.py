@@ -19,7 +19,7 @@ def audit(root, edition="1.16", documents=None, manifest=None):
         errors = []
     if manifest is None:
         try:
-            manifest = json.loads((root / "references" / f"atlas-source-manifest-{edition}.json").read_text(encoding="utf-8"))
+            manifest = json.loads((root / "references" / f"atlas-source-manifest-{edition.replace(chr(46), chr(45))}.json").read_text(encoding="utf-8"))
         except (OSError, ValueError) as exc:
             return {"ok": False, "errors": [str(exc)], "counts": {}, "sources": {}, "uses": {}}
     if not isinstance(manifest, dict) or manifest.get("edition") != edition or not isinstance(manifest.get("sources"), list):
@@ -129,7 +129,7 @@ def main():
     if not result["ok"]:
         print(json.dumps({"ok": False, "errors": result["errors"]}, indent=2), file=sys.stderr)
         return 1
-    path = args.root / "references" / f"atlas-sources-{args.edition}.md"
+    path = args.root / "references" / f"atlas-sources-{args.edition.replace(chr(46), chr(45))}.md"
     output = render(args.root, args.edition, result)
     if args.check and (not path.exists() or path.read_text(encoding="utf-8") != output):
         print("FAIL: source register is stale", file=sys.stderr)

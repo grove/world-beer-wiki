@@ -47,7 +47,7 @@ relations:
 
 ## Three samples and one inferential question
 
-ISO 4120:2021 describes a triangle test as a forced-choice sensory method for investigating whether two products are perceptibly different or sufficiently similar in a specified test design. It does not, on its own, identify which aroma or taste changed, the direction of change or which sample people liked more. The public ISO abstract notes that the approach applies to homogeneous products and can be limited by lingering flavours.[^v116-triangle]
+ISO 4120:2021 describes a triangle test as a forced-choice sensory method for investigating whether two products are perceptibly different or sufficiently similar in a specified test design. It does not, on its own, identify which aroma or taste changed, the direction of change or which sample people preferred or liked more. The public ISO abstract notes that the approach applies to homogeneous products and can be limited by lingering flavours.[^v116-triangle]
 
 In a triangle task, one of three coded samples differs from the other two. A correct answer could occur by chance, so a convincing study needs an appropriate participant count and statistical design. Even a statistically supported difference is about the tested products and panel, not a timeless sensory identity for an entire style.
 
