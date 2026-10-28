@@ -83,3 +83,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.17 — bounded field-to-glass evidence
 
 - [Barley harvest is seasonal, not fixed](barley-harvest-window-not-fixed.md) — Crop maturity is not a universal beer festival.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [12 August 2026: EU packaging law begins applying](eu-ppwr-application-2026.md) — Exact policy date; not an annual celebration.
+- [2 February 1892: crown patent](crown-cork-patent-1892.md) — A specific archival grant, not the origin of bottled beer.

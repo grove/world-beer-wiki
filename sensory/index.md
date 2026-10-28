@@ -94,3 +94,9 @@ New evidence-based references (all retain draft status):
 
 - [Hydrophobins and gushing](gushing-hydrophobins-and-carbonation.md) — Primary gushing differs from ordinary beer carbonation.
 - [Malt hot-steep sensory studies](malt-hot-steep-experiments.md) — Malt sample panels are not finished-beer liking studies.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Aldehyde origins before filling](aldehyde-aging-begins-before-the-package.md) — Beer aging has multiple brewing-stage pathways.
+- [Lightstruck versus oxidative staling](lightstruck-vs-oxidative-staling.md) — Skunk-like sulfur and aldehyde-driven aging are not synonyms.
+- [Unpasteurized ale storage experiment](unpasteurized-ale-storage-case-2025.md) — A scoped 2025 filtration, temperature and refermentation case.

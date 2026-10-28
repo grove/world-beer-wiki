@@ -1,6 +1,6 @@
 # All beer and tradition profiles
 
-**191 canonical beer/tradition and related-ferment profiles in edition 1.17.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
+**191 canonical beer/tradition and related-ferment profiles in edition 1.18.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
 
 [Home](../index.md) · [Category guides](../categories/index.md) · [Ingredients](../ingredients/index.md) · [Names](../navigation/all-names.md) · [Regions](../navigation/by-region.md)
 
@@ -229,3 +229,7 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 ## Edition 1.17 — evidence from grain fields, not newly named beer styles
 
 The new [Bere barley reference](../ingredients/bere-six-row-barley.md), [crop-fungi distinction](../categories/field-fungus-vs-starter-microbes.md) and [market studies](../culture/arsi-malt-barley-farm-contracts.md) extend the context of original profiles without adding a fictitious Scottish or Ethiopian universal beer-style category. The canonical profile URLs remain unchanged.
+
+## Edition 1.18 — packaging context is not another beer style
+
+A contemporary [American IPA](american-ipa.md), [Hazy IPA](hazy-ipa.md) or historic [lambic tradition](lambic.md) may be packaged and stored in different ways. The new [storage comparisons](../categories/packaging-material-is-not-shelf-life.md), [lightstruck chemistry](../sensory/lightstruck-vs-oxidative-staling.md) and [intentional versus unintended package fermentation](../microbiology/package-refermentation-pressure-vs-quality.md) add research context without renaming canonical beer/tradition profiles or asserting a new universal style.

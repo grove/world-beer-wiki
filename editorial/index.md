@@ -62,3 +62,9 @@
 ## Research edition 1.17 — barley fields, markets, malt and evidence
 
 [Research update](research-update-1-17.md) · [Independent review queue](source-review-queue-1-17.md) · [Validation instructions](validation-report-1-17.md) · [Current specification](atlas-specification.md) · [Progress ledger](atlas-progress.md) · [Nine field-to-glass reading trails](../navigation/edition-1-17-reading-trails.md). Crop pathogens, food-contaminant rules, local farmer surveys and brewing traditions remain distinct evidence categories.
+
+## Research edition 1.18 — packaging and beer quality
+
+[Research update](research-update-1-18.md) · [Independent source-review queue](source-review-queue-1-18.md) · [Validation report](validation-report-1-18.md) · [Atlas specification](atlas-specification.md) · [Current progress](atlas-progress.md) · [Nine reading trails](../navigation/edition-1-18-reading-trails.md).
+
+The research distinguishes packaging environmental models, oxygen and light chemistry, historical objects, food-contact law and the safety limits of experimental results. Its source access is explicitly bounded; no expert or community approval is claimed.

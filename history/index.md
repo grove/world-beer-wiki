@@ -93,3 +93,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.17 — bounded field-to-glass evidence
 
 - [Uncertain date of Bere's introduction](bere-introduction-date-uncertain.md) — Ancient barley and present landrace are not proven identical.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [The 1892 crown patent](crown-cork-patent-vs-invention-myth.md) — An industrial invention is not the date all beer bottling began.
+- [Beer cans and household distribution](beer-cans-and-home-distribution.md) — A museum object provides bounded historical evidence.

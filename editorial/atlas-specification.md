@@ -9,14 +9,14 @@ tags:
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.17
+  by: world-beer-wiki/1.18
   at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.12'
-implementation_status: research-edition-1.17
+specification_version: '1.13'
+implementation_status: research-edition-1.18
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -1020,11 +1020,69 @@ work_items:
   - tests/test_research_quality_v117.py
   delivered_scope: 28 new source-scoped articles and 18 cited revisions across all reference sections; 19 works, 95 actual article-source uses, nine trails and CI source/inventory checks.
 
+- id: ATLAS-115
+  title: Packaging format, beer aging and oxygen-phase distinctions
+  state: implemented
+  paths:
+  - categories/packaging-material-is-not-shelf-life.md
+  - processes/total-package-oxygen-has-two-phases.md
+  - processes/cold-chain-experiment-is-not-a-universal-expiry.md
+  - sensory/aldehyde-aging-begins-before-the-package.md
+  - sensory/unpasteurized-ale-storage-case-2025.md
+  delivered_scope: Keep 2025 beer-storage experiment, two-phase package oxygen and multiple aging mechanisms distinct from universal style expiry or safe handling instructions.
+- id: ATLAS-116
+  title: Comparative beer packaging LCAs, reuse systems and EU packaging rules
+  state: implemented
+  paths:
+  - categories/why-packaging-lca-rankings-disagree.md
+  - environment/seven-breweries-versus-pet-keg-case.md
+  - environment/returnable-bottles-and-system-losses.md
+  - environment/eu-packaging-reuse-law-scope.md
+  - culture/deposit-and-return-as-beer-institutions.md
+  delivered_scope: Compare seven-microbrewery and PET-keg LCAs with transport, loss and reuse assumptions; distinguish August 2026 application from later EU obligations.
+- id: ATLAS-117
+  title: Photochemical beer lightstruck science, refermentation and pressure-risk context
+  state: implemented
+  paths:
+  - ingredients/riboflavin-hop-acids-light-reaction.md
+  - sensory/lightstruck-vs-oxidative-staling.md
+  - processes/pulsed-light-has-a-flavor-tradeoff.md
+  - microbiology/lactobacillus-pulsed-light-case.md
+  - microbiology/package-refermentation-pressure-vs-quality.md
+  delivered_scope: Separate riboflavin-hop chemistry, measured lightstruck thiol, microbial experimental endpoints and manufacturer package-pressure safety.
+- id: ATLAS-118
+  title: Dated crown-cork history, handled-can object and food-contact materials
+  state: implemented
+  paths:
+  - history/crown-cork-patent-vs-invention-myth.md
+  - history/beer-cans-and-home-distribution.md
+  - objects/crown-cork-and-sealing-liner.md
+  - objects/baltimore-handled-beer-can.md
+  - objects/metal-can-linings-and-food-contact.md
+  - calendar/crown-cork-patent-1892.md
+  - calendar/eu-ppwr-application-2026.md
+  - food/can-liners-and-food-contact-evidence.md
+  delivered_scope: Preserve exact archival days as historical, not recurring festivities; distinguish museum object, liner regulations, contact tests, community history and sensory evidence.
+- id: ATLAS-119
+  title: Edition 1.18 research, provenance, integration, navigation and CI
+  state: implemented
+  paths:
+  - references/atlas-source-manifest-1-18.json
+  - references/atlas-sources-1-18.md
+  - editorial/research-update-1-18.md
+  - editorial/validation-report-1-18.md
+  - editorial/source-review-queue-1-18.md
+  - navigation/edition-1-18-reading-trails.md
+  - navigation/all-atlas-subjects.md
+  - navigation/all-names.md
+  - tests/test_research_quality_v118.py
+  delivered_scope: 27 new subjects, 15 canonical sourced revisions, 22 external works and 101 actual article-source placements across thirteen sections with current navigation and negative-case regression tests.
+
 ---
 
 # World Beer Atlas expansion specification
 
-**Specification 1.12 · research deliverables tracked through edition 1.17 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.13 · research deliverables tracked through edition 1.18 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
 
 The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
@@ -1275,3 +1333,9 @@ The 1784 Richardson source is a bibliographic year, the museum object is dated a
 **28 new research references and 18 substantive canonical revisions** extend the atlas to 713 subjects across 13 sections. ATLAS-110–114 track finite file-based deliverables rather than universal beer coverage. The new studies distinguish pre-harvest sprouting from managed malting, field-pathogen detection from named fermentation microbes, measured mycotoxin forms from consumer safety, and package gushing from glass/CO2 effects. The 2026 inoculated-barley experiment is a controlled study, not a procedure for rendering suspect grain safe.
 
 Separate open farm surveys from Arsi, Oromia and Estie describe different contract models and household outcomes; they are not an all-Ethiopia causal estimate. Bere barley's regional cultivation and uncertain ancient introduction are not evidence of a fixed prehistoric beer recipe. EU contaminant rules require product-specific application and a dated consolidated text; a cereal threshold is not automatically a finished beer or spent-grain food limit. The [19-work source register](../references/atlas-sources-1-17.md), [research update](research-update-1-17.md), [nine trails](../navigation/edition-1-17-reading-trails.md) and [independent-review queue](source-review-queue-1-17.md) record what was actually consulted. **ATLAS-012 specialist/community review is still planned**, while licensed media and live event services remain deferred.
+
+## 23. Edition 1.18 — packaging as physical, legal and social evidence
+
+**27 source-scoped new subjects and 15 existing-page sourced revisions** extend the atlas to 740 subjects. ATLAS-115–119 track the finite content and tooling deliverables, not completeness of worldwide brewing knowledge. The two named 2022 and 2024 beer-packaging LCAs study different distributions and comparison formats; neither proves a universal best keg. The EU's 12 August 2026 packaging-law application is a historic legal date, not the completion of later reuse targets or an annual festival. The 1892 crown-cork patent date is exact archival evidence, not the invention of all bottled beer.
+
+Technical work distinguishes liquid and headspace oxygen, multiple aldehyde pathways, specific light-triggered riboflavin chemistry and yeast effects in one unpasteurized-ale experiment. Packaging overpressure is a serious manufacturer safety matter; this wiki does not provide consumer interventions or production recipes. A Smithsonian handled-can object and EU bisphenol food-contact rules answer different questions; neither proves the taste or material composition of every beer can. See the [research update](research-update-1-18.md), [22-work annotated bibliography](../references/atlas-sources-1-18.md), [nine reading trails](../navigation/edition-1-18-reading-trails.md), and [independent-review queue](source-review-queue-1-18.md). **ATLAS-012 remains planned**, with licensed media and live calendar tools deferred.

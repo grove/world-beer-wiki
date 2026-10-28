@@ -127,3 +127,8 @@ New evidence-based references (all retain draft status):
 - [Malt-barley households and food security](malt-barley-and-household-food-security.md) — Household study estimates are not consumption or national health claims.
 - [Bere cultivation and regional knowledge](orkney-bere-knowledge-and-revival.md) — Named island cultivation, markets and source voices.
 - [Estie malt-barley cooperatives](estie-malt-barley-cooperatives.md) — Trust-based market evidence contrasted with Arsi contracting.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Packaged beer and home markets](packaged-beer-and-home-markets.md) — Packaging channels change access, not culture by themselves.
+- [Deposit and return institutions](deposit-and-return-as-beer-institutions.md) — Who collects and refills matters alongside package material.

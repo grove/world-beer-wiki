@@ -39,6 +39,18 @@ sources:
   source_kind: open-protein-polyphenol-review
   access_scope: Open review on colloidal haze, haze-active proteins, polyphenols and treatments; discussion
     emphasizes instability rather than every intentionally hazy style.
+- id: v118-storage25
+  resource: "https://link.springer.com/article/10.1007/s11947-025-03830-9"
+  title: "Influence of Selected Technological Conditions on the Flavour Stability of Unpasteurised Top-Fermented Craft Beer (2025)"
+  author_label: "Giovanni De Francesco, Valeria Sileoni and Ombretta Marconi"
+  source_kind: "primary-controlled-craft-beer-storage-experiment"
+  access_scope: "Full open paper: studied a particular unpasteurized top-fermented beer under filtration, temperature and yeast-addition conditions, with instrumental and trained-panel results. Its outcomes are not a universally valid process or storage prescription."
+- id: v118-aging24
+  resource: "https://reference-global.com/article/10.2478/aucft-2024-0001"
+  title: "Factors Affecting Beer Quality During Storage – A Review (2024)"
+  author_label: "Krystian Klimczak, Monika Cioch-Skoneczny and Aleksander Poreda"
+  source_kind: "peer-reviewed-beer-aging-review-abstract"
+  access_scope: "Public scholarly abstract summarizing beer-dependent staling chemistry, aldehydes, ester/terpene changes, storage and time; no new universal shelf-life trial."
 aliases:
 - New England IPA
 - NEIPA
@@ -115,3 +127,13 @@ Readers should distinguish judging and producer descriptions of the style from t
 
 [^v14-haze]: [Haze in Beer from a Protein-Polyphenol Perspective (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/). Beer haze review authors. Consulted 2026-10-27. Access: Open full review distinguishes biological and non-biological haze and colloid composition.
 [^v111-haze]: [Haze in Beer: Its Formation and Alleviating Strategies, from a Protein–Polyphenol Complex Angle (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/). Barley and beer haze review authors. Consulted 2026-10-28. Access: Open review on colloidal haze, haze-active proteins, polyphenols and treatments; discussion emphasizes instability rather than every intentionally hazy style.
+
+## Edition 1.18: newly sourced connections
+
+The 2025 De Francesco, Sileoni and Marconi experiment followed a specific unpasteurized top-fermented beer through filtration, yeast and temperature treatments. Some hop- and fruit-related sensory changes depended on storage, but the study did not sample every Hazy IPA or establish a universal style expiry date.[^v118-storage25] A 2024 review independently identifies changes to esters, terpenes, aldehydes and hop compounds as part of beer aging. The behavior depends on matrix, oxygen, elapsed time and temperature; an opaque can or a hazy appearance alone cannot establish whether those variables remained unchanged.[^v118-aging24]
+
+Preserve producer-specific package, biological state, storage and analytical endpoints separately from the contemporary Hazy IPA style definition. Compare [the storage experiment](../sensory/unpasteurized-ale-storage-case-2025.md) and [package material versus shelf life](../categories/packaging-material-is-not-shelf-life.md), rather than inferring a single packaging outcome for every beer marketed with this style name.
+
+[^v118-storage25]: [Influence of Selected Technological Conditions on the Flavour Stability of Unpasteurised Top-Fermented Craft Beer (2025)](https://link.springer.com/article/10.1007/s11947-025-03830-9). Giovanni De Francesco, Valeria Sileoni and Ombretta Marconi. Consulted 2026-10-28. Access: Full open paper: studied a particular unpasteurized top-fermented beer under filtration, temperature and yeast-addition conditions, with instrumental and trained-panel results. Its outcomes are not a universally valid process or storage prescription.
+
+[^v118-aging24]: [Factors Affecting Beer Quality During Storage – A Review (2024)](https://reference-global.com/article/10.2478/aucft-2024-0001). Krystian Klimczak, Monika Cioch-Skoneczny and Aleksander Poreda. Consulted 2026-10-28. Access: Public scholarly abstract summarizing beer-dependent staling chemistry, aldehydes, ester/terpene changes, storage and time; no new universal shelf-life trial.

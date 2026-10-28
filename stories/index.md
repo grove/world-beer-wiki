@@ -96,3 +96,8 @@ New evidence-based references (all retain draft status):
 
 - [The fungus was not necessarily the fermenter](the-fungus-was-not-the-fermenter.md) — A plant pathogen is not a living starter by inference.
 - [Foam is not only a carbonation question](beer-foam-not-only-carbonation.md) — An erupting bottle cannot diagnose its own cause.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Two LCAs, different kegs](two-studies-two-keg-answers.md) — One format can behave differently under two reference systems.
+- [A green bottle does not reveal beer age](green-bottle-cannot-tell-you-its-age.md) — Exposure history and chemistry matter more than appearance.

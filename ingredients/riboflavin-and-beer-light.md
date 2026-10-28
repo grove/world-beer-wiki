@@ -26,6 +26,18 @@ sources:
   source_kind: primary-photochemistry-abstract
   access_scope: 'PubMed abstract: iso-alpha acid photodecomposition experiments in model solvents;
     mechanism not a consumer threshold.'
+- id: v118-photochem05
+  resource: "https://hero.epa.gov/reference/482281/"
+  title: "Photooxidative degradation of beer bittering principles: a key step on the route to lightstruck flavor formation in beer (2005)"
+  author_label: "K. Huvaere and colleagues"
+  source_kind: "primary-mechanistic-chemistry-abstract"
+  access_scope: "EPA HERO bibliographic record and abstract of radical-spin-trapping study of hop-derived bittering compounds and excited riboflavin; no finished-beer packaging performance or sensory panel examined."
+- id: v118-pulse23
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9955924/"
+  title: "Effect of UV Filters during the Application of Pulsed Light to Reduce Lactobacillus brevis Contamination and 3-Methylbut-2-ene-1-thiol Formation (2023)"
+  author_label: "Experimental pulsed-light beer research authors"
+  source_kind: "primary-controlled-light-microbiology-experiment-indexed"
+  access_scope: "PMC indexed abstract and selected sections covering two beer matrices, L. brevis reductions, lightstruck thiol and UV filters; direct full page blocked verification. No industrial disinfection or home sterilization protocol."
 regions:
 - Cross-regional
 scope: Riboflavin as a light-responsive component in model beer and lager experiments.
@@ -71,3 +83,13 @@ Light-struck chemistry is not a health effect of riboflavin. The abstracts do no
 [^v110-photo-2006]: [Spectrophotometric method for exploring 3-methyl-2-butene-1-thiol (MBT) formation in lager (2006)](https://pubmed.ncbi.nlm.nih.gov/16910696/). Richard Pozdrik, Felicity Roddick, Peter Rogers and Thang Nguyen. Consulted 2026-10-28. Access: PubMed abstract: light-exposed mainstream lager and model beer, riboflavin and isohumulone responses; no universal packaging guarantee.
 
 [^v110-photo-2001]: [Mechanism for formation of the lightstruck flavor in beer revealed by time-resolved electron paramagnetic resonance (2001)](https://pubmed.ncbi.nlm.nih.gov/11757646/). C. S. Burns and colleagues. Consulted 2026-10-28. Access: PubMed abstract: iso-alpha acid photodecomposition experiments in model solvents; mechanism not a consumer threshold.
+
+## Edition 1.18: newly sourced connections
+
+The light-sensitive molecule riboflavin is involved in photochemical pathways rather than simply adding an ingredient's taste. A 2005 mechanistic study used spin trapping to examine excited riboflavin interacting with hop bittering molecules and producing precursor radicals for a lightstruck thiol.[^v118-photochem05] In a 2023 pulsed-light experiment, researchers measured that thiol under selected beer matrices and filters. Spectral changes affected flavor-related and microbial endpoints differently; this cannot be transferred directly to a retail bottle on a shelf.[^v118-pulse23]
+
+Do not infer a particular consumer aroma from the mere presence of riboflavin or from a bottle's colour. Compare [the molecular system](riboflavin-hop-acids-light-reaction.md) and [lightstruck versus oxidative changes](../sensory/lightstruck-vs-oxidative-staling.md). The sources support chemistry and limited experiments, not universal safe-treatment parameters.
+
+[^v118-photochem05]: [Photooxidative degradation of beer bittering principles: a key step on the route to lightstruck flavor formation in beer (2005)](https://hero.epa.gov/reference/482281/). K. Huvaere and colleagues. Consulted 2026-10-28. Access: EPA HERO bibliographic record and abstract of radical-spin-trapping study of hop-derived bittering compounds and excited riboflavin; no finished-beer packaging performance or sensory panel examined.
+
+[^v118-pulse23]: [Effect of UV Filters during the Application of Pulsed Light to Reduce Lactobacillus brevis Contamination and 3-Methylbut-2-ene-1-thiol Formation (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9955924/). Experimental pulsed-light beer research authors. Consulted 2026-10-28. Access: PMC indexed abstract and selected sections covering two beer matrices, L. brevis reductions, lightstruck thiol and UV filters; direct full page blocked verification. No industrial disinfection or home sterilization protocol.

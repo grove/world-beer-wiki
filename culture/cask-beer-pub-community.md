@@ -43,6 +43,18 @@ sources:
   author_label: "Brewers Association Technical Committee"
   source_kind: "industry-technical-guidance-overview"
   access_scope: "Accessible public draught guidance overview; the detailed technical manual has not been rechecked here."
+- id: v118-ppwr-guidance26
+  resource: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026XC03084"
+  title: "Commission Notice C/2026/3084 interpreting Regulation (EU) 2025/40 (10 June 2026)"
+  author_label: "European Commission"
+  source_kind: "official-eu-interpretive-guidance"
+  access_scope: "Public indexed Commission guidance dated 10 June 2026 including distinction between HORECA kegs sold to venues and consumer sales packaging; detailed applicability to any actual operator not independently assessed."
+- id: v118-lca22
+  resource: "https://pubmed.ncbi.nlm.nih.gov/35104702/"
+  title: "Packaging choice and coordinated distribution logistics to reduce the environmental footprint of small-scale beer value chains (2022)"
+  author_label: "Dyfed Rhys Morgan, David Styles and Eifiona Thomas Lane"
+  source_kind: "primary-seven-brewery-life-cycle-assessment-abstract"
+  access_scope: "Full PubMed abstract from a seven-microbrewery LCA comparing reusable glass, aluminum cans, PET and steel kegs and distribution. The complete modeling inventory was not independently re-calculated; case and transport boundaries govern findings."
 regions:
 - Europe
 - United Kingdom
@@ -116,3 +128,13 @@ For the technical side read [carbonation and service](../processes/carbonation-f
 [^v115-bjcp]: [Introduction to the 2021 Guidelines](https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/). Beer Judge Certification Program. Consulted 2026-10-28. Access: Official 2021 introduction to competition style groupings; not legal label rules.
 
 [^v115-ba]: [Draught Beer Quality Manual: public resource page](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Accessible public draught guidance overview; the detailed technical manual has not been rechecked here.
+
+## Edition 1.18: newly sourced connections
+
+An important distinction for draught venues is between a reusable keg delivered to a business and a reusable packaged product sold directly to a consumer. The European Commission's June 2026 guidance makes that distinction for certain packaging reuse targets, without defining the cultural traditions of pub drinking.[^v118-ppwr-guidance26] The 2022 seven-microbrewery life-cycle study considers contemporary distribution assumptions, not the specific environmental history of any given community pub.[^v118-lca22]
+
+A cask's material and a bar's social practices are different evidence classes. Keep historic local testimony, venue regulations, package logistics and modeled footprints separately attributed. Read [deposit and return institutions](deposit-and-return-as-beer-institutions.md) and [EU packaging definitions](../environment/eu-packaging-reuse-law-scope.md).
+
+[^v118-ppwr-guidance26]: [Commission Notice C/2026/3084 interpreting Regulation (EU) 2025/40 (10 June 2026)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026XC03084). European Commission. Consulted 2026-10-28. Access: Public indexed Commission guidance dated 10 June 2026 including distinction between HORECA kegs sold to venues and consumer sales packaging; detailed applicability to any actual operator not independently assessed.
+
+[^v118-lca22]: [Packaging choice and coordinated distribution logistics to reduce the environmental footprint of small-scale beer value chains (2022)](https://pubmed.ncbi.nlm.nih.gov/35104702/). Dyfed Rhys Morgan, David Styles and Eifiona Thomas Lane. Consulted 2026-10-28. Access: Full PubMed abstract from a seven-microbrewery LCA comparing reusable glass, aluminum cans, PET and steel kegs and distribution. The complete modeling inventory was not independently re-calculated; case and transport boundaries govern findings.

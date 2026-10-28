@@ -6,11 +6,11 @@ okf_version: "0.2"
 
 ## Beer styles, living traditions, ingredients and brewing categories
 
-**Research edition 1.17 · 28 October 2026 · 713 subject articles across thirteen reference layers**
+**Research edition 1.18 · 28 October 2026 · 740 subject articles across thirteen reference layers**
 
 An English-language, source-referenced Markdown knowledge base for readers and LLM retrieval. Start with a named beer, explore its ingredients, then compare the traditions and processes around it. Articles distinguish current judging descriptions, local practice, related ferments and historical evidence.
 
-The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.17](editorial/research-update-1-17.md) and [nine evidence-led reading trails](navigation/edition-1-17-reading-trails.md).
+The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.18](editorial/research-update-1-18.md) and [nine packaging-to-glass reading trails](navigation/edition-1-18-reading-trails.md).
 
 ## Choose a route
 
@@ -18,9 +18,9 @@ The [Atlas specification](editorial/atlas-specification.md) defines the scope an
 |---|---|
 | [How beer categories work](categories/beer-classification.md) | Separate style, fermentation, ingredient, region, period and serving method. |
 | [All beer and tradition profiles](styles/index.md) | 191 named beer/tradition, specialty and related-ferment profiles, distinguished by type and scope. |
-| [Category guides](categories/index.md) | 48 comparative category guides, not mutually exclusive styles. |
-| [Ingredients and cultures](ingredients/index.md) | 71 sources, botanicals, additions and cultures with named roles. |
-| [Complete atlas subject index](navigation/all-atlas-subjects.md) | All 713 entries across thirteen reference layers, regenerated from article metadata. |
+| [Category guides](categories/index.md) | 51 comparative category guides, not mutually exclusive styles. |
+| [Ingredients and cultures](ingredients/index.md) | 72 sources, botanicals, additions and cultures with named roles. |
+| [Complete atlas subject index](navigation/all-atlas-subjects.md) | All 740 entries across thirteen reference layers, regenerated from article metadata. |
 | [Names and aliases](navigation/all-names.md) | Search titles and scoped alternative names across all thirteen research sections. |
 | [By region](navigation/by-region.md) | Geographical routes through the beer and tradition profiles. |
 | [By family](navigation/by-family.md) | Topic and tag routes, with links into the category explanations. |
@@ -31,16 +31,16 @@ The [Atlas specification](editorial/atlas-specification.md) defines the scope an
 
 | Explore | What it adds |
 |---|---|
-| [Culture and institutions](culture/index.md) | 70 situated cases of hospitality, work, exchange, livelihood and knowledge. |
-| [Seasons and calendars](calendar/index.md) | 26 events or seasonal accounts with explicit date and recurrence limits. |
-| [Microorganisms and ecology](microbiology/index.md) | 65 organism and ecological references with sampling limits. |
-| [Processes](processes/index.md) | 59 documented techniques, from starch conversion to aging. |
-| [Objects and serving](objects/index.md) | 24 equipment and service references. |
-| [Sensory reasoning](sensory/index.md) | 38 guides to flavor and experimental evidence. |
-| [Stories and discoveries](stories/index.md) | 39 source-grounded narrative reading routes. |
-| [Historical research and archaeology](history/index.md) | 44 archaeological, historical and historiographical studies. |
-| [Environment and brewing resources](environment/index.md) | 23 resource and environmental assessments. |
-| [Beer with food](food/index.md) | 15 evidence-driven food and pairing comparisons. |
+| [Culture and institutions](culture/index.md) | 72 situated cases of hospitality, work, exchange, livelihood and knowledge. |
+| [Seasons and calendars](calendar/index.md) | 28 events or seasonal accounts with explicit date and recurrence limits. |
+| [Microorganisms and ecology](microbiology/index.md) | 67 organism and ecological references with sampling limits. |
+| [Processes](processes/index.md) | 62 documented techniques, from starch conversion to aging. |
+| [Objects and serving](objects/index.md) | 27 equipment and service references. |
+| [Sensory reasoning](sensory/index.md) | 41 guides to flavor and experimental evidence. |
+| [Stories and discoveries](stories/index.md) | 41 source-grounded narrative reading routes. |
+| [Historical research and archaeology](history/index.md) | 46 archaeological, historical and historiographical studies. |
+| [Environment and brewing resources](environment/index.md) | 26 resource and environmental assessments. |
+| [Beer with food](food/index.md) | 16 evidence-driven food and pairing comparisons. |
 | [Atlas reading paths](navigation/atlas.md) | Follow people, materials, time and transformations across the layers. |
 
 ## Four worthwhile comparisons
@@ -57,7 +57,7 @@ These are comparisons, not claims of direct descent or interchangeable cultural 
 
 ## Evidence and maintenance
 
-[Latest 1.17 research](editorial/research-update-1-17.md) · [1.16 research](editorial/research-update-1-16.md) · [1.15 research](editorial/research-update-1-15.md) · [1.14 research](editorial/research-update-1-14.md) · [1.13 research](editorial/research-update-1-13.md) · [1.12 research](editorial/research-update-1-12.md) · [1.11 research](editorial/research-update-1-11.md) · [1.10 research](editorial/research-update-1-10.md) · [1.9 research](editorial/research-update-1-9.md) · [1.8 research](editorial/research-update-1-8.md) · [1.7 research](editorial/research-update-1-7.md) · [Earlier 1.6 research](editorial/research-update-1-6.md) · [1.5 research](editorial/research-update-1-5.md) · [Earlier 1.3 research](editorial/research-update-1-3.md) · [Earlier 1.2 work](editorial/research-update-1-2.md) · [Earlier 1.1 expansion](editorial/research-update-1-1.md) · [Reading guide](README.md) · [Research method](editorial/methodology.md) · [Coverage and gaps](editorial/coverage-and-gaps.md) · [Terminology](editorial/glossary.md) · [LLM reading instructions](editorial/reading-with-an-llm.md) · [OKF format](editorial/format.md) · [Latest validation](editorial/validation-report-1-17.md) · [1.16 validation](editorial/validation-report-1-16.md) · [1.15 validation](editorial/validation-report-1-15.md) · [1.14 validation](editorial/validation-report-1-14.md) · [1.13 validation](editorial/validation-report-1-13.md) · [1.12 validation](editorial/validation-report-1-12.md) · [1.10 validation](editorial/validation-report-1-10.md) · [1.9 validation](editorial/validation-report-1-9.md) · [1.6 validation](editorial/validation-report-1-6.md) · [1.5 validation](editorial/validation-report-1-5.md) · [1.4 validation](editorial/validation-report-1-4.md) · [Earlier 1.3 validation](editorial/validation-report-1-3.md) · [Sources and access notes](references/index.md) · [Release log](log.md)
+[Latest 1.18 research](editorial/research-update-1-18.md) · [1.17 research](editorial/research-update-1-17.md) · [1.16 research](editorial/research-update-1-16.md) · [1.15 research](editorial/research-update-1-15.md) · [1.14 research](editorial/research-update-1-14.md) · [1.13 research](editorial/research-update-1-13.md) · [1.12 research](editorial/research-update-1-12.md) · [1.11 research](editorial/research-update-1-11.md) · [1.10 research](editorial/research-update-1-10.md) · [1.9 research](editorial/research-update-1-9.md) · [1.8 research](editorial/research-update-1-8.md) · [1.7 research](editorial/research-update-1-7.md) · [Earlier 1.6 research](editorial/research-update-1-6.md) · [1.5 research](editorial/research-update-1-5.md) · [Earlier 1.3 research](editorial/research-update-1-3.md) · [Earlier 1.2 work](editorial/research-update-1-2.md) · [Earlier 1.1 expansion](editorial/research-update-1-1.md) · [Reading guide](README.md) · [Research method](editorial/methodology.md) · [Coverage and gaps](editorial/coverage-and-gaps.md) · [Terminology](editorial/glossary.md) · [LLM reading instructions](editorial/reading-with-an-llm.md) · [OKF format](editorial/format.md) · [Latest validation](editorial/validation-report-1-18.md) · [1.17 validation](editorial/validation-report-1-17.md) · [1.16 validation](editorial/validation-report-1-16.md) · [1.15 validation](editorial/validation-report-1-15.md) · [1.14 validation](editorial/validation-report-1-14.md) · [1.13 validation](editorial/validation-report-1-13.md) · [1.12 validation](editorial/validation-report-1-12.md) · [1.10 validation](editorial/validation-report-1-10.md) · [1.9 validation](editorial/validation-report-1-9.md) · [1.6 validation](editorial/validation-report-1-6.md) · [1.5 validation](editorial/validation-report-1-5.md) · [1.4 validation](editorial/validation-report-1-4.md) · [Earlier 1.3 validation](editorial/validation-report-1-3.md) · [Sources and access notes](references/index.md) · [Release log](log.md)
 
 Articles remain AI-researched drafts with source-specific access limits. This is not a complete world census or an independently reviewed encyclopedia. The counts describe differently scoped reference articles; they are not a count of interchangeable, universally standardized beer styles.
 
@@ -125,3 +125,9 @@ New guides contrast [bitterness units and hop chemistry](processes/bitterness-un
 [Nine new evidence-led trails](navigation/edition-1-17-reading-trails.md) join [pre-harvest sprouting](ingredients/preharvest-sprouted-barley.md), [crop fungi versus brewing microbes](categories/field-fungus-vs-starter-microbes.md), [controlled grain-to-beer chemical transformations](processes/fusarium-malt-to-beer-transformation.md), [unexpected beer gushing](sensory/gushing-hydrophobins-and-carbonation.md), [Scottish Bere barley](ingredients/bere-six-row-barley.md) and [different Ethiopian barley contract arrangements](culture/estie-malt-barley-cooperatives.md). Additional food and sustainability pages distinguish circular reuse from safety and footprint certification.
 
 [Research summary](editorial/research-update-1-17.md) · [19-work source register](references/atlas-sources-1-17.md) · [Outstanding expert and community review](editorial/source-review-queue-1-17.md). These pages remain AI-researched drafts, not product safety determinations or universal cultural claims.
+
+## Research edition 1.18 — the package is part of the beer's journey
+
+Nine [evidence-led packaging research trails](navigation/edition-1-18-reading-trails.md) connect [oxygen in two phases](processes/total-package-oxygen-has-two-phases.md), [cold-chain and yeast experiments](sensory/unpasteurized-ale-storage-case-2025.md), [beer lightstruck chemistry](sensory/lightstruck-vs-oxidative-staling.md), [conflicting model-specific keg LCA headlines](categories/why-packaging-lca-rankings-disagree.md), [EU packaging rules applying from August 2026](environment/eu-packaging-reuse-law-scope.md), [food-contact liners](objects/metal-can-linings-and-food-contact.md) and [an 1892 crown-cork patent](history/crown-cork-patent-vs-invention-myth.md). Historical dates are not annual holidays and source citations are not safety certificates.
+
+[Research summary](editorial/research-update-1-18.md) · [22 external works and 101 actual cited uses](references/atlas-sources-1-18.md) · [Outstanding independent-review tasks](editorial/source-review-queue-1-18.md).

@@ -151,3 +151,7 @@ New evidence-based references (all retain draft status):
 - [Pre-harvest sprouted barley](preharvest-sprouted-barley.md) — Crop dormancy and weather before intentional malting.
 - [DON-3-glucoside](don-glucoside-as-modified-mycotoxin.md) — Modified molecular form and matrix-specific source limits, not food-safety advice.
 - [Malt enzyme readiness](malt-enzyme-readiness.md) — Multiple grain-enzyme and environmental traits, not one magic test.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Riboflavin and hop-acid light chemistry](riboflavin-hop-acids-light-reaction.md) — A specific photochemical mechanism, not a universal color-to-flavor rule.

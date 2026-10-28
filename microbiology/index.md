@@ -122,3 +122,8 @@ New evidence-based references (all retain draft status):
 - [Fusarium field strain effects](fusarium-strain-effects-in-barley.md) — Two cultivars and field years, not all barley.
 - [Plant-conjugated DON](plant-conjugated-don.md) — Metabolite transformations are not universal safety outcomes.
 - [DNA versus mycotoxin measurement](fungal-dna-versus-mycotoxin-measurement.md) — Different analytical targets and limits.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Package refermentation versus quality](package-refermentation-pressure-vs-quality.md) — Unintended pressure changes are not ordinary maturation.
+- [Lactobacillus pulsed-light study](lactobacillus-pulsed-light-case.md) — An inoculated beer experiment with competing sensory and microbial endpoints.

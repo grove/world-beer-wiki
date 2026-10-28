@@ -107,6 +107,18 @@ sources:
   author_label: "Beer Judge Certification Program"
   source_kind: "official-education-guide"
   access_scope: "Public tasting and context guide, originally tied to older examination material; practical judging advice is not controlled consumer research."
+- id: v118-ppwr25
+  resource: "https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng"
+  title: "Regulation (EU) 2025/40 on packaging and packaging waste"
+  author_label: "European Parliament and Council of the European Union"
+  source_kind: "official-eu-primary-law"
+  access_scope: "Official EUR-Lex act and European Commission summaries; applicable from 12 August 2026 with differing later targets, exceptions and product conditions. Full clause-by-clause compliance analysis not performed."
+- id: v118-aging24
+  resource: "https://reference-global.com/article/10.2478/aucft-2024-0001"
+  title: "Factors Affecting Beer Quality During Storage – A Review (2024)"
+  author_label: "Krystian Klimczak, Monika Cioch-Skoneczny and Aleksander Poreda"
+  source_kind: "peer-reviewed-beer-aging-review-abstract"
+  access_scope: "Public scholarly abstract summarizing beer-dependent staling chemistry, aldehydes, ester/terpene changes, storage and time; no new universal shelf-life trial."
 category_axis: multiple
 scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive
   world taxonomy.
@@ -230,3 +242,13 @@ For retrieval and writing, preserve separately **style definition, edition, meas
 [^v116-triangle]: [ISO 4120:2021 Sensory analysis — Methodology — Triangle test](https://www.iso.org/standard/76666.html). International Organization for Standardization. Checked 2026-10-28. Access: Official scope and dated publication; ISO confirmed this edition in 2026. Full paywalled normative text was not accessed; no claim to reproduce its complete method.
 
 [^v116-bjcpEval]: [Beer Evaluation and the Judging Process](https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/beer-evaluation/). Beer Judge Certification Program. Checked 2026-10-28. Access: Public tasting and context guide, originally tied to older examination material; practical judging advice is not controlled consumer research.
+
+## Edition 1.18: newly sourced connections
+
+A beer packaging format is a separate description from its style or cultural identity. The EU's Regulation 2025/40 concerns packaging waste, reuse and obligations on economic actors; it does not classify what the drink tastes like or which fermentation tradition produced it.[^v118-ppwr25] Meanwhile a 2024 review of beer aging connects sensory changes with compound composition, storage conditions and time. Merely saying “bottle,” “can,” or “keg” cannot establish a fixed flavor outcome.[^v118-aging24]
+
+Catalogs should preserve product name, style-guide edition, package, jurisdiction, measured sensory condition and observed environmental outcome in different fields. Read [packaging versus shelf-life](packaging-material-is-not-shelf-life.md) and [why comparative packaging LCAs disagree](why-packaging-lca-rankings-disagree.md). Neither legal packaging compliance nor a modelled material footprint proves cultural authenticity.
+
+[^v118-ppwr25]: [Regulation (EU) 2025/40 on packaging and packaging waste](https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng). European Parliament and Council of the European Union. Consulted 2026-10-28. Access: Official EUR-Lex act and European Commission summaries; applicable from 12 August 2026 with differing later targets, exceptions and product conditions. Full clause-by-clause compliance analysis not performed.
+
+[^v118-aging24]: [Factors Affecting Beer Quality During Storage – A Review (2024)](https://reference-global.com/article/10.2478/aucft-2024-0001). Krystian Klimczak, Monika Cioch-Skoneczny and Aleksander Poreda. Consulted 2026-10-28. Access: Public scholarly abstract summarizing beer-dependent staling chemistry, aldehydes, ester/terpene changes, storage and time; no new universal shelf-life trial.

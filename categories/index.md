@@ -105,3 +105,9 @@ New evidence-based references (all retain draft status):
 - [Field fungi versus starter microbes](field-fungus-vs-starter-microbes.md) — Plant-pathogen field research does not define living fermentation.
 - [Grain history versus foam defects](grain-contamination-vs-foam-defects.md) — Gushing, carbonation and glassware remain distinct mechanisms.
 - [Field-to-glass grain evidence](field-to-glass-grain-evidence.md) — Regulation, farm surveys, analytical assays and beer service answer different questions.
+
+## Research edition 1.18 — packaging, circulation and evidence boundaries
+
+- [Packaging is not shelf life](packaging-material-is-not-shelf-life.md) — A beer's format does not determine every sensory outcome.
+- [Why keg LCA rankings disagree](why-packaging-lca-rankings-disagree.md) — The comparison system, delivery route and reuse count matter.
+- [Food-contact law versus beer flavor](food-contact-law-is-not-beer-flavor.md) — Coating compliance and sensory changes require separate evidence.
