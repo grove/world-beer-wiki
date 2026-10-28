@@ -2,7 +2,7 @@
 
 In Exeter in 1317, women who sold ale took down their signs. The price at which they had been ordered to sell was, in their judgment, unacceptable. Removing the signs withdrew the invitation to buy. A business that could be regulated could also refuse to do business.
 
-The episode reaches us through the historian Judith Bennett, whose account of women in English brewing follows records made for purposes very different from celebrating women's work. An earlier case, from Wakefield manor in 1275, records Gillian, wife of Richard Pykard, resisting the officers who inspected ale. These were particular disputes, separated by place and time. They nevertheless interrupt a familiar picture of the medieval brewer: anonymous, compliant, stirring something in the background while history happens elsewhere.[^c13-1]
+The episode reaches us through the historian Judith Bennett, whose account of women in English brewing follows records made for purposes very different from celebrating women's work. An earlier case, from Wakefield manor in 1275, records Gillian, wife of Richard Pykard, resisting the officers who inspected ale. Bennett emphasizes that such protests were uncommon. These particular disputes nevertheless interrupt a familiar picture of the medieval brewer: anonymous, compliant, stirring something in the background while history happens elsewhere.[^c13-1]
 
 A sign coming down is a small action. It becomes substantial when one asks what had to exist before it could happen. There was a product to sell, an expected customer, a price, and someone who considered the return insufficient. Brewing was work over which people bargained. The women in these records did not require a modern word for entrepreneurship before they could have interests of their own.
 
@@ -18,7 +18,7 @@ Once this distinction is clear, a fine stops being a complete character referenc
 
 Oxford provides a more local way into the difficulty. The Museum of Oxford names Maud London, an unmarried fourteenth-century brewer, among the women visible in the town's records. Its account also points out that poll-tax documentation represents substantial enterprises more readily than the smallest occasional sellers. A name survives; an unknown number of less conspicuous working lives does not.[^c13-3]
 
-Maud is useful precisely because she is a person rather than a symbol. It would be tempting to dress her in an imagined apron, place her beside a steaming vessel and give her a sharp reply to a customer. Nothing in the evidence consulted warrants that scene. Her recorded presence does something more durable: it prevents an account of commercial brewing from proceeding as though women were absent until someone thought to include them.
+Maud's name gives commercial brewing a participant whom an account centered on male proprietors could easily obscure. The surviving description is brief, but it interrupts a history in which women appear only as helpers or exceptions.
 
 The missing sellers complicate counting. Suppose a list contains the heads of taxed households. It cannot automatically tell us how many people carried water, handled malt, brewed, sold, collected debts or kept the household functioning while brewing went on. Those activities could involve different people. A named man does not prove that no woman worked in his enterprise; a named woman does not prove that she worked alone. Before turning a list into a chart of occupations, one must ask what qualified someone for a line on the page.
 
@@ -40,9 +40,7 @@ The medieval woman in that opinion was a literary recollection, not Maud London 
 
 The distance between Exeter's signs and the Michigan bar is not evidence of an unbroken, identical system. The laws, places and businesses were different. It is evidence that a representation can outlive the setting that supposedly explains it. A caricature may remain available long after the people it caricatured have become hard to retrieve.
 
-This is why recovering a name is only the beginning. Merely swapping a comic alewife for a heroic one leaves the structure of the story unchanged: a representative woman stands in for everybody. The harder task is to restore distinctions. Some brewers had money; some struggled. Some worked occasionally; others made a living from the trade. A person could exercise initiative within severe constraints, and suffer an injustice without being an exemplary business owner.
-
-The evidence consulted for this chapter includes published historical interpretation[^c13-6] rather than an independent reading of the medieval court rolls. That limits how closely we can approach each dispute. It does not require us to substitute folklore for the records we lack. A full archival study could sharpen the chronology, identify repeated names and compare an official's language across cases. Those are concrete ways to learn more; an invented conversation would teach us nothing.
+This is why recovering a name is only the beginning. Merely swapping a comic alewife for a heroic one leaves the structure of the story unchanged: a representative woman stands in for everybody. The harder task is to restore distinctions. Some brewers had money; some struggled. Some worked occasionally; others made a living from the trade. A person could exercise initiative within severe constraints, and suffer an injustice without being an exemplary business owner.[^c13-6]
 
 Return, then, to the signs. We cannot hear what every Exeter brewster said in 1317, or know how long each household could afford to forgo a sale. Bennett's account preserves the refusal. For a moment, the regulators' record shows people using the terms of a market against those who set them.
 

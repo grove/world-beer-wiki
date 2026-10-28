@@ -2,6 +2,8 @@
 
 Reviewed and revised 28 October 2026. This is the drafting agent's internal AI self-review. It is not independent human peer review, a new laboratory analysis, an independent translation, a site visit, or consultation with the communities discussed.
 
+This record describes the drafting handoff. The subsequent [fresh cross-part review](cross-review-part-i.md) records direct prose edits, an additional source for the explanation of *qu*, and updated counts; it supersedes the corresponding handoff descriptions and numbers below.
+
 ## Developmental pass
 
 Read all six completed narratives and checked that each has its own investigative question, material entrance, and conclusion. The sequence moves through stone, a hymn, accounts, pottery residues, a brewery's destruction, and a changing industrial product. Chapter 6's engine is a documented counterpoint to the sole-inventor story, not a proposed origin of porter. The monthly-stock calculation is explicitly hypothetical and supports the storage argument without pretending to be an eighteenth-century balance sheet.

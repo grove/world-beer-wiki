@@ -12,7 +12,7 @@ These are stories for anyone who enjoys finding out how we know what we think we
 
 ## Promotional description — 50 words
 
-Beer smells of fruit never added, carries stories older than its evidence, and depends on work easily overlooked. The Beer Detective follows twenty-four investigations across archaeology, chemistry and living traditions, uncovering how drinks acquire their flavors, histories and reputations—and what a careful look can reveal beyond the familiar glass.
+Beer smells of fruit never added, carries stories older than its evidence, and depends on work easily overlooked. The Beer Detective follows twenty-four investigations across archaeology, chemistry and living traditions, uncovering how drinks acquire their flavors, histories and reputations, and what a careful look can reveal beyond the familiar glass.
 
 ## Project biography
 

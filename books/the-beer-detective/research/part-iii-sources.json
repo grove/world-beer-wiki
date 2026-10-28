@@ -1,7 +1,7 @@
 [
   {
     "chapter": 13,
-    "claim": "Bennett reports Exeter brewsters withdrawing signs in 1317 and Gillian resisting ale inspectors at Wakefield manor in 1275.",
+    "claim": "Bennett reports Exeter brewsters withdrawing signs in 1317 and Gillian resisting ale inspectors at Wakefield manor in 1275, while emphasizing that such protests were uncommon.",
     "wiki_paths": [
       "history/ale-tasters-and-brewster-protests.md"
     ],
@@ -11,7 +11,7 @@
         "url": "https://academic.oup.com/book/47408/chapter-abstract/422345728",
         "access": "Indexed publisher chapter abstract only; direct publisher requests failed; full chapter and medieval court rolls not read.",
         "accessed_on": "2026-10-28",
-        "locator": "Abstract: Wakefield manor 1275 Gillian wife of Richard Pykard; Exeter 1317 signs withdrawn."
+        "locator": "Abstract: Wakefield manor 1275 Gillian wife of Richard Pykard; Exeter 1317 signs withdrawn; explicit qualification that individual and collective protests were uncommon."
       }
     ],
     "uncertainty": "Attributed to a historian’s abstract; neither original court-roll wording nor individual motives reconstructed."
@@ -539,7 +539,7 @@
   },
   {
     "chapter": 17,
-    "claim": "Chai et al.’s makgeolli time course used commercial yeast in addition to commercial nuruk.",
+    "claim": "Chai et al.’s makgeolli time course used commercial yeast in addition to commercial nuruk; bacterial composition changed, while the fungal community showed no significant change and Saccharomyces remained dominant.",
     "wiki_paths": [
       "microbiology/makgeolli-time-course-not-one-snapshot.md"
     ],
@@ -549,10 +549,10 @@
         "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jib.227",
         "access": "Full publisher HTML, especially preparation methods and time-course results.",
         "accessed_on": "2026-10-28",
-        "locator": "Methods explicitly add commercial yeast starter alongside commercial nuruk; changing bacterial/fungal communities and physicochemical measures."
+        "locator": "Preparation methods explicitly add commercial yeast starter alongside commercial nuruk. Abstract and results distinguish changing bacterial composition, especially in the first two days, from fungal composition without significant change and Saccharomyces dominance throughout."
       }
     ],
-    "uncertainty": "Its Saccharomyces dominance cannot demonstrate unaided nuruk succession or directly contradict the 2013 dry-starter survey."
+    "uncertainty": "Its Saccharomyces dominance cannot demonstrate unaided nuruk succession or directly contradict the 2013 dry-starter survey. The fungal result is not generalized to every makgeolli fermentation."
   },
   {
     "chapter": 17,

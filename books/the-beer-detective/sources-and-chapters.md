@@ -460,7 +460,7 @@ This map is generated from the reviewed claim register. It records actual access
 
 ### Independent sources and access
 
-- [Judith M. Bennett, Gender Rules: Women and the Regulation of Brewing (1996)](https://academic.oup.com/book/47408/chapter-abstract/422345728). **Access:** Indexed publisher chapter abstract only; direct publisher requests failed; full chapter and medieval court rolls not read. **Location:** Abstract: Wakefield manor 1275 Gillian wife of Richard Pykard; Exeter 1317 signs withdrawn.. **Consulted:** 2026-10-28.
+- [Judith M. Bennett, Gender Rules: Women and the Regulation of Brewing (1996)](https://academic.oup.com/book/47408/chapter-abstract/422345728). **Access:** Indexed publisher chapter abstract only; direct publisher requests failed; full chapter and medieval court rolls not read. **Location:** Abstract: Wakefield manor 1275 Gillian wife of Richard Pykard; Exeter 1317 signs withdrawn; explicit qualification that individual and collective protests were uncommon.. **Consulted:** 2026-10-28.
 
 - [Judicium Pillorie, in Owen Ruffhead, The Statutes at Large (1763), p. 28](https://en.wikisource.org/wiki/Page:Ruffhead_-_The_Statutes_at_Large,_1763.djvu/74). **Access:** Validated transcription of a digitized public-domain statutory page; surrounding volume not read. **Location:** Punishment of a baker or brewer offending; escalating amercements/corporal sanctions.. **Consulted:** 2026-10-28.
 
@@ -476,7 +476,7 @@ This map is generated from the reviewed claim register. It records actual access
 
 ### Claims requiring care and unresolved questions
 
-- **Bennett reports Exeter brewsters withdrawing signs in 1317 and Gillian resisting ale inspectors at Wakefield manor in 1275.** Attributed to a historian’s abstract; neither original court-roll wording nor individual motives reconstructed.
+- **Bennett reports Exeter brewsters withdrawing signs in 1317 and Gillian resisting ale inspectors at Wakefield manor in 1275, while emphasizing that such protests were uncommon.** Attributed to a historian’s abstract; neither original court-roll wording nor individual motives reconstructed.
 
 - **Statutory regulation related ale prices to grain and described escalating sanctions.** Normative rules do not demonstrate consistent enforcement; traditional dating is not asserted as independently established.
 
@@ -603,7 +603,7 @@ This map is generated from the reviewed claim register. It records actual access
 
 - [Sang Hoon Song et al., Analysis of Microflora Profile in Korean Traditional Nuruk (2013)](https://pubmed.ncbi.nlm.nih.gov/23314366/). **Access:** Complete PubMed abstract and metadata; full article not accessed. **Location:** 42 samples; S. cerevisiae recovered from 18, A. oryzae from 13.. **Consulted:** 2026-10-28.
 
-- [Changhoon Chai, Goo-Sang Lim, Yun-Ji Kim and Se-Wook Oh, Microbial Community Changes in Makgeolli during Brewing (2015)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.227). **Access:** Full publisher HTML, especially preparation methods and time-course results. **Location:** Methods explicitly add commercial yeast starter alongside commercial nuruk; changing bacterial/fungal communities and physicochemical measures.. **Consulted:** 2026-10-28.
+- [Changhoon Chai, Goo-Sang Lim, Yun-Ji Kim and Se-Wook Oh, Microbial Community Changes in Makgeolli during Brewing (2015)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.227). **Access:** Full publisher HTML, especially preparation methods and time-course results. **Location:** Preparation methods explicitly add commercial yeast starter alongside commercial nuruk. Abstract and results distinguish changing bacterial composition, especially in the first two days, from fungal composition without significant change and Saccharomyces dominance throughout.. **Consulted:** 2026-10-28.
 
 - [Jin Ho Choo et al., Whole-genome de novo sequencing, combined with RNA-Seq analysis, reveals unique genome and physiological features of the amylolytic yeast Saccharomycopsis fibuligera and its interspecies hybrid (2016)](https://link.springer.com/article/10.1186/s13068-016-0653-4). **Access:** Full publisher HTML; Background, isolation/growth results and functional conclusions consulted. **Location:** KJJ81 from Jeju and KPH12 from Pohang wheat nuruk; selected high-saccharification isolates.. **Consulted:** 2026-10-28.
 
@@ -615,7 +615,7 @@ This map is generated from the reviewed claim register. It records actual access
 
 - **Song et al. recovered S. cerevisiae from eighteen of forty-two nuruk samples and A. oryzae from thirteen.** Isolation failure is not organism absence; sample proportions are not universal prevalence.
 
-- **Chai et al.’s makgeolli time course used commercial yeast in addition to commercial nuruk.** Its Saccharomyces dominance cannot demonstrate unaided nuruk succession or directly contradict the 2013 dry-starter survey.
+- **Chai et al.’s makgeolli time course used commercial yeast in addition to commercial nuruk; bacterial composition changed, while the fungal community showed no significant change and Saccharomyces remained dominant.** Its Saccharomyces dominance cannot demonstrate unaided nuruk succession or directly contradict the 2013 dry-starter survey. The fungal result is not generalized to every makgeolli fermentation.
 
 - **Starch-active S. fibuligera isolates show that yeast functions are not limited to ethanol production.** Selected isolates, not all starter composition; wiki-linked 2023 FEMS article is a review, so an original 2016 study is used.
 

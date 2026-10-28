@@ -1,5 +1,7 @@
 # Part III: completed internal review
 
+Later complete fresh reading and focused edits are documented in [cross-review-part-iii.md](cross-review-part-iii.md). That record supersedes this drafting-stage prose and its handoff counts where they differ.
+
 Reviewed 28 October 2026. This is an internal AI developmental, source, prose and cultural-scope review of chapters 13–18. It is not independent human scholarship, scientific peer review, brewer consultation, legal advice or community endorsement.
 
 ## Developmental pass

@@ -61,6 +61,7 @@ def word_count(text):
     body = re.sub(r'^#{1,6} .*$', '', body, flags=re.M)
     body = CALL.sub('', body)
     body = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', body)
+    body = re.sub(r'[*_`]', '', body)
     return len(re.findall(r"\b\w+(?:[’'-]\w+)*\b", body))
 
 

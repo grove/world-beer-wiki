@@ -108,6 +108,8 @@ def styles():
     return {
         'body': base,
         'first': ParagraphStyle('First', parent=base, firstLineIndent=0),
+        'compactbody': ParagraphStyle('CompactBody', parent=base, leading=13.8),
+        'compactfirst': ParagraphStyle('CompactFirst', parent=base, leading=13.8, firstLineIndent=0),
         'small': ParagraphStyle('Small', parent=base, fontSize=9.3, leading=12.4, firstLineIndent=0, spaceAfter=8),
         'note': ParagraphStyle('Note', parent=base, fontSize=9.0, leading=11.8, leftIndent=13, firstLineIndent=-13, spaceAfter=6),
         'reading': ParagraphStyle('Reading', parent=base, fontSize=9.6, leading=12.5, firstLineIndent=0, spaceAfter=8),
@@ -187,8 +189,7 @@ class BookDocument(BaseDocTemplate):
 
 class BookContents(TableOfContents):
     """Consistent table rows and unsplit part-heading/first-chapter pairs."""
-    def wrap(self, width, height):
-        entries = self._lastEntries or [(0, 'Contents', 1, 'introduction')]
+    def table(self, entries, width):
         rows, rules = [], []
         for i, (level, title, number, key) in enumerate(entries):
             style = self.levelStyles[level]
@@ -200,11 +201,23 @@ class BookContents(TableOfContents):
                 rules += [('TOPPADDING', (0, i), (-1, i), 10), ('BOTTOMPADDING', (0, i), (-1, i), 5)]
                 if i + 1 < len(entries) and entries[i+1][0] == 1:
                     rules.append(('NOSPLIT', (0, i), (-1, i+1)))
-        self._table = Table(rows, colWidths=[width-26, 26], style=TableStyle([
+        return Table(rows, colWidths=[width-26, 26], style=TableStyle([
             ('VALIGN', (0, 0), (-1, -1), 'TOP'), ('LEFTPADDING', (0, 0), (-1, -1), 0),
             ('RIGHTPADDING', (0, 0), (-1, -1), 0), ('TOPPADDING', (0, 0), (-1, -1), 2),
             ('BOTTOMPADDING', (0, 0), (-1, -1), 2), *rules]))
+
+    def wrap(self, width, height):
+        self.book_entries = self._lastEntries or [(0, 'Contents', 1, 'introduction')]
+        self._table = self.table(self.book_entries, width)
         return self._table.wrapOn(self.canv, width, height)
+
+    def split(self, width, height):
+        # Balance the two contents pages at a natural part boundary.
+        cut = next((i for i, item in enumerate(self.book_entries) if item[3] == 'part-iii'), None)
+        if cut is None:
+            return self._table.splitOn(self.canv, width, height)
+        return [self.table(self.book_entries[:cut], width), PageBreak(),
+                self.table(self.book_entries[cut:], width)]
 
 
 def make_heading(text, anchor, style, level=None, opening=True, running=True):
@@ -229,12 +242,15 @@ def pdf(ast):
                        firstLineIndent=0, spaceBefore=2),
     ]
     toc.dotsMinLevel = 1
-    section, first, skip = '', True, False
+    section, first, skip, compact_chapter = '', True, False, False
     for block in ast['blocks']:
         kind, val = block['t'], block.get('c')
         if kind == 'Header':
             level, attr, content = val
             anchor, classes = attr[0], attr[1]
+            # A restrained local leading adjustment avoids stranding the last
+            # two lines of chapter 24 on an otherwise empty final page.
+            compact_chapter = anchor == 'chapter-24'
             title = inlines(content)
             if 'subtitle' in classes:
                 continue
@@ -285,7 +301,10 @@ def pdf(ast):
             elif section in {'notes', 'reading'}:
                 style = st['reading']
             else:
-                style = st['first'] if first else st['body']
+                if compact_chapter:
+                    style = st['compactfirst'] if first else st['compactbody']
+                else:
+                    style = st['first'] if first else st['body']
             story.append(Paragraph(inlines(val), style))
             first = False
         elif kind in {'OrderedList', 'BulletList'}:
@@ -384,7 +403,7 @@ def main():
         manifest['epub']['master_sha256'] = manifest['master_sha256']
     for format_name in ['pdf', 'epub']:
         file = DIST / f'the-beer-detective.{format_name}'
-        if file.exists():
+        if file.exists() and format_name in manifest:
             manifest[format_name].update({'bytes': file.stat().st_size, 'sha256': hashlib.sha256(file.read_bytes()).hexdigest()})
     manifest_file.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
     print(json.dumps({k: v for k, v in manifest.items() if k != 'pdf'}, indent=2))

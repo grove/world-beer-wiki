@@ -7,16 +7,16 @@
   "research_cutoff": "2026-10-28",
   "chapter_count": 24,
   "part_count": 4,
-  "narrative_words": 36953,
+  "narrative_words": 36551,
   "count_definition": "Introduction, 24 chapter bodies and afterword; headings, note markers, notes, acknowledgments, methodology and bibliography excluded. Unicode word tokens with internal apostrophes/hyphens retained.",
-  "chapter_words": 35500,
+  "chapter_words": 35098,
   "introduction_words": 969,
   "afterword_words": 484,
   "notes": 160,
   "registered_claims": 173,
   "unique_source_urls": 131,
   "human_review": "Not performed; awaiting independent editorial, specialist and community review.",
-  "master_sha256": "883601c8011442aa7720514a5452b9beedf4555d6656e60779328f65c36c9f28",
+  "master_sha256": "409572ddac4c5249ac4041bcf4dd5b14173bfa3a24b3fd8729b06f824068a8b0",
   "chapters": [
     {
       "chapter": 1,
@@ -109,7 +109,7 @@
     {
       "chapter": 12,
       "title": "12. The Missing Parent",
-      "narrative_words": 1468,
+      "narrative_words": 1467,
       "notes": 7,
       "registered_claims": 7,
       "file": "chapters/12-the-missing-parent.md"
@@ -117,7 +117,7 @@
     {
       "chapter": 13,
       "title": "13. The Women in the Fine Book",
-      "narrative_words": 1546,
+      "narrative_words": 1434,
       "notes": 6,
       "registered_claims": 6,
       "file": "chapters/13-the-women-in-the-fine-book.md"
@@ -125,7 +125,7 @@
     {
       "chapter": 14,
       "title": "14. The Brewery with Many Front Doors",
-      "narrative_words": 1565,
+      "narrative_words": 1430,
       "notes": 6,
       "registered_claims": 6,
       "file": "chapters/14-the-brewery-with-many-front-doors.md"
@@ -133,7 +133,7 @@
     {
       "chapter": 15,
       "title": "15. The Ingredient That Had to Be Carried",
-      "narrative_words": 1454,
+      "narrative_words": 1414,
       "notes": 6,
       "registered_claims": 7,
       "file": "chapters/15-the-ingredient-that-had-to-be-carried.md"
@@ -149,7 +149,7 @@
     {
       "chapter": 17,
       "title": "17. The Cake That Would Not Be a Strain",
-      "narrative_words": 1532,
+      "narrative_words": 1471,
       "notes": 6,
       "registered_claims": 7,
       "file": "chapters/17-the-cake-that-would-not-be-a-strain.md"
@@ -157,7 +157,7 @@
     {
       "chapter": 18,
       "title": "18. The Beer Made in Two Directions",
-      "narrative_words": 1496,
+      "narrative_words": 1443,
       "notes": 8,
       "registered_claims": 8,
       "file": "chapters/18-the-beer-made-in-two-directions.md"

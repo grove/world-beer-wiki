@@ -40,7 +40,7 @@ What the comparison offers is a wider cast. The person near the vessel may be th
 
 A proposal to change the process consequently has more than one outcome to consider. It might reduce fuel use but require a larger payment up front. It might extend storage but change the product customers expect. These are possible tradeoffs, not claims about a particular unexamined technology. They illustrate why the producer's own priorities belong at the center of the question. The most sophisticated apparatus is not automatically the most useful change.
 
-The sources for this chapter were written by researchers; they are not interviews conducted for this book. They allow the Nagbo brewer's account and the reported concerns of other women to enter the narrative, but do not authorize a complete account of what every participant wanted. More direct reporting could ask which investment would make the largest difference to a particular enterprise, who would control it, and what new obligations it might introduce.[^c15-6]
+The producer would also have to live with the new arrangement. Who would control an investment, collect its revenue or meet its repayments? Those questions belong beside the promise of a bigger batch.[^c15-6]
 
 For the brewer in Nagbo, however, one obstacle was already specific enough. Water availability changed how often she could work. No grand theory is needed to recognize the consequence of a batch that never begins.
 

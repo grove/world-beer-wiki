@@ -1,0 +1,50 @@
+name: Validate book
+on:
+  pull_request:
+    paths:
+      - 'books/the-beer-detective/**'
+      - '.github/workflows/book.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'books/the-beer-detective/**'
+      - '.github/workflows/book.yml'
+permissions:
+  contents: read
+jobs:
+  book:
+    runs-on: ubuntu-24.04
+    defaults:
+      run:
+        working-directory: books/the-beer-detective
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: books/the-beer-detective/requirements.txt
+      - name: Install publication tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libcairo2
+          python -m pip install -r requirements.txt
+      - name: Verify assembled release text
+        run: |
+          python tools/assemble.py
+          git diff --exit-code -- the-beer-detective.md sources-and-chapters.md research/claim-register.json research/manuscript-manifest.json
+      - name: Build and inspect reading editions
+        run: |
+          python tools/design_cover.py
+          python tools/build_book.py
+          python tools/validate_book.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: beer-detective-reading-editions
+          path: |
+            books/the-beer-detective/dist/*
+            books/the-beer-detective/research/build-manifest.json
+            books/the-beer-detective/research/validation-report.json
+          if-no-files-found: error
+          retention-days: 14
