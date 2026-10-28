@@ -38,7 +38,7 @@ source_checked_on: "2026-10-28"
 review_note: "AI-researched, source-scoped draft. No independent community, scientific, historical, regulatory or food-safety review."
 relations:
 - relation: compare_with
-  target: culture/beer-as-intangible-heritage
+  target: categories/beer-as-intangible-heritage
 - relation: compare_with
   target: categories/beer-classification
 - relation: compare_with
@@ -63,7 +63,7 @@ Read [beer classification](../categories/beer-classification.md) and [source-voi
 
 ## Explore connected subjects
 
-- [beer as intangible heritage](beer-as-intangible-heritage.md)
+- [beer as intangible heritage](../categories/beer-as-intangible-heritage.md)
 - [beer classification](../categories/beer-classification.md)
 - [us beer vs malt beverage definitions](../history/us-beer-vs-malt-beverage-definitions.md)
 

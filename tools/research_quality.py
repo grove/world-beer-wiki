@@ -58,7 +58,7 @@ def check_article(name, data, body, new, edition=EDITION):
     return errors
 
 def validate(root, edition=EDITION):
-    if edition not in {'1.6','1.7','1.8','1.9','1.10','1.11','1.12','1.13','1.14'}: raise ValueError('supported research editions: 1.6 through 1.14')
+    if edition not in {'1.6','1.7','1.8','1.9','1.10','1.11','1.12','1.13','1.14','1.15'}: raise ValueError('supported research editions: 1.6 through 1.15')
     source_prefix='v'+edition.replace('.','')+'-'
     stamp='world-beer-wiki/'+edition
     extension='## Edition '+edition+': '+('sourced research connections' if edition=='1.6' else 'newly sourced connections')
@@ -85,7 +85,7 @@ def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('root',nargs='?',type=Path,default=Path(__file__).resolve().parents[1])
     p.add_argument('--json',action='store_true')
-    p.add_argument('--edition',choices=['1.6','1.7','1.8','1.9','1.10','1.11','1.12','1.13','1.14'],default='1.6',help='research release to audit; older reports remain checkable')
+    p.add_argument('--edition',choices=['1.6','1.7','1.8','1.9','1.10','1.11','1.12','1.13','1.14','1.15'],default='1.6',help='research release to audit; older reports remain checkable')
     a=p.parse_args()
     report=validate(a.root,edition=a.edition)
     if a.json:print(json.dumps(report,ensure_ascii=False,indent=2,sort_keys=True))
