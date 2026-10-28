@@ -44,3 +44,7 @@ New evidence-based references (all retain draft status):
 
 - [Limiting alcohol through yeast sugar utilization](low-alcohol-by-limited-fermentation.md) — How controlled wort, strain properties and sensory tradeoffs differ from removing alcohol after brewing.
 - [Munkoyo root-based saccharification versus malting](munkoyo-root-starch-conversion.md) — An experimental maize-and-root pathway alongside grain malting and microbial enzyme starters.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Parallel starch conversion and alcoholic fermentation](parallel-starch-and-alcohol-fermentation.md) — An explanatory comparison of biologically coordinated starch hydrolysis and yeast fermentation in rice-based beverage studies.

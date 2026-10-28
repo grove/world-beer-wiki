@@ -1,7 +1,8 @@
 ---
 type: Beer Category Guide
 title: Starch fermentation and the boundaries of beer
-description: Compare malt beers, mixed-starter grain drinks and related starch ferments without erasing local beverage identities.
+description: Compare malt beers, mixed-starter grain drinks and related starch ferments without erasing
+  local beverage identities.
 tags:
 - starch
 - grain
@@ -22,16 +23,33 @@ sources:
   author_label: Imayotsukasa Brewery
 - id: trad-munkoyo-fermentation
   resource: https://pubmed.ncbi.nlm.nih.gov/9039570/
-  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source (1997)
+  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase
+    source (1997)
   author: team:trad-munkoyo-fermentation-authors
   source_kind: primary-research
   access_scope: PubMed abstract of original experimental fermentation research; full paper not inspected
   author_label: R. M. Zulu, V. M. Dillon and J. D. Owens
+- id: v17-bubod-1990
+  resource: https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article
+  title: Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)
+  author_label: Michio Kozaki and Tai Uchimura
+  source_kind: primary-isolate-study-abstract
+  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates
+    in studied material; full Japanese paper not read.
+- id: v17-unesco-sake
+  resource: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977
+  title: Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)
+  author_label: UNESCO / Japanese nomination
+  source_kind: heritage-inscription-record
+  access_scope: UNESCO indexed description and inscription decision; direct page can require browser
+    challenge. Heritage designation is not biochemical or ownership proof.
 category_axis: substrate-and-cultural-scope
-scope: Educational comparison across the linked profiles; not a new universal competition category or an exhaustive world taxonomy.
+scope: Educational comparison across the linked profiles; not a new universal competition category or
+  an exhaustive world taxonomy.
 evidence_basis: cited-primary-sources-and-editorial-comparison
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compares
   target: styles/sake
@@ -86,8 +104,18 @@ Prefer “this corpus includes it as a related fermented-grain tradition for com
 
 [All category guides](index.md) · [Ingredient reference](../ingredients/index.md) · [All beer profiles](../styles/index.md) · [Evidence method](../editorial/methodology.md)
 
+
+## Edition 1.7: newly sourced connections
+
+Koji-based Japanese sake and bubod-based Philippine tapuy make a revealing **biochemical** comparison to malt beer. UNESCO’s Japanese heritage description focuses on managed koji and apprenticeship; a 1990 Philippine isolate paper identifies a mixed starter with distinct amylolytic and alcohol-producing organisms. This supports comparison of saccharification routes, not relabeling either drink as a standardized beer style.[^v17-bubod-1990][^v17-unesco-sake]
+
+Open the [cross-cultural classification guide](koji-sake-and-rice-ferment-boundaries.md), [Tapuy](../styles/tapuy-philippine-rice-ferment.md) and [Sake](../styles/sake.md) to preserve both local naming and process evidence.
+
 ## Source notes
 
 [^sake-producer]: [Rice and Koji (2018)](https://imayotsukasa.co.jp/en/blog-en/1817/). Imayotsukasa Brewery. Consulted 2026-10-27. Evidence used: producer explanation of rice and koji preparation; not a complete sake taxonomy.
 
 [^trad-munkoyo-fermentation]: [Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source (1997)](https://pubmed.ncbi.nlm.nih.gov/9039570/). R. M. Zulu, V. M. Dillon and J. D. Owens. Consulted 2026-10-27. Evidence used: PubMed abstract of original experimental fermentation research; full paper not inspected.
+
+[^v17-bubod-1990]: [Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article). Michio Kozaki and Tai Uchimura. Consulted 2026-10-28. Access: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates in studied material; full Japanese paper not read.
+[^v17-unesco-sake]: [Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977). UNESCO / Japanese nomination. Consulted 2026-10-28. Access: UNESCO indexed description and inscription decision; direct page can require browser challenge. Heritage designation is not biochemical or ownership proof.

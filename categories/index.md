@@ -44,3 +44,8 @@ New evidence-based references (all retain draft status):
 
 - [A sampled ferment is not a population of brewers](study-sample-vs-living-tradition.md) — A practical guide to interpreting fieldwork, isolate counts, claims about community practice and source access.
 - [Banana beer, fruit fermentation and the limits of a name](banana-beer-boundaries.md) — Compare Ugandan Tonto and Rwandan Urugwa without forcing both into barley-beer rules.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Gender and brewing: what different sources actually show](gender-and-brewing-what-the-sources-show.md) — Compare medieval English archival histories, Ghanaian brewery enterprises and contemporary Peruvian chicherías without a global takeover myth.
+- [Koji, bubod, sake and the limits of beer categories](koji-sake-and-rice-ferment-boundaries.md) — How shared biochemical functions do not make Japanese sake, Philippine tapuy and conventional malt beer interchangeable categories.

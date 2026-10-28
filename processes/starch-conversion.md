@@ -1,29 +1,41 @@
 ---
 type: Brewing Process Reference
 title: Starch conversion across brewing traditions
-description: Compare malt, cultivated molds and enzyme-bearing roots without treating them as interchangeable traditions.
-tags: [process, starch, enzymes, malt, starters]
+description: Compare malt, cultivated molds and enzyme-bearing roots without treating them as interchangeable
+  traditions.
+tags:
+- process
+- starch
+- enzymes
+- malt
+- starters
 status: draft
-generated: {by: world-beer-wiki/1.2, at: '2026-10-27T20:25:00Z'}
-scope: A comparative explanation using a producer's malting account, a sake association's account and the existing Munkoyo research profile.
+generated:
+  by: world-beer-wiki/1.2
+  at: '2026-10-27T20:25:00Z'
+scope: A comparative explanation using a producer's malting account, a sake association's account and
+  the existing Munkoyo research profile.
 sources:
 - id: atlas-schlenkerla-process
   resource: https://www.schlenkerla.de/rauchbier/prozess/prozesse.html
   title: Malting and brewing process of Schlenkerla Smoked Beer
   author_label: Schlenkerla
   source_kind: producer-technical-documentation
-  access_scope: Steeping, germination, kilning, mashing and wort-separation descriptions; universal historical and exclusivity claims not adopted.
+  access_scope: Steeping, germination, kilning, mashing and wort-separation descriptions; universal
+    historical and exclusivity claims not adopted.
 - id: atlas-jss-koji
   resource: https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/
   title: Sake Brewing Processes and Flavor
   author_label: Japan Sake and Shochu Makers Association
   source_kind: producer-association-technical-documentation
-  access_scope: Koji-making and fermentation sections; production description, not a complete sake taxonomy or unknown-mold identification guide.
+  access_scope: Koji-making and fermentation sections; production description, not a complete sake taxonomy
+    or unknown-mold identification guide.
 - id: atlas-munkoyo-context
   resource: /styles/munkoyo.md
   title: Munkoyo profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Retained 2025 botanical study and 1997 fermentation abstract, with their separate access limits.
+  access_scope: Retained 2025 botanical study and 1997 fermentation abstract, with their separate access
+    limits.
 - id: v16-munkoyo
   resource: https://pubmed.ncbi.nlm.nih.gov/9039570/
   title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase
@@ -37,14 +49,24 @@ sources:
   title: Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)
   author_label: Research authors
   source_kind: primary-brewing-chemistry-abstract
-  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation;
-    studied combinations not all wheat beer.
+  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast
+    fermentation; studied combinations not all wheat beer.
+- id: v17-bubod-1990
+  resource: https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article
+  title: Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)
+  author_label: Michio Kozaki and Tai Uchimura
+  source_kind: primary-isolate-study-abstract
+  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates
+    in studied material; full Japanese paper not read.
 source_checked_on: '2026-10-28'
 review_note: Research draft; explanatory comparison, not an interchangeable ingredient list.
 relations:
-- {relation: compare_with, target: ingredients/barley-and-malt}
-- {relation: compare_with, target: microbiology/aspergillus-oryzae-and-koji}
-- {relation: compare_with, target: styles/munkoyo}
+- relation: compare_with
+  target: ingredients/barley-and-malt
+- relation: compare_with
+  target: microbiology/aspergillus-oryzae-and-koji
+- relation: compare_with
+  target: styles/munkoyo
 ---
 
 # Starch conversion across brewing traditions
@@ -73,6 +95,13 @@ The shared question—how to make a starch source fermentable—does not establi
 
 This is not a foraging guide or an instruction to culture unidentified molds. Named plant or microbial material in a paper is not automatically interchangeable with a locally found specimen. The Munkoyo discussion inherits the underlying profile's access limitations.
 
+
+## Edition 1.7: newly sourced connections
+
+Selected Philippine bubod/tapuy isolates showed complementary sugar-forming and alcohol-forming activities, with strong amylolytic behavior reported for *Saccharomycopsis fibuligera*. This illustrates why starch-conversion systems must record **where enzymes come from** and whether conversion and alcohol production overlap.[^v17-bubod-1990]
+
+The [parallel-fermentation guide](parallel-starch-and-alcohol-fermentation.md) compares that evidence with barley malting and koji culture without asserting a shared origin or a universal starter recipe.
+
 ## Source notes
 
 [^atlas-schlenkerla-process]: [Malting and brewing process of Schlenkerla Smoked Beer](https://www.schlenkerla.de/rauchbier/prozess/prozesse.html), Schlenkerla. Production stages consulted 27 October 2026; producer-specific account.
@@ -87,3 +116,5 @@ Compare [munkoyo saccharification](munkoyo-root-starch-conversion.md) with [feru
 
 [^v16-munkoyo]: [Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source (1997)](https://pubmed.ncbi.nlm.nih.gov/9039570/). Zulu, Dillon and Owens. Consulted 2026-10-28. Access: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental fermentation with named microbes; not a survey of all Zambian recipes.
 [^v16-ferulic-2004]: [Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)](https://pubs.acs.org/doi/10.1021/jf0346556). Research authors. Consulted 2026-10-28. Access: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation; studied combinations not all wheat beer.
+
+[^v17-bubod-1990]: [Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article). Michio Kozaki and Tai Uchimura. Consulted 2026-10-28. Access: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates in studied material; full Japanese paper not read.

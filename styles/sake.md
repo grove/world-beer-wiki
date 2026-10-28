@@ -18,6 +18,13 @@ sources:
   source_kind: firsthand-producer-account
   access_scope: producer explanation of rice and koji preparation; not a complete sake taxonomy
   author_label: Imayotsukasa Brewery
+- id: v17-unesco-sake
+  resource: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977
+  title: Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)
+  author_label: UNESCO / Japanese nomination
+  source_kind: heritage-inscription-record
+  access_scope: UNESCO indexed description and inscription decision; direct page can require browser
+    challenge. Heritage designation is not biochemical or ownership proof.
 aliases:
 - Nihonshu
 - 日本酒
@@ -25,10 +32,12 @@ regions:
 - East Asia
 - Japan
 tradition_status: living-tradition
-scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer style.
+scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer
+  style.
 evidence_basis: firsthand producer account; narrow process-focused introductory profile
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/makgeolli
@@ -70,6 +79,15 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+
+## Edition 1.7: newly sourced connections
+
+In 2024 UNESCO inscribed the traditional knowledge and skills of sake-making with koji mold in Japan. The nomination description emphasizes craft transmission through *tōji* and *kurabito*, fermentation knowledge, festivals, weddings and cooperation with farmers. It is recognition of a *practice*, not an official mandate to classify sake as beer.[^v17-unesco-sake]
+
+The [heritage case study](../culture/japanese-koji-sake-heritage-and-apprenticeship.md) and [rice-ferment comparison](../categories/koji-sake-and-rice-ferment-boundaries.md) place the biochemical and social dimensions together. UNESCO’s indexed description does not resolve every regional recipe or imply unbroken ancient continuity.
+
 ## Source notes
 
 [^sake-producer]: [Rice and Koji (2018)](https://imayotsukasa.co.jp/en/blog-en/1817/). Imayotsukasa Brewery. Consulted 2026-10-27. Evidence used: producer explanation of rice and koji preparation; not a complete sake taxonomy.
+
+[^v17-unesco-sake]: [Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977). UNESCO / Japanese nomination. Consulted 2026-10-28. Access: UNESCO indexed description and inscription decision; direct page can require browser challenge. Heritage designation is not biochemical or ownership proof.

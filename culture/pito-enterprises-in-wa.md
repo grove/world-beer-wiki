@@ -24,6 +24,13 @@ sources:
   source_kind: livelihood-field-study
   access_scope: Open publisher text on focus groups, water scarcity and commercial pito brewing in sampled
     communities.
+- id: v17-ghana-enterprise
+  resource: https://iiste.org/Journals/index.php/EJBM/article/view/61484
+  title: Modeling the Determinants in Pito Brewing of Small-Scale Enterprising in Ghana (2023)
+  author_label: Aliata Issahaq Mumuni, Musah Dumah and Hawa Awuro Sam
+  source_kind: primary-survey-abstract
+  access_scope: 'Journal abstract: purposive sample of 362 women in eight Upper West communities; regression
+    and sampling limits apply.'
 scope: 2024 small-enterprise research in Wa municipality, Ghana; not a national census.
 evidence_basis:
 - livelihood-field-study
@@ -68,8 +75,17 @@ The survey measures market participation but does not establish which ceremonial
 
 2024 small-enterprise research in Wa municipality, Ghana; not a national census. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
+
+## Edition 1.7: newly sourced connections
+
+A separate 2023 Upper West Region study of 362 purposively selected women pito brewers emphasized access to finance, packaging and storage constraints. It is not the same sample or geography as the 2024 Wa Municipality research discussed above; the two articles cannot be merged into one population estimate.[^v17-ghana-enterprise]
+
+Compare the [survey case](ghana-pito-women-enterprise-survey.md), [pito bars and migration](ghana-pito-bars-migration-and-identity.md) and the canonical [Pito](../styles/pito.md) profile for distinct questions about production, sales and consumption.
+
 ## Source notes
 
 [^v14-wa]: [Assessing the Contribution of Pito Brewing to Small-Scale Enterprise in Wa (2024)](https://iiste.org/Journals/index.php/JEDS/article/view/62498). Aliata Issahaq Mumuni et al.. Consulted 2026-10-27. Access: Publisher abstract, Wa municipality sampling and selected economic figures only; not transferable national averages.
 
 [^v14-water-ghana]: [Incidence of Water Scarcity and Women’s Non-Agricultural Livelihoods in Northern Ghana (2024)](https://doi.org/10.1080/23311886.2024.2433691). Research authors (journal article). Consulted 2026-10-27. Access: Open publisher text on focus groups, water scarcity and commercial pito brewing in sampled communities.
+
+[^v17-ghana-enterprise]: [Modeling the Determinants in Pito Brewing of Small-Scale Enterprising in Ghana (2023)](https://iiste.org/Journals/index.php/EJBM/article/view/61484). Aliata Issahaq Mumuni, Musah Dumah and Hawa Awuro Sam. Consulted 2026-10-28. Access: Journal abstract: purposive sample of 362 women in eight Upper West communities; regression and sampling limits apply.

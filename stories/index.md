@@ -37,3 +37,8 @@ New evidence-based references (all retain draft status):
 - [A bacterium can be welcome in one beer and spoil another](when-a-bacterium-is-welcome-and-when-it-is-not.md) — The same broad microbial label does not explain intent, function or failure.
 - [A family yeast is not one genome](the-family-culture-is-not-a-single-genome.md) — How sampling a culture changes what researchers can see about fermentation heritage.
 - [The banana that was never added](where-did-the-banana-aroma-come-from.md) — An evidence-led tasting mystery about fruit, fermentation and the mistakes of ingredient inference.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [The brewery once mistaken for a kiln](the-brewery-once-called-a-kiln.md) — Why re-examining an Egyptian archaeological site changed the interpretation of large-scale grain heating.
+- [The yeast that made sugar before another made alcohol](the-yeast-that-did-not-make-the-sugar.md) — A rice-ferment microbiology story illustrating complementary microbial roles without claiming a universal starter recipe.

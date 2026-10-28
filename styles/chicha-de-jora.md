@@ -1,8 +1,8 @@
 ---
 type: Beer Tradition
 title: Chicha de jora
-description: Peruvian sprouted-maize chicha de jora, with present-day production evidence and a separate, qualified
-  account of Wari brewing archaeology.
+description: Peruvian sprouted-maize chicha de jora, with present-day production evidence and a separate,
+  qualified account of Wari brewing archaeology.
 tags:
 - maize
 - malted-grain
@@ -14,44 +14,46 @@ generated:
 sources:
 - id: chicha-jora-study
   resource: https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage
-  title: 'Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage
-    (2020)'
+  title: 'Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented
+    Beverage (2020)'
   author: team:daniela-bassi-luigi-orru-jeison-cabanillas-vasquez-pier-sandro-cocconcelli-and-cecilia-fontana
   source_kind: primary-research
   access_scope: 'full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093'
-  author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana
+  author_label: Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia
+    Fontana
 - id: trad-chicha-archaeology
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
-  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
-    (2005)'
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro
+    Baúl, Peru (2005)'
   author: team:trad-chicha-archaeology-authors
   source_kind: primary-research
-  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata; full PMC page
-    blocked during direct retrieval; DOI 10.1073/pnas.0508673102
-  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda and
-    Mario Ruales
+  access_scope: indexed original-paper brewery and interpretation sections plus PubMed metadata; full
+    PMC page blocked during direct retrieval; DOI 10.1073/pnas.0508673102
+  author_label: Michael E. Moseley, Donna J. Nash, Patrick Ryan Williams, Susan D. deFrance, Ana Miranda
+    and Mario Ruales
 - id: v13-chicha
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7022331/
   title: 'Peruvian chicha: a focus on the microbial populations (2020)'
   author_label: Authors, journal review
   source_kind: academic-review
-  access_scope: Full open review inspected; examples from particular Peruvian regions and sources, not one
-    uniform recipe.
+  access_scope: Full open review inspected; examples from particular Peruvian regions and sources, not
+    one uniform recipe.
 - id: v14-chimu
   resource: https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1989.91.3.02a00090
-  title: 'Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production (1989)'
+  title: 'Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production
+    (1989)'
   author_label: Jerry D. Moore
   source_kind: archaeology-primary-abstract
-  access_scope: 'Publisher abstract: Manchan excavations, labor, hospitality and pre-Hispanic context; detailed
-    excavation text not independently inspected.'
+  access_scope: 'Publisher abstract: Manchan excavations, labor, hospitality and pre-Hispanic context;
+    detailed excavation text not independently inspected.'
 - id: v15-wari-2005
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
-  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
-    (2005)'
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro
+    Baúl, Peru (2005)'
   author_label: Michael E. Moseley and coauthors
   source_kind: primary-archaeological-paper
-  access_scope: Indexed excerpts of open article text returned in search; direct page open presented a browser
-    challenge; excavation claims limited to retrieved passages, not unseen figures.
+  access_scope: Indexed excerpts of open article text returned in search; direct page open presented
+    a browser challenge; excavation claims limited to retrieved passages, not unseen figures.
 - id: v15-wari-2024
   resource: https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/
   title: Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)
@@ -65,8 +67,15 @@ sources:
     (2026)'
   author_label: Torres-Cárdenas et al.
   source_kind: open-review-abstract
-  access_scope: PubMed abstract and indexed review excerpts on maize, adjuncts and varied processes; not
-    a universal recipe or evidence for health claims.
+  access_scope: PubMed abstract and indexed review excerpts on maize, adjuncts and varied processes;
+    not a universal recipe or evidence for health claims.
+- id: v17-piura
+  resource: https://www.sciencedirect.com/science/article/pii/S0278416508000159
+  title: 'Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production (2008)'
+  author_label: Frances M. Hayashida
+  source_kind: primary-ethnoarchaeology-preview
+  access_scope: Publisher abstract plus methods, Piura and Lambayeque section excerpts; full paywalled
+    article not read.
 aliases: []
 regions:
 - South America
@@ -78,8 +87,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary research or community-authored documentation
 source_checked_on: '2026-10-28'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
-  representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
+  community representative.
 relations:
 - relation: compare_with
   target: styles/tesguino
@@ -150,6 +159,13 @@ A later study using excavated dregs and informant-guided experiments argues that
 
 Explore [Cerro Baúl's brewery](../history/cerro-baul-wari-brewery.md), the role of [molle](../ingredients/schinus-molle-in-andean-ferments.md) and [state hospitality](../culture/wari-brewing-and-state-hospitality.md).
 
+
+## Edition 1.7: newly sourced connections
+
+Frances Hayashida’s interviews with women working in ten chicherías around Chulucanas in northern Peru document household production, maize purchased from mills, and locally known sales days. The study distinguishes production scale and work areas across Piura and Lambayeque and explicitly warns against reading modern observations as direct proof of ancient procedures.[^v17-piura]
+
+This research expands the [Piura chichera account](../culture/piura-chicheras-and-household-sales.md) and the [service-sign object](../objects/piura-chicha-white-flags.md). The **white flag** is documented in the study setting, not a universal symbol for every Andean beer or a current business listing.
+
 ## Source notes
 
 [^chicha-jora-study]: [Peruvian chicha: A Focus on the Microbial Populations of This Ancient Maize-Based Fermented Beverage (2020)](https://www.academia.edu/55497472/Peruvian_chicha_A_Focus_on_the_Microbial_Populations_of_This_Ancient_Maize_Based_Fermented_Beverage). Daniela Bassi, Luigi Orrù, Jeison Cabanillas Vasquez, Pier Sandro Cocconcelli and Cecilia Fontana. Consulted 2026-10-27. Evidence used: full-text article: process account and 27 samples from 14 producers; DOI 10.3390/microorganisms8010093.
@@ -175,3 +191,5 @@ A 2026 Peruvian scholarly review describes chicha de jora as a **variable cereal
 Read [colonial-record interpretation](../history/chile-chicha-and-the-colonial-archive.md) for a **different region and source type**; Peruvian review evidence is not an eyewitness account of Chilean Indigenous practice.
 
 [^v16-chicha-2026]: [Chicha de Jora: A Traditional Andean Fermented Beverage as a Complex Cereal Fermentation System (2026)](https://pubmed.ncbi.nlm.nih.gov/42728806/). Torres-Cárdenas et al.. Consulted 2026-10-28. Access: PubMed abstract and indexed review excerpts on maize, adjuncts and varied processes; not a universal recipe or evidence for health claims.
+
+[^v17-piura]: [Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production (2008)](https://www.sciencedirect.com/science/article/pii/S0278416508000159). Frances M. Hayashida. Consulted 2026-10-28. Access: Publisher abstract plus methods, Piura and Lambayeque section excerpts; full paywalled article not read.

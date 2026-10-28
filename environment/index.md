@@ -21,3 +21,8 @@ New evidence-based references (all retain draft status):
 
 - [Footprint estimates from surveyed Mexican microbreweries](mexican-microbrewery-footprint-case.md) — A 2024 study with explicit local assumptions and different scopes of direct, indirect and agricultural water.
 - [Single-use glass and system boundaries in a Japanese brewery study](japanese-small-brewery-lca-case.md) — A 2025 assessment where packaging and processing dominate within an explicitly limited life-cycle model.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Packaging, transport distance and beer life-cycle comparisons](beer-packaging-transport-and-return-loops.md) — Why reusable glass, cans and kegs change relative performance when delivery systems and life-cycle boundaries change.
+- [Spent grain: circular value and handling constraints](spent-grain-food-safety-and-circularity.md) — A 2026 review of brewery by-products, processing options and the risks of assuming every reuse route is sustainable or food-safe.

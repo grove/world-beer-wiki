@@ -36,3 +36,10 @@ New evidence-based references (all retain draft status):
 
 - [Chicha in Chilean colonial records: whose voice do we hear?](chile-chicha-and-the-colonial-archive.md) — Separating reported pre-Hispanic and colonial practices from later chroniclers’ judgment and retrospective synthesis.
 - [What historical brewing artifacts could tell us about yeast](historical-yeast-artifacts-research-questions.md) — A research program, not a claim to have resurrected an ancient starter.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Aletasters, price controls and brewsters’ resistance](ale-tasters-and-brewster-protests.md) — The regulatory records and named episodes of dissent described in Judith Bennett’s medieval-English brewing history.
+- [Chicherías in Arequipa’s records, 1780–1845](arequipa-chicherias-colonial-republican-records.md) — An archival historian’s reading of chicha sellers, alcohol consumption and gendered social space in southern Peru.
+- [Medieval English brewing as household labor](brewsters-household-labor-in-medieval-england.md) — Judith Bennett’s analysis of wives, husbands, employees and the changing organization of commercial ale brewing in England.
+- [The Abydos brewery and Egypt’s early kings](abydos-early-royal-brewery.md) — Early Dynastic brewery structures at North Abydos, Egypt, with separation of excavated installations, estimated scale and the proposed funerary association.

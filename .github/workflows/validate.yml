@@ -31,6 +31,8 @@ jobs:
           fi
       - name: Check edition 1.6 research hygiene
         run: python tools/research_quality.py --json > research-quality.json
+      - name: Check edition 1.7 research hygiene
+        run: python tools/research_quality.py --edition 1.7 --json > research-quality-1-7.json
       - name: Check complete generated subject directory
         run: python tools/build_subject_index.py --check
       - name: Build portable snapshot of tracked files
@@ -59,6 +61,7 @@ jobs:
             atlas-timeline.json
             atlas-source-audit.json
             research-quality.json
+            research-quality-1-7.json
             wiki-snapshot.zip
           if-no-files-found: error
           retention-days: 14

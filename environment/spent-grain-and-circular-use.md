@@ -22,8 +22,15 @@ sources:
   title: Changes in Malt Quality during Production in Two Commercial Malt Houses (2020)
   author_label: Malt analysis researchers
   source_kind: malting-primary-study
-  access_scope: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt
-    houses.
+  access_scope: Open full text includes β-glucan, friability, viscosity and lautering; specific two
+    malt houses.
+- id: v17-spent-2026
+  resource: https://www.mdpi.com/2071-1050/18/20/10403
+  title: 'Review of Brewer’s Spent Grain Valorization: Technologies, Safety, Circularity (2026)'
+  author_label: El Hassan Ajandouz and colleagues
+  source_kind: open-scientific-review
+  access_scope: Full open HTML review on composition, moisture, microbial risks, reuse pathways and
+    adoption limits; review, not trial.
 scope: Brewery spent grain after mashing and the limits of general life-cycle claims.
 evidence_basis:
 - malting-primary-study
@@ -54,8 +61,17 @@ Studies of barley malt and its by-products describe fiber- and protein-rich resi
 
 Brewery spent grain after mashing and the limits of general life-cycle claims. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
+
+## Edition 1.7: newly sourced connections
+
+A 2026 open review broadens the possibilities for spent grain utilization while emphasizing its high moisture content, spoilage risk, food safety, cost and technology readiness. A theoretical reuse pathway is not automatically a viable commercial product or a net environmental improvement.[^v17-spent-2026]
+
+The companion [handling and circularity article](spent-grain-food-safety-and-circularity.md) separates feed, food, materials and biorefinery options. Any comparative carbon claim needs a stated system boundary, distribution assumptions and credible substituted products.
+
 ## Source notes
 
 [^v14-circular]: [Spent Grain Valorisation and Renewable Energy for Craft Breweries (2024)](https://www.sciencedirect.com/science/article/pii/S0959652624009752). Sustainability review authors. Consulted 2026-10-27. Access: Open review abstract: opportunities and LCA limitations; not an actual emissions audit for every brewery.
 
 [^v14-malt]: [Changes in Malt Quality during Production in Two Commercial Malt Houses (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.609). Malt analysis researchers. Consulted 2026-10-27. Access: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt houses.
+
+[^v17-spent-2026]: [Review of Brewer’s Spent Grain Valorization: Technologies, Safety, Circularity (2026)](https://www.mdpi.com/2071-1050/18/20/10403). El Hassan Ajandouz and colleagues. Consulted 2026-10-28. Access: Full open HTML review on composition, moisture, microbial risks, reuse pathways and adoption limits; review, not trial.

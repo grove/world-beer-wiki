@@ -85,3 +85,7 @@ New evidence-based references (all retain draft status):
 - [Banana juice as a fermentation substrate](banana-juice.md) — Fermentable fruit sugars, optional cereal additions and the danger of confusing banana fruit with banana aroma.
 - [Ferulic acid in wort and phenolic brewing aromas](ferulic-acid-in-wort.md) — Where a cereal-derived precursor meets heat and yeast metabolism to contribute clove-like flavor.
 - [Rhynchosia roots as a starch-conversion ingredient in munkoyo](rhynchosia-root-for-munkoyo.md) — A bounded experimental account of roots supplying enzymes to cooked maize in a Zambian ferment.
+
+## Research edition 1.7 — situated evidence and comparative practice
+
+- [Bubod: a Philippine rice-fermentation starter](bubod-starter.md) — Traditional mixed starter material used in tapuy, distinguished from any single yeast, mold isolate or manufactured enzyme.
