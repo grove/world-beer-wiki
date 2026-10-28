@@ -1,14 +1,14 @@
 ---
 type: Implementation Progress Report
-title: Atlas scope and progress — edition 1.14
-description: Finite implementation ledger for 100 work items, with unperformed review explicit.
+title: Atlas scope and progress — edition 1.15
+description: Finite implementation ledger for 104 work items, with unperformed review explicit.
 tags:
 - wiki-documentation
-- edition-1.13
+- edition-1.15
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.14
+  by: world-beer-wiki/1.15
   at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-spec
@@ -16,9 +16,9 @@ sources:
   title: World Beer Atlas expansion specification
 ---
 
-# Atlas scope and progress — edition 1.14
+# Atlas scope and progress — edition 1.15
 
-**Edition 1.14: 97 implemented, 1 planned, 2 deferred work items**. These are finite source-linked file deliverables, **not a percentage of the world's beer knowledge researched**. All new articles remain drafts; no independent community, brewing or scientific review is claimed.
+**Edition 1.15: 101 implemented, 1 planned, 2 deferred work items**. These are finite source-linked file deliverables, **not a percentage of the world's beer knowledge researched**. All new articles remain drafts; no independent community, brewing or scientific review is claimed.
 
 | ID | Deliverable | State | Paths |
 |---|---|---|---|
@@ -130,9 +130,14 @@ sources:
 
 | ATLAS-100 | Edition 1.14 integration, source provenance and maintenance tests | implemented | [atlas sources 1 14](../references/atlas-sources-1-14.md) · [research update 1 14](../editorial/research-update-1-14.md) · [validation report 1 14](../editorial/validation-report-1-14.md) · [edition 1 14 reading trails](../navigation/edition-1-14-reading-trails.md) · `tests/test_research_quality_v114.py` |
 
+| ATLAS-101 | Legal names, strength descriptors and 1991 circular | implemented | [Jurisdictional names](../categories/jurisdictional-beer-names-vs-styles.md) · [no-/low-alcohol terms](../categories/no-low-alcohol-descriptors-across-borders.md) · [1991 agency event](../calendar/atf-nonalcoholic-marketing-circular-1991.md) |
+| ATLAS-102 | CO2, physical glass nucleation and service quality | implemented | [CO2](../ingredients/dissolved-carbon-dioxide-in-beer.md) · [beer-clean glass](../objects/beer-clean-glassware.md) · [model boundaries](../sensory/beer-bubbles-and-model-boundaries.md) |
+| ATLAS-103 | Environmental water accounting, no-alcohol safety and canonical integration | implemented | [Water ratio](../environment/brewery-water-ratio-versus-water-footprint.md) · [indirect water](../environment/direct-and-indirect-water-in-brewing.md) · [microbial hurdles](../microbiology/nolo-hurdles-are-not-label-rules.md) |
+| ATLAS-104 | Research release, source provenance, all directories and tests | implemented | [Sources](../references/atlas-sources-1-15.md) · [research](research-update-1-15.md) · [validation](validation-report-1-15.md) · `tests/test_research_quality_v115.py` |
+
 ## Limits and next actions
 
-Implemented means the specific file and accepted check exist, not that its subject is exhaustive or human-approved. The [open source-review queue](source-review-queue-1-14.md) records missing expertise, local perspectives and full-text methods. ATLAS-012 remains planned, and ATLAS-013/014 are deferred.
+Implemented means the specific file and accepted check exist, not that its subject is exhaustive or human-approved. The [open source-review queue](source-review-queue-1-15.md) records missing expertise, local perspectives and full-text methods. ATLAS-012 remains planned, and ATLAS-013/014 are deferred.
 
 ## Reproduce the progress ledger
 
@@ -142,4 +147,4 @@ python tools/atlas.py progress
 python tools/atlas.py source-audit
 ```
 
-[Research update](research-update-1-14.md) · [Specification](atlas-specification.md) · [Home](../index.md).
+[Research update](research-update-1-15.md) · [Specification](atlas-specification.md) · [Home](../index.md).
