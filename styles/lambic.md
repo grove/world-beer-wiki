@@ -25,6 +25,18 @@ sources:
   source_kind: primary-microbiological-research
   access_scope: publisher full text; abstract, introduction and results on six barrels in one traditional brewery
   author_label: J. De Roos, D. Van der Veken and L. De Vuyst
+- id: v118-ba-pressure26
+  resource: "https://www.brewersassociation.org/educational-publications/preventing-package-over-pressurization/"
+  title: "Preventing Package Over-Pressurization (1 February 2026)"
+  author_label: "Brewers Association"
+  source_kind: "industry-safety-guidance-overview"
+  access_scope: "Full public BA description of hazards from unintended package refermentation and producer responsibility; detailed linked download not examined, no pressure or priming instructions given."
+- id: v118-storage25
+  resource: "https://link.springer.com/article/10.1007/s11947-025-03830-9"
+  title: "Influence of Selected Technological Conditions on the Flavour Stability of Unpasteurised Top-Fermented Craft Beer (2025)"
+  author_label: "Giovanni De Francesco, Valeria Sileoni and Ombretta Marconi"
+  source_kind: "primary-controlled-craft-beer-storage-experiment"
+  access_scope: "Full open paper: studied a particular unpasteurized top-fermented beer under filtration, temperature and yeast-addition conditions, with instrumental and trained-panel results. Its outcomes are not a universally valid process or storage prescription."
 aliases:
 - Unblended lambic
 - Lambiek
@@ -99,3 +111,13 @@ Comparison links are not claims of direct ancestry.
 [Coolship](../objects/coolship.md) · [Cool-season brewing](../calendar/lambic-brewing-season.md) · [Spontaneous fermentation](../processes/spontaneous-fermentation.md)
 
 These reading links extend navigation; the original source access notes above remain unchanged.
+
+## Edition 1.18: newly sourced connections
+
+Bottle conditioning and mixed-culture maturation should retain their actual local production history. The Brewers Association's public 2026 guidance identifies unintended package refermentation as a pressure hazard and assigns responsibility for safe manufacture to producers. It does not define lambic, certify every mixed-fermentation bottle, or supply consumer interventions for suspect packages.[^v118-ba-pressure26] The 2025 controlled unpasteurized beer study investigated selected yeast and storage treatments in a particular top-fermented product; it did not investigate traditional lambic blending or provide a generalized stability rule for such beers.[^v118-storage25]
+
+Keep intentional production practices distinct from the analytical state and safety of a specific packaged batch. Follow [intentional versus unintended refermentation](../microbiology/package-refermentation-pressure-vs-quality.md) and [the limited study design](../sensory/unpasteurized-ale-storage-case-2025.md). A style name is not a pressure specification, a microbial species list or food-safety certification.
+
+[^v118-ba-pressure26]: [Preventing Package Over-Pressurization (1 February 2026)](https://www.brewersassociation.org/educational-publications/preventing-package-over-pressurization/). Brewers Association. Consulted 2026-10-28. Access: Full public BA description of hazards from unintended package refermentation and producer responsibility; detailed linked download not examined, no pressure or priming instructions given.
+
+[^v118-storage25]: [Influence of Selected Technological Conditions on the Flavour Stability of Unpasteurised Top-Fermented Craft Beer (2025)](https://link.springer.com/article/10.1007/s11947-025-03830-9). Giovanni De Francesco, Valeria Sileoni and Ombretta Marconi. Consulted 2026-10-28. Access: Full open paper: studied a particular unpasteurized top-fermented beer under filtration, temperature and yeast-addition conditions, with instrumental and trained-panel results. Its outcomes are not a universally valid process or storage prescription.

@@ -19,6 +19,18 @@ sources:
   source_kind: open-technical-review
   access_scope: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels are reported
     ranges, not regulatory limits.
+- id: v118-ebc-tpo
+  resource: "https://dev.brewup.brewersofeurope.eu/ebc-analytica/packaging-and-packaging-materials/total-dissolved-and-headspace-oxygen-in-packaged-beer/11.5.1"
+  title: "EBC 11.5.1: Total dissolved and headspace oxygen in packaged beer"
+  author_label: "Analytica EBC / Brewers of Europe"
+  source_kind: "official-method-index-entry"
+  access_scope: "Search-indexed method summary (direct site returned 503) listing both dissolved and headspace phases for bottle, can, keg and cask. Complete normative method unavailable; no universal oxygen specification claimed."
+- id: v118-ba-fresh24
+  resource: "https://www.brewersassociation.org/playlist/beer-freshness-series/"
+  title: "Beer Freshness Series (2024)"
+  author_label: "Brewers Association Quality Subcommittee"
+  source_kind: "industry-quality-guidance-landing-page"
+  access_scope: "Full public resource description introducing oxygen sensors and freshness across brewing, cellaring and packaging; detailed articles require member login, so operating targets are not inferred."
 regions:
 - Cross-regional
 scope: Beer oxygen pathways described in an open technical review; packaging methods and measured values vary.
@@ -60,3 +72,13 @@ Chemical protection concerns light transmission, oxygen ingress and closure beha
 ## Source notes
 
 [^v111-metals]: [Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Tuur Mertens, Thomas Kunz and Brian R. Gibson. Consulted 2026-10-28. Access: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels are reported ranges, not regulatory limits.
+
+## Edition 1.18: newly sourced connections
+
+A dissolved-oxygen result taken from a tank is not equal to total oxygen in a sealed package. The indexed Analytica EBC 11.5.1 method description addresses the dissolved liquid and gas headspace phases of beer in bottles, cans, kegs and casks.[^v118-ebc-tpo] The Brewers Association's 2024 freshness-series landing page identifies monitoring and sensor methods across brewing, cellar and packaging. The full member-only material was not accessible; therefore its public introduction is not a universal numerical specification for any brewery.[^v118-ba-fresh24]
+
+Record the sampled stage, headspace, instrument and time, and distinguish these readings from later staling chemistry or pressure safety. Read [the two-phase explanation](total-package-oxygen-has-two-phases.md) and [aldehyde chemistry](../sensory/aldehyde-aging-begins-before-the-package.md).
+
+[^v118-ebc-tpo]: [EBC 11.5.1: Total dissolved and headspace oxygen in packaged beer](https://dev.brewup.brewersofeurope.eu/ebc-analytica/packaging-and-packaging-materials/total-dissolved-and-headspace-oxygen-in-packaged-beer/11.5.1). Analytica EBC / Brewers of Europe. Consulted 2026-10-28. Access: Search-indexed method summary (direct site returned 503) listing both dissolved and headspace phases for bottle, can, keg and cask. Complete normative method unavailable; no universal oxygen specification claimed.
+
+[^v118-ba-fresh24]: [Beer Freshness Series (2024)](https://www.brewersassociation.org/playlist/beer-freshness-series/). Brewers Association Quality Subcommittee. Consulted 2026-10-28. Access: Full public resource description introducing oxygen sensors and freshness across brewing, cellaring and packaging; detailed articles require member login, so operating targets are not inferred.

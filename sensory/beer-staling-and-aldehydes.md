@@ -48,6 +48,18 @@ sources:
   source_kind: primary-protein-chemistry-abstract
   access_scope: PubMed indexed abstract of protein Z/humulinone interaction assays; model solution results are not
     consumer tasting data or finished-beer foam guarantees.
+- id: v118-aldehyde25
+  resource: "https://brewingscience.de/index.php/brewingscience/article/view/517"
+  title: "Technological strategies for controlling aldehyde formation in beer: a review of brewing-related flavour instability (2025)"
+  author_label: "Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen"
+  source_kind: "peer-reviewed-brewing-review-public-abstract"
+  access_scope: "Full publisher page, abstract and bibliographic record (PDF linked but not independently analyzed) discussing multiple aldehyde pathways, oxidation, heat, yeast, packaging and light; not one experimental recipe."
+- id: v118-aging24
+  resource: "https://reference-global.com/article/10.2478/aucft-2024-0001"
+  title: "Factors Affecting Beer Quality During Storage – A Review (2024)"
+  author_label: "Krystian Klimczak, Monika Cioch-Skoneczny and Aleksander Poreda"
+  source_kind: "peer-reviewed-beer-aging-review-abstract"
+  access_scope: "Public scholarly abstract summarizing beer-dependent staling chemistry, aldehydes, ester/terpene changes, storage and time; no new universal shelf-life trial."
 regions:
 - Cross-regional
 scope: 2025 research synthesis of aldehyde formation and storage-related changes; no universal best-before date
@@ -111,3 +123,13 @@ Likewise, a protein-Z experiment involving humulinone from hop oxidation measure
 
 [^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.
 [^v114-humulinone]: [Interactions between humulinone derived from aged hops and protein Z enhance foamability (2024 issue)](https://pubmed.ncbi.nlm.nih.gov/37716140/). Chen Xu and colleagues. Consulted 2026-10-28. Access: PubMed indexed abstract of protein Z/humulinone interaction assays; model solution results are not consumer tasting data or finished-beer foam guarantees.
+
+## Edition 1.18: newly sourced connections
+
+Ditrych, Aerts and Andersen's 2025 review traces staling aldehydes to several processes including Maillard and Strecker reactions, heat, metals, oxygen, yeast and packaging. Blaming every aging note on oxygen introduced after sealing would erase chemical precursors and earlier stages.[^v118-aldehyde25] A 2024 beer-storage review separately discusses changes to esters, terpenes, hop compounds, aldehydes and colloidal stability. Different beers can therefore change in different ways across measured timepoints.[^v118-aging24]
+
+A defensible claim requires the studied beer, source of a measured compound, storage history and a separate sensory endpoint. Follow [pre-packaging aldehyde origins](aldehyde-aging-begins-before-the-package.md) and [total package oxygen](../processes/total-package-oxygen-has-two-phases.md). This is not a universal expiry or a chemical-intervention protocol.
+
+[^v118-aldehyde25]: [Technological strategies for controlling aldehyde formation in beer: a review of brewing-related flavour instability (2025)](https://brewingscience.de/index.php/brewingscience/article/view/517). Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen. Consulted 2026-10-28. Access: Full publisher page, abstract and bibliographic record (PDF linked but not independently analyzed) discussing multiple aldehyde pathways, oxidation, heat, yeast, packaging and light; not one experimental recipe.
+
+[^v118-aging24]: [Factors Affecting Beer Quality During Storage – A Review (2024)](https://reference-global.com/article/10.2478/aucft-2024-0001). Krystian Klimczak, Monika Cioch-Skoneczny and Aleksander Poreda. Consulted 2026-10-28. Access: Public scholarly abstract summarizing beer-dependent staling chemistry, aldehydes, ester/terpene changes, storage and time; no new universal shelf-life trial.

@@ -70,6 +70,24 @@ sources:
   author_label: "Brewers Association Technical Committee"
   source_kind: "industry-technical-guidance-overview"
   access_scope: "Accessible public draught guidance overview; the detailed technical manual has not been rechecked here."
+- id: v118-ebc-tpo
+  resource: "https://dev.brewup.brewersofeurope.eu/ebc-analytica/packaging-and-packaging-materials/total-dissolved-and-headspace-oxygen-in-packaged-beer/11.5.1"
+  title: "EBC 11.5.1: Total dissolved and headspace oxygen in packaged beer"
+  author_label: "Analytica EBC / Brewers of Europe"
+  source_kind: "official-method-index-entry"
+  access_scope: "Search-indexed method summary (direct site returned 503) listing both dissolved and headspace phases for bottle, can, keg and cask. Complete normative method unavailable; no universal oxygen specification claimed."
+- id: v118-storage25
+  resource: "https://link.springer.com/article/10.1007/s11947-025-03830-9"
+  title: "Influence of Selected Technological Conditions on the Flavour Stability of Unpasteurised Top-Fermented Craft Beer (2025)"
+  author_label: "Giovanni De Francesco, Valeria Sileoni and Ombretta Marconi"
+  source_kind: "primary-controlled-craft-beer-storage-experiment"
+  access_scope: "Full open paper: studied a particular unpasteurized top-fermented beer under filtration, temperature and yeast-addition conditions, with instrumental and trained-panel results. Its outcomes are not a universally valid process or storage prescription."
+- id: v118-ba-pressure26
+  resource: "https://www.brewersassociation.org/educational-publications/preventing-package-over-pressurization/"
+  title: "Preventing Package Over-Pressurization (1 February 2026)"
+  author_label: "Brewers Association"
+  source_kind: "industry-safety-guidance-overview"
+  access_scope: "Full public BA description of hazards from unintended package refermentation and producer responsibility; detailed linked download not examined, no pressure or priming instructions given."
 scope: Chemical and microbiological explanations of quality changes after filling.
 evidence_basis:
 - open-oxidation-review
@@ -152,3 +170,15 @@ Consult [packaged CO2 to glass](carbonation-from-bottle-to-glass.md) and [glass 
 [^v115-bubbles]: [How Many CO2 Bubbles in a Glass of Beer? (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/). Gérard Liger-Belair and Clara Cilindre. Consulted 2026-10-28. Access: Open full ACS Omega 2021 study using one commercial lager and modeled nucleation; not a universal beer glass test.
 
 [^v115-ba]: [Draught Beer Quality Manual: public resource page](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Accessible public draught guidance overview; the detailed technical manual has not been rechecked here.
+
+## Edition 1.18: newly sourced connections
+
+Packaging evidence should distinguish the beer before filling, oxygen in its container and any later biological activity. The publicly indexed EBC total-package-oxygen description covers dissolved **and headspace** oxygen, not every flavor reaction.[^v118-ebc-tpo] The 2025 craft-beer study examined a single unpasteurized ale across selected filtration, storage and refermentation conditions; its flavor results cannot define expiry for all beer types.[^v118-storage25] Separately the Brewers Association's February 2026 safety overview describes pressure hazards from unintended package refermentation, which must not be confused with a favorable sensory result from deliberate conditioning.[^v118-ba-pressure26]
+
+Read [total package oxygen](total-package-oxygen-has-two-phases.md), [the controlled storage case](cold-chain-experiment-is-not-a-universal-expiry.md) and [package refermentation](../microbiology/package-refermentation-pressure-vs-quality.md). This extension gives no operating pressures, priming parameters or consumer safety instructions.
+
+[^v118-ebc-tpo]: [EBC 11.5.1: Total dissolved and headspace oxygen in packaged beer](https://dev.brewup.brewersofeurope.eu/ebc-analytica/packaging-and-packaging-materials/total-dissolved-and-headspace-oxygen-in-packaged-beer/11.5.1). Analytica EBC / Brewers of Europe. Consulted 2026-10-28. Access: Search-indexed method summary (direct site returned 503) listing both dissolved and headspace phases for bottle, can, keg and cask. Complete normative method unavailable; no universal oxygen specification claimed.
+
+[^v118-storage25]: [Influence of Selected Technological Conditions on the Flavour Stability of Unpasteurised Top-Fermented Craft Beer (2025)](https://link.springer.com/article/10.1007/s11947-025-03830-9). Giovanni De Francesco, Valeria Sileoni and Ombretta Marconi. Consulted 2026-10-28. Access: Full open paper: studied a particular unpasteurized top-fermented beer under filtration, temperature and yeast-addition conditions, with instrumental and trained-panel results. Its outcomes are not a universally valid process or storage prescription.
+
+[^v118-ba-pressure26]: [Preventing Package Over-Pressurization (1 February 2026)](https://www.brewersassociation.org/educational-publications/preventing-package-over-pressurization/). Brewers Association. Consulted 2026-10-28. Access: Full public BA description of hazards from unintended package refermentation and producer responsibility; detailed linked download not examined, no pressure or priming instructions given.

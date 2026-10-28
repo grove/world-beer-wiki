@@ -64,6 +64,18 @@ sources:
   author_label: "Journal of the American Society of Brewing Chemists research authors"
   source_kind: "primary-research-abstract"
   access_scope: "Publisher indexed abstract with studied beers having similar BU but unlike iso-alpha acid profiles; full article was not accessible during this research."
+- id: v118-photochem05
+  resource: "https://hero.epa.gov/reference/482281/"
+  title: "Photooxidative degradation of beer bittering principles: a key step on the route to lightstruck flavor formation in beer (2005)"
+  author_label: "K. Huvaere and colleagues"
+  source_kind: "primary-mechanistic-chemistry-abstract"
+  access_scope: "EPA HERO bibliographic record and abstract of radical-spin-trapping study of hop-derived bittering compounds and excited riboflavin; no finished-beer packaging performance or sensory panel examined."
+- id: v118-aldehyde25
+  resource: "https://brewingscience.de/index.php/brewingscience/article/view/517"
+  title: "Technological strategies for controlling aldehyde formation in beer: a review of brewing-related flavour instability (2025)"
+  author_label: "Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen"
+  source_kind: "peer-reviewed-brewing-review-public-abstract"
+  access_scope: "Full publisher page, abstract and bibliographic record (PDF linked but not independently analyzed) discussing multiple aldehyde pathways, oxidation, heat, yeast, packaging and light; not one experimental recipe."
 aliases:
 - American India pale ale
 regions:
@@ -160,3 +172,13 @@ Record whether an IPA's bitterness number is predicted or measured, and retain t
 [^v116-bitterReview]: [Changes in beer bitterness level during the beer production process (2023)](https://link.springer.com/article/10.1007/s00217-022-04154-0). Krystian Klimczak and Monika Cioch-Skoneczny. Checked 2026-10-28. Access: Open full research review of hop acid transformations, humulinones, polyphenols and limits of spectrophotometric IBU; not new measured sensory preference data.
 
 [^v116-ibuStudy]: [Evaluation of Components Contributing to the International Bitterness Unit of Wort and Beer (2022)](https://www.tandfonline.com/doi/full/10.1080/03610470.2021.1878684). Journal of the American Society of Brewing Chemists research authors. Checked 2026-10-28. Access: Publisher indexed abstract with studied beers having similar BU but unlike iso-alpha acid profiles; full article was not accessible during this research.
+
+## Edition 1.18: newly sourced connections
+
+Hop-forward character can evolve through different chemical pathways. Huvaere and colleagues' 2005 radical-trapping study investigated excited riboflavin and hop bittering compounds on the route to lightstruck thiol formation. It cannot determine whether any particular green or clear bottle was exposed long enough to form that compound.[^v118-photochem05] A 2025 review by Ditrych and colleagues instead surveys aldehyde-related deterioration involving oxygen, heat, raw materials, metals and yeast activity at multiple process stages. Lightstruck sulfur, hop aroma decline and oxidative staling therefore are not synonyms.[^v118-aldehyde25]
+
+Store the sample, actual exposure, molecule measured and sensory design independently of the modern judging-style description. The [lightstruck versus oxidative comparison](../sensory/lightstruck-vs-oxidative-staling.md) and [aldehyde origins](../sensory/aldehyde-aging-begins-before-the-package.md) are source-scoped aids, not a universal freshness rating for American IPA.
+
+[^v118-photochem05]: [Photooxidative degradation of beer bittering principles: a key step on the route to lightstruck flavor formation in beer (2005)](https://hero.epa.gov/reference/482281/). K. Huvaere and colleagues. Consulted 2026-10-28. Access: EPA HERO bibliographic record and abstract of radical-spin-trapping study of hop-derived bittering compounds and excited riboflavin; no finished-beer packaging performance or sensory panel examined.
+
+[^v118-aldehyde25]: [Technological strategies for controlling aldehyde formation in beer: a review of brewing-related flavour instability (2025)](https://brewingscience.de/index.php/brewingscience/article/view/517). Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen. Consulted 2026-10-28. Access: Full publisher page, abstract and bibliographic record (PDF linked but not independently analyzed) discussing multiple aldehyde pathways, oxidation, heat, yeast, packaging and light; not one experimental recipe.
