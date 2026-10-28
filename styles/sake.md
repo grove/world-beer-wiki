@@ -23,8 +23,15 @@ sources:
   title: Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)
   author_label: UNESCO / Japanese nomination
   source_kind: heritage-inscription-record
-  access_scope: UNESCO indexed description and inscription decision; direct page can require browser
-    challenge. Heritage designation is not biochemical or ownership proof.
+  access_scope: UNESCO indexed description and inscription decision; direct page can require browser challenge.
+    Heritage designation is not biochemical or ownership proof.
+- id: v19-huangjiu-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/
+  title: The microbiome of Chinese rice wine (Huangjiu) (2022)
+  author_label: Chinese rice-wine microbiome review authors
+  source_kind: scientific-review
+  access_scope: Open indexed review with process description and microbiome survey synthesis; production
+    methods and species vary among locales.
 aliases:
 - Nihonshu
 - 日本酒
@@ -32,12 +39,11 @@ regions:
 - East Asia
 - Japan
 tradition_status: living-tradition
-scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer
-  style.
+scope: Included as a neighboring rice-fermentation tradition; not asserted to be a conventional beer style.
 evidence_basis: firsthand producer account; narrow process-focused introductory profile
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/makgeolli
@@ -86,8 +92,15 @@ In 2024 UNESCO inscribed the traditional knowledge and skills of sake-making wit
 
 The [heritage case study](../culture/japanese-koji-sake-heritage-and-apprenticeship.md) and [rice-ferment comparison](../categories/koji-sake-and-rice-ferment-boundaries.md) place the biochemical and social dimensions together. UNESCO’s indexed description does not resolve every regional recipe or imply unbroken ancient continuity.
 
+
+## Edition 1.9: newly sourced connections
+
+Chinese Huangjiu provides a useful comparison because both sake and Huangjiu require an external or microbial route for cereal starch to become fermentable sugars. But a 2022 Huangjiu review describes its own regional rice and wheat-*qu* systems; it does not show that Japanese sake uses an identical starter, identical phase timing, or a proven single line of invention. Read the [Huangjiu profile](huangjiu-chinese-cereal-wine.md) and [rice-wine category boundaries](../categories/rice-wine-beer-and-distillation-boundaries.md). The community's name and method should remain primary; an English “rice wine” translation is not a taxonomy.[^v19-huangjiu-review]
+
 ## Source notes
 
 [^sake-producer]: [Rice and Koji (2018)](https://imayotsukasa.co.jp/en/blog-en/1817/). Imayotsukasa Brewery. Consulted 2026-10-27. Evidence used: producer explanation of rice and koji preparation; not a complete sake taxonomy.
 
 [^v17-unesco-sake]: [Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977). UNESCO / Japanese nomination. Consulted 2026-10-28. Access: UNESCO indexed description and inscription decision; direct page can require browser challenge. Heritage designation is not biochemical or ownership proof.
+
+[^v19-huangjiu-review]: [The microbiome of Chinese rice wine (Huangjiu) (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/). Chinese rice-wine microbiome review authors. Checked 2026-10-28. Access: Open indexed review with process description and microbiome survey synthesis; production methods and species vary among locales.

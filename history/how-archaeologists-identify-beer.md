@@ -15,7 +15,8 @@ sources:
   title: Revealing a 5,000-y-old beer recipe in China (2016)
   author_label: Jiajing Wang, Li Liu and colleagues
   source_kind: archaeological-primary-research
-  access_scope: Open-access article text inspected; residues, phytoliths, vessel context and interpretive limitations.
+  access_scope: Open-access article text inspected; residues, phytoliths, vessel context and interpretive
+    limitations.
 - id: v13-shangshan
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC11665889/
   title: Identification of 10,000-year-old rice beer at Shangshan (2024)
@@ -28,7 +29,8 @@ sources:
   title: Fermented beverage and food storage in 13,000-y-old stone mortars at Raqefet Cave (2018)
   author_label: Li Liu and colleagues
   source_kind: archaeological-primary-research
-  access_scope: Abstract and publication summary; ritual-feasting interpretation is inference, not direct observation.
+  access_scope: Abstract and publication summary; ritual-feasting interpretation is inference, not direct
+    observation.
 - id: v14-neolithic
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC6600912/
   title: Specialized pottery and alcohol fermentation in Early Neolithic China (2019)
@@ -38,8 +40,8 @@ sources:
     at studied north-China sites.'
 - id: v15-wari-2005
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
-  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
-    (2005)'
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl,
+    Peru (2005)'
   author_label: Michael E. Moseley and coauthors
   source_kind: primary-archaeological-paper
   access_scope: Indexed excerpts of open article text returned in search; direct page open presented a browser
@@ -58,6 +60,14 @@ sources:
   source_kind: institutional-research-project
   access_scope: Institutional description of research questions and methods, not published archaeological
     findings or confirmed ancient yeast DNA.
+- id: v19-nubian-barley
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC2707625/
+  title: Archaeogenetic Evidence of Ancient Nubian Barley Evolution from Six to Two-Row Indicates Local Adaptation
+    (2009)
+  author_label: Qasr Ibrim ancient-barley genetic researchers
+  source_kind: primary-archaeogenetic-study
+  access_scope: Open indexed article excerpt on vrs1 allele in archaeological barley from Qasr Ibrim; grain
+    genetics, not proof of brewing at this site or climate projection.
 regions:
 - Cross-regional
 scope: A comparative evidence hierarchy for residues, grain structures, tools and modern reconstructions.
@@ -117,6 +127,11 @@ At Cerro Baúl, excavators assembled architectural, botanical and equipment evid
 
 Explore the [excavated brewery](cerro-baul-wari-brewery.md) and [what experimental reconstructions can test](../processes/archaeological-brewing-reconstruction.md).
 
+
+## Edition 1.9: newly sourced connections
+
+Ancient barley genetics at Qasr Ibrim show why **finding a relevant cereal is not the same as finding beer**. The study examined grain row-type ancestry and the *vrs1* locus; its results support questions about crop adaptation, not a particular fermentation or alcohol content. Such a claim would need additional chemical residues, installations or appropriately interpreted texts. Read [the Qasr Ibrim analysis](qasr-ibrim-barley-ancient-dna.md) and [two-row / six-row barley cautions](../ingredients/barley-row-type-and-brewing-assumptions.md) as a methodological check against turning agricultural archaeology into an invented brewing tradition.[^v19-nubian-barley]
+
 ## Source notes
 
 [^v13-mijiaya]: [Revealing a 5,000-y-old beer recipe in China (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4988576/). Jiajing Wang, Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access article text inspected; residues, phytoliths, vessel context and interpretive limitations.
@@ -138,3 +153,5 @@ The University of Copenhagen's FERMENTED PASTS project proposes comparing histor
 See [the research-program profile](historical-yeast-artifacts-research-questions.md).
 
 [^v16-fermented-pasts]: [FERMENTED PASTS research project](https://globe.ku.dk/research/molecular-ecology-and-evolution/schroeder-group/fermented-pasts/). University of Copenhagen research group. Consulted 2026-10-28. Access: Institutional description of research questions and methods, not published archaeological findings or confirmed ancient yeast DNA.
+
+[^v19-nubian-barley]: [Archaeogenetic Evidence of Ancient Nubian Barley Evolution from Six to Two-Row Indicates Local Adaptation (2009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2707625/). Qasr Ibrim ancient-barley genetic researchers. Checked 2026-10-28. Access: Open indexed article excerpt on vrs1 allele in archaeological barley from Qasr Ibrim; grain genetics, not proof of brewing at this site or climate projection.

@@ -23,3 +23,7 @@
 ## Edition 1.8
 
 [Seven evidence-based reading trails](edition-1-8-reading-trails.md) · [Complete subject index](all-atlas-subjects.md) · [Research update](../editorial/research-update-1-8.md).
+
+## Edition 1.9
+
+[Eight connected research trails](edition-1-9-reading-trails.md) · [Complete subject directory](all-atlas-subjects.md).

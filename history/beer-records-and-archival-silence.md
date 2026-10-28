@@ -1,8 +1,8 @@
 ---
 type: Historical Research
 title: Who is missing from brewing archives?
-description: An evidence-method reference comparing medieval written rules with contemporary oral-history collections;
-  not a reconstructed account of unnamed individuals.
+description: An evidence-method reference comparing medieval written rules with contemporary oral-history
+  collections; not a reconstructed account of unnamed individuals.
 tags:
 - history
 - research-edition-1.5
@@ -31,6 +31,13 @@ sources:
   source_kind: museum-archives-finding-aid
   access_scope: Collection-level online finding aid, including scope, dates and rights cautions; individual
     interview transcripts not read.
+- id: v19-cdli-ration
+  resource: https://cdli.earth/cdli-tablet/549
+  title: 'Beer: Means of Compensation, Ur III tablet collection note (2024)'
+  author_label: Cuneiform Digital Library Initiative, Robert K. Englund and contributors
+  source_kind: archival-catalog-interpretation
+  access_scope: Full public artifact description and linked secondary interpretation; no independent reading
+    of clay tablet or its transliteration; the catalog notes irregular messenger rations.
 regions:
 - England; United States
 scope: An evidence-method reference comparing medieval written rules with contemporary oral-history collections;
@@ -73,6 +80,11 @@ When the wiki makes claims about who brewed, record whether the evidence is a la
 
 An evidence-method reference comparing medieval written rules with contemporary oral-history collections; not a reconstructed account of unnamed individuals. This is a research draft; cited sampling, interviews, archives, guideline editions or experiments retain their stated limits. No independent specialist or community review is claimed.
 
+
+## Edition 1.9: newly sourced connections
+
+The Cuneiform Digital Library Initiative describes an actual Ur III administrative tablet giving two named beer forms as part of provisions for three messengers. This is excellent evidence of **recorded allocations and bureaucratic classification**, but not an everyday menu or recipe. In particular, the catalog explains that beer compensation could occur on special service rather than as a regular ration for every worker. The example sharpens a broader source-method issue: what ancient states chose to record was not everything that people drank or knew. Read the [tablet interpretation](../history/ur-iii-beer-ration-tablet.md) and [the tablet as an object](../objects/ur-iii-beer-tablet-as-object.md) before extrapolating to a population-wide beer wage.[^v19-cdli-ration]
+
 ## Source notes
 
 [^v15-bennett-book]: [Ale, Beer, and Brewsters in England: Women’s Work in a Changing World, 1300–1600 (1996)](https://academic.oup.com/book/47408). Judith M. Bennett. Consulted 2026-10-27. Access: Publisher book description and chapter abstracts; detailed book chapters not accessed.
@@ -80,3 +92,5 @@ An evidence-method reference comparing medieval written rules with contemporary 
 [^v15-oxford-alewives]: [Alewives in Oxford: A History of Female Brewing](https://museumofoxford.org/alewives-in-oxford-a-history-of-female-brewing/). Museum of Oxford. Consulted 2026-10-27. Access: Museum article text on local records and gendered work; not all underlying archival records independently examined.
 
 [^v15-smithsonian-oral]: [American Beer Brewing Oral History Collection, 2017–2023](https://sova.si.edu/record/nmah.ac.1595). Smithsonian National Museum of American History. Consulted 2026-10-27. Access: Collection-level online finding aid, including scope, dates and rights cautions; individual interview transcripts not read.
+
+[^v19-cdli-ration]: [Beer: Means of Compensation, Ur III tablet collection note (2024)](https://cdli.earth/cdli-tablet/549). Cuneiform Digital Library Initiative, Robert K. Englund and contributors. Checked 2026-10-28. Access: Full public artifact description and linked secondary interpretation; no independent reading of clay tablet or its transliteration; the catalog notes irregular messenger rations.

@@ -17,3 +17,7 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.7 — situated evidence and comparative practice
 
 - [Cheese and beer pairing: preference is not a fixed rule](cheese-beer-preference-is-not-a-rule.md) — What a controlled consumer tasting study can and cannot tell us about favored cheese–beer combinations.
+
+## Added in research edition 1.9
+
+- [Bring your own food: a Munich beer-garden custom](brotzeit-and-the-munich-beer-garden.md) — Food and Serving Culture.

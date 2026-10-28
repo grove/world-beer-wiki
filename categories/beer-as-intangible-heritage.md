@@ -24,12 +24,18 @@ sources:
   author_label: Cultural Heritage Administration, Republic of Korea
   source_kind: government-heritage-record
   access_scope: Government press release viewed; Korean *national* designation, not UNESCO listing.
+- id: v19-stieng
+  resource: https://en.vietnamplus.vn/can-winemaking-a-unique-traditional-craft-of-the-stieng-people-post232176.vnp
+  title: Can winemaking, a unique traditional craft of the S’Tieng people (2022)
+  author_label: Vietnam News Agency / VietnamPlus
+  source_kind: community-quoted-news-agency-report
+  access_scope: Full news-agency report quotes named local makers, cooperative founder and cultural officers
+    in Binh Phuoc; a legend is a narrated legend, not historical proof.
 regions:
 - Europe
 - East Asia
 - Cross-regional
-scope: Cultural-heritage frameworks and examples from Belgium and Korea, distinguishing institution and
-  community.
+scope: Cultural-heritage frameworks and examples from Belgium and Korea, distinguishing institution and community.
 evidence_basis:
 - government-heritage-record
 - institutional-heritage-record
@@ -79,8 +85,15 @@ Recognition status is not a measure of quality, antiquity, or cultural superiori
 - [Beer Cultural Heritage 2016](../history/beer-cultural-heritage-2016.md)
 - [All categories entries](index.md)
 
+
+## Edition 1.9: newly sourced connections
+
+A Vietnam News Agency article reports that S’Tieng *rượu cần* craft was recognized under **Vietnam’s national intangible-heritage framework**, including transmission of preparation knowledge and cooperative activity. National recognition is not the same legal or institutional thing as inscription on UNESCO’s representative list. A careful entry records the listing authority, community, practice and date, rather than treating “heritage” as a universal quality seal. Read [the S’Tieng craft account](../culture/stieng-ruou-can-and-transmission.md) and the [beverage profile](../styles/ruou-can-vietnamese-jar-ferment.md) for the limits of the public report.[^v19-stieng]
+
 ## Source notes
 
 [^v13-belgium-unesco]: [Beer culture in Belgium: Representative List inscription 01062 (2016)](https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062). UNESCO Intangible Cultural Heritage. Consulted 2026-10-27. Evidence accessed: Official inscription and public summary viewed; describes cultural practices, not all individual recipes.
 
 [^v13-korea-heritage]: [Makgeolli making and sharing designated as national intangible cultural heritage (2021)](https://www.korea.net/Government/Briefing-Room/Press-Releases/view?articleId=79559&insttCode=A260203&type=N). Cultural Heritage Administration, Republic of Korea. Consulted 2026-10-27. Evidence accessed: Government press release viewed; Korean *national* designation, not UNESCO listing.
+
+[^v19-stieng]: [Can winemaking, a unique traditional craft of the S’Tieng people (2022)](https://en.vietnamplus.vn/can-winemaking-a-unique-traditional-craft-of-the-stieng-people-post232176.vnp). Vietnam News Agency / VietnamPlus. Checked 2026-10-28. Access: Full news-agency report quotes named local makers, cooperative founder and cultural officers in Binh Phuoc; a legend is a narrated legend, not historical proof.

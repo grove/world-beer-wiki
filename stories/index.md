@@ -48,3 +48,8 @@ New evidence-based references (all retain draft status):
 - [A fruity beer does not identify its hop](why-fruity-beer-does-not-identify-the-hop.md) — Evidence-Based Brewing Story; Analytical contrasts between hop-sample thiols, bound precursors and studied yeast biotransformation, not a tasting identification method.
 - [The beer that begins as two different porridges](the-beer-with-two-porridges.md) — Evidence-Based Beer Story; The observed mbege process in a 2016 field study, retold as explanatory story without inventing a firsthand speaker.
 - [Why a fermented drink is not a water-safety certificate](fermentation-is-not-a-water-treatment.md) — Evidence-Based Research Story; The 2015 sampling and 2017 participatory Shawi masato evidence reported in the 2020 EcoHealth study; no public-health recommendation.
+
+## Added in research edition 1.9
+
+- [The tablet was not the recipe](the-tablet-was-not-the-recipe.md) — Evidence-Based Beer Story.
+- [Why the beer garden became a place to bring dinner](why-beer-gardens-became-picnic-tables.md) — Evidence-Based Beer Story.

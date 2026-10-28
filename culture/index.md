@@ -65,3 +65,12 @@ New evidence-based references (all retain draft status):
 - [Mbege and the knowledge of two preparations](mbege-as-regional-knowledge.md) — Cultural Brewing Practice; The observed northeastern Tanzania process recorded by Kubo and Kilasara in 2016, not the full regional economy or every Chagga practice.
 - [Shamita between beverage and meal](shamita-as-food-drink.md) — Cultural Food and Fermentation Reference; Ethiopian review and Addis Ababa-linked microbiology research on shamita as a thick fermented cereal food-drink.
 - [Shawi masato: daily life, photography and water evidence](shawi-masato-and-water.md) — Cultural and Community Research Case; One participating Shawi community in Loreto, Peru, with 2015 samples and a 2017 participatory photography project; not all Amazon communities.
+
+## Added in research edition 1.9
+
+- [Bhutanese ara in social life and ritual accounts](bhutan-ara-and-social-ritual.md) — Situated Cultural Research Case.
+- [Household rice-alcohol work and cooperatives in Vietnam](vietnam-rice-distilling-cooperatives.md) — Ethnographic Economic Case.
+- [Ma rượu cần in Lam Dong: jars, straws and occasions](ma-ruou-can-in-lam-dong.md) — Institutional Cultural Case.
+- [Mesopotamian beer as an administered resource](mesopotamian-beer-and-administration.md) — Archival Social History.
+- [Munich beer gardens: shade, shared tables and food](munich-beer-garden-public-life.md) — Institutional Cultural History.
+- [S’Tieng rượu cần: craft, livelihood and transmission](stieng-ruou-can-and-transmission.md) — Community-Reported Brewing Craft.

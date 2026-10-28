@@ -40,3 +40,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.7 — situated evidence and comparative practice
 
 - [Household chicha sales days in the Piura field study](piura-chicha-sales-days.md) — Local recurring sales schedules observed in a study of northern Peruvian women-run chicherías, not an annual festival.
+
+## Added in research edition 1.9
+
+- [Jar-wine occasions in Vietnam’s Central Highlands](vietnam-highland-jar-wine-occasions.md) — Seasonal and Cultural Calendar Reference.
+- [Munich: winter brewing and summer cellar service](munich-cellars-and-summer-service.md) — Seasonal Historical Context.

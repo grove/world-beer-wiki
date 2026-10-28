@@ -9,14 +9,14 @@ tags:
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.8
-  at: '2026-10-28T07:55:00Z'
+  by: world-beer-wiki/1.9
+  at: '2026-10-28T07:35:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.4'
-implementation_status: edition-1-8-implemented
+specification_version: '1.5'
+implementation_status: edition-1-9-implemented
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -118,13 +118,15 @@ work_items:
   state: implemented
   paths:
   - history/index.md
-  delivered_scope: Seven evidence-bounded historical cases and a method guide; not a universal archaeological chronology.
+  delivered_scope: Seven evidence-bounded historical cases and a method guide; not a universal archaeological
+    chronology.
 - id: ATLAS-016
   title: Extended cultural and seasonal source research
   state: implemented
   paths:
   - culture/index.md
-  delivered_scope: Seven new cultural accounts and four seasonal/calendar articles; local evidence boundaries retained.
+  delivered_scope: Seven new cultural accounts and four seasonal/calendar articles; local evidence boundaries
+    retained.
 - id: ATLAS-017
   title: Microbial genomes and fermentation ecology
   state: implemented
@@ -208,13 +210,15 @@ work_items:
   state: implemented
   paths:
   - styles/pito.md
-  delivered_scope: Nineteen existing subject pages updated with sourced context and citations; canonical URLs kept.
+  delivered_scope: Nineteen existing subject pages updated with sourced context and citations; canonical URLs
+    kept.
 - id: ATLAS-030
   title: Publish source provenance, tests and edition documentation
   state: implemented
   paths:
   - references/atlas-sources-1-4.md
-  delivered_scope: 35 source records with actual access scopes; validators and CI remain separate from expert review.
+  delivered_scope: 35 source records with actual access scopes; validators and CI remain separate from expert
+    review.
 - id: ATLAS-031
   title: Improve queryable provenance and data checks
   state: implemented
@@ -229,8 +233,8 @@ work_items:
   - history/cerro-baul-wari-brewery.md
   - culture/wari-brewing-and-state-hospitality.md
   - objects/wari-brewing-vats-and-kero-cups.md
-  delivered_scope: Original excavation and later abstract-based reassessment; no claim of exact ancient recipe or
-    empire-wide domestic production.
+  delivered_scope: Original excavation and later abstract-based reassessment; no claim of exact ancient recipe
+    or empire-wide domestic production.
 - id: ATLAS-033
   title: Documented labor, medieval trade and contemporary US voices
   state: implemented
@@ -256,8 +260,8 @@ work_items:
   - ingredients/schinus-molle-in-andean-ferments.md
   - sensory/bitterness-is-not-one-number.md
   - food/situational-pairing-and-storage-evidence.md
-  delivered_scope: Ingredient-context, controlled sensory and Tuscan study interpretation with specific access limits;
-    no universal pairing prescription.
+  delivered_scope: Ingredient-context, controlled sensory and Tuscan study interpretation with specific access
+    limits; no universal pairing prescription.
 - id: ATLAS-036
   title: Edition-aware current style guideline comparison
   state: implemented
@@ -273,8 +277,8 @@ work_items:
   - navigation/all-atlas-subjects.md
   - tools/build_subject_index.py
   - tests/test_subject_index.py
-  delivered_scope: All subject types included with deterministic sorting; CI and tests fail when the generated directory
-    is stale.
+  delivered_scope: All subject types included with deterministic sorting; CI and tests fail when the generated
+    directory is stale.
 - id: ATLAS-038
   title: Source register, review queue and existing-article research integration
   state: implemented
@@ -292,8 +296,8 @@ work_items:
   - styles/urugwa.md
   - styles/hor-alank.md
   - styles/zu-hmar.md
-  delivered_scope: Four explicitly bounded local beverage profiles, with unlike substrates and community names kept
-    distinct; not universal beer-style rules.
+  delivered_scope: Four explicitly bounded local beverage profiles, with unlike substrates and community names
+    kept distinct; not universal beer-style rules.
 - id: ATLAS-040
   title: Research situated cultural learning and non-fixed ceremonial timing
   state: implemented
@@ -372,8 +376,8 @@ work_items:
   - calendar/piura-chicha-sales-days.md
   - objects/piura-chicha-white-flags.md
   - history/arequipa-chicherias-colonial-republican-records.md
-  delivered_scope: Four local accounts with their own periods and methods; no future sales schedules or direct prehistoric
-    lineage inferred.
+  delivered_scope: Four local accounts with their own periods and methods; no future sales schedules or direct
+    prehistoric lineage inferred.
 - id: ATLAS-048
   title: Broaden Ghanaian, Ethiopian and Japanese brewing social research
   state: implemented
@@ -382,7 +386,8 @@ work_items:
   - culture/ghana-pito-women-enterprise-survey.md
   - culture/tella-hospitality-and-household-economy.md
   - culture/japanese-koji-sake-heritage-and-apprenticeship.md
-  delivered_scope: Four context-specific cases retaining survey, anthropology, review and heritage inscription limitations.
+  delivered_scope: Four context-specific cases retaining survey, anthropology, review and heritage inscription
+    limitations.
 - id: ATLAS-049
   title: Explain Philippine tapuy, bubod and parallel mixed fermentation
   state: implemented
@@ -455,8 +460,8 @@ work_items:
   - styles/borde-ethiopian-fermented-cereal.md
   - styles/shamita-ethiopian-fermented-barley.md
   - microbiology/jaanr-microbial-succession.md
-  delivered_scope: Primary sampling and review evidence for locally named beverages, distinguishing food use, organisms
-    and process stages.
+  delivered_scope: Primary sampling and review evidence for locally named beverages, distinguishing food use,
+    organisms and process stages.
 - id: ATLAS-057
   title: Beer foam proteins and aging chemistry
   state: implemented
@@ -484,6 +489,71 @@ work_items:
   - tests/test_research_quality_v18.py
   delivered_scope: Cite-used research edition hygiene, persistent backlog and reproducible checks across new and
     revised articles.
+- id: ATLAS-060
+  title: Vietnamese jar-ferment traditions, materials, occasions and livelihoods
+  state: implemented
+  paths:
+  - styles/ruou-can-vietnamese-jar-ferment.md
+  - culture/stieng-ruou-can-and-transmission.md
+  - culture/ma-ruou-can-in-lam-dong.md
+  - objects/vietnamese-communal-jar-and-straws.md
+  delivered_scope: Four situated accounts and wider navigation; national heritage reporting remains distinct from
+    UNESCO and community endorsement.
+- id: ATLAS-061
+  title: Bhutanese ara culture and Himalayan phab laboratory comparison
+  state: implemented
+  paths:
+  - culture/bhutan-ara-and-social-ritual.md
+  - microbiology/phab-dry-starter-research.md
+  delivered_scope: Bhutanese fieldwork abstract versus 35-starter isolate research; distillation and practice
+    remain distinct.
+- id: ATLAS-062
+  title: Ur III and Sumerian archives, terminology and inference
+  state: implemented
+  paths:
+  - history/ur-iii-beer-ration-tablet.md
+  - history/sumerian-beer-terms-and-uncertainty.md
+  - stories/the-tablet-was-not-the-recipe.md
+  delivered_scope: One catalogued artifact and a full specialist analytical text; neither supplies a modern beer
+    recipe.
+- id: ATLAS-063
+  title: Beer laws, civic gardens, public food and seasonal service
+  state: implemented
+  paths:
+  - history/beerhouse-act-1830-debates.md
+  - history/munich-beer-garden-1812.md
+  - food/brotzeit-and-the-munich-beer-garden.md
+  - calendar/munich-cellars-and-summer-service.md
+  delivered_scope: Official debate and city narratives, with precise legal-text and historical-season limitations.
+- id: ATLAS-064
+  title: Korean and Chinese cereal starter ecology, process and sensory boundaries
+  state: implemented
+  paths:
+  - microbiology/nuruk-42-sample-survey.md
+  - microbiology/huangjiu-manual-and-mechanized-microbes.md
+  - styles/huangjiu-chinese-cereal-wine.md
+  - ingredients/wheat-qu-and-huangjiu.md
+  delivered_scope: Distinguishes organism detection, fermentation time course, enzyme input, gene prediction and
+    sensory inference.
+- id: ATLAS-065
+  title: Nubian ancient-grain genetics and archaeological interpretive limits
+  state: implemented
+  paths:
+  - history/qasr-ibrim-barley-ancient-dna.md
+  - ingredients/barley-row-type-and-brewing-assumptions.md
+  delivered_scope: A primary ancient-DNA paper treated as crop history, not proof of beer at the site or a climate
+    forecast.
+- id: ATLAS-066
+  title: Cross-domain revisions, original-source register, reproducible QA and reading trails
+  state: implemented
+  paths:
+  - references/atlas-sources-1-9.md
+  - editorial/research-update-1-9.md
+  - editorial/validation-report-1-9.md
+  - navigation/edition-1-9-reading-trails.md
+  - tests/test_research_quality_v19.py
+  delivered_scope: 18 existing-article source extensions, independent-review queue, source-use checks and site-preserving
+    indexes.
 ---
 
 # World Beer Atlas expansion specification
@@ -658,3 +728,18 @@ This installment adds **29** bounded articles and **14** substantive, source-cit
 - The edition quality checker must recognize **1.6, 1.7 and 1.8** without losing historical reports; its source-use checks cannot establish external truth. The [review queue](source-review-queue-1-8.md) remains open.
 
 **Editorial limits remain unchanged:** ATLAS-012 specialist and community review is still **planned**. Licensed media (ATLAS-013) and optional interactive/live discovery (ATLAS-014) remain deferred. Implemented means the named deliverable exists and passes structural checks, not that worldwide research is complete.
+
+## 15. Edition 1.9 — archives, community vessels, rice starter ecology and civic law
+
+This installment adds **31** source-scoped subject articles and **18** sourced revisions to existing pages. ATLAS-060 through ATLAS-066 represent finite, checkable files, not a claim of worldwide completeness. It preserves every existing canonical beer-profile path. The [1.9 source register](../references/atlas-sources-1-9.md), [research update](research-update-1-9.md) and [review queue](source-review-queue-1-9.md) identify what was and was not accessible.
+
+### Specific evidence rules
+
+- A Vietnam national heritage listing must not be silently called UNESCO heritage; Ma and S’Tieng accounts cannot be treated as interchangeable. Botanical starter materials are documented as reported, not proposed as foraging or ingestion guidance.
+- Bhutanese *ara* can involve distillation and is included as a *related cultural tradition*, not a standardized grain beer. The phab isolate study is bacterial and does not establish the complete living starter.
+- A cuneiform ration tablet is evidence for accounting and named products, not the taste or brewing recipe of Sumerian beer; the Hymn to Ninkasi requires translation and genre cautions.
+- A parliamentary debate is a record of speakers’ claims, not proof of health benefits or downstream economic outcomes. City tourism accounts of an 1812 Munich decree are not independent inspection of the legal text.
+- The comparison of manual and mechanized Huangjiu is specific to studied batches and measurements, not a universal flavor ranking. A survey of 42 nuruk starter samples cannot be equated with a makgeolli fermentation time course.
+- Ancient Qasr Ibrim barley DNA is archaeological crop evidence, not direct evidence of brewing or a quantitative climate-change forecast.
+
+The local **source-use audit for 1.9** must check every new source’s metadata and explanatory citation, and retain previous 1.6–1.8 checks. Calendar entries about ceremonies may not invent public dates. **ATLAS-012** independent community and specialist review remains planned, while licensed media and live discovery remain deferred.

@@ -47,3 +47,7 @@ New evidence-based references (all retain draft status):
 - [Hop terpenoid biotransformation in a model beer](hop-terpenoid-biotransformation.md) — Sensory Chemistry Research Case; 2024 model fermentation with commercially available S. cerevisiae US-05 and individual terpenoid standards; not all breweries or yeast strains.
 - [Protein Z and beer foam: more than one barley molecule](protein-z-and-foam.md) — Sensory Chemistry Reference; Protein Z associations drawn from a 2021 scientific review and 2019 brewing proteomics study; not a single-factor foam test.
 - [Why thiol aromas are not simply hop-variety labels](polyfunctional-thiols-and-aroma.md) — Sensory Chemistry Reference; Chemical findings across a 2024 hop survey and a 2026 strain/timing study; no finished-beer aroma rankings or health claims.
+
+## Added in research edition 1.9
+
+- [Huangjiu aroma: microbes and metabolites are different measurements](huangjiu-microbes-and-aroma-association.md) — Sensory Evidence Guide.

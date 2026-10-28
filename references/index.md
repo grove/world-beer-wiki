@@ -23,3 +23,7 @@ Source records, independent publications and independent confirmations are diffe
 ## Edition 1.8 source record
 
 [Source supplement 1.8](atlas-sources-1-8.md) lists named works, access limits and page backlinks. Citation reuse is not independent confirmation.
+
+## Edition 1.9 source documentation
+
+[Annotated 1.9 sources](atlas-sources-1-9.md) map 18 actual works to source access and backlinks. A repeat citation is not additional corroboration.

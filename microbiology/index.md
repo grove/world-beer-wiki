@@ -63,3 +63,10 @@ New evidence-based references (all retain draft status):
 - [Jaanr microbial succession: molds, yeasts and LAB over time](jaanr-microbial-succession.md) — Microbial Ecology Research Case; Abstractions from Thapa and Tamang’s 2006 tracked fermentation in Darjeeling/Sikkim; culture dynamics not universal starter composition.
 - [Shamita fermentation in Bacha, Mehari and Ashenafi’s study](shamita-overnight-fermentation.md) — Microbial Ecology Research Case; Culture-based microbiology published in a 1999 journal issue, with local brewers and laboratory preparation, not every Ethiopian shamita.
 - [Thiol release is time-dependent and strain-dependent](thiol-release-and-yeast-timing.md) — Fermentation Microbiology Research Case; Two selected ale/lager yeast fermentations in a 2026 pilot-scale study with and without dry hopping; not universal yeast performance.
+
+## Added in research edition 1.9
+
+- [Makgeolli microbes change as fermentation proceeds](makgeolli-time-course-not-one-snapshot.md) — Microbial Fermentation Study.
+- [Manual and mechanized Huangjiu are research comparisons](huangjiu-manual-and-mechanized-microbes.md) — Fermentation Ecology Comparison.
+- [Nuruk in 42 samples: diversity, not a universal starter](nuruk-42-sample-survey.md) — Microbial Survey Interpretation.
+- [Phab and neighboring Himalayan dry starters: 35 samples](phab-dry-starter-research.md) — Microbial Isolate Research.

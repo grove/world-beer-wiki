@@ -24,11 +24,18 @@ sources:
   source_kind: consumer-organization-explanation
   access_scope: CAMRA educational history; beer engine and pub service, interpreted through its advocacy
     perspective.
+- id: v19-hansard
+  resource: https://api.parliament.uk/historic-hansard/commons/1830/may/21/sale-of-beer-bill
+  title: Sale of Beer Bill, Commons debate, 21 May 1830
+  author_label: United Kingdom Parliament, Historic Hansard
+  source_kind: primary-parliamentary-debate
+  access_scope: Full digitized parliamentary debate transcript of competing positions; speakers’ claims are
+    not verified economic or health outcomes.
 regions:
 - Europe
 - United Kingdom
-scope: CAMRA’s advocacy perspective on cellaring, pub service and preservation of cask-conditioned beer
-  in Britain.
+scope: CAMRA’s advocacy perspective on cellaring, pub service and preservation of cask-conditioned beer in
+  Britain.
 evidence_basis:
 - consumer-organization-definition
 - consumer-organization-explanation
@@ -73,8 +80,15 @@ A consumer organization supplies definitions and advocacy history. It cannot sta
 - [British And Irish Ales](../categories/british-and-irish-ales.md)
 - [All culture entries](index.md)
 
+
+## Edition 1.9: newly sourced connections
+
+The Commons debate of **21 May 1830** shows how retail licensing, competition among brewers and publicans, and fears about disorder could shape the institutions in which English people obtained beer. Parliamentary speakers argued opposing positions; none of their claims is a direct measurement of subsequent public health or pub quality. The [Beerhouse Act history](../history/beerhouse-act-1830-debates.md) and [cross-city public-space guide](../categories/beer-laws-and-public-space.md) make clear that the social life of beer is not determined by cellar technique alone, and that nineteenth-century legislation does not describe current cask-handling rules.[^v19-hansard]
+
 ## Source notes
 
 [^v13-camra-cask]: [What is cask-conditioned beer?](https://members.camra.org.uk/learn-discover/the-basics/what-is-cask-conditioned-ale/). CAMRA. Consulted 2026-10-27. Evidence accessed: Advocacy organization definition and educational advice, not a universal legal classification.
 
 [^v13-camra-dispense]: [A history of beer dispense](https://members.camra.org.uk/learn-discover/discover/history-of-dispense/). Rachel Hendry, CAMRA. Consulted 2026-10-27. Evidence accessed: CAMRA educational history; beer engine and pub service, interpreted through its advocacy perspective.
+
+[^v19-hansard]: [Sale of Beer Bill, Commons debate, 21 May 1830](https://api.parliament.uk/historic-hansard/commons/1830/may/21/sale-of-beer-bill). United Kingdom Parliament, Historic Hansard. Checked 2026-10-28. Access: Full digitized parliamentary debate transcript of competing positions; speakers’ claims are not verified economic or health outcomes.
