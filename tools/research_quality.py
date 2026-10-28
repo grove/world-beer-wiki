@@ -58,7 +58,7 @@ def check_article(name, data, body, new, edition=EDITION):
     return errors
 
 def validate(root, edition=EDITION):
-    if edition not in {'1.6','1.7','1.8','1.9','1.10','1.11','1.12','1.13','1.14','1.15','1.16','1.17','1.18'}: raise ValueError('supported research editions: 1.6 through 1.18')
+    if edition not in {'1.6','1.7','1.8','1.9','1.10','1.11','1.12','1.13','1.14','1.15','1.16','1.17','1.18','1.19'}: raise ValueError('supported research editions: 1.6 through 1.19')
     source_prefix='v'+edition.replace('.','')+'-'
     stamp='world-beer-wiki/'+edition
     extension='## Edition '+edition+': '+('sourced research connections' if edition=='1.6' else 'newly sourced connections')

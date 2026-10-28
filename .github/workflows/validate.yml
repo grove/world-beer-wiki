@@ -61,6 +61,10 @@ jobs:
         run: python tools/research_quality.py --edition 1.18 --json > research-quality-1-18.json
       - name: Verify edition 1.18 source manifest and article backlinks
         run: python tools/build_edition_sources.py --edition 1.18 --check --json > source-register-1-18.json
+      - name: Check edition 1.19 research hygiene
+        run: python tools/research_quality.py --edition 1.19 --json > research-quality-1-19.json
+      - name: Verify edition 1.19 source manifest and article backlinks
+        run: python tools/build_edition_sources.py --edition 1.19 --check --json > source-register-1-19.json
       - name: Verify inventory counts
         run: python tools/check_inventory.py --json > inventory-validation.json
       - name: Check complete generated subject directory
@@ -108,6 +112,8 @@ jobs:
             source-register-1-17.json
             research-quality-1-18.json
             source-register-1-18.json
+            research-quality-1-19.json
+            source-register-1-19.json
             inventory-validation.json
             wiki-snapshot.zip
           if-no-files-found: error
