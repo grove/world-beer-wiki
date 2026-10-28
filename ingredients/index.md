@@ -144,3 +144,10 @@ New evidence-based references (all retain draft status):
 
 - [Malt versus finished-beer colour](malt-colour-versus-finished-beer-colour.md) — Ingredient specification does not equal an observed beer.
 - [Hop bitter fractions and lab signals](hop-bitter-fractions-and-analytical-signals.md) — Why one optical IBU value cannot identify every bitter compound.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Bere barley](bere-six-row-barley.md) — Scottish-island landrace and food/brewing uses without a fictional ancient recipe.
+- [Pre-harvest sprouted barley](preharvest-sprouted-barley.md) — Crop dormancy and weather before intentional malting.
+- [DON-3-glucoside](don-glucoside-as-modified-mycotoxin.md) — Modified molecular form and matrix-specific source limits, not food-safety advice.
+- [Malt enzyme readiness](malt-enzyme-readiness.md) — Multiple grain-enzyme and environmental traits, not one magic test.

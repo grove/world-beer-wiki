@@ -31,6 +31,18 @@ sources:
   source_kind: academic-review
   access_scope: Full-text review inspected, includes older studies and production/livelihood context; not
     a new field survey.
+- id: v117-sprouting-review
+  resource: "https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70475"
+  title: "A critical review of pre-harvest sprouting in barley (2026)"
+  author_label: "S. I. Hull, S. Hayward, S. Orth and P. A. Swanepoel"
+  source_kind: "open-agronomic-review"
+  access_scope: "Accessible full 2026 review of barley seed dormancy, rainfall, physiology and malting consequences; not a harvest forecast for any farm."
+- id: v117-bere-review
+  resource: "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432"
+  title: "Back to the future: Using ancient Bere barley landraces for a sustainable future"
+  author_label: "Peter Martin and colleagues"
+  source_kind: "open-agronomic-and-heritage-review"
+  access_scope: "Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date."
 regions:
 - Cross-regional
 scope: Comparative editorial interpretation of locally documented grain-associated festivals and brewing
@@ -91,3 +103,15 @@ This comparison is not a separate festival or claim that all brews were seasonal
 [^v13-assam-festival]: [Ali-Aye-Ligang](https://utsav.gov.in/view-event/ali-aye-ligang-1). Government of India, Ministry of Tourism. Consulted 2026-10-27. Evidence accessed: Festival listing read; dates described by local calendar, not a fixed Gregorian day.
 
 [^v13-dolo-review]: [Sustainable Production of African Traditional Beers With Focus on Dolo (2021)](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.672410/full). Authors, Frontiers in Sustainable Food Systems. Consulted 2026-10-27. Evidence accessed: Full-text review inspected, includes older studies and production/livelihood context; not a new field survey.
+
+## Edition 1.17: newly sourced connections
+
+A cereal harvest is a biological and agricultural window, not a single globally recurring event. The 2026 barley sprouting review describes variation from cultivar dormancy, humidity, rain and maturity; none of those gives a fixed safe or ceremonial date for every barley grower.[^v117-sprouting-review]
+
+The Bere review describes long-standing cultivation in northern Scotland and regionally situated cropping practices. This is not evidence that Orkney farmers and other cereal communities share one annual harvest festival or identical Gregorian weeks.[^v117-bere-review]
+
+See [barley harvest without a fixed date](barley-harvest-window-not-fixed.md) and [climate and crop condition](../environment/barley-harvest-wet-weather-risks.md). Current event schedules and local ceremonial dates require their own documented sources.
+
+[^v117-sprouting-review]: [A critical review of pre-harvest sprouting in barley (2026)](https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70475). S. I. Hull, S. Hayward, S. Orth and P. A. Swanepoel. Checked 2026-10-28. Access: Accessible full 2026 review of barley seed dormancy, rainfall, physiology and malting consequences; not a harvest forecast for any farm.
+
+[^v117-bere-review]: [Back to the future: Using ancient Bere barley landraces for a sustainable future](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432). Peter Martin and colleagues. Checked 2026-10-28. Access: Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date.

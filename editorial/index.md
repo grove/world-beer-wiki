@@ -58,3 +58,7 @@
 ## Research edition 1.16
 
 [Research update](research-update-1-16.md) · [Independent review queue](source-review-queue-1-16.md) · [Validation and reproducibility](validation-report-1-16.md) · [Current specification](atlas-specification.md) · [Progress](atlas-progress.md) · [Eight reading trails](../navigation/edition-1-16-reading-trails.md).
+
+## Research edition 1.17 — barley fields, markets, malt and evidence
+
+[Research update](research-update-1-17.md) · [Independent review queue](source-review-queue-1-17.md) · [Validation instructions](validation-report-1-17.md) · [Current specification](atlas-specification.md) · [Progress ledger](atlas-progress.md) · [Nine field-to-glass reading trails](../navigation/edition-1-17-reading-trails.md). Crop pathogens, food-contaminant rules, local farmer surveys and brewing traditions remain distinct evidence categories.

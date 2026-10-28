@@ -60,3 +60,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.16 — measurements, history and evidence
 
 - [Lab accuracy versus environmental footprints](analytical-consistency-is-not-a-life-cycle-footprint.md) — Analytical proficiency does not supply an LCA inventory.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Bere crop resilience](bere-barley-crop-resilience.md) — Regional agronomic evidence is not a global footprint label.
+- [Wet-weather crop risks](barley-harvest-wet-weather-risks.md) — Weather timing, dormancy, cultivars and production endpoints.

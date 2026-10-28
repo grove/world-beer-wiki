@@ -83,6 +83,18 @@ sources:
   access_scope: Publisher indexed abstract, introduction and selected contextual excerpts; direct article
     opening failed; starch/fungal identifications are authors’ interpretation, not independently examined
     images.
+- id: v117-bere-review
+  resource: "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432"
+  title: "Back to the future: Using ancient Bere barley landraces for a sustainable future"
+  author_label: "Peter Martin and colleagues"
+  source_kind: "open-agronomic-and-heritage-review"
+  access_scope: "Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date."
+- id: v117-bere-institute
+  resource: "https://www.westhighland.uhi.ac.uk/en/research-enterprise/res-themes/silk/agronomy-and-agriculture-institute/research-on-cereals/"
+  title: "Research on cereals: Bere barley and modern varieties"
+  author_label: "University of the Highlands and Islands Agronomy Institute"
+  source_kind: "university-agriculture-research-summary"
+  access_scope: "Public indexed university overview of Bere research, resilient traits and local supply chains; direct URL returned a 502 during follow-up, not an independent field interview."
 regions:
 - Cross-regional
 scope: A comparative evidence hierarchy for residues, grain structures, tools and modern reconstructions.
@@ -180,3 +192,15 @@ See [the research-program profile](historical-yeast-artifacts-research-questions
 [^v113-jiahu-2004]: [Fermented beverages of pre- and proto-historic China (2004)](https://pmc.ncbi.nlm.nih.gov/articles/PMC539767/). Patrick E. McGovern and colleagues. Consulted 2026-10-28. Access: PNAS indexed article abstract and methodological/results extracts; direct PMC open showed browser challenge; interpretations are from retrieved text, not reanalysis of sherds.
 
 [^v113-jiahu-2026]: [Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)](https://www.mdpi.com/2571-9408/9/8/335). Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo. Consulted 2026-10-28. Access: Publisher indexed abstract, introduction and selected contextual excerpts; direct article opening failed; starch/fungal identifications are authors’ interpretation, not independently examined images.
+
+## Edition 1.17: newly sourced connections
+
+A historically present crop does not establish that the identical named modern landrace was present, and crop remains alone do not necessarily identify beer preparation. The open Bere review distinguishes ancient barley cultivation in Scotland from the uncertain original introduction date of Bere as named today.[^v117-bere-review]
+
+A university research overview documents contemporary Bere cultivation, breeding and supply-chain research. It is not evidence that a specific Neolithic vessel contained Bere beer, nor a transcript of an unchanged ancient recipe.[^v117-bere-institute]
+
+When considering archaeobotanical grains and beer, preserve the archaeological layer, taxonomic resolution, processing residues, historical terminology and dating uncertainty separately. The new [Bere introduction-date guide](bere-introduction-date-uncertain.md) and [Bere ingredient account](../ingredients/bere-six-row-barley.md) offer a clear counterexample to unsupported crop-to-beer lineage.
+
+[^v117-bere-review]: [Back to the future: Using ancient Bere barley landraces for a sustainable future](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432). Peter Martin and colleagues. Checked 2026-10-28. Access: Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date.
+
+[^v117-bere-institute]: [Research on cereals: Bere barley and modern varieties](https://www.westhighland.uhi.ac.uk/en/research-enterprise/res-themes/silk/agronomy-and-agriculture-institute/research-on-cereals/). University of the Highlands and Islands Agronomy Institute. Checked 2026-10-28. Access: Public indexed university overview of Bere research, resilient traits and local supply chains; direct URL returned a 502 during follow-up, not an independent field interview.

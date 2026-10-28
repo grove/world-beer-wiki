@@ -1,14 +1,14 @@
 ---
 type: Implementation Progress Report
-title: Atlas scope and progress — edition 1.16
-description: Finite implementation ledger for 109 work items, with unperformed review explicit.
+title: Atlas scope and progress — edition 1.17
+description: Finite implementation ledger for 114 work items, with unperformed review explicit.
 tags:
 - wiki-documentation
-- edition-1.16
+- edition-1.17
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.16
+  by: world-beer-wiki/1.17
   at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-spec
@@ -16,9 +16,9 @@ sources:
   title: World Beer Atlas expansion specification
 ---
 
-# Atlas scope and progress — edition 1.16
+# Atlas scope and progress — edition 1.17
 
-**Edition 1.16: 106 implemented, 1 planned, 2 deferred work items**. These are finite source-linked file deliverables, **not a percentage of the world's beer knowledge researched**. All new articles remain drafts; no independent community, brewing or scientific review is claimed.
+**Edition 1.17: 111 implemented, 1 planned, 2 deferred work items**. These are finite source-linked file deliverables, **not a percentage of the world's beer knowledge researched**. All new articles remain drafts; no independent community, brewing or scientific review is claimed.
 
 | ID | Deliverable | State | Paths |
 |---|---|---|---|
@@ -141,9 +141,15 @@ sources:
 | ATLAS-108 | Blinded discrimination, beer appearance and environmental comparison | implemented | [Triangle tests](../sensory/triangle-tests-for-beer.md) · [Pairing research](../food/difference-tests-do-not-rank-pairings.md) · [LCA boundary](../environment/analytical-consistency-is-not-a-life-cycle-footprint.md) |
 | ATLAS-109 | Source manifest, citations, release paths and tests | implemented | [Sources](../references/atlas-sources-1-16.md) · [Research](research-update-1-16.md) · [Validation](validation-report-1-16.md) · `tools/build_edition_sources.py` |
 
+| ATLAS-110 | Sprouting, drought and malt enzymes in variable harvest windows | implemented | [Barley](../ingredients/preharvest-sprouted-barley.md) · [Malt enzymes](../ingredients/malt-enzyme-readiness.md) · [Seasonality](../calendar/barley-harvest-window-not-fixed.md) |
+| ATLAS-111 | Pathogens, chemical transfer, sampling and gushing distinctions | implemented | [Fusarium strains](../microbiology/fusarium-strain-effects-in-barley.md) · [DON-3G](../ingredients/don-glucoside-as-modified-mycotoxin.md) · [Gushing](../sensory/gushing-hydrophobins-and-carbonation.md) |
+| ATLAS-112 | Bere history and Ethiopian farmer market structures | implemented | [Bere](../ingredients/bere-six-row-barley.md) · [History](../history/bere-introduction-date-uncertain.md) · [Arsi](../culture/arsi-malt-barley-farm-contracts.md) · [Estie](../culture/estie-malt-barley-cooperatives.md) |
+| ATLAS-113 | Malt sensory, food boundaries and environmental evidence | implemented | [Sensory](../sensory/malt-hot-steep-experiments.md) · [Spent grain](../food/spent-grain-and-food-safety-boundaries.md) · [Resilience](../environment/bere-barley-crop-resilience.md) |
+| ATLAS-114 | 1.17 bibliography, source audit, reading trails and regression checks | implemented | [Sources](../references/atlas-sources-1-17.md) · [Research](research-update-1-17.md) · [Validation](validation-report-1-17.md) · `tests/test_research_quality_v117.py` |
+
 ## Limits and next actions
 
-Implemented means the specific file and accepted check exist, not that its subject is exhaustive or human-approved. The [open source-review queue](source-review-queue-1-16.md) records missing expertise, local perspectives and full-text methods. ATLAS-012 remains planned, and ATLAS-013/014 are deferred.
+Implemented means the specific file and accepted check exist, not that its subject is exhaustive or human-approved. The [open source-review queue](source-review-queue-1-17.md) records missing expertise, local perspectives and full-text methods. ATLAS-012 remains planned, and ATLAS-013/014 are deferred.
 
 ## Reproduce the progress ledger
 
@@ -153,4 +159,4 @@ python tools/atlas.py progress
 python tools/atlas.py source-audit
 ```
 
-[Research update](research-update-1-16.md) · [Specification](atlas-specification.md) · [Home](../index.md).
+[Research update](research-update-1-17.md) · [Specification](atlas-specification.md) · [Home](../index.md).

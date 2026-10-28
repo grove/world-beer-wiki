@@ -58,3 +58,7 @@
 ## Research edition 1.16
 
 [Eight question-led measurement and evidence trails](edition-1-16-reading-trails.md) · [All 685 subjects](all-atlas-subjects.md) · [901 scoped names and aliases](all-names.md). The questions span IBU, colour, acidity, gravity, sensory discrimination, historical instruments, cultural identity and LCA boundaries.
+
+## Research edition 1.17 — nine evidence-led routes
+
+[Nine field-to-glass reading trails](edition-1-17-reading-trails.md) · [713 current subjects](all-atlas-subjects.md) · [929 scoped titles and aliases](all-names.md). The routes connect barley crop timing, pathogens versus starters, chemical transfer, unexpected foam, Scottish Bere history, distinct Ethiopian grain markets, malt sensory experiments, by-product boundaries and agricultural climate evidence.

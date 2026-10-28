@@ -26,6 +26,18 @@ sources:
   author_label: "Helena Blackmore, Claire Hidrio and Martin R. Yeomans"
   source_kind: "primary-consumer-study-abstract"
   access_scope: "Publisher abstract and highlights of experimental expectancy effects; full sample methods and all subgroup estimates not examined."
+- id: v117-fusarium-trial
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/"
+  title: "Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)"
+  author_label: "Eva Maria Biehl and colleagues"
+  source_kind: "primary-controlled-malting-and-brewing-experiment"
+  access_scope: "PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol."
+- id: v117-hot-steep
+  resource: "https://brewingscience.de/index.php/brewingscience/article/view/135"
+  title: "Hot Steep Malt Sensory Evaluation Method combined with Check-All-That-Apply (2025)"
+  author_label: "Doris Häge, Felix Baumgartner and Bernd Lindemann"
+  source_kind: "primary-sensory-experiment-publisher-abstract"
+  access_scope: "Full public publisher abstract describing selected heritage and modern spring barley samples; PDF methods and panel-level data not read. Sensory study is not a universal malt ranking."
 regions:
 - "Cross-regional"
 scope: "Cited evidence about what the eye sees in a glass is not exactly srm; no universal cultural claim, consumer certification or operating procedure."
@@ -79,3 +91,15 @@ These interpretations retain the source's actual accessed text, method or catalo
 [^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
 
 [^v116-expect]: [How sensory and hedonic expectations shape perceived properties of regular and non-alcoholic beer (2022)](https://www.sciencedirect.com/science/article/pii/S0950329322000374). Helena Blackmore, Claire Hidrio and Martin R. Yeomans. Checked 2026-10-28. Access: Publisher abstract and highlights of experimental expectancy effects; full sample methods and all subgroup estimates not examined.
+
+## Edition 1.17: newly sourced connections
+
+An instrumentally measured colour change in a controlled experimental beer is not the same as a consumer's inference about all beers that look darker. The 2026 Biehl inoculated-barley experiment reported chemistry and colour differences in a specific malt-to-beer system; it does not permit an observer to diagnose Fusarium contamination or health risk from the colour of an ordinary glass.[^v117-fusarium-trial]
+
+A 2025 hot-steep malt study compared attributes of selected barley malts using a trained sensory exercise. That method tested **malt samples**, not the finished colour or flavor of every beer made from a similar-looking grain.[^v117-hot-steep]
+
+For a defensible claim, distinguish actual optical colour, sample stage, sensory description and any biochemical assay. Read [the malt sensory experiment](malt-hot-steep-experiments.md) alongside [field-to-glass evidence limits](../categories/field-to-glass-grain-evidence.md). Visual appearance is not a laboratory contaminant test.
+
+[^v117-fusarium-trial]: [Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/). Eva Maria Biehl and colleagues. Checked 2026-10-28. Access: PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol.
+
+[^v117-hot-steep]: [Hot Steep Malt Sensory Evaluation Method combined with Check-All-That-Apply (2025)](https://brewingscience.de/index.php/brewingscience/article/view/135). Doris Häge, Felix Baumgartner and Bernd Lindemann. Checked 2026-10-28. Access: Full public publisher abstract describing selected heritage and modern spring barley samples; PDF methods and panel-level data not read. Sensory study is not a universal malt ranking.

@@ -24,6 +24,18 @@ sources:
   source_kind: malting-primary-study
   access_scope: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt
     houses.
+- id: v117-chain
+  resource: "https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/jsf2.70039"
+  title: "The barley–malt–beer chain: A process and food safety approach (2026)"
+  author_label: "José Gómez-Espinoza and colleagues"
+  source_kind: "open-brewing-safety-literature-review"
+  access_scope: "Full accessible open 2026 review of grain handling, malt and brewing contaminant transfer; secondary synthesis, not validated production instructions."
+- id: v117-eu-contaminants
+  resource: "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915"
+  title: "Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026"
+  author_label: "European Commission"
+  source_kind: "official-consolidated-eu-regulation"
+  access_scope: "EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision."
 scope: Residue from wort extraction and investigated food/feed/energy uses.
 evidence_basis:
 - malting-primary-study
@@ -59,3 +71,15 @@ Residue from wort extraction and investigated food/feed/energy uses. The sources
 [^v14-circular]: [Spent Grain Valorisation and Renewable Energy for Craft Breweries (2024)](https://www.sciencedirect.com/science/article/pii/S0959652624009752). Sustainability review authors. Consulted 2026-10-27. Access: Open review abstract: opportunities and LCA limitations; not an actual emissions audit for every brewery.
 
 [^v14-malt]: [Changes in Malt Quality during Production in Two Commercial Malt Houses (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.609). Malt analysis researchers. Consulted 2026-10-27. Access: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt houses.
+
+## Edition 1.17: newly sourced connections
+
+The composition and permissible next use of brewer's spent grain depend on the ingredients, processing, handling and intended food/feed category. A 2026 barley–malt–beer review considers how some grain-associated contaminants may partition among process fractions. The fact that spent grain has nutritional or material value does not mean any untested batch is suitable for human food or animal feed.[^v117-chain]
+
+The current EU food-contaminant regulation defines separate product categories and conditions. It cannot be reduced to a single global “beer by-product safety threshold,” and a cereal standard should not be transferred to a different marketed food without verifying applicability.[^v117-eu-contaminants]
+
+Before promoting a circularity claim, separate analytical characterization, local regulation and environmental life-cycle impacts. Compare [by-product and food-safety boundaries](../food/spent-grain-and-food-safety-boundaries.md) with [circular reuse](../environment/spent-grain-and-circular-use.md). This addition is not a home food-preservation, composting or feed-handling protocol.
+
+[^v117-chain]: [The barley–malt–beer chain: A process and food safety approach (2026)](https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/jsf2.70039). José Gómez-Espinoza and colleagues. Checked 2026-10-28. Access: Full accessible open 2026 review of grain handling, malt and brewing contaminant transfer; secondary synthesis, not validated production instructions.
+
+[^v117-eu-contaminants]: [Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915). European Commission. Checked 2026-10-28. Access: EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision.

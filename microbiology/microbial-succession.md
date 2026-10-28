@@ -96,6 +96,18 @@ sources:
   author_label: "American Society of Brewing Chemists"
   source_kind: "official-analytical-method-summary"
   access_scope: "Public ASBC meter-calibration and sample-measurement explanation; not a laboratory accreditation or drinking-water safety method."
+- id: v117-fungal-strains
+  resource: "https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13918"
+  title: "Impacts of pathogen strain and barley cultivar on Fusarium head blight in barley and during malting (2024)"
+  author_label: "Anuradha U. Jayathissa and colleagues"
+  source_kind: "primary-controlled-field-and-malt-trial"
+  access_scope: "Full public open-access study with 2019–2021 field trials of two cultivars and seven F. graminearum isolates plus controls; strain/year/cultivar effects are trial-specific."
+- id: v117-fusarium-trial
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/"
+  title: "Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)"
+  author_label: "Eva Maria Biehl and colleagues"
+  source_kind: "primary-controlled-malting-and-brewing-experiment"
+  access_scope: "PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol."
 source_checked_on: '2026-10-27'
 review_note: Research draft; no independent microbiologist review.
 relations:
@@ -186,3 +198,15 @@ When integrating laboratory and ethnographic reports, retain sample timing, subs
 [^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
 
 [^v116-ph]: [Beer 9: pH (Hydrogen Ion Concentration), Master the Method](https://www.asbcnet.org/methods/beer-methods/beer-9-master-method). American Society of Brewing Chemists. Checked 2026-10-28. Access: Public ASBC meter-calibration and sample-measurement explanation; not a laboratory accreditation or drinking-water safety method.
+
+## Edition 1.17: newly sourced connections
+
+Microbial succession in a beer fermentation is not the same as a plant disease history. Jayathissa and colleagues' 2024 trials varied barley cultivar, year and Fusarium strain before malting; their fungal evidence concerns a crop-pathogen system rather than community-selected brewer's yeasts or the organisms responsible for finished-beer flavor.[^v117-fungal-strains]
+
+The 2026 Biehl experimental malt-to-beer study combined fungal DNA detection with specific chemical analyses. The measurements support questions about transfer and transformation, but a DNA signal and a toxin concentration are separate endpoints. Neither identifies an active microbial succession across every subsequent drink.[^v117-fusarium-trial]
+
+Preserve sample stage, method, target, organism role and study population. Follow [field fungi compared with intentional starter microbes](../categories/field-fungus-vs-starter-microbes.md) and [fungal DNA versus chemical assay results](fungal-dna-versus-mycotoxin-measurement.md). A field finding is not a safe fermentation or organism-culturing procedure.
+
+[^v117-fungal-strains]: [Impacts of pathogen strain and barley cultivar on Fusarium head blight in barley and during malting (2024)](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13918). Anuradha U. Jayathissa and colleagues. Checked 2026-10-28. Access: Full public open-access study with 2019–2021 field trials of two cultivars and seven F. graminearum isolates plus controls; strain/year/cultivar effects are trial-specific.
+
+[^v117-fusarium-trial]: [Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/). Eva Maria Biehl and colleagues. Checked 2026-10-28. Access: PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol.

@@ -1,6 +1,6 @@
 # All beer and tradition profiles
 
-**177 canonical beer/tradition and related-ferment profiles in edition 1.10.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
+**191 canonical beer/tradition and related-ferment profiles in edition 1.17.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
 
 [Home](../index.md) · [Category guides](../categories/index.md) · [Ingredients](../ingredients/index.md) · [Names](../navigation/all-names.md) · [Regions](../navigation/by-region.md)
 
@@ -225,3 +225,7 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 - [Jiahu mixed fermented-beverage evidence](jiahu-fermented-beverage.md) — Archaeological reconstruction from Jiahu pottery residues, not a surviving named beer recipe or modern cereal style.
 - [Malwa (Ajon) — a Ugandan millet-ferment name](malwa-ajon.md) — A millet-based beverage discussed in secondary East African fermentation research; direct community verification and alcohol measurement remain outstanding.
 - [Muratina — a Kenyan fibre-carried fermented drink](muratina.md) — Kenyan fermented sugarcane-based drink in a 2003 thesis and a particular Agikuyu marriage-study context; not a universally defined beer or mead.
+
+## Edition 1.17 — evidence from grain fields, not newly named beer styles
+
+The new [Bere barley reference](../ingredients/bere-six-row-barley.md), [crop-fungi distinction](../categories/field-fungus-vs-starter-microbes.md) and [market studies](../culture/arsi-malt-barley-farm-contracts.md) extend the context of original profiles without adding a fictitious Scottish or Ethiopian universal beer-style category. The canonical profile URLs remain unchanged.

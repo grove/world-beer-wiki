@@ -110,3 +110,9 @@ New evidence-based references (all retain draft status):
 - [Bitterness units and hop chemistry](bitterness-units-and-hop-chemistry.md) — An IBU is not a taste thermometer.
 - [Gravity, extract and estimated ABV](gravity-extract-and-estimated-alcohol.md) — Distinguishing observed density from calculated strength.
 - [How pH differs from titratable acidity](ph-versus-titratable-acidity.md) — Why pH and acid neutralization are separate measures.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Fusarium malt-to-beer transformations](fusarium-malt-to-beer-transformation.md) — Controlled inoculation is not a toxin-removal or consumer compliance process.
+- [Malting and grain fungi](malting-germination-and-grain-fungi.md) — Enzyme development and field-origin risk as distinct questions.
+- [Sprouting before harvest versus malting](preharvest-sprouting-versus-malting.md) — Identical biological concepts can have different process roles.

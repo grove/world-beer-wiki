@@ -38,6 +38,18 @@ sources:
   source_kind: open-review-abstract
   access_scope: 'Open review abstract: opportunities and LCA limitations; not an actual emissions audit
     for every brewery.'
+- id: v117-sprouting-review
+  resource: "https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70475"
+  title: "A critical review of pre-harvest sprouting in barley (2026)"
+  author_label: "S. I. Hull, S. Hayward, S. Orth and P. A. Swanepoel"
+  source_kind: "open-agronomic-review"
+  access_scope: "Accessible full 2026 review of barley seed dormancy, rainfall, physiology and malting consequences; not a harvest forecast for any farm."
+- id: v117-contracts-2025
+  resource: "https://www.frontiersin.org/journals/environmental-economics/articles/10.3389/frevc.2025.1415517/full"
+  title: "Impact of contract farming on householders' income, intensification, and land productivity in Ethiopia (2025)"
+  author_label: "Frontiers agricultural economics research team"
+  source_kind: "open-field-survey-and-matched-analysis"
+  access_scope: "Full open 2025 study of 248 sampled households in Central and Southern Oromia with interviews, FGD and matching; local estimates and contract forms must not be generalized."
 scope: Evidence-oriented map of climate exposure, energy, water and circular-material questions.
 evidence_basis:
 - climate-model-primary-abstract
@@ -79,3 +91,15 @@ Evidence-oriented map of climate exposure, energy, water and circular-material q
 [^v14-water]: [Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)](https://www.mdpi.com/2073-4441/17/8/1179). Greek brewery case-study research team. Consulted 2026-10-27. Access: Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide average.
 
 [^v14-circular]: [Spent Grain Valorisation and Renewable Energy for Craft Breweries (2024)](https://www.sciencedirect.com/science/article/pii/S0959652624009752). Sustainability review authors. Consulted 2026-10-27. Access: Open review abstract: opportunities and LCA limitations; not an actual emissions audit for every brewery.
+
+## Edition 1.17: newly sourced connections
+
+Agriculture affects brewing through more than harvested tonnage. Hull and colleagues' 2026 barley review examines pre-harvest sprouting as the result of crop dormancy, weather and grain traits; its malt-quality concerns are not a direct life-cycle assessment or a real-time harvest forecast.[^v117-sprouting-review]
+
+An independent 2025 Oromia household study analyzes contracting models, farm outcomes and land use in sampled malt-barley producers. It addresses the **social and economic structure** of a barley supply chain, not the greenhouse-gas footprint or water scarcity impact of every resulting beer.[^v117-contracts-2025]
+
+When asking whether a beer's ingredients are environmentally or socially sustainable, distinguish crop quality, yields, trade terms, farm input use, brewery efficiency and packaging. Read [barley harvest weather risks](../environment/barley-harvest-wet-weather-risks.md) and [the Arsi contracts case](../culture/arsi-malt-barley-farm-contracts.md) before inferring a universal sustainability ranking. No economic survey alone demonstrates a net environmental benefit.
+
+[^v117-sprouting-review]: [A critical review of pre-harvest sprouting in barley (2026)](https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70475). S. I. Hull, S. Hayward, S. Orth and P. A. Swanepoel. Checked 2026-10-28. Access: Accessible full 2026 review of barley seed dormancy, rainfall, physiology and malting consequences; not a harvest forecast for any farm.
+
+[^v117-contracts-2025]: [Impact of contract farming on householders' income, intensification, and land productivity in Ethiopia (2025)](https://www.frontiersin.org/journals/environmental-economics/articles/10.3389/frevc.2025.1415517/full). Frontiers agricultural economics research team. Checked 2026-10-28. Access: Full open 2025 study of 248 sampled households in Central and Southern Oromia with interviews, FGD and matching; local estimates and contract forms must not be generalized.

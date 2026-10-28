@@ -89,3 +89,8 @@ New evidence-based references (all retain draft status):
 - [Triangle sensory tests](triangle-tests-for-beer.md) — Difference detection without quality ranking.
 - [Beer colour in a glass](beer-colour-in-a-glass.md) — Lighting, viewing path and haze versus instrument SRM.
 - [Expectations from colour and labels](expectations-and-beer-colour.md) — Contextual consumer-study limits.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [Hydrophobins and gushing](gushing-hydrophobins-and-carbonation.md) — Primary gushing differs from ordinary beer carbonation.
+- [Malt hot-steep sensory studies](malt-hot-steep-experiments.md) — Malt sample panels are not finished-beer liking studies.

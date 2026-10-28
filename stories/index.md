@@ -91,3 +91,8 @@ New evidence-based references (all retain draft status):
 
 - [The number was not a recipe](the-number-was-not-a-recipe.md) — A material history of brewing extract.
 - [Two beers, one IBU](two-beers-one-ibu.md) — Similar lab values can hide chemical and sensory differences.
+
+## Research edition 1.17 — bounded field-to-glass evidence
+
+- [The fungus was not necessarily the fermenter](the-fungus-was-not-the-fermenter.md) — A plant pathogen is not a living starter by inference.
+- [Foam is not only a carbonation question](beer-foam-not-only-carbonation.md) — An erupting bottle cannot diagnose its own cause.

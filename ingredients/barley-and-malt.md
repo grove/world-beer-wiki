@@ -59,6 +59,18 @@ sources:
   author_label: Raphael Prado, Martina Gastl and Thomas Becker
   source_kind: scientific-review-abstract
   access_scope: 'Indexed abstract: color does not uniquely predict aroma; no named brewery process recipe.'
+- id: v117-sprouting-review
+  resource: "https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70475"
+  title: "A critical review of pre-harvest sprouting in barley (2026)"
+  author_label: "S. I. Hull, S. Hayward, S. Orth and P. A. Swanepoel"
+  source_kind: "open-agronomic-review"
+  access_scope: "Accessible full 2026 review of barley seed dormancy, rainfall, physiology and malting consequences; not a harvest forecast for any farm."
+- id: v117-enzymes
+  resource: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11717045/"
+  title: "Enzyme Activities Shape Malting Quality Standards (2025)"
+  author_label: "Food Science & Nutrition research authors"
+  source_kind: "peer-reviewed-malting-review-public-index"
+  access_scope: "2025 open research article indexed via PMC, emphasizing enzyme activity and genetic/environmental factors; exact detailed methods not independently reproduced."
 aliases:
 - Barley malt
 - Malted barley
@@ -151,3 +163,15 @@ A separate 2021 specialty-malt review cautions that **malt color alone does not 
 [^v18-foam-proteome]: [Posttranslational Modifications Drive Protein Stability to Control the Dynamic Beer Brewing Proteome (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6731079/). Brewing proteomics researchers. Consulted 2026-10-28. Access: Indexed proteomics article excerpts on studied mash/boil dynamics; relative protein abundance, not direct proof of all sensory effects.
 
 [^v18-color]: [Aroma and color development during the production of specialty malts: A review (2021)](https://pubmed.ncbi.nlm.nih.gov/34370381/). Raphael Prado, Martina Gastl and Thomas Becker. Consulted 2026-10-28. Access: Indexed abstract: color does not uniquely predict aroma; no named brewery process recipe.
+
+## Edition 1.17: newly sourced connections
+
+The value of germination depends on **where, when and why** it occurs. Hull and colleagues' 2026 review explains how barley seed dormancy, weather and spike traits influence unwanted germination before harvest. That condition is not identical to the controlled germination intended to develop malt characteristics, and the study does not predict any farm's actual readiness or safety.[^v117-sprouting-review]
+
+A 2025 review of enzyme activities in malting quality describes multiple interacting grain traits: starch breakdown, protein modification and enzyme profiles can influence later brewing performance. The presence of one enzyme is not a standalone measurement of malt flavor, product purity or brewing success.[^v117-enzymes]
+
+For a meaningful barley record, preserve grain origin, crop stage, observed versus inferred modification and analytical method. Compare [pre-harvest sprouted grain](preharvest-sprouted-barley.md), [enzyme readiness](malt-enzyme-readiness.md) and [field sprouting versus malting](../processes/preharvest-sprouting-versus-malting.md). These are scientific distinctions, not instructions for accepting suspect material.
+
+[^v117-sprouting-review]: [A critical review of pre-harvest sprouting in barley (2026)](https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70475). S. I. Hull, S. Hayward, S. Orth and P. A. Swanepoel. Checked 2026-10-28. Access: Accessible full 2026 review of barley seed dormancy, rainfall, physiology and malting consequences; not a harvest forecast for any farm.
+
+[^v117-enzymes]: [Enzyme Activities Shape Malting Quality Standards (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11717045/). Food Science & Nutrition research authors. Checked 2026-10-28. Access: 2025 open research article indexed via PMC, emphasizing enzyme activity and genetic/environmental factors; exact detailed methods not independently reproduced.

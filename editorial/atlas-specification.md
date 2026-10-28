@@ -9,14 +9,14 @@ tags:
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.16
+  by: world-beer-wiki/1.17
   at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.11'
-implementation_status: research-edition-1.16
+specification_version: '1.12'
+implementation_status: research-edition-1.17
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -963,11 +963,68 @@ work_items:
   - tests/test_research_quality_v116.py
   delivered_scope: Twenty-three new references, sixteen sourced canonical revisions, nineteen audited external works and ninety-four article-to-source placements with regression and continuous integration checks.
 
+- id: ATLAS-110
+  title: Barley pre-harvest physiology, malt enzymes and variable grain seasons
+  state: implemented
+  paths:
+  - ingredients/preharvest-sprouted-barley.md
+  - ingredients/malt-enzyme-readiness.md
+  - processes/preharvest-sprouting-versus-malting.md
+  - environment/barley-harvest-wet-weather-risks.md
+  - calendar/barley-harvest-window-not-fixed.md
+  delivered_scope: Separate crop dormancy, wet-weather sprouting, drought physiology and managed malting; no universal harvest event or agronomic operating plan.
+- id: ATLAS-111
+  title: Field-pathogen, modified mycotoxin, gushing and grain-to-beer evidence
+  state: implemented
+  paths:
+  - microbiology/fusarium-strain-effects-in-barley.md
+  - microbiology/plant-conjugated-don.md
+  - microbiology/fungal-dna-versus-mycotoxin-measurement.md
+  - ingredients/don-glucoside-as-modified-mycotoxin.md
+  - processes/fusarium-malt-to-beer-transformation.md
+  - sensory/gushing-hydrophobins-and-carbonation.md
+  delivered_scope: Keep controlled inoculation, crop disease, DNA detection, toxin quantification and foam mechanisms distinct; no safe-use protocols.
+- id: ATLAS-112
+  title: Scottish Bere landrace continuity and Ethiopian regional malt-barley markets
+  state: implemented
+  paths:
+  - ingredients/bere-six-row-barley.md
+  - history/bere-introduction-date-uncertain.md
+  - culture/orkney-bere-knowledge-and-revival.md
+  - culture/arsi-malt-barley-farm-contracts.md
+  - culture/estie-malt-barley-cooperatives.md
+  - culture/malt-barley-and-household-food-security.md
+  delivered_scope: Preserve local histories, research access and separate contract-study populations without claiming ancient recipe descent or universal household outcomes.
+- id: ATLAS-113
+  title: Malt sensory, storage objects, byproduct safety and resource comparisons
+  state: implemented
+  paths:
+  - sensory/malt-hot-steep-experiments.md
+  - objects/grain-stores-and-sample-provenance.md
+  - food/spent-grain-and-food-safety-boundaries.md
+  - food/bere-grain-food-and-brewing-boundaries.md
+  - environment/bere-barley-crop-resilience.md
+  delivered_scope: Distinguish malt-panel studies, current EU product categories and material resource evidence from finished-beer preference, food safety and life-cycle rankings.
+- id: ATLAS-114
+  title: Edition 1.17 source manifest, cross-reference integration, navigation and tests
+  state: implemented
+  paths:
+  - references/atlas-source-manifest-1-17.json
+  - references/atlas-sources-1-17.md
+  - editorial/research-update-1-17.md
+  - editorial/validation-report-1-17.md
+  - editorial/source-review-queue-1-17.md
+  - navigation/edition-1-17-reading-trails.md
+  - navigation/all-atlas-subjects.md
+  - navigation/all-names.md
+  - tests/test_research_quality_v117.py
+  delivered_scope: 28 new source-scoped articles and 18 cited revisions across all reference sections; 19 works, 95 actual article-source uses, nine trails and CI source/inventory checks.
+
 ---
 
 # World Beer Atlas expansion specification
 
-**Specification 1.11 · research deliverables tracked through edition 1.16 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.12 · research deliverables tracked through edition 1.17 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
 
 The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
@@ -1212,3 +1269,9 @@ The [release report](research-update-1-15.md), [16-work source register](../refe
 **23 new articles and 16 source-backed revisions** extend the atlas to 685 subjects across 13 sections. ATLAS-105–109 track only finite research and tooling deliverables. These are not five new universal claims about brewing cultures or a count of officially defined beer styles. Modern ASBC colour/bitterness/pH/TA method summaries, indexed laboratory protocols and academic chemistry reviews are unlike a tasting-panel preference or a historical community description. A published IBU result is not a sensory score; a laboratory pH does not certify product safety; an SRM sample is not the entire glass appearance.
 
 The 1784 Richardson source is a bibliographic year, the museum object is dated approximately 1825–1835, and the full historical article was not accessed. Neither record becomes a fabricated annual calendar event or local endorsement. ISO 4120:2021's public abstract, confirmed current in 2026, explains a forced-choice method but is not the complete paywalled normative procedure. Source limits and unperformed independent review remain explicit in the [source manifest](../references/atlas-sources-1-16.md), [review queue](source-review-queue-1-16.md), [research update](research-update-1-16.md) and [eight reading trails](../navigation/edition-1-16-reading-trails.md). ATLAS-012 is **planned**; media and live discovery remain **deferred**.
+
+## 22. Edition 1.17 — agriculture, grain history, fungal evidence and research scope
+
+**28 new research references and 18 substantive canonical revisions** extend the atlas to 713 subjects across 13 sections. ATLAS-110–114 track finite file-based deliverables rather than universal beer coverage. The new studies distinguish pre-harvest sprouting from managed malting, field-pathogen detection from named fermentation microbes, measured mycotoxin forms from consumer safety, and package gushing from glass/CO2 effects. The 2026 inoculated-barley experiment is a controlled study, not a procedure for rendering suspect grain safe.
+
+Separate open farm surveys from Arsi, Oromia and Estie describe different contract models and household outcomes; they are not an all-Ethiopia causal estimate. Bere barley's regional cultivation and uncertain ancient introduction are not evidence of a fixed prehistoric beer recipe. EU contaminant rules require product-specific application and a dated consolidated text; a cereal threshold is not automatically a finished beer or spent-grain food limit. The [19-work source register](../references/atlas-sources-1-17.md), [research update](research-update-1-17.md), [nine trails](../navigation/edition-1-17-reading-trails.md) and [independent-review queue](source-review-queue-1-17.md) record what was actually consulted. **ATLAS-012 specialist/community review is still planned**, while licensed media and live event services remain deferred.
