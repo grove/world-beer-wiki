@@ -42,6 +42,22 @@ sources:
   source_kind: primary-study-abstract
   access_scope: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles, sensory
     and methanol measurements; full paper not independently read.
+- id: v18-hop-terpenes
+  resource: https://www.sciencedirect.com/science/article/pii/S2772753X24000881
+  title: Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using
+    SPME-GC/MS (2024)
+  author_label: Food Chemistry Advances authors
+  source_kind: primary-model-fermentation-study
+  access_scope: 'Open publisher abstract: eleven terpenoid standards added individually to US-05 model
+    beer fermentation, not all finished beer recipes.'
+- id: v18-thiol-time
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13476479/
+  title: A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped
+    beers (2026)
+  author_label: Pilot-scale thiol and transcriptomic study authors
+  source_kind: primary-fermentation-research
+  access_scope: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not
+    a species-wide universal pattern.
 source_checked_on: '2026-10-28'
 review_note: Research draft; no sensory panel or analytical experiment conducted for this page.
 relations:
@@ -83,8 +99,13 @@ This distinction improves both human notes and machine retrieval. A system can r
 
 These are comparisons of source-backed descriptions, not a blinded sensory experiment or chemical analysis. A specific compound name, concentration or ingredient claim needs its own evidence. Avoid turning a vivid metaphor into a falsely precise laboratory result.
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+A 2024 model beer experiment with commercially available *S. cerevisiae* found multiple volatile terpenoid products after fermenting individually supplied standards. A 2026 pilot-scale experiment found that polyfunctional-thiol profiles differed with strain, time and dry hopping. These results show why a sensory descriptor cannot identify a fruit addition, hop variety or particular yeast solely by association.[^v18-hop-terpenes][^v18-thiol-time]
+
+Trace [terpenoid conversion](hop-terpenoid-biotransformation.md), [thiol aroma reasoning](polyfunctional-thiols-and-aroma.md), and [a short detective story](../stories/why-fruity-beer-does-not-identify-the-hop.md). The distinction is between perception, chemical detection, and documented actual ingredients.
+
+## Source notes
 [^atlas-weissbier-context]: [Weissbier](../styles/weissbier.md), retained profile and its source.
 [^atlas-voss-context]: [Vossaøl](../styles/vossaol.md), retained field observations and attribution.
 [^atlas-stout-context]: [American Stout](../styles/american-stout.md), retained ingredient and flavor distinctions.
@@ -98,3 +119,7 @@ Follow [clove aroma](clove-aroma-and-4-vinylguaiacol.md), [banana descriptors](b
 
 [^v16-ferulic-2004]: [Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)](https://pubs.acs.org/doi/10.1021/jf0346556). Research authors. Consulted 2026-10-28. Access: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation; studied combinations not all wheat beer.
 [^v16-tonto]: [Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of Tonto (2026)](https://pubmed.ncbi.nlm.nih.gov/42388651/). Atwine et al.. Consulted 2026-10-28. Access: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles, sensory and methanol measurements; full paper not independently read.
+
+[^v18-hop-terpenes]: [Analysis of terpenoid biotransformation in beer by commercial Saccharomyces cerevisiae using SPME-GC/MS (2024)](https://www.sciencedirect.com/science/article/pii/S2772753X24000881). Food Chemistry Advances authors. Consulted 2026-10-28. Access: Open publisher abstract: eleven terpenoid standards added individually to US-05 model beer fermentation, not all finished beer recipes.
+
+[^v18-thiol-time]: [A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped beers (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13476479/). Pilot-scale thiol and transcriptomic study authors. Consulted 2026-10-28. Access: Indexed full-text excerpts and abstract; two commercial yeast fermentations and pilot-scale settings, not a species-wide universal pattern.

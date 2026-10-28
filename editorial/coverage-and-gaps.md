@@ -79,3 +79,7 @@ The corpus now has **402** mixed subject articles. Four new drink profiles are *
 ## Edition 1.7 coverage and evidence gaps
 
 This edition adds focused histories of Abydos, Andean chicherías, Ghanaian pito enterprises, English brewsters, Japanese sake heritage and Philippine bubod, alongside laboratory and environmental explanations. It does **not** supply independently verified oral histories, full books behind abstracts, ancient recipes or universal packaging advice. The [edition 1.7 source-review queue](source-review-queue-1-7.md) records named open questions; ATLAS-012 remains planned.
+
+## Edition 1.8 follow-up
+
+[The 1.8 research update](research-update-1-8.md) adds situated Shawi, Tanzanian, Ethiopian and Himalayan accounts plus chemical/sensory mechanisms. The complete count is now **457 subject articles** rather than 457 standardized styles. Local-language and community validation, inaccessible full papers and independent expert review remain [open tasks](source-review-queue-1-8.md).

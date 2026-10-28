@@ -58,6 +58,20 @@ sources:
   source_kind: primary-isolate-study-abstract
   access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates
     in studied material; full Japanese paper not read.
+- id: v18-mbege
+  resource: https://www.mdpi.com/2306-5710/2/3/21
+  title: Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)
+  author_label: Ryosuke Kubo and Method Kilasara
+  source_kind: primary-field-observation
+  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence
+    and experimental bark comparison; not a region-wide census.
+- id: v18-jaanr
+  resource: https://indianjournals.com/article/ijm-46-4-004
+  title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
+  author_label: S. Thapa and J. P. Tamang
+  source_kind: primary-research-abstract
+  access_scope: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim;
+    original full paper not reviewed.
 source_checked_on: '2026-10-28'
 review_note: Research draft; explanatory comparison, not an interchangeable ingredient list.
 relations:
@@ -102,8 +116,13 @@ Selected Philippine bubod/tapuy isolates showed complementary sugar-forming and 
 
 The [parallel-fermentation guide](parallel-starch-and-alcohol-fermentation.md) compares that evidence with barley malting and koji culture without asserting a shared origin or a universal starter recipe.
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+In a documented Tanzanian **mbege** process, fermented banana nyalu and germinated finger-millet mso are prepared separately before mixing. In a Darjeeling/Sikkim **kodo ko jaanr** experiment, the authors measured early saccharification and identified roles for starch-active moulds and yeasts. These systems address the availability of fermentable sugars through **different process arrangements**; one crop name does not specify the technique.[^v18-mbege][^v18-jaanr]
+
+Follow [mbege two-stream preparation](mbege-nyalu-and-mso.md), [jaanr fermentation timing](jaanr-finger-millet-fermentation.md), and [the finger-millet reference](../ingredients/finger-millet-in-traditional-ferments.md). This is comparison, not advice for uncontrolled fermentation or an origin claim.
+
+## Source notes
 [^atlas-schlenkerla-process]: [Malting and brewing process of Schlenkerla Smoked Beer](https://www.schlenkerla.de/rauchbier/prozess/prozesse.html), Schlenkerla. Production stages consulted 27 October 2026; producer-specific account.
 [^atlas-jss-koji]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/), Japan Sake and Shochu Makers Association. Koji and fermentation sections consulted 27 October 2026.
 [^atlas-munkoyo-context]: [Munkoyo profile in World Beer Wiki](../styles/munkoyo.md), existing research synthesis and its source notes.
@@ -118,3 +137,7 @@ Compare [munkoyo saccharification](munkoyo-root-starch-conversion.md) with [feru
 [^v16-ferulic-2004]: [Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)](https://pubs.acs.org/doi/10.1021/jf0346556). Research authors. Consulted 2026-10-28. Access: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation; studied combinations not all wheat beer.
 
 [^v17-bubod-1990]: [Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article). Michio Kozaki and Tai Uchimura. Consulted 2026-10-28. Access: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates in studied material; full Japanese paper not read.
+
+[^v18-mbege]: [Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)](https://www.mdpi.com/2306-5710/2/3/21). Ryosuke Kubo and Method Kilasara. Consulted 2026-10-28. Access: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence and experimental bark comparison; not a region-wide census.
+
+[^v18-jaanr]: [Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)](https://indianjournals.com/article/ijm-46-4-004). S. Thapa and J. P. Tamang. Consulted 2026-10-28. Access: Publisher-indexed abstract of measured finger-millet fermentation in Darjeeling/Sikkim; original full paper not reviewed.

@@ -82,3 +82,7 @@ The [complete subject directory](../navigation/all-atlas-subjects.md) now includ
 ## Edition 1.7 retrieval and inference boundaries
 
 When answering questions about tapuy, sake or named pito/chicha practices, resolve canonical names before inferring a style classification. Use the [edition 1.7 source supplement](../references/atlas-sources-1-7.md) for accessed scope and never collapse observed isolates into a mandatory recipe, historical court cases into representative populations, or LCA scenarios into a universal rank. [Reading trails](../navigation/edition-1-7-reading-trails.md) are editorial connections, not causal ancestry.
+
+## Edition 1.8: guardrails for cross-study retrieval
+
+A microbial count from one time point is not a fermentation recipe or evidence of food safety. A published anthropological **abstract** is not a full fieldwork transcript. The Shawi masato coliform comparison is explicitly exploratory and **not** a potable-water recommendation. Separate aroma precursors, finished chemical concentrations and perceived flavors; do not promote associations into direct cause. Read [evidence trails](../navigation/edition-1-8-reading-trails.md), [source limits](../references/atlas-sources-1-8.md), and [unreviewed work](source-review-queue-1-8.md).

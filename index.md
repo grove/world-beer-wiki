@@ -6,21 +6,21 @@ okf_version: "0.2"
 
 ## Beer styles, living traditions, ingredients and brewing categories
 
-**Research edition 1.7 · 28 October 2026 · 428 subject articles across thirteen reference layers**
+**Research edition 1.8 · 28 October 2026 · 457 subject articles across thirteen reference layers**
 
 An English-language, source-referenced Markdown knowledge base for readers and LLM retrieval. Start with a named beer, explore its ingredients, then compare the traditions and processes around it. Articles distinguish current judging descriptions, local practice, related ferments and historical evidence.
 
-The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.7](editorial/research-update-1-7.md).
+The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.8](editorial/research-update-1-8.md).
 
 ## Choose a route
 
 | Start here | What you will find |
 |---|---|
 | [How beer categories work](categories/beer-classification.md) | Separate style, fermentation, ingredient, region, period and serving method. |
-| [All beer and tradition profiles](styles/index.md) | 171 canonical articles, with kinds, geographical focus and explicit judging references. |
-| [Category guides](categories/index.md) | 25 comparative guides covering familiar families and cross-cutting processes. |
-| [Ingredients and cultures](ingredients/index.md) | 42 references covering grains, water, hops, cultures, botanicals and other additions. |
-| [Complete atlas subject index](navigation/all-atlas-subjects.md) | All 428 entries across thirteen reference layers, regenerated from article metadata. |
+| [All beer and tradition profiles](styles/index.md) | 173 named beer/tradition, specialty and related-ferment profiles, distinguished by type and scope. |
+| [Category guides](categories/index.md) | 28 comparative category guides, not mutually exclusive styles. |
+| [Ingredients and cultures](ingredients/index.md) | 46 sources, botanicals, additions and cultures with named roles. |
+| [Complete atlas subject index](navigation/all-atlas-subjects.md) | All 457 entries across thirteen reference layers, regenerated from article metadata. |
 | [Names and aliases](navigation/all-names.md) | Search titles and scoped alternative names across all three sections. |
 | [By region](navigation/by-region.md) | Geographical routes through the beer and tradition profiles. |
 | [By family](navigation/by-family.md) | Topic and tag routes, with links into the category explanations. |
@@ -31,16 +31,16 @@ The [Atlas specification](editorial/atlas-specification.md) defines the scope an
 
 | Explore | What it adds |
 |---|---|
-| [Culture and institutions](culture/index.md) | Twenty-nine situated cases of communal brewing, reciprocal work, knowledge, livelihoods and institutional identity. |
-| [Seasons and calendars](calendar/index.md) | Thirteen entries distinguishing production seasons, festive occasions and dated event editions. |
-| [Microorganisms and ecology](microbiology/index.md) | Twenty-nine references separating species, strains, cultures, functions and sampling evidence. |
-| [Processes](processes/index.md) | Twenty-three explanations, from starch conversion and baked mash to blending and hop creep. |
-| [Objects and serving](objects/index.md) | Ten references on coolships, culture storage, tongba and foam pours. |
-| [Sensory reasoning](sensory/index.md) | Fifteen guides to investigating flavor without inventing an ingredient list. |
-| [Stories and discoveries](stories/index.md) | Sixteen evidence-based narrative reading routes. |
-| [Historical research and archaeology](history/index.md) | Twenty dated case studies about laws, industry, material evidence, and historical interpretation. |
-| [Environment and brewing resources](environment/index.md) | Nine studies of crop risks, process energy, water and by-product use. |
-| [Beer with food](food/index.md) | Four studies separating expert pairing hypotheses from consumer experiments. |
+| [Culture and institutions](culture/index.md) | 38 situated cases of hospitality, work, exchange, livelihood and knowledge. |
+| [Seasons and calendars](calendar/index.md) | 14 events or seasonal accounts with explicit date and recurrence limits. |
+| [Microorganisms and ecology](microbiology/index.md) | 36 organism and ecological references with sampling limits. |
+| [Processes](processes/index.md) | 28 documented techniques, from starch conversion to aging. |
+| [Objects and serving](objects/index.md) | 12 equipment and service references. |
+| [Sensory reasoning](sensory/index.md) | 21 guides to flavor and experimental evidence. |
+| [Stories and discoveries](stories/index.md) | 21 source-grounded narrative reading routes. |
+| [Historical research and archaeology](history/index.md) | 24 archaeological, historical and historiographical studies. |
+| [Environment and brewing resources](environment/index.md) | 11 resource and environmental assessments. |
+| [Beer with food](food/index.md) | 5 evidence-driven food and pairing comparisons. |
 | [Atlas reading paths](navigation/atlas.md) | Follow people, materials, time and transformations across the layers. |
 
 ## Four worthwhile comparisons
@@ -75,4 +75,8 @@ The [source supplement](references/atlas-sources-1-5.md) and [research review qu
 
 ## Newly connected research: 1.7
 
-Follow the [six evidence-driven routes](navigation/edition-1-7-reading-trails.md): royal brewing at Abydos, women’s commercial brewing in several cultures, household chicha calendars in Piura, Philippine rice starters, beer microbiology, and conditional environmental claims. Each link leads to a research draft with its own source limitations. [All 428 subjects](navigation/all-atlas-subjects.md) · [Research update](editorial/research-update-1-7.md) · [Sources](references/atlas-sources-1-7.md) · [Review queue](editorial/source-review-queue-1-7.md).
+Follow the [six evidence-driven routes](navigation/edition-1-7-reading-trails.md): royal brewing at Abydos, women’s commercial brewing in several cultures, household chicha calendars in Piura, Philippine rice starters, beer microbiology, and conditional environmental claims. Each link leads to a research draft with its own source limitations. [All 457 subjects](navigation/all-atlas-subjects.md) · [Research update](editorial/research-update-1-7.md) · [Sources](references/atlas-sources-1-7.md) · [Review queue](editorial/source-review-queue-1-7.md).
+
+## Edition 1.8 — cultures and brewing science
+
+A new set of [seven connected research trails](navigation/edition-1-8-reading-trails.md) explores Shawi masato, the two-stream mbege process, Ethiopian fermented cereal food-drinks, Himalayan finger millet, foam proteins, hop aroma and aging chemistry. Read the [edition 1.8 report](editorial/research-update-1-8.md), [source register](references/atlas-sources-1-8.md) and [independent-review queue](editorial/source-review-queue-1-8.md). **Safety, medical and historical descent claims have not been inferred from isolated results.**

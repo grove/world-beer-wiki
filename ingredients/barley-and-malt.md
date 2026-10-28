@@ -37,6 +37,28 @@ sources:
   source_kind: malting-primary-study
   access_scope: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt
     houses.
+- id: v18-foam-z
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC8234785/
+  title: Barley Protein Properties, Extraction and Applications, with a Focus on Brewers Spent Grain Protein
+    (2021)
+  author_label: Review authors
+  source_kind: scientific-review
+  access_scope: Indexed review excerpts on Protein Z and lipid-transfer proteins; summarises original
+    foaming experiments, not itself a finished-beer randomized trial.
+- id: v18-foam-proteome
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC6731079/
+  title: Posttranslational Modifications Drive Protein Stability to Control the Dynamic Beer Brewing Proteome
+    (2019)
+  author_label: Brewing proteomics researchers
+  source_kind: primary-research
+  access_scope: Indexed proteomics article excerpts on studied mash/boil dynamics; relative protein abundance,
+    not direct proof of all sensory effects.
+- id: v18-color
+  resource: https://pubmed.ncbi.nlm.nih.gov/34370381/
+  title: 'Aroma and color development during the production of specialty malts: A review (2021)'
+  author_label: Raphael Prado, Martina Gastl and Thomas Becker
+  source_kind: scientific-review-abstract
+  access_scope: 'Indexed abstract: color does not uniquely predict aroma; no named brewery process recipe.'
 aliases:
 - Barley malt
 - Malted barley
@@ -109,10 +131,23 @@ The technical accounts describe current malt production. Their precise times, te
 
 Study results from two malt houses connect beta-glucans, arabinoxylans and friability with wort viscosity and filterability. Malting quality therefore cannot be reduced to color or a single starch-conversion figure. Explore [beta-glucans](barley-beta-glucans.md).[^v14-malt]
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+Barley supplies more than fermentable starch. A scientific review describes **Protein Z** and **lipid-transfer protein 1 (LTP1)** as among the malt-related molecules associated with foam stability. Proteomics research found that protein abundance and survival changed during mashing and boiling in its studied system. Concentration and chemical modification must be distinguished from finished-beer sensory foam tests.[^v18-foam-z][^v18-foam-proteome]
+
+Read [foam-active barley proteins](beer-foam-active-proteins.md), [foam formation](../processes/foam-formation-and-retention.md), and [LTP1 heat research](../sensory/heat-ltp1-and-beer-foam.md). This is laboratory evidence, not a guaranteed brewing adjustment.
+
+A separate 2021 specialty-malt review cautions that **malt color alone does not determine aroma**: similarly colored malts can produce different volatile profiles. This helps distinguish [malt heat chemistry](barley-malt-heat-spectrum.md) from beer foam protein changes and [sensory color comparisons](../sensory/smoke-roast-and-wood.md).[^v18-color]
+
+## Source notes
 [^ing-briess-malting]: [The Malting Process](https://brewingwithbriess.com/malting-101/malting-process/). Briess Malt & Ingredients. Consulted 2026-10-27. Evidence used: manufacturer explanation of steeping, germination, drying and enzyme retention.
 [^ing-briess-specialty]: [Handcrafting Specialty Malts](https://brewingwithbriess.com/malting-101/handcrafting-specialty-malts/). Briess Malt & Ingredients. Consulted 2026-10-27. Evidence used: manufacturer description of its specialty-malting and quality-control methods.
 [^ing-weyermann-smoked-wheat]: [Weyermann Oak Smoked Wheat Malt](https://www.weyermann.de/en-gb/product/weyermann-oak-smoked-wheat-malt/). Weyermann Specialty Malts. Consulted 2026-10-27. Evidence used: brewing product page; present-day oak-smoked wheat malt, not proof of historical recipes.
 
 [^v14-malt]: [Changes in Malt Quality during Production in Two Commercial Malt Houses (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.609). Malt analysis researchers. Consulted 2026-10-27. Access: Open full text includes β-glucan, friability, viscosity and lautering; specific two malt houses.
+
+[^v18-foam-z]: [Barley Protein Properties, Extraction and Applications, with a Focus on Brewers Spent Grain Protein (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8234785/). Review authors. Consulted 2026-10-28. Access: Indexed review excerpts on Protein Z and lipid-transfer proteins; summarises original foaming experiments, not itself a finished-beer randomized trial.
+
+[^v18-foam-proteome]: [Posttranslational Modifications Drive Protein Stability to Control the Dynamic Beer Brewing Proteome (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6731079/). Brewing proteomics researchers. Consulted 2026-10-28. Access: Indexed proteomics article excerpts on studied mash/boil dynamics; relative protein abundance, not direct proof of all sensory effects.
+
+[^v18-color]: [Aroma and color development during the production of specialty malts: A review (2021)](https://pubmed.ncbi.nlm.nih.gov/34370381/). Raphael Prado, Martina Gastl and Thomas Becker. Consulted 2026-10-28. Access: Indexed abstract: color does not uniquely predict aroma; no named brewery process recipe.

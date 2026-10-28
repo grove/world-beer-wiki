@@ -8,8 +8,8 @@ tags:
 - progress
 status: draft
 generated:
-  by: world-beer-wiki/1.7
-  at: '2026-10-28T05:45:00Z'
+  by: world-beer-wiki/1.8
+  at: '2026-10-28T07:55:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -18,7 +18,7 @@ sources:
 
 # Atlas scope and progress
 
-**Edition 1.7: 50 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
+**Edition 1.8: 56 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
 
 | ID | Workstream | Status | Reproducible deliverable paths |
 |---|---|---|---|
@@ -76,6 +76,13 @@ sources:
 | ATLAS-052 | Improve gender-history comparisons, narrative trails and original articles | implemented | [gender-and-brewing-what-the-sources-show.md](../categories/gender-and-brewing-what-the-sources-show.md) · [brewsters-household-labor-in-medieval-england.md](../history/brewsters-household-labor-in-medieval-england.md) · [ale-tasters-and-brewster-protests.md](../history/ale-tasters-and-brewster-protests.md) · [edition-1-7-reading-trails.md](../navigation/edition-1-7-reading-trails.md) |
 | ATLAS-053 | Maintain source provenance, research hygiene and edition navigation | implemented | [atlas-sources-1-7.md](../references/atlas-sources-1-7.md) · `tools/research_quality.py` · `tests/test_research_quality_v17.py` · [research-update-1-7.md](../editorial/research-update-1-7.md) · [validation-report-1-7.md](../editorial/validation-report-1-7.md) |
 
+| ATLAS-054 | Shawi cassava fermentation and cultural evidence | implemented | [shawi-masato-and-water.md](../culture/shawi-masato-and-water.md) · [shawi-masato-preparation.md](../processes/shawi-masato-preparation.md) |
+| ATLAS-055 | Mbege process, botanical input and contextual ritual evidence | implemented | [mbege-as-regional-knowledge.md](../culture/mbege-as-regional-knowledge.md) · [mbege-nyalu-and-mso.md](../processes/mbege-nyalu-and-mso.md) · [msesewe-stem-bark-in-mbege.md](../ingredients/msesewe-stem-bark-in-mbege.md) · [chagga-ritual-beer-in-rombo.md](../culture/chagga-ritual-beer-in-rombo.md) |
+| ATLAS-056 | Ethiopian food-drinks and Himalayan millet ecology | implemented | [borde-ethiopian-fermented-cereal.md](../styles/borde-ethiopian-fermented-cereal.md) · [shamita-ethiopian-fermented-barley.md](../styles/shamita-ethiopian-fermented-barley.md) · [jaanr-microbial-succession.md](../microbiology/jaanr-microbial-succession.md) |
+| ATLAS-057 | Beer foam proteins and aging chemistry | implemented | [beer-foam-active-proteins.md](../ingredients/beer-foam-active-proteins.md) · [heat-ltp1-and-beer-foam.md](../sensory/heat-ltp1-and-beer-foam.md) · [beer-staling-and-aldehydes.md](../sensory/beer-staling-and-aldehydes.md) |
+| ATLAS-058 | Hop chemistry, yeast effects and source-to-aroma uncertainty | implemented | [polyfunctional-thiol-precursors.md](../ingredients/polyfunctional-thiol-precursors.md) · [thiol-release-and-yeast-timing.md](../microbiology/thiol-release-and-yeast-timing.md) · [hop-terpenoid-biotransformation.md](../sensory/hop-terpenoid-biotransformation.md) |
+| ATLAS-059 | Evidence QA, indexes, research register and reading trails | implemented | [atlas-sources-1-8.md](../references/atlas-sources-1-8.md) · [research-update-1-8.md](../editorial/research-update-1-8.md) · [validation-report-1-8.md](../editorial/validation-report-1-8.md) · [edition-1-8-reading-trails.md](../navigation/edition-1-8-reading-trails.md) · `tests/test_research_quality_v18.py` |
+
 ## What remains unverified
 
 **ATLAS-012**, independent community and specialist review, is still planned. Source access from a publisher abstract or a project narrative is not equivalent to reading all underlying records; an archival citation cannot certify the account’s representativeness. Licensed illustrations/recordings and a live interactive calendar remain deferred. The [edition 1.7 review queue](source-review-queue-1-7.md) and [earlier 1.6 queue](source-review-queue-1-6.md) identify specific work.
@@ -85,3 +92,7 @@ sources:
 `python tools/atlas.py progress` exports this finite ledger without inventing a worldwide completeness percentage. `python tools/atlas.py check` verifies declared delivered files; `python tools/research_quality.py --edition 1.7` checks local source hygiene. All remain independent of actual external professional validation.
 
 [Specification](atlas-specification.md) · [Research update](research-update-1-7.md) · [Validation](validation-report-1-7.md) · [All subjects](../navigation/all-atlas-subjects.md)
+
+## Edition 1.8 delivered scope
+
+29 source-bounded articles and 14 original-article additions; 6 finite ledger items. All community and scientific peer review remains uncompleted. [Research update](research-update-1-8.md) · [Sources](../references/atlas-sources-1-8.md) · [Independent-review queue](source-review-queue-1-8.md).

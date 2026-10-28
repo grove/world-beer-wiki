@@ -18,6 +18,13 @@ sources:
   source_kind: primary-research
   access_scope: full-text methods and discussion, especially six commercial masato producers; no clinical health claims adopted
   author_label: Teresa D. Rebaza-Cardenas and colleagues
+- id: v18-shawi
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/
+  title: Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage (2020)
+  author_label: A. Bussalleu and colleagues, with participating Shawi community
+  source_kind: community-partnered-primary-research
+  access_scope: Open article text indexed in search, methods, participatory photographs and sample results; one Shawi community
+    and 11 masato samples, no safety certification.
 aliases: []
 regions:
 - South America
@@ -69,6 +76,15 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+A community-partnered study of one Shawi community in the Peruvian Amazon describes household cassava preparation and daily service using participatory photographs. Its documented process included chewing some cooked cassava, but the commercial-producer study cited earlier in this profile involved **no saliva**. Neither source describes every community called Amazonian or every preparation named masato.[^v18-shawi]
+
+The Shawi study also cultured **26 communal water-source samples and 11 masato samples**, with coliform detection in all water samples and two masato samples. These exploratory results are **not** proof of microbiological safety, a clinical outcome, or a water-treatment recipe. The authors requested further investigation.[^v18-shawi]
+
+Explore [the Shawi account](../culture/shawi-masato-and-water.md), [photographed preparation stages](../processes/shawi-masato-preparation.md), and [why the safety inference is limited](../stories/fermentation-is-not-a-water-treatment.md).
+
+## Source notes
 [^masato-study]: [“Masato de Yuca” and “Chicha de Siete Semillas” Two Traditional Vegetable Fermented Beverages from Peru as Source for the Isolation of Potential Probiotic Bacteria (online 2021; issue 2023)](https://link.springer.com/article/10.1007/s12602-021-09836-x). Teresa D. Rebaza-Cardenas and colleagues. Consulted 2026-10-27. Evidence used: full-text methods and discussion, especially six commercial masato producers; no clinical health claims adopted.
+
+[^v18-shawi]: [Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/). A. Bussalleu and colleagues, with participating Shawi community. Consulted 2026-10-28. Access: Open article text indexed in search, methods, participatory photographs and sample results; one Shawi community and 11 masato samples, no safety certification.

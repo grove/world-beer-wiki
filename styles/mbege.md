@@ -19,6 +19,20 @@ sources:
   source_kind: primary-fieldwork
   access_scope: published abstract and indexed text; observed brewing process
   author_label: Ryosuke Kubo and Method Kilasara
+- id: v18-mbege
+  resource: https://www.mdpi.com/2306-5710/2/3/21
+  title: Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)
+  author_label: Ryosuke Kubo and Method Kilasara
+  source_kind: primary-field-observation
+  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence
+    and experimental bark comparison; not a region-wide census.
+- id: v18-rombo
+  resource: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/amet.12119
+  title: 'What the beer shows: Exploring ritual and ontology in Kilimanjaro (2015)'
+  author_label: Knut Christian Myhre
+  source_kind: primary-anthropology-abstract
+  access_scope: Publisher abstract of Rombo District analysis; no inference about detailed ceremony, participation
+    or full-text argument.
 aliases: []
 regions:
 - East Africa
@@ -69,6 +83,17 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+The original 2016 field study identifies a **two-preparation process**, not a single pot where banana and millet play identical roles. Fermented banana *nyalu* provided a source of yeast activity, while germinated finger millet *mso* supplied a sweet material; mixing and further fermentation followed. The same researchers examined msesewe bark in the observed context. The study does not create one mandatory recipe for northeastern Tanzania.[^v18-mbege]
+
+A separate anthropological article discusses beer and finger millet in the concept of “showing” among Chagga-speaking people of Rombo District. Its accessible **abstract** is evidence for that bounded cultural argument, **not** a claim that every mbege batch is part of the same ritual.[^v18-rombo]
+
+Compare [two-stream brewing](../processes/mbege-nyalu-and-mso.md), [named mbege knowledge](../culture/mbege-as-regional-knowledge.md), [finger millet](../ingredients/finger-millet-in-traditional-ferments.md), and [the Rombo ethnography](../culture/chagga-ritual-beer-in-rombo.md).
+
+## Source notes
 [^mbege-research]: [Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)](https://www.mdpi.com/2306-5710/2/3/21). Ryosuke Kubo and Method Kilasara. Consulted 2026-10-27. Evidence used: published abstract and indexed text; observed brewing process.
+
+[^v18-mbege]: [Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)](https://www.mdpi.com/2306-5710/2/3/21). Ryosuke Kubo and Method Kilasara. Consulted 2026-10-28. Access: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing sequence and experimental bark comparison; not a region-wide census.
+
+[^v18-rombo]: [What the beer shows: Exploring ritual and ontology in Kilimanjaro (2015)](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/amet.12119). Knut Christian Myhre. Consulted 2026-10-28. Access: Publisher abstract of Rombo District analysis; no inference about detailed ceremony, participation or full-text argument.

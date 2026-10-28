@@ -56,3 +56,10 @@ New evidence-based references (all retain draft status):
 - [HorA, HorC and the limits of hop-resistance markers](hora-horc-and-hop-resistance-markers.md) — Two experimentally studied bacterial mechanisms plus a counterexample showing why hop-tolerant growth is not one gene.
 - [What a bubod and tapuy isolate study can establish](bubod-tapuy-isolate-study.md) — A 1990 Philippine rice-ferment study showing distinct starch-breaking and alcoholic roles among selected microbial isolates.
 - [Why filling lines matter in a brewery microbiome](craft-brewery-filling-line-microbes.md) — A study of 60 monitoring points in one craft brewery and selected spoilage-associated bacteria, not a general contamination rate.
+
+## New in research edition 1.8 — 4 articles
+
+- [Borde: organisms changing during one sampled fermentation](borde-microbial-succession.md) — Microbial Ecology Research Case; Three-location Ethiopian borde sampling in a 2024 laboratory study; culture results are process-stage specific.
+- [Jaanr microbial succession: molds, yeasts and LAB over time](jaanr-microbial-succession.md) — Microbial Ecology Research Case; Abstractions from Thapa and Tamang’s 2006 tracked fermentation in Darjeeling/Sikkim; culture dynamics not universal starter composition.
+- [Shamita fermentation in Bacha, Mehari and Ashenafi’s study](shamita-overnight-fermentation.md) — Microbial Ecology Research Case; Culture-based microbiology published in a 1999 journal issue, with local brewers and laboratory preparation, not every Ethiopian shamita.
+- [Thiol release is time-dependent and strain-dependent](thiol-release-and-yeast-timing.md) — Fermentation Microbiology Research Case; Two selected ale/lager yeast fermentations in a 2026 pilot-scale study with and without dry hopping; not universal yeast performance.

@@ -30,6 +30,13 @@ sources:
   source_kind: open-technical-review
   access_scope: Open full review on bottle refermentation, residual yeast, aroma and oxygen; not a homebrew
     pressure recipe.
+- id: v18-aldehydes
+  resource: https://brewingscience.de/index.php/brewingscience/article/view/517
+  title: Technological strategies for controlling aldehyde formation in beer (2025)
+  author_label: Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen
+  source_kind: scientific-review-abstract
+  access_scope: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal
+    shelf-life extrapolation.
 scope: Chemical and microbiological explanations of quality changes after filling.
 evidence_basis:
 - open-oxidation-review
@@ -61,10 +68,17 @@ Compare [oxidative staling](../sensory/oxidative-aging.md), [lightstruck beer](.
 
 Chemical and microbiological explanations of quality changes after filling. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+A 2025 review describes multiple routes to **staling aldehydes**, including reactions involving lipids, amino acids, heat and oxygen. Package oxygen exposure is important but cannot be assumed to explain every stale aroma or beer age trajectory. No one storage date predicts the same sensory outcome across all beer matrices.[^v18-aldehydes]
+
+Compare [aldehydes and aging](../sensory/beer-staling-and-aldehydes.md), [stability mechanisms](beer-clarification-and-stability.md), and the [packaging environmental assessment](../environment/beer-packaging-transport-and-return-loops.md). Quality and life-cycle footprints are distinct comparison objectives.
+
+## Source notes
 [^v14-aging]: [Transition Metals and Beer Oxidative Stability: Review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Mertens and colleagues. Consulted 2026-10-27. Access: Open text on oxygen, metals and also non-oxidative aging; no shelf-life prediction.
 
 [^v14-light]: [Photooxidative Degradation of Beer Bittering Principles (2005)](https://pubs.acs.org/doi/10.1021/jf0486186). Photochemistry research team. Consulted 2026-10-27. Access: ACS abstract: riboflavin excited state and radicals from bittering compounds yielding lightstruck precursor; not a consumer experiment.
 
 [^v14-bottle]: [Bottle Conditioning: Technology and Mechanisms Applied in Refermented Beers (2020)](https://www.mdpi.com/2306-5710/6/3/56). Brewing science review authors. Consulted 2026-10-27. Access: Open full review on bottle refermentation, residual yeast, aroma and oxygen; not a homebrew pressure recipe.
+
+[^v18-aldehydes]: [Technological strategies for controlling aldehyde formation in beer (2025)](https://brewingscience.de/index.php/brewingscience/article/view/517). Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen. Consulted 2026-10-28. Access: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal shelf-life extrapolation.

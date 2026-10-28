@@ -39,3 +39,7 @@ Added 30 cited subject articles and research extensions to 22 established subjec
 ## Research edition 1.7 — 28 October 2026
 
 26 new subjects, 16 sourced original-article extensions, and a complete 428-subject atlas index. Archaeological brewery evidence, comparative women’s brewing labor, Ghanaian and Andean commercial service, UNESCO sake knowledge, Philippine bubod/tapuy, microbial resistance, sensory chemistry, life-cycle assumptions, and food preference are documented with clear access limits. [Research update](editorial/research-update-1-7.md) · [Sources](references/atlas-sources-1-7.md) · [Review queue](editorial/source-review-queue-1-7.md). No independent community/specialist review claimed.
+
+## 2026-10-28 · Research edition 1.8
+
+Add 29 source-bounded subjects, 14 existing-article research extensions and 7 new reading trails. Expand the finite specification by 6 IDs, publish an annotated source register and review queue, and extend research-hygiene checks across 1.6/1.7/1.8. Preserve all existing canonical URLs and source-access cautions. [Research notes](editorial/research-update-1-8.md).

@@ -48,3 +48,10 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.7 — situated evidence and comparative practice
 
 - [Parallel starch conversion and alcoholic fermentation](parallel-starch-and-alcohol-fermentation.md) — An explanatory comparison of biologically coordinated starch hydrolysis and yeast fermentation in rice-based beverage studies.
+
+## New in research edition 1.8 — 4 articles
+
+- [How beer foam forms and why it falls](foam-formation-and-retention.md) — Brewing and Serving Process Reference; A scientific explanation grounded in malt protein research; no universal foam-height prediction or dispense settings.
+- [Kodo ko jaanr: starch conversion and fermentation as a sequence](jaanr-finger-millet-fermentation.md) — Traditional Fermentation Process Case; Timing and changing communities in the Thapa–Tamang 2006 finger-millet study in Darjeeling and Sikkim.
+- [Nyalu and mso: two-stream fermentation in mbege](mbege-nyalu-and-mso.md) — Brewing Process Reference; Stages and interpretation observed in the 2016 northeastern Tanzanian field study; not an operational brewing protocol.
+- [Shawi masato preparation: cassava, mash and service](shawi-masato-preparation.md) — Traditional Fermentation Process Case; The sequence photographed with informed participation in one Shawi community in Loreto, Peru; other masato preparation systems differ.

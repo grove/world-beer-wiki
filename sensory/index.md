@@ -39,3 +39,11 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.7 — situated evidence and comparative practice
 
 - [Diacetyl and other VDKs are moving fermentation targets](vicinal-diketones-as-moving-target.md) — A mechanistic account of changing precursors, yeast removal and why one buttery-aroma reading is not a timeless recipe limit.
+
+## New in research edition 1.8 — 5 articles
+
+- [Beer aging and aldehydes: several pathways, not one clock](beer-staling-and-aldehydes.md) — Sensory and Storage Research Guide; 2025 research synthesis of aldehyde formation and storage-related changes; no universal best-before date or oxidation diagnostic.
+- [Heating can alter LTP1 and foam behavior](heat-ltp1-and-beer-foam.md) — Sensory Chemistry Research Case; Heat-treated LTP1 and lipid-associated LTP1b fractions in a 2025 analytical foam study; no universal heating instruction.
+- [Hop terpenoid biotransformation in a model beer](hop-terpenoid-biotransformation.md) — Sensory Chemistry Research Case; 2024 model fermentation with commercially available S. cerevisiae US-05 and individual terpenoid standards; not all breweries or yeast strains.
+- [Protein Z and beer foam: more than one barley molecule](protein-z-and-foam.md) — Sensory Chemistry Reference; Protein Z associations drawn from a 2021 scientific review and 2019 brewing proteomics study; not a single-factor foam test.
+- [Why thiol aromas are not simply hop-variety labels](polyfunctional-thiols-and-aroma.md) — Sensory Chemistry Reference; Chemical findings across a 2024 hop survey and a 2026 strain/timing study; no finished-beer aroma rankings or health claims.

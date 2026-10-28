@@ -43,6 +43,21 @@ sources:
   source_kind: heritage-inscription-record
   access_scope: UNESCO indexed description and inscription decision; direct page can require browser
     challenge. Heritage designation is not biochemical or ownership proof.
+- id: v18-shawi
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/
+  title: Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage (2020)
+  author_label: A. Bussalleu and colleagues, with participating Shawi community
+  source_kind: community-partnered-primary-research
+  access_scope: Open article text indexed in search, methods, participatory photographs and sample results; one Shawi community
+    and 11 masato samples, no safety certification.
+- id: v18-ethiopian-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/
+  title: A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic
+    beverages in Ethiopia (2024)
+  author_label: Tolcha Techane Alemu
+  source_kind: scientific-review
+  access_scope: Indexed open review excerpts synthesizing studies; used for category and food-context distinctions,
+    not a new field observation.
 category_axis: substrate-and-cultural-scope
 scope: Educational comparison across the linked profiles; not a new universal competition category or
   an exhaustive world taxonomy.
@@ -111,11 +126,20 @@ Koji-based Japanese sake and bubod-based Philippine tapuy make a revealing **bio
 
 Open the [cross-cultural classification guide](koji-sake-and-rice-ferment-boundaries.md), [Tapuy](../styles/tapuy-philippine-rice-ferment.md) and [Sake](../styles/sake.md) to preserve both local naming and process evidence.
 
-## Source notes
+## Edition 1.8: newly sourced connections
 
+Two cases complicate a simple grain-versus-root taxonomy. In one Shawi community, cassava-based **masato** was documented by participatory photography and microbial sampling. In Ethiopia, a literature review describes thick or food-like cereal ferments such as **borde** and **shamita**. The wiki can discuss these side by side without implying that Amazonian cassava is a grain or that every fermented porridge is a European-style beer.[^v18-shawi][^v18-ethiopian-review]
+
+Read [Shawi masato](../culture/shawi-masato-and-water.md), [Ethiopian food-drink comparisons](fermented-cereal-beverages-as-food.md), and the [substrate-process comparison](banana-millet-and-cassava-fermentation-routes.md). Source genre and community naming take precedence over a universal style ladder.
+
+## Source notes
 [^sake-producer]: [Rice and Koji (2018)](https://imayotsukasa.co.jp/en/blog-en/1817/). Imayotsukasa Brewery. Consulted 2026-10-27. Evidence used: producer explanation of rice and koji preparation; not a complete sake taxonomy.
 
 [^trad-munkoyo-fermentation]: [Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source (1997)](https://pubmed.ncbi.nlm.nih.gov/9039570/). R. M. Zulu, V. M. Dillon and J. D. Owens. Consulted 2026-10-27. Evidence used: PubMed abstract of original experimental fermentation research; full paper not inspected.
 
 [^v17-bubod-1990]: [Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)](https://www.jstage.jst.go.jp/article/jbrewsocjapan1988/85/11/85_11_818/_article). Michio Kozaki and Tai Uchimura. Consulted 2026-10-28. Access: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates in studied material; full Japanese paper not read.
 [^v17-unesco-sake]: [Traditional knowledge and skills of sake-making with koji mold in Japan (inscribed 2024)](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977). UNESCO / Japanese nomination. Consulted 2026-10-28. Access: UNESCO indexed description and inscription decision; direct page can require browser challenge. Heritage designation is not biochemical or ownership proof.
+
+[^v18-shawi]: [Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/). A. Bussalleu and colleagues, with participating Shawi community. Consulted 2026-10-28. Access: Open article text indexed in search, methods, participatory photographs and sample results; one Shawi community and 11 masato samples, no safety certification.
+
+[^v18-ethiopian-review]: [A review of the production, quality, and safety of traditionally fermented cereal-based alcoholic beverages in Ethiopia (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11077225/). Tolcha Techane Alemu. Consulted 2026-10-28. Access: Indexed open review excerpts synthesizing studies; used for category and food-context distinctions, not a new field observation.
