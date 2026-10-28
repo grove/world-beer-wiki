@@ -199,7 +199,7 @@ The new [microbial reference](../microbiology/maltose-negative-yeast-and-low-alc
 
 A cross-border catalog should never encode the phrase “non-alcoholic beer” as one universal numeric class. The US TTB's public guidance requires a statement of less than 0.5% ABV immediately next to “non-alcoholic” for covered malt beverages and reserves “alcohol free” for no-alcohol products. Even where the numeric boundary appears familiar, the required label words and product coverage are jurisdiction-dependent.[^v115-alcohol]
 
-A 2023 UK governmental consultation considered revisions to UK descriptor advice. This **consultation** is not a subsequent government decision and cannot support a claim about the final 2026 UK compliance rule. A historical US Industry Circular from **20 August 1991** likewise establishes a dated agency marketing position without proving that all language persisted unchanged into present rules.[^v115-uk][^v115-circular]
+A 2023 UK government consultation applying to England considered revisions to UK descriptor advice. This **consultation** is not a subsequent government decision and cannot support a claim about the final 2026 UK compliance rule. A historical US Industry Circular from **20 August 1991** likewise establishes a dated agency marketing position without proving that all language persisted unchanged into present rules.[^v115-uk][^v115-circular]
 
 Follow the [jurisdiction guide](no-low-alcohol-descriptors-across-borders.md), [1991 event](../calendar/atf-nonalcoholic-marketing-circular-1991.md), and [microbiological evidence boundaries](../microbiology/nolo-hurdles-are-not-label-rules.md). Strength labels do not certify product safety.
 

@@ -48,7 +48,7 @@ relations:
 
 ## Where is the water being counted?
 
-Water can enter a brewery as an ingredient, cleaning supply or utility flow; a separate accounting exercise can trace water associated with barley and other upstream supplies. Water Footprint Network's public small-business tool distinguishes **direct** from **indirect** water footprints. The same interface treats water supply, discharge and pollutant information separately, instead of equating all water drawn with permanently consumed water.[^v115-wfn]
+Water can enter a brewery as an ingredient, cleaning supply or utility flow; a separate accounting exercise can trace water associated with barley and other upstream supplies. Water Footprint Network's public small-business tool distinguishes **direct** from **indirect** water footprints. This 2015 European-context interface treats water supply, discharge and pollutant information separately, instead of equating all water drawn with permanently consumed water.[^v115-wfn]
 
 The network's background material points to the 2011 Water Footprint Assessment Manual as a methodological reference. That establishes provenance for the framework, not a published numeric footprint for this specific wiki or any of its example beers.[^v115-wfnref]
 

@@ -53,7 +53,7 @@ calendar:
 
 ## What is dated
 
-On **20 August 1991**, the US Bureau of Alcohol, Tobacco and Firearms issued Industry Circular 91-10 concerning marketing of non-alcoholic malt beverages. The archived document names its addressees and explains the agency's position under the Federal Alcohol Administration Act. It is a primary administrative record with a known date, not an invitation to celebrate an annual beer event.[^v115-circular]
+On **20 August 1991**, the US Bureau of Alcohol, Tobacco and Firearms issued Industry Circular 91-10 concerning marketing of non-alcoholic malt beverages. The archived document names its addressees and explains the agency's position under the Federal Alcohol Administration Act. In particular, it responds to a question about cash inducements to retailers that might exclude competing products; it is not the announcement of a new beer style. It is a primary administrative record with a known date, not an annual observance or an invitation to celebrate a beer event.[^v115-circular]
 
 ## Why it matters to the atlas calendar
 

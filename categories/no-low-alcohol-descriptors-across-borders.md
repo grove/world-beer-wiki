@@ -53,7 +53,7 @@ The agency also separately defines the class designations that certain malt beve
 
 ## Proposals are not current rules
 
-A 2023 UK Department of Health and Social Care consultation discussed whether the then-described 0.05% alcohol-free threshold should remain or move to 0.5%. The published document records **questions and possible options**. It is not evidence, by itself, of which change was ultimately adopted. Future editors must check the actual current instrument and guidance before presenting a UK retail compliance threshold.[^v115-uk]
+An England-applicable 2023 consultation by the UK Department of Health and Social Care discussed whether the then-described 0.05% alcohol-free threshold should remain or move to 0.5%. The published document records **questions and possible options**. It is not evidence, by itself, of which change was ultimately adopted. Future editors must check subsequent official decisions, the actual current instrument and guidance before presenting a UK retail compliance threshold.[^v115-uk]
 
 An international catalog should preserve the exact label text and country/market, the claimed or tested ABV, the official source and the date checked. “0.0” on packaging can be commercially meaningful, yet the number alone tells a reader neither how alcohol was removed nor which words regulators permit.
 

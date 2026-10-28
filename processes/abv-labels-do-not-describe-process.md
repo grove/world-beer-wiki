@@ -50,7 +50,7 @@ relations:
 
 A beer's declared alcohol by volume describes strength in a particular labeling context; it is not a process diagram. A brewer may reduce ethanol formation during fermentation, remove alcohol afterward or use a more complex route. The TTB's US labeling guidance regulates how certain descriptors and figures appear, not which individual process generated a given reading.[^v115-alcohol]
 
-The UK government consultation in 2023 explicitly considered how older descriptor language fit different production methods. It is evidence that **a policymaker raised the question**, not proof that the consultation option became the operative rule or that every product was made by de-alcoholisation.[^v115-uk]
+The UK government's England-applicable consultation in 2023 explicitly considered how older descriptor language fit different production methods. It is evidence that **a policymaker raised the question**, not proof that the consultation option became the operative rule or that every product was made by de-alcoholisation.[^v115-uk]
 
 ## Strength and microbiological safety are separate
 

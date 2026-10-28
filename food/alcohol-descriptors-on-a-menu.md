@@ -50,7 +50,7 @@ relations:
 
 Restaurant menus may list a beer style, a brand, a claimed ABV, a “non-alcoholic” descriptor and suggested food pairings. Those are different statements. US TTB guidance specifies how particular low-alcohol terms may be applied on federally regulated malt-beverage labels; it should not silently become the definition used for a beer listed in every country.[^v115-alcohol]
 
-A 2023 UK consultation asked whether descriptor thresholds and wording should change, partly because production methods had expanded. This remains a record of a consultation, not conclusive evidence of a 2026 UK rule. Venue descriptions should be checked against the relevant currently applicable market rules and the actual product label.[^v115-uk]
+A 2023 UK government consultation applying to England asked whether descriptor thresholds and wording should change, partly because production methods had expanded. This remains a record of a consultation, not conclusive evidence of a 2026 UK rule. Venue descriptions should be checked against the relevant currently applicable market rules and the actual product label.[^v115-uk]
 
 ## A pairing is a separate question
 

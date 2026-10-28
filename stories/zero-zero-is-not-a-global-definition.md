@@ -54,7 +54,7 @@ The US record makes this visible over time. An archived 1991 ATF circular addres
 
 Current TTB guidance distinguishes a less-than-0.5% “non-alcoholic” label with a specified disclosure from an “alcohol free” claim requiring no alcohol. The definitions belong to US federally regulated malt beverages, not to every place where a drink can be bought.[^v115-alcohol]
 
-The UK's 2023 consultation asked about changing a recommended threshold, but the act of asking is not the same as adopting a rule. Quoting a consultation as a 2026 legal outcome would reverse the source's meaning.[^v115-uk]
+The UK government's England-applicable 2023 consultation asked about changing a recommended threshold, but the act of asking is not the same as adopting a rule. Quoting a consultation as a 2026 legal outcome would reverse the source's meaning.[^v115-uk]
 
 ## The useful questions
 

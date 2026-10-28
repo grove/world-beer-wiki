@@ -47,7 +47,7 @@ relations:
 
 ## What a dated circular can establish
 
-Industry Circular 91-10 has a day, an issuing US federal agency and a specified audience: the beer and beverage trade. It is unusually useful as a primary source because its words can be assigned to **20 August 1991**. Its discussion of non-alcoholic malt beverage marketing shows an administrative concern, but its existence alone cannot prove what manufacturers actually printed or what drinkers believed.[^v115-circular]
+Industry Circular 91-10 has a day, an issuing US federal agency and a specified audience: the beer and beverage trade. It is unusually useful as a primary source because its words can be assigned to **20 August 1991**. Its discussion of potential exclusionary trade through payments to retailers shows a specific administrative marketing concern, but its existence alone cannot prove what manufacturers actually printed or what drinkers believed.[^v115-circular]
 
 Present TTB guidance gives its own label requirements, including separate uses of “non-alcoholic,” “alcohol free” and “low alcohol.” Those requirements are current agency guidance in the cited US federal context, not an automatic quotation of the position in 1991. Comparison needs to preserve the two dates rather than silently backdating today's thresholds.[^v115-alcohol]
 

@@ -48,7 +48,7 @@ relations:
 
 ## Two numbers with different boundaries
 
-A brewery can record how much water enters its site and compare it with beer volume. A product water footprint asks a broader question that may include indirect supplies, crop cultivation and the type and location of water use. The Water Footprint Network's small-business calculator explicitly separates direct and indirect components and green, blue and grey categories. A site ratio is therefore not interchangeable with a supply-chain footprint.[^v115-wfn]
+A brewery can record how much water enters its site and compare it with beer volume. A product water footprint asks a broader question that may include indirect supplies, crop cultivation and the type and location of water use. The Water Footprint Network's small-business calculator explicitly separates direct and indirect components and green, blue and grey categories. A site ratio is therefore not interchangeable with a supply-chain footprint. The calculator was designed for a European context in 2015, not as a single global water-scarcity benchmark.[^v115-wfn]
 
 The Brewers Association's public sustainability directory treats energy, water, wastewater and waste reduction as connected but distinct operational topics. These are useful categories for asking what a brewery actually measures rather than assuming one efficient process proves an environmental ranking.[^v115-basust]
 
