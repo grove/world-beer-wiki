@@ -54,20 +54,20 @@ class Edition116Tests(unittest.TestCase):
                          "sources": [dict(manifest["sources"][0])]},
                 "body": "Study [^v116-lab]."}
         docs = {"history/fixture.md": page}
-        self.assertTrue(audit(ROOT, documents=docs, manifest=manifest)["ok"])
+        self.assertTrue(audit(ROOT, "1.16", documents=docs, manifest=manifest)["ok"])
         changed = deepcopy(docs)
         changed["history/fixture.md"]["data"]["sources"][0]["title"] = "Different work"
-        report = audit(ROOT, documents=changed, manifest=manifest)
+        report = audit(ROOT, "1.16", documents=changed, manifest=manifest)
         self.assertFalse(report["ok"])
         self.assertTrue(any("inconsistent title" in e for e in report["errors"]))
         changed = deepcopy(docs)
         changed["history/fixture.md"]["data"]["sources"][0]["id"] = "v116-unknown"
-        report = audit(ROOT, documents=changed, manifest=manifest)
+        report = audit(ROOT, "1.16", documents=changed, manifest=manifest)
         self.assertFalse(report["ok"])
         self.assertTrue(any("unknown manifest source" in e for e in report["errors"]))
         changed = deepcopy(manifest)
         changed["sources"].append(dict(changed["sources"][0]))
-        self.assertFalse(audit(ROOT, documents=docs, manifest=changed)["ok"])
+        self.assertFalse(audit(ROOT, "1.16", documents=docs, manifest=changed)["ok"])
 
     def test_source_access_and_reference_in_body_required(self):
         doc = self.docs["sensory/triangle-tests-for-beer.md"]
