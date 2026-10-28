@@ -1,6 +1,6 @@
 # All beer and tradition profiles
 
-**191 canonical beer/tradition and related-ferment profiles in edition 1.18.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
+**191 canonical beer/tradition and related-ferment profiles in edition 1.19.** The kind column separates named styles, living traditions, specialty categories, historical accounts and related ferments. Ingredient references and educational category guides are counted in their own directories. Aliases do not add profiles.
 
 [Home](../index.md) · [Category guides](../categories/index.md) · [Ingredients](../ingredients/index.md) · [Names](../navigation/all-names.md) · [Regions](../navigation/by-region.md)
 
@@ -233,3 +233,7 @@ The new [Bere barley reference](../ingredients/bere-six-row-barley.md), [crop-fu
 ## Edition 1.18 — packaging context is not another beer style
 
 A contemporary [American IPA](american-ipa.md), [Hazy IPA](hazy-ipa.md) or historic [lambic tradition](lambic.md) may be packaged and stored in different ways. The new [storage comparisons](../categories/packaging-material-is-not-shelf-life.md), [lightstruck chemistry](../sensory/lightstruck-vs-oxidative-staling.md) and [intentional versus unintended package fermentation](../microbiology/package-refermentation-pressure-vs-quality.md) add research context without renaming canonical beer/tradition profiles or asserting a new universal style.
+
+## Edition 1.19 — brewery energy is context, not another beer style
+
+Modern and historic beer styles have different relationships to cooling equipment and distribution. The [Czech premium pale lager](czech-premium-pale-lager.md) and [Stjørdalsøl](stjordalsol.md) articles now link to evidence about industrial refrigeration and nineteenth-century exports while preserving their original traditions and style scope. Read [cooling technology history](../history/ice-houses-to-mechanical-brewery-cooling.md), [heat pumps as models](../environment/industrial-heat-pump-model-boundaries.md) and [fermentation CO₂ claims](../categories/fermentation-co2-recovery-is-not-net-zero.md) without treating industrial equipment as a global style or recipe requirement.

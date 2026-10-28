@@ -71,3 +71,10 @@ New evidence-based references (all retain draft status):
 - [Seven-brewery and PET-keg case studies](seven-breweries-versus-pet-keg-case.md) — Why two published LCA outcomes cannot be ranked without boundaries.
 - [Returnable bottles and operational losses](returnable-bottles-and-system-losses.md) — Washing, breakage, return rates and product loss matter.
 - [EU packaging reuse scope](eu-packaging-reuse-law-scope.md) — 2026 application differs from later requirements and consumer packaging categories.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Brewery heat pump model boundaries](industrial-heat-pump-model-boundaries.md) — Generalized industrial heating designs, not universally verified plant savings.
+- [Field trial versus global potential](china-brewhouse-field-test-vs-global-model.md) — Distinguishing measured site processes from modeled worldwide adoption.
+- [Wastewater renewable gas scenarios](brewery-wastewater-to-renewable-gas-scenarios.md) — Methane and energy potentials need full process and LCA scope.
+- [GHG Scope 1/2/3 in brewing](scope-1-2-3-brewing-emissions.md) — Separating onsite, purchased energy and supply chain.

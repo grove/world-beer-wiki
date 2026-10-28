@@ -88,3 +88,7 @@ New evidence-based references (all retain draft status):
 
 - [12 August 2026: EU packaging law begins applying](eu-ppwr-application-2026.md) — Exact policy date; not an annual celebration.
 - [2 February 1892: crown patent](crown-cork-patent-1892.md) — A specific archival grant, not the origin of bottled beer.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Historical winter ice harvesting](historic-natural-ice-harvest-season.md) — A seasonal activity without a global Gregorian date.

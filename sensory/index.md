@@ -100,3 +100,7 @@ New evidence-based references (all retain draft status):
 - [Aldehyde origins before filling](aldehyde-aging-begins-before-the-package.md) — Beer aging has multiple brewing-stage pathways.
 - [Lightstruck versus oxidative staling](lightstruck-vs-oxidative-staling.md) — Skunk-like sulfur and aldehyde-driven aging are not synonyms.
 - [Unpasteurized ale storage experiment](unpasteurized-ale-storage-case-2025.md) — A scoped 2025 filtration, temperature and refermentation case.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Cooling history versus sensory results](cold-storage-and-beer-identity.md) — Old cooling technology is not a present-day tasting-panel result.

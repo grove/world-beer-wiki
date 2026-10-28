@@ -76,3 +76,9 @@ New evidence-based references (all retain draft status):
 - [Crown cork and liner](crown-cork-and-sealing-liner.md) — The actual crimped seal documented in an 1892 patent.
 - [Smithsonian Baltimore beer can](baltimore-handled-beer-can.md) — A specific handled can with documented industrial provenance.
 - [Metal cans and food-contact layers](metal-can-linings-and-food-contact.md) — Material law is different from any can's proven contents.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Wort heat-exchanger object](brewery-wort-heat-exchanger-as-system.md) — A thermal system rather than a standalone carbon-saving label.
+- [Ammonia fittings catalogue (1899)](ammonia-refrigeration-catalogue-1899.md) — Specific museum evidence, not a nationwide installation date.
+- [Historic brewery ice house](historical-brewery-ice-house.md) — Winter ice and transport rather than one standardized chiller.

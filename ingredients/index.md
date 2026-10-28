@@ -155,3 +155,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.18 — packaging, circulation and evidence boundaries
 
 - [Riboflavin and hop-acid light chemistry](riboflavin-hop-acids-light-reaction.md) — A specific photochemical mechanism, not a universal color-to-flavor rule.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Recovered fermentation CO₂](fermentation-co2-as-a-recovered-material.md) — A gas's fermentation origin does not prove food-grade suitability.
+- [Spent grain and yeast as energy feedstocks](spent-grain-and-yeast-as-bioenergy-feedstocks.md) — Distinguishing food, materials, fuel, sampling and safety.

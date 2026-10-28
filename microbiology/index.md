@@ -127,3 +127,7 @@ New evidence-based references (all retain draft status):
 
 - [Package refermentation versus quality](package-refermentation-pressure-vs-quality.md) — Unintended pressure changes are not ordinary maturation.
 - [Lactobacillus pulsed-light study](lactobacillus-pulsed-light-case.md) — An inoculated beer experiment with competing sensory and microbial endpoints.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Wastewater digester microbes versus beer starters](digester-consortia-versus-brewing-starters.md) — Methane consortia and traditional fermentations have distinct purposes.
