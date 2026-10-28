@@ -49,10 +49,16 @@ jobs:
         run: python tools/research_quality.py --edition 1.14 --json > research-quality-1-14.json
       - name: Check edition 1.15 research hygiene
         run: python tools/research_quality.py --edition 1.15 --json > research-quality-1-15.json
+      - name: Check edition 1.16 research hygiene
+        run: python tools/research_quality.py --edition 1.16 --json > research-quality-1-16.json
+      - name: Check generated source register
+        run: python tools/build_edition_sources.py --edition 1.16 --check --json > source-register-1-16.json
       - name: Verify inventory counts
         run: python tools/check_inventory.py --json > inventory-validation.json
       - name: Check complete generated subject directory
         run: python tools/build_subject_index.py --check
+      - name: Check scoped-name directory
+        run: python tools/build_names_index.py --check
       - name: Build portable snapshot of tracked files
         if: always()
         run: |
@@ -88,6 +94,8 @@ jobs:
             research-quality-1-13.json
             research-quality-1-14.json
             research-quality-1-15.json
+            research-quality-1-16.json
+            source-register-1-16.json
             inventory-validation.json
             wiki-snapshot.zip
           if-no-files-found: error
