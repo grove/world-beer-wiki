@@ -68,3 +68,7 @@
 [Research update](research-update-1-18.md) · [Independent source-review queue](source-review-queue-1-18.md) · [Validation report](validation-report-1-18.md) · [Atlas specification](atlas-specification.md) · [Current progress](atlas-progress.md) · [Nine reading trails](../navigation/edition-1-18-reading-trails.md).
 
 The research distinguishes packaging environmental models, oxygen and light chemistry, historical objects, food-contact law and the safety limits of experimental results. Its source access is explicitly bounded; no expert or community approval is claimed.
+
+## Research edition 1.19 — brewery heat, resource gas and industrial cooling
+
+[Research update](research-update-1-19.md) · [Independent verification queue](source-review-queue-1-19.md) · [Validation instructions](validation-report-1-19.md) · [Specification](atlas-specification.md) · [Progress](atlas-progress.md) · [Nine reading trails](../navigation/edition-1-19-reading-trails.md). Heat-pump models, fermentation CO₂, anaerobic wastewater conversion and historical ice infrastructure are separate evidence types; expert review remains open.

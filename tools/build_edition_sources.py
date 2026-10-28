@@ -11,7 +11,7 @@ from atlas import SUBJECT_DIRS, load_documents
 FIELDS = ("resource", "title", "author_label", "source_kind", "access_scope")
 
 
-def audit(root, edition="1.18", documents=None, manifest=None):
+def audit(root, edition="1.19", documents=None, manifest=None):
     root = Path(root)
     if documents is None:
         documents, errors = load_documents(root)
@@ -77,7 +77,7 @@ def audit(root, edition="1.18", documents=None, manifest=None):
             "sources": sources, "uses": {k: sorted(v) for k, v in sorted(uses.items())}}
 
 
-def render(root, edition="1.18", report=None):
+def render(root, edition="1.19", report=None):
     report = audit(root, edition) if report is None else report
     if not report["ok"]:
         raise ValueError("; ".join(report["errors"][:8]))
@@ -122,7 +122,7 @@ def render(root, edition="1.18", report=None):
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
-    ap.add_argument("--edition", default="1.18")
+    ap.add_argument("--edition", default="1.19")
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--json", action="store_true")
     args = ap.parse_args()

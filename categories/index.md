@@ -111,3 +111,9 @@ New evidence-based references (all retain draft status):
 - [Packaging is not shelf life](packaging-material-is-not-shelf-life.md) — A beer's format does not determine every sensory outcome.
 - [Why keg LCA rankings disagree](why-packaging-lca-rankings-disagree.md) — The comparison system, delivery route and reuse count matter.
 - [Food-contact law versus beer flavor](food-contact-law-is-not-beer-flavor.md) — Coating compliance and sensory changes require separate evidence.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Heat, cooling and carbon boundaries](brewery-heat-cooling-and-carbon-boundaries.md) — A heat demand or electric bill is not a full beer climate footprint.
+- [Fermentation CO₂ capture versus net zero](fermentation-co2-recovery-is-not-net-zero.md) — Reusing biogenic gas does not cancel all value-chain emissions.
+- [Wastewater COD versus water footprint](wastewater-cod-is-not-water-footprint.md) — A concentration, a volume and a basin impact are not interchangeable.

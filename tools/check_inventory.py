@@ -23,7 +23,7 @@ def validate(root):
         if fname=='README.md':
             match=re.search(r'That is \*\*([0-9]+) subject articles\*\*',text)
         else:
-            match=re.search(r'Research edition 1\.18[^\n]*?([0-9]+) subject articles',text)
+            match=re.search(r'Research edition 1\.19[^\n]*?([0-9]+) subject articles',text)
         if not match or int(match[1])!=total:
             errors.append(f'{fname}: current total differs from {total}')
         if fname=='index.md':

@@ -23,6 +23,18 @@ sources:
   source_kind: historical-research-indexed-excerpt
   access_scope: Search-indexed beginning of the article, summarizing its use of the 1892 brewery jubilee history;
     direct full article was blocked by web verification and is not represented as read.
+- id: v119-swissice26
+  resource: "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/"
+  title: "Cool beer — all year round (April 2026)"
+  author_label: "Géraldine Lysser for Swiss National Museum"
+  source_kind: "national-museum-historical-interpretation"
+  access_scope: "Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced."
+- id: v119-chicagoice
+  resource: "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/"
+  title: "Refrigeration: Something's Brewing exhibit"
+  author_label: "University of Chicago Library"
+  source_kind: "university-library-historical-exhibition"
+  access_scope: "Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research."
 regions:
 - Czechia
 - Pilsen
@@ -72,3 +84,15 @@ The descriptions preserve the cited source's study population, region, time and 
 [^v114-plzen]: [Prazdroj history: birth and spread of Pilsen lager](https://www.prazdroj.cz/en/our-story/history). Plzeňský Prazdroj. Consulted 2026-10-28. Access: Full public producer-authored chronology; records the company's account of the 1842 Burghers Brewery, brewing rights and later transport infrastructure; independent contemporaneous archives not checked.
 
 [^v114-plzen-history]: [On the Founding of Pilsner Urquell (2012)](https://www.breweryhistory.com/journal/archive/149/Rail.pdf). Evan Rail, Brewery History 149. Consulted 2026-10-28. Access: Search-indexed beginning of the article, summarizing its use of the 1892 brewery jubilee history; direct full article was blocked by web verification and is not represented as read.
+
+## Edition 1.19: newly sourced connections
+
+A 2026 Swiss National Museum article recounts how a brewing dispute in Pilsen and the subsequent development of a pale bottom-fermented beer became part of industrial beer history. That is a later cross-border historical narrative. It is useful for comparison but cannot substitute for the original dated 1842 brewery records or prove that all bottom-fermented beer originated at Pilsen.[^v119-swissice26]
+
+The University of Chicago Library's refrigeration exhibition describes later natural-ice and mechanical cooling developments; that chronology should not be projected back as if mechanical ammonia refrigeration was already used for the first Pilsen batch.[^v119-chicagoice]
+
+Preserve primary brewing dates, later refrigeration history and modern style comparisons as different evidence types. The [Swiss/European cooling chronology](ice-houses-to-mechanical-brewery-cooling.md) and [historical ice-house object](../objects/historical-brewery-ice-house.md) provide context without inventing a precise machine used in 1842.
+
+[^v119-swissice26]: [Cool beer — all year round (April 2026)](https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/). Géraldine Lysser for Swiss National Museum. Checked 2026-10-28. Access: Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced.
+
+[^v119-chicagoice]: [Refrigeration: Something's Brewing exhibit](https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/). University of Chicago Library. Checked 2026-10-28. Access: Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research.

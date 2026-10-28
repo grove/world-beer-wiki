@@ -101,3 +101,9 @@ New evidence-based references (all retain draft status):
 
 - [Two LCAs, different kegs](two-studies-two-keg-answers.md) — One format can behave differently under two reference systems.
 - [A green bottle does not reveal beer age](green-bottle-cannot-tell-you-its-age.md) — Exposure history and chemistry matter more than appearance.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Three different jobs for CO₂](the-same-co2-has-three-different-jobs.md) — Fermentation exhaust, refrigerant and dissolved beer gas.
+- [Ice to heat pumps](from-winter-ice-to-heat-pumps.md) — No timeless climate ranking follows from unlike systems.
+- [Wastewater COD is not potable water](the-wastewater-does-not-become-drinking-water.md) — One reactor success does not establish all final water uses.

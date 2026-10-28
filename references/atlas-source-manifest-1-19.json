@@ -1,0 +1,175 @@
+{
+  "edition": "1.19",
+  "checked_on": "2026-10-28",
+  "editorial_scope": "Brewing heat, CO2 capture, wastewater bioenergy and the industrial history of refrigeration and beer exports; research synthesis, not operating or safety advice.",
+  "sources": [
+    {
+      "id": "v119-pinch26",
+      "title": "Generalized electrification solutions for breweries: Pinch Analysis and heat pump integration (2026)",
+      "author_label": "Roger Padullés, Martin Pihl Andersen, Niklas Bagge Mogensen and colleagues",
+      "resource": "https://orbit.dtu.dk/en/publications/generalized-electrification-solutions-for-breweries-a-pinch-analy/",
+      "source_kind": "open-peer-reviewed-brewery-thermal-system-model",
+      "access_scope": "Full public Danish Technical University research entry and journal abstract; final CC BY article linked, but design inputs were not independently re-calculated. Generalized brewery model, not measured results at every plant."
+    },
+    {
+      "id": "v119-heatglobal25",
+      "title": "Electrification and decarbonization in global brewing industry driven by industrial heat pumps (2025)",
+      "author_label": "Zhongyi Liu, Bin Hu, Di Wu and Ruzhu Wang",
+      "resource": "https://www.sciencedirect.com/science/article/pii/S0360544225018262",
+      "source_kind": "peer-reviewed-global-techno-economic-model-abstract",
+      "access_scope": "Public publisher abstract of a global sector model under assumed boiler and electricity scenarios; article full methods not independently read. Potential avoided emissions are model outputs, not measured reductions."
+    },
+    {
+      "id": "v119-fieldheat25",
+      "title": "Field test and evaluation of improving alternatives in brewing thermal process (2025)",
+      "author_label": "Jiajie Huang and colleagues",
+      "resource": "https://www.sciencedirect.com/science/article/abs/pii/S1359431125022781",
+      "source_kind": "primary-industrial-brewery-thermal-field-study-abstract",
+      "access_scope": "Publisher abstract and highlights of one large Chinese brewery's steam and wort-cooling changes; methods not fully accessible, findings not a universal brewhouse benchmark."
+    },
+    {
+      "id": "v119-baenergy26",
+      "title": "Sustainability Manuals: Energy Sustainability (9 June 2026)",
+      "author_label": "Brewers Association Sustainability Subcommittee",
+      "resource": "https://www.brewersassociation.org/playlist/sustainability-manuals/",
+      "source_kind": "industry-energy-guidance-landing-page",
+      "access_scope": "Public Brewers Association directory discussing brewery energy management and greenhouse gas reduction; detailed manual content not separately verified."
+    },
+    {
+      "id": "v119-babench26",
+      "title": "Sustainability Benchmarking Reports (1 February 2026)",
+      "author_label": "Brewers Association",
+      "resource": "https://www.brewersassociation.org/educational-publications/sustainability-benchmarking-reports/",
+      "source_kind": "industry-benchmarking-resource-overview",
+      "access_scope": "Public resource summary of water, wastewater, energy, solid waste and GHG benchmarking; underlying private brewery records and detailed values not accessed."
+    },
+    {
+      "id": "v119-craftco2",
+      "title": "Valorisation of Carbon Dioxide from Fermentation in Craft Brewing: Potential Technologies, Brewer Interviews, and Three-Level System (2025)",
+      "author_label": "Théo Grand, David Jenkins, Dawn Maskell and Shiwen Zhuang",
+      "resource": "https://www.tandfonline.com/doi/full/10.1080/03610470.2024.2417133",
+      "source_kind": "open-mixed-method-review-and-five-brewer-interviews",
+      "access_scope": "Publisher indexed full-text excerpts including five semi-structured interviews with French craft breweries, technology options and conceptual shared infrastructure; direct full page intermittently gave 403. Not an implemented regional CO2 network."
+    },
+    {
+      "id": "v119-ghgfaq",
+      "title": "GHG Protocol Calculation Tools FAQ: emissions scopes and biogenic reporting",
+      "author_label": "Greenhouse Gas Protocol / World Resources Institute",
+      "resource": "https://ghgprotocol.org/calculation-tools-faq",
+      "source_kind": "official-carbon-accounting-guidance",
+      "access_scope": "Full public accounting FAQ distinguishing scopes 1/2/3 and separately reported biogenic CO2 from biomass combustion; specific fermentation carbon-cycle calculation requires its own applicable guidance."
+    },
+    {
+      "id": "v119-closed25",
+      "title": "Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)",
+      "author_label": "Wu Hao, Liu Lijing, Qu Tianxiao and Kim Hae-young",
+      "resource": "https://link.springer.com/article/10.1007/s43621-025-01962-8",
+      "source_kind": "open-supply-chain-lca-and-industrial-case-model",
+      "access_scope": "Full open published paper discussing Tsingtao operational measures, CO2 capture, packaging and reported Scope 1/2 changes; site data and upstream comparisons not independently audited."
+    },
+    {
+      "id": "v119-bead26",
+      "title": "Bioelectrochemically Enhanced Anaerobic Digestion of Brewery Wastewater at Ambient Temperature (2026)",
+      "author_label": "Seyedomid Ahmadinejad, Shuyao Wang, Banu Ormeci and colleagues",
+      "resource": "https://pubmed.ncbi.nlm.nih.gov/42612100/",
+      "source_kind": "primary-continuous-reactor-experiment-abstract",
+      "access_scope": "Full PubMed abstract of one 365-day upflow brewery wastewater reactor with comparisons against conventional digestion; full protocol and economic feasibility not independently evaluated."
+    },
+    {
+      "id": "v119-microwaste26",
+      "title": "Comparative Evaluation of Mesophilic and Thermophilic Anaerobic Digestion for Microbrewery Waste Streams (2026)",
+      "author_label": "Industrial bioresource recovery researchers",
+      "resource": "https://www.mdpi.com/2571-8797/8/2/47",
+      "source_kind": "primary-microbrewery-substrate-and-digester-experiment-abstract",
+      "access_scope": "Public journal abstract describing characterized acidic organic and alkaline cleaning streams, methane potential and CO2 scrubbing within one experimental system; full article returned rate limiting and was not re-analyzed."
+    },
+    {
+      "id": "v119-rng25",
+      "title": "Techno-economic and life-cycle analysis of renewable natural gas from brewery wastewater (2025)",
+      "author_label": "Xuanbo Liu, Tuhin K. Poddar, Jingyi Zhang, Xueqian Su and colleagues",
+      "resource": "https://pubmed.ncbi.nlm.nih.gov/39956521/",
+      "source_kind": "primary-scenario-optimization-and-lca-abstract",
+      "access_scope": "Full PubMed abstract describing four modeled hydrogen and methanation scenarios, capital/price ranges and lifecycle emissions; not an actual operating brewery's certified gas production."
+    },
+    {
+      "id": "v119-wastewater26",
+      "title": "Small Breweries, Large Footprints? Environmental Implications of Brewing Waste (2026)",
+      "author_label": "Environmental research review authors",
+      "resource": "https://www.mdpi.com/2076-3298/13/3/164",
+      "source_kind": "peer-reviewed-brewery-waste-and-wastewater-review",
+      "access_scope": "Public indexed review covering variable wastewater COD, BOD, pH, solids and treatment options; cited ranges span different facilities, not universal discharge permissions."
+    },
+    {
+      "id": "v119-bioenergy26",
+      "title": "Brewery Byproducts as Bioenergy Sources: A Review of Biohydrogen and Biomethane Production (2026)",
+      "author_label": "Waste and Biomass Valorization review authors",
+      "resource": "https://link.springer.com/article/10.1007/s12649-026-03515-0",
+      "source_kind": "open-peer-reviewed-bioenergy-system-review",
+      "access_scope": "Full open literature synthesis of brewery organic wastes, digester configurations, microbial interaction and resource limits; not actual gas production at a named brewery."
+    },
+    {
+      "id": "v119-foodwaste25",
+      "title": "Food Waste Utilisation in Beer Production: Enablers and Barriers in European Craft Brewing (2025)",
+      "author_label": "Milica Končar",
+      "resource": "https://circulareconomyjournal.org/ojs/JoCE/article/view/215",
+      "source_kind": "open-small-sample-industry-interview-study",
+      "access_scope": "Full public abstract studying seven craft practitioners in four European countries; survey of organizational barriers, not representative consumer tasting or ingredient safety testing."
+    },
+    {
+      "id": "v119-spent26",
+      "title": "Circular Valorization of Brewer’s Spent Grain and Brewer’s Yeast (2026)",
+      "author_label": "Sustainability 2026 circular bioeconomy review authors",
+      "resource": "https://www.mdpi.com/2071-1050/18/5/2464",
+      "source_kind": "peer-reviewed-spent-grain-and-yeast-review",
+      "access_scope": "Public abstract of 38 selected papers from 2010–2024 comparing food, feed, energy and material reuse; not certification of a particular byproduct food/feed lot."
+    },
+    {
+      "id": "v119-chicagoice",
+      "title": "Refrigeration: Something's Brewing exhibit",
+      "author_label": "University of Chicago Library",
+      "resource": "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/",
+      "source_kind": "university-library-historical-exhibition",
+      "access_scope": "Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research."
+    },
+    {
+      "id": "v119-swissice26",
+      "title": "Cool beer — all year round (April 2026)",
+      "author_label": "Géraldine Lysser for Swiss National Museum",
+      "resource": "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/",
+      "source_kind": "national-museum-historical-interpretation",
+      "access_scope": "Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced."
+    },
+    {
+      "id": "v119-norwayice",
+      "title": "Export of beer from the 1860s — enabling technologies",
+      "author_label": "Ingebjørg Eidhammer, Norwegian Museum of Science and Technology",
+      "resource": "https://www.tekniskmuseum.no/en/research/export-of-oil-from-the-1860s",
+      "source_kind": "museum-led-archival-research-overview",
+      "access_scope": "Full public museum page outlining Norwegian breweries' export networks from 1860 to 1900 and their access to natural ice, steamships, railways and archival holdings; not a complete shipment dataset."
+    },
+    {
+      "id": "v119-smithamm",
+      "title": "Ammonia Fittings, museum catalogue nmah_2037477",
+      "author_label": "Smithsonian National Museum of American History",
+      "resource": "https://americanhistory.si.edu/collections/object/nmah_2037477",
+      "source_kind": "museum-collection-object-record",
+      "access_scope": "Full public object entry for two Fred W. Wolf ammonia refrigeration fittings catalogues, one dated 1899; does not record the date every brewery adopted a machine, images not reproduced."
+    },
+    {
+      "id": "v119-wastewaterrngreview",
+      "title": "Potential utilisation methods for brewer's spent grain: a review (2025)",
+      "author_label": "International Journal of Food Science and Technology review authors",
+      "resource": "https://doi.org/10.1093/IJFOOD/vvae022",
+      "source_kind": "peer-reviewed-spent-grain-valorization-review-abstract",
+      "access_scope": "Public abstract of opportunities for spent grain in materials, biosorbents and circular processes; not a direct assessment of particular commercial beer or waste treatment."
+    },
+    {
+      "id": "v119-wineryco2",
+      "title": "Evaluating integration of biogenic CO2 from alcoholic fermentation in utilization strategies (2025)",
+      "author_label": "Abdessamad Gueddari, Carlos Alonso-Moreno, Jesús Canales-Vázquez and Santiago García-Yuste",
+      "resource": "https://www.sciencedirect.com/science/article/pii/S2212982025000782",
+      "source_kind": "primary-industrial-winery-fermentation-analysis-abstract",
+      "access_scope": "Publisher abstract on biogenic CO2 capture from winery fermentation tanks; explicitly winery-focused, cannot be used for a brewery-specific gas purity or economics claim."
+    }
+  ]
+}

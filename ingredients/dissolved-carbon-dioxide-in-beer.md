@@ -20,6 +20,18 @@ sources:
   author_label: "Brewers Association Technical Committee"
   source_kind: "industry-technical-guidance-overview"
   access_scope: "Full public resource overview describing line cleaning, gas balance, pouring and glassware; detailed manual instructions not treated as verified."
+- id: v119-craftco2
+  resource: "https://www.tandfonline.com/doi/full/10.1080/03610470.2024.2417133"
+  title: "Valorisation of Carbon Dioxide from Fermentation in Craft Brewing: Potential Technologies, Brewer Interviews, and Three-Level System (2025)"
+  author_label: "Théo Grand, David Jenkins, Dawn Maskell and Shiwen Zhuang"
+  source_kind: "open-mixed-method-review-and-five-brewer-interviews"
+  access_scope: "Publisher indexed full-text excerpts including five semi-structured interviews with French craft breweries, technology options and conceptual shared infrastructure; direct full page intermittently gave 403. Not an implemented regional CO2 network."
+- id: v119-ghgfaq
+  resource: "https://ghgprotocol.org/calculation-tools-faq"
+  title: "GHG Protocol Calculation Tools FAQ: emissions scopes and biogenic reporting"
+  author_label: "Greenhouse Gas Protocol / World Resources Institute"
+  source_kind: "official-carbon-accounting-guidance"
+  access_scope: "Full public accounting FAQ distinguishing scopes 1/2/3 and separately reported biogenic CO2 from biomass combustion; specific fermentation carbon-cycle calculation requires its own applicable guidance."
 regions:
 - "Cross-regional"
 scope: "Dissolved CO2 and its release in one studied lager system; not a standard carbonation target for all beers."
@@ -68,3 +80,15 @@ This article distinguishes documentary source scope, observed measurements and e
 [^v115-bubbles]: [How Many CO2 Bubbles in a Glass of Beer? (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/). Gérard Liger-Belair and Clara Cilindre. Consulted 2026-10-28. Access: Open full ACS Omega paper with one commercial lager and idealized bubble-nucleation model; not a universal glass quality test.
 
 [^v115-ba]: [Draught Beer Quality Manual: public resource page](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public resource overview describing line cleaning, gas balance, pouring and glassware; detailed manual instructions not treated as verified.
+
+## Edition 1.19: newly sourced connections
+
+Dissolved CO₂ in a beer, fermenter off-gas and carbon accounted in a company footprint are different observations. Grand and colleagues' 2025 study evaluates potential recovery of fermentation CO₂ for craft brewers, with findings from five French interviews; the work does not measure the dissolved carbonation of every final beer or certify recovered gas quality.[^v119-craftco2]
+
+The GHG Protocol's direct, purchased-energy and value-chain emissions definitions clarify why gas capture or reuse cannot itself establish a whole-product net-zero claim. In particular, a beverage's CO₂ bubbles are not a carbon-storage credit simply because they came from fermentation.[^v119-ghgfaq]
+
+Keep dissolved concentration, package/serve conditions, recovered gas source and carbon-accounting claims in separate fields. Read [gas recovery versus carbonation](../processes/fermentation-co2-capture-vs-carbonation.md), [carbon claims](../categories/fermentation-co2-recovery-is-not-net-zero.md) and [the three CO₂ jobs story](../stories/the-same-co2-has-three-different-jobs.md).
+
+[^v119-craftco2]: [Valorisation of Carbon Dioxide from Fermentation in Craft Brewing: Potential Technologies, Brewer Interviews, and Three-Level System (2025)](https://www.tandfonline.com/doi/full/10.1080/03610470.2024.2417133). Théo Grand, David Jenkins, Dawn Maskell and Shiwen Zhuang. Checked 2026-10-28. Access: Publisher indexed full-text excerpts including five semi-structured interviews with French craft breweries, technology options and conceptual shared infrastructure; direct full page intermittently gave 403. Not an implemented regional CO2 network.
+
+[^v119-ghgfaq]: [GHG Protocol Calculation Tools FAQ: emissions scopes and biogenic reporting](https://ghgprotocol.org/calculation-tools-faq). Greenhouse Gas Protocol / World Resources Institute. Checked 2026-10-28. Access: Full public accounting FAQ distinguishing scopes 1/2/3 and separately reported biogenic CO2 from biomass combustion; specific fermentation carbon-cycle calculation requires its own applicable guidance.

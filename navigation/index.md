@@ -66,3 +66,7 @@
 ## Research edition 1.18 — nine questions about packaged beer
 
 [Nine research-led reading trails](edition-1-18-reading-trails.md) connect oxygen, beer aging, lightstruck chemistry, refermentation, packaging footprints, the EU's 2026 packaging rules, crown-cork history and a Smithsonian beer can. [All 740 subjects](all-atlas-subjects.md) · [956 scoped names and aliases](all-names.md) · [Research update](../editorial/research-update-1-18.md).
+
+## Research edition 1.19 — nine routes through energy, carbon, waste and ice
+
+[Nine new source-led reading trails](edition-1-19-reading-trails.md) connect brewery heat electrification, wort cooling, fermentation gas recovery, Scope 1/2/3 carbon accounting, COD and anaerobic digestion, Norwegian beer exports, Swiss ice houses and byproduct circularity. [766 current subjects](all-atlas-subjects.md) · [982 scoped titles and aliases](all-names.md) · [Research report](../editorial/research-update-1-19.md).

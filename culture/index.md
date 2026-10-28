@@ -132,3 +132,8 @@ New evidence-based references (all retain draft status):
 
 - [Packaged beer and home markets](packaged-beer-and-home-markets.md) — Packaging channels change access, not culture by themselves.
 - [Deposit and return institutions](deposit-and-return-as-beer-institutions.md) — Who collects and refills matters alongside package material.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Five French craft brewers on CO₂ capture](five-french-breweries-and-co2-reuse.md) — Interviews and a proposed shared network, not established uptake.
+- [Norwegian beer export networks](norwegian-beer-export-networks.md) — Maritime and natural-ice infrastructure in social context.

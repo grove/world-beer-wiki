@@ -122,3 +122,9 @@ New evidence-based references (all retain draft status):
 - [Two-phase total package oxygen](total-package-oxygen-has-two-phases.md) — Dissolved oxygen is not the complete container inventory.
 - [Cold-chain study limitations](cold-chain-experiment-is-not-a-universal-expiry.md) — One unpasteurized-ale trial does not define every beer's expiry.
 - [Pulsed-light processing tradeoffs](pulsed-light-has-a-flavor-tradeoff.md) — Lightstruck chemistry and microbial endpoints differ.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Wort cooling and useful recovered heat](wort-cooling-and-heat-recovery.md) — Hot and cold streams need time and temperature context.
+- [CO₂ recovery versus carbonation](fermentation-co2-capture-vs-carbonation.md) — Gas capture, qualification and beer service are separate steps.
+- [Wastewater digestion evidence](brewery-wastewater-anaerobic-digestion.md) — Experimental COD removal does not certify drinkable water.

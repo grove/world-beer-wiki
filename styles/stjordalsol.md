@@ -27,6 +27,18 @@ sources:
   source_kind: firsthand-fieldwork
   access_scope: full firsthand report of January 2016 visit to Svein Nygård’s shared malt house
   author_label: Lars Marius Garshol
+- id: v119-swissice26
+  resource: "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/"
+  title: "Cool beer — all year round (April 2026)"
+  author_label: "Géraldine Lysser for Swiss National Museum"
+  source_kind: "national-museum-historical-interpretation"
+  access_scope: "Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced."
+- id: v119-norwayice
+  resource: "https://www.tekniskmuseum.no/en/research/export-of-oil-from-the-1860s"
+  title: "Export of beer from the 1860s — enabling technologies"
+  author_label: "Ingebjørg Eidhammer, Norwegian Museum of Science and Technology"
+  source_kind: "museum-led-archival-research-overview"
+  access_scope: "Full public museum page outlining Norwegian breweries' export networks from 1860 to 1900 and their access to natural ice, steamships, railways and archival holdings; not a complete shipment dataset."
 aliases:
 - Stjordalsol
 regions:
@@ -97,3 +109,15 @@ Comparison links are not claims of direct ancestry.
 [^garshol-stjordal]: [Stjørdalsøl — the tasting (2017)](https://www.garshol.priv.no/blog/369.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: author’s field observations or documented comparison; not an exhaustive regional survey.
 
 [^trad-stjordal-nygard]: [Svein, maltster and brewer (2017)](https://www.garshol.priv.no/blog/370.html). Lars Marius Garshol. Consulted 2026-10-27. Evidence used: full firsthand report of January 2016 visit to Svein Nygård’s shared malt house.
+
+## Edition 1.19: newly sourced connections
+
+A Norwegian farmhouse beer should not be interpreted as the same production system as nineteenth-century industrial brewery exports. The Norwegian Museum of Science and Technology documents the role of natural ice, ships and railway infrastructure in commercial Norwegian beer exports during 1860–1900. This is archival industrial history, not evidence that every Stjørdalsøl producer used those export arrangements or specific mechanical cooling equipment.[^v119-norwayice]
+
+A 2026 Swiss museum account of ice houses, ice ponds and refrigeration offers a different regional history of commercial cooling. It is useful for comparing technologies, but neither proves a common yeast, standardized farmhouse recipe, or continuous shared practice between the two settings.[^v119-swissice26]
+
+Retain the existing Stjørdalsøl evidence for its own makers, malt smoke and place. Read [Norwegian industrial export context](../history/norwegian-beer-export-and-natural-ice.md) beside [the social logistics of cooling](../culture/norwegian-beer-export-networks.md). Similar access to ice does not create a new style genealogy.
+
+[^v119-swissice26]: [Cool beer — all year round (April 2026)](https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/). Géraldine Lysser for Swiss National Museum. Checked 2026-10-28. Access: Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced.
+
+[^v119-norwayice]: [Export of beer from the 1860s — enabling technologies](https://www.tekniskmuseum.no/en/research/export-of-oil-from-the-1860s). Ingebjørg Eidhammer, Norwegian Museum of Science and Technology. Checked 2026-10-28. Access: Full public museum page outlining Norwegian breweries' export networks from 1860 to 1900 and their access to natural ice, steamships, railways and archival holdings; not a complete shipment dataset.

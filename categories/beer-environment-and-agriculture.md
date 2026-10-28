@@ -50,6 +50,18 @@ sources:
   author_label: "Frontiers agricultural economics research team"
   source_kind: "open-field-survey-and-matched-analysis"
   access_scope: "Full open 2025 study of 248 sampled households in Central and Southern Oromia with interviews, FGD and matching; local estimates and contract forms must not be generalized."
+- id: v119-ghgfaq
+  resource: "https://ghgprotocol.org/calculation-tools-faq"
+  title: "GHG Protocol Calculation Tools FAQ: emissions scopes and biogenic reporting"
+  author_label: "Greenhouse Gas Protocol / World Resources Institute"
+  source_kind: "official-carbon-accounting-guidance"
+  access_scope: "Full public accounting FAQ distinguishing scopes 1/2/3 and separately reported biogenic CO2 from biomass combustion; specific fermentation carbon-cycle calculation requires its own applicable guidance."
+- id: v119-closed25
+  resource: "https://link.springer.com/article/10.1007/s43621-025-01962-8"
+  title: "Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)"
+  author_label: "Wu Hao, Liu Lijing, Qu Tianxiao and Kim Hae-young"
+  source_kind: "open-supply-chain-lca-and-industrial-case-model"
+  access_scope: "Full open published paper discussing Tsingtao operational measures, CO2 capture, packaging and reported Scope 1/2 changes; site data and upstream comparisons not independently audited."
 scope: Evidence-oriented map of climate exposure, energy, water and circular-material questions.
 evidence_basis:
 - climate-model-primary-abstract
@@ -103,3 +115,15 @@ When asking whether a beer's ingredients are environmentally or socially sustain
 [^v117-sprouting-review]: [A critical review of pre-harvest sprouting in barley (2026)](https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70475). S. I. Hull, S. Hayward, S. Orth and P. A. Swanepoel. Checked 2026-10-28. Access: Accessible full 2026 review of barley seed dormancy, rainfall, physiology and malting consequences; not a harvest forecast for any farm.
 
 [^v117-contracts-2025]: [Impact of contract farming on householders' income, intensification, and land productivity in Ethiopia (2025)](https://www.frontiersin.org/journals/environmental-economics/articles/10.3389/frevc.2025.1415517/full). Frontiers agricultural economics research team. Checked 2026-10-28. Access: Full open 2025 study of 248 sampled households in Central and Southern Oromia with interviews, FGD and matching; local estimates and contract forms must not be generalized.
+
+## Edition 1.19: newly sourced connections
+
+An agricultural or industrial emissions assertion must identify its organizational or life-cycle boundary. The GHG Protocol distinguishes a brewery's direct emissions, purchased energy and other indirect materials or transport. A reduction in a plant's gas boiler consumption is not by itself a verified reduction for barley growing, packaging or distribution.[^v119-ghgfaq]
+
+A 2025 open study of closed-loop measures at Tsingtao discusses operational Scope 1/2 intensity changes, fermentation CO₂ and packaging returns alongside upstream LCA hotspots. Its study design does not permit transferring those percentages to all breweries, especially smaller and traditionally organized producers.[^v119-closed25]
+
+Keep plant intensity, absolute output, upstream agricultural impacts and consumer package separately reported. The [carbon scopes guide](../environment/scope-1-2-3-brewing-emissions.md) and [capture-is-not-net-zero comparison](fermentation-co2-recovery-is-not-net-zero.md) support source-grounded distinctions without inferring any one beer's carbon label.
+
+[^v119-ghgfaq]: [GHG Protocol Calculation Tools FAQ: emissions scopes and biogenic reporting](https://ghgprotocol.org/calculation-tools-faq). Greenhouse Gas Protocol / World Resources Institute. Checked 2026-10-28. Access: Full public accounting FAQ distinguishing scopes 1/2/3 and separately reported biogenic CO2 from biomass combustion; specific fermentation carbon-cycle calculation requires its own applicable guidance.
+
+[^v119-closed25]: [Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)](https://link.springer.com/article/10.1007/s43621-025-01962-8). Wu Hao, Liu Lijing, Qu Tianxiao and Kim Hae-young. Checked 2026-10-28. Access: Full open published paper discussing Tsingtao operational measures, CO2 capture, packaging and reported Scope 1/2 changes; site data and upstream comparisons not independently audited.

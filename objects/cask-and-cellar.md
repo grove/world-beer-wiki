@@ -24,6 +24,18 @@ sources:
   source_kind: consumer-organization-explanation
   access_scope: CAMRA educational history; beer engine and pub service, interpreted through its advocacy
     perspective.
+- id: v119-swissice26
+  resource: "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/"
+  title: "Cool beer — all year round (April 2026)"
+  author_label: "Géraldine Lysser for Swiss National Museum"
+  source_kind: "national-museum-historical-interpretation"
+  access_scope: "Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced."
+- id: v119-chicagoice
+  resource: "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/"
+  title: "Refrigeration: Something's Brewing exhibit"
+  author_label: "University of Chicago Library"
+  source_kind: "university-library-historical-exhibition"
+  access_scope: "Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research."
 regions:
 - United Kingdom
 scope: British cask beer storage and serving equipment, without treating a vessel as proof of an organism
@@ -77,3 +89,15 @@ Consumer-body documentation provides a defined UK perspective, not a universal c
 [^v13-camra-cask]: [What is cask-conditioned beer?](https://members.camra.org.uk/learn-discover/the-basics/what-is-cask-conditioned-ale/). CAMRA. Consulted 2026-10-27. Evidence accessed: Advocacy organization definition and educational advice, not a universal legal classification.
 
 [^v13-camra-dispense]: [A history of beer dispense](https://members.camra.org.uk/learn-discover/discover/history-of-dispense/). Rachel Hendry, CAMRA. Consulted 2026-10-27. Evidence accessed: CAMRA educational history; beer engine and pub service, interpreted through its advocacy perspective.
+
+## Edition 1.19: newly sourced connections
+
+A cool historical beer cellar and a modern cask-handling system are distinct objects and eras. The Swiss National Museum's 2026 refrigeration history describes hillside beer cellars, ice ponds and wooden ice gallows used to store winter cold for later months. It does not establish the equipment, sanitation or dispensing practice of any present cask bar.[^v119-swissice26]
+
+The University of Chicago Library's brewing exhibition similarly traces natural ice and mechanical cooling as industrial technologies, not as universal cask design requirements or proof of a historical beer's microbiological status.[^v119-chicagoice]
+
+Record cellar geography, documented period and type of cooling evidence alongside any separate contemporary service instructions; do not retroactively assign a modern refrigeration system to an eighteenth-century venue. Compare [historic ice houses](historical-brewery-ice-house.md) and [the transformation of cooling technology](../history/ice-houses-to-mechanical-brewery-cooling.md). Neither archive is a real-time venue condition inspection.
+
+[^v119-swissice26]: [Cool beer — all year round (April 2026)](https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/). Géraldine Lysser for Swiss National Museum. Checked 2026-10-28. Access: Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced.
+
+[^v119-chicagoice]: [Refrigeration: Something's Brewing exhibit](https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/). University of Chicago Library. Checked 2026-10-28. Access: Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research.

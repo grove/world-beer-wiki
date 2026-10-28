@@ -44,6 +44,18 @@ sources:
   author_label: "Florian A. Thesseling and colleagues"
   source_kind: "open-laboratory-protocol-public-index"
   access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
+- id: v119-chicagoice
+  resource: "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/"
+  title: "Refrigeration: Something's Brewing exhibit"
+  author_label: "University of Chicago Library"
+  source_kind: "university-library-historical-exhibition"
+  access_scope: "Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research."
+- id: v119-swissice26
+  resource: "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/"
+  title: "Cool beer — all year round (April 2026)"
+  author_label: "Géraldine Lysser for Swiss National Museum"
+  source_kind: "national-museum-historical-interpretation"
+  access_scope: "Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced."
 aliases:
 - Czech pilsner
 - Bohemian pilsner
@@ -123,3 +135,15 @@ Follow [measurement versus identity](../categories/beer-metrics-versus-beverage-
 [^v116-color]: [BJCP Color Guide: Technical Background](https://www.bjcp.org/education-training/education-resources/color-guide/). Beer Judge Certification Program. Checked 2026-10-28. Access: Full public technical guide: 430-nm absorbance, SRM/EBC relationship and visual guide limits; not a production quality certificate.
 
 [^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
+
+## Edition 1.19: newly sourced connections
+
+History of lager cooling needs its own sources rather than a retroactive modern tasting or energy label. The University of Chicago Library's refrigeration exhibit describes natural ice and later mechanical cooling as technologies that expanded the storage and shipping of beer, but it does not analyze the sensory profile of an original 1842 Pilsen batch.[^v119-chicagoice]
+
+The Swiss National Museum's 2026 history explains how ice ponds and cool cellars supported nineteenth-century bottom-fermenting brewing before mechanical refrigeration spread unevenly. This is a Swiss account and should not be used as a precise history of every Czech brewery's temperature control.[^v119-swissice26]
+
+Preserve contemporary Czech premium pale lager judging characteristics separately from period documents, and do not infer a modern refrigeration energy consumption from its style name. See [ice houses and mechanical cooling](../history/ice-houses-to-mechanical-brewery-cooling.md) and [historical seasonal ice](../calendar/historic-natural-ice-harvest-season.md).
+
+[^v119-chicagoice]: [Refrigeration: Something's Brewing exhibit](https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/). University of Chicago Library. Checked 2026-10-28. Access: Full public archival overview of natural ice, ice houses and Carl von Linde's 1870s ammonia refrigeration developments; museum exhibition synthesis rather than complete independent archival research.
+
+[^v119-swissice26]: [Cool beer — all year round (April 2026)](https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/). Géraldine Lysser for Swiss National Museum. Checked 2026-10-28. Access: Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced.

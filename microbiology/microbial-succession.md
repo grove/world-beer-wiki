@@ -108,6 +108,18 @@ sources:
   author_label: "Eva Maria Biehl and colleagues"
   source_kind: "primary-controlled-malting-and-brewing-experiment"
   access_scope: "PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol."
+- id: v119-bead26
+  resource: "https://pubmed.ncbi.nlm.nih.gov/42612100/"
+  title: "Bioelectrochemically Enhanced Anaerobic Digestion of Brewery Wastewater at Ambient Temperature (2026)"
+  author_label: "Seyedomid Ahmadinejad, Shuyao Wang, Banu Ormeci and colleagues"
+  source_kind: "primary-continuous-reactor-experiment-abstract"
+  access_scope: "Full PubMed abstract of one 365-day upflow brewery wastewater reactor with comparisons against conventional digestion; full protocol and economic feasibility not independently evaluated."
+- id: v119-bioenergy26
+  resource: "https://link.springer.com/article/10.1007/s12649-026-03515-0"
+  title: "Brewery Byproducts as Bioenergy Sources: A Review of Biohydrogen and Biomethane Production (2026)"
+  author_label: "Waste and Biomass Valorization review authors"
+  source_kind: "open-peer-reviewed-bioenergy-system-review"
+  access_scope: "Full open literature synthesis of brewery organic wastes, digester configurations, microbial interaction and resource limits; not actual gas production at a named brewery."
 source_checked_on: '2026-10-27'
 review_note: Research draft; no independent microbiologist review.
 relations:
@@ -210,3 +222,15 @@ Preserve sample stage, method, target, organism role and study population. Follo
 [^v117-fungal-strains]: [Impacts of pathogen strain and barley cultivar on Fusarium head blight in barley and during malting (2024)](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13918). Anuradha U. Jayathissa and colleagues. Checked 2026-10-28. Access: Full public open-access study with 2019–2021 field trials of two cultivars and seven F. graminearum isolates plus controls; strain/year/cultivar effects are trial-specific.
 
 [^v117-fusarium-trial]: [Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/). Eva Maria Biehl and colleagues. Checked 2026-10-28. Access: PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol.
+
+## Edition 1.19: newly sourced connections
+
+Microbial succession in a beer starter must not be inferred from communities studied in industrial anaerobic wastewater digesters. Ahmadinejad and colleagues' 2026 study measured methane, COD and volatile fatty acids in a year-long brewery-wastewater reactor. It did not identify a traditional brewing culture or measure flavor development in a human beverage.[^v119-bead26]
+
+A bioenergy review discusses syntrophic microbial relationships in waste conversion, an ecological question with different feedstocks and endpoints from ethanol fermentation or community-transmitted starter practices.[^v119-bioenergy26]
+
+When using the word fermenter, specify whether the source studied beverage composition, microbial identity, wastewater treatment or energy recovery. See [digester consortia versus starters](digester-consortia-versus-brewing-starters.md) and [wastewater digestion](../processes/brewery-wastewater-anaerobic-digestion.md). Neither source authorizes a food-safe culture, microbiological protocol or identity claim.
+
+[^v119-bead26]: [Bioelectrochemically Enhanced Anaerobic Digestion of Brewery Wastewater at Ambient Temperature (2026)](https://pubmed.ncbi.nlm.nih.gov/42612100/). Seyedomid Ahmadinejad, Shuyao Wang, Banu Ormeci and colleagues. Checked 2026-10-28. Access: Full PubMed abstract of one 365-day upflow brewery wastewater reactor with comparisons against conventional digestion; full protocol and economic feasibility not independently evaluated.
+
+[^v119-bioenergy26]: [Brewery Byproducts as Bioenergy Sources: A Review of Biohydrogen and Biomethane Production (2026)](https://link.springer.com/article/10.1007/s12649-026-03515-0). Waste and Biomass Valorization review authors. Checked 2026-10-28. Access: Full open literature synthesis of brewery organic wastes, digester configurations, microbial interaction and resource limits; not actual gas production at a named brewery.

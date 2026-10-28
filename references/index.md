@@ -68,3 +68,9 @@ The source record preserves what was actually accessible (including abstracts an
 [Annotated register of 22 external works and 101 actual article-source uses](atlas-sources-1-18.md) · [Machine-readable source manifest](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-18/references/atlas-source-manifest-1-18.json) · [Source consistency auditor](../tools/build_edition_sources.py).
 
 The register is derived from citation-bearing article metadata. Full papers, indexed summaries, official regulations, protected technical methods and museum catalogues are distinct evidence classes. Reuse of a source across many articles is not independent corroboration.
+
+## Research edition 1.19 — cited works and actual access
+
+[Generated 21-work bibliography with 109 article-source backlinks](atlas-sources-1-19.md) · [Machine-readable manifest](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-19/references/atlas-source-manifest-1-19.json) · [Provenance consistency auditor](../tools/build_edition_sources.py).
+
+Source descriptions preserve whether a publication was read in full, via publisher abstract, institutional resource listing or museum history. Repeated citation is not independent confirmation and a model is not a field measurement.

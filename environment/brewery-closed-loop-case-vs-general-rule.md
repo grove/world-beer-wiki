@@ -23,6 +23,18 @@ sources:
   source_kind: secondary-systematic-literature-review
   access_scope: Public 2026 review abstract and indexed material on a 38-study evidence synthesis, technology readiness
     and economics; not a plant-level life-cycle inventory.
+- id: v119-closed25
+  resource: "https://link.springer.com/article/10.1007/s43621-025-01962-8"
+  title: "Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)"
+  author_label: "Wu Hao, Liu Lijing, Qu Tianxiao and Kim Hae-young"
+  source_kind: "open-supply-chain-lca-and-industrial-case-model"
+  access_scope: "Full open published paper discussing Tsingtao operational measures, CO2 capture, packaging and reported Scope 1/2 changes; site data and upstream comparisons not independently audited."
+- id: v119-ghgfaq
+  resource: "https://ghgprotocol.org/calculation-tools-faq"
+  title: "GHG Protocol Calculation Tools FAQ: emissions scopes and biogenic reporting"
+  author_label: "Greenhouse Gas Protocol / World Resources Institute"
+  source_kind: "official-carbon-accounting-guidance"
+  access_scope: "Full public accounting FAQ distinguishing scopes 1/2/3 and separately reported biogenic CO2 from biomass combustion; specific fermentation carbon-cycle calculation requires its own applicable guidance."
 regions:
 - China
 - Industrial brewing
@@ -67,3 +79,15 @@ The descriptions preserve the cited source's study population, region, time and 
 [^v114-closedloop]: [Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)](https://link.springer.com/article/10.1007/s43621-025-01962-8). Wu Hao and colleagues. Consulted 2026-10-28. Access: Open-access full paper, a Tsingtao case and life-cycle scenario/model; self-reported and modelled boundaries cannot be generalized to every brewery.
 
 [^v114-circular]: [Circular Valorization of Brewer’s Spent Grain and Brewer’s Yeast (2026)](https://www.mdpi.com/2071-1050/18/5/2464). Nora Haring, Blažena Drábová and Milan Chňapek. Consulted 2026-10-28. Access: Public 2026 review abstract and indexed material on a 38-study evidence synthesis, technology readiness and economics; not a plant-level life-cycle inventory.
+
+## Edition 1.19: newly sourced connections
+
+Wu and colleagues' 2025 open Tsingtao case reports a combination of fermentation CO₂ capture, packaging reuse and wastewater or energy-related measures. Its operational greenhouse-gas intensity figures and claimed improvements reflect one study boundary and should be retained as an attributed case rather than a universal climate benefit for every brewery.[^v119-closed25]
+
+The GHG Protocol's categories distinguish direct emissions, purchased electricity and other indirect emissions from raw materials and logistics. A circular measure can affect more than one part of the value chain, but total reductions still require a consistent organizational boundary, double-counting checks and independently checked activity data.[^v119-ghgfaq]
+
+This source-grounded comparison adds [scope 1/2/3 accounting](scope-1-2-3-brewing-emissions.md) and [fermentation CO₂ is not automatic net zero](../categories/fermentation-co2-recovery-is-not-net-zero.md). Single-site numbers should not become promises about other beer styles, geographic regions or consumers.
+
+[^v119-closed25]: [Closed loop supply chains enable carbon reduction and resource circularity in the brewing industry (2025)](https://link.springer.com/article/10.1007/s43621-025-01962-8). Wu Hao, Liu Lijing, Qu Tianxiao and Kim Hae-young. Checked 2026-10-28. Access: Full open published paper discussing Tsingtao operational measures, CO2 capture, packaging and reported Scope 1/2 changes; site data and upstream comparisons not independently audited.
+
+[^v119-ghgfaq]: [GHG Protocol Calculation Tools FAQ: emissions scopes and biogenic reporting](https://ghgprotocol.org/calculation-tools-faq). Greenhouse Gas Protocol / World Resources Institute. Checked 2026-10-28. Access: Full public accounting FAQ distinguishing scopes 1/2/3 and separately reported biogenic CO2 from biomass combustion; specific fermentation carbon-cycle calculation requires its own applicable guidance.

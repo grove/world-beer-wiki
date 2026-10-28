@@ -98,3 +98,8 @@ New evidence-based references (all retain draft status):
 
 - [The 1892 crown patent](crown-cork-patent-vs-invention-myth.md) — An industrial invention is not the date all beer bottling began.
 - [Beer cans and household distribution](beer-cans-and-home-distribution.md) — A museum object provides bounded historical evidence.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [From ice houses to mechanical cooling](ice-houses-to-mechanical-brewery-cooling.md) — Different phases of commercial cold production.
+- [Norwegian exports 1860–1900](norwegian-beer-export-and-natural-ice.md) — Ice, shipping and specific Norwegian brewery archives.

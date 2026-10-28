@@ -61,3 +61,7 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.18 — packaging, circulation and evidence boundaries
 
 - [Beer can liners and food-contact evidence](can-liners-and-food-contact-evidence.md) — Law, migration testing and taste are different evidence types.
+
+## Research edition 1.19 — energy, waste and evidence limits
+
+- [Food-waste beer versus waste treatment](food-waste-brewing-is-not-wastewater-digestion.md) — An ingredient's safety and an anaerobic digester are separate subjects.

@@ -23,6 +23,18 @@ sources:
   source_kind: industry-technical-excerpt
   access_scope: Search-indexed excerpt of the retailer PDF on microbial deposits and service conditions; complete
     manual and local legal requirements not independently reviewed.
+- id: v119-swissice26
+  resource: "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/"
+  title: "Cool beer — all year round (April 2026)"
+  author_label: "Géraldine Lysser for Swiss National Museum"
+  source_kind: "national-museum-historical-interpretation"
+  access_scope: "Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced."
+- id: v119-baenergy26
+  resource: "https://www.brewersassociation.org/playlist/sustainability-manuals/"
+  title: "Sustainability Manuals: Energy Sustainability (9 June 2026)"
+  author_label: "Brewers Association Sustainability Subcommittee"
+  source_kind: "industry-energy-guidance-landing-page"
+  access_scope: "Public Brewers Association directory discussing brewery energy management and greenhouse gas reduction; detailed manual content not separately verified."
 regions:
 - Cross-regional
 scope: Technical service factors that affect the delivered experience without rewriting a beer style.
@@ -71,3 +83,15 @@ The descriptions preserve the cited source's study population, region, time and 
 [^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.
 
 [^v114-draught-retail]: [Draught Beer Quality Manual for Retailers (2022)](https://cdn.brewersassociation.org/wp-content/uploads/2022/04/04193712/BP22-DBQMR-FINAL.pdf). Brewers Association. Consulted 2026-10-28. Access: Search-indexed excerpt of the retailer PDF on microbial deposits and service conditions; complete manual and local legal requirements not independently reviewed.
+
+## Edition 1.19: newly sourced connections
+
+Historical refrigeration studies and modern sensory experiments do not ask the same question. The Swiss National Museum describes how natural ice and mechanical systems changed the availability of cool storage and the geography of brewing. It is not a modern trained-panel study that measured the aroma of a particular draught beer at specified service temperatures.[^v119-swissice26]
+
+The Brewers Association's 2026 energy resource hub treats refrigeration and energy use as management concerns, rather than establishing a single sensory optimum for every beer and drinking culture.[^v119-baenergy26]
+
+When a service-quality claim discusses coldness, identify fermentation temperature, cellar storage temperature, transport conditions, actual glass temperature and the separate tasting protocol. The [cooling-versus-flavor interpretation](cold-storage-and-beer-identity.md) and [historic refrigeration study](../history/ice-houses-to-mechanical-brewery-cooling.md) keep these layers distinct. Physical cooling infrastructure does not alone prove a product's microbiological safety, freshness or consumer preference.
+
+[^v119-swissice26]: [Cool beer — all year round (April 2026)](https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/). Géraldine Lysser for Swiss National Museum. Checked 2026-10-28. Access: Full public museum history of Swiss ice harvesting, cellars, rail transport and mechanical refrigeration, including Hürlimann's 1879 adoption; image rights not reproduced.
+
+[^v119-baenergy26]: [Sustainability Manuals: Energy Sustainability (9 June 2026)](https://www.brewersassociation.org/playlist/sustainability-manuals/). Brewers Association Sustainability Subcommittee. Checked 2026-10-28. Access: Public Brewers Association directory discussing brewery energy management and greenhouse gas reduction; detailed manual content not separately verified.

@@ -50,6 +50,18 @@ sources:
   author_label: "Brewers Association"
   source_kind: "industry-guidance-landing-page"
   access_scope: "Public description only; member-only manual details and precise benchmarks not accessed."
+- id: v119-wastewater26
+  resource: "https://www.mdpi.com/2076-3298/13/3/164"
+  title: "Small Breweries, Large Footprints? Environmental Implications of Brewing Waste (2026)"
+  author_label: "Environmental research review authors"
+  source_kind: "peer-reviewed-brewery-waste-and-wastewater-review"
+  access_scope: "Public indexed review covering variable wastewater COD, BOD, pH, solids and treatment options; cited ranges span different facilities, not universal discharge permissions."
+- id: v119-bead26
+  resource: "https://pubmed.ncbi.nlm.nih.gov/42612100/"
+  title: "Bioelectrochemically Enhanced Anaerobic Digestion of Brewery Wastewater at Ambient Temperature (2026)"
+  author_label: "Seyedomid Ahmadinejad, Shuyao Wang, Banu Ormeci and colleagues"
+  source_kind: "primary-continuous-reactor-experiment-abstract"
+  access_scope: "Full PubMed abstract of one 365-day upflow brewery wastewater reactor with comparisons against conventional digestion; full protocol and economic feasibility not independently evaluated."
 scope: Industrial Greek brewery case study on water use, treatment and reuse, not a universal benchmark.
 evidence_basis:
 - industrial-case-study
@@ -112,3 +124,15 @@ Read [water-use ratio versus footprint](brewery-water-ratio-versus-water-footpri
 [^v115-wfn]: [Water Footprint Calculator for SMEs](https://tools.waterfootprint.org/sme-calculator/en/). Water Footprint Network. Consulted 2026-10-28. Access: Public framework for direct/indirect and green/blue/grey water; no brewery data entered.
 
 [^v115-baWater]: [Water & Wastewater Sustainability Manual (2026), public description](https://www.brewersassociation.org/educational-publications/water-wastewater-sustainability-manual/). Brewers Association. Consulted 2026-10-28. Access: Public description only; member-only manual details and precise benchmarks not accessed.
+
+## Edition 1.19: newly sourced connections
+
+Water withdrawn by a brewery and organic material in its wastewater are different measurements. A 2026 brewery-waste review records diverse COD, BOD, nutrient, suspended-solid and pH values across reported streams, reflecting the presence of wort, yeast and cleaning residues.[^v119-wastewater26]
+
+A separate 2026 365-day bioelectrochemical digestion experiment on real brewery wastewater measured reactor COD removal, methane generation and volatile fatty acid behavior. The outcome is specific to that process and sampled influent; it is not an assessment of agricultural water footprint or a certification that downstream water meets all discharge requirements.[^v119-bead26]
+
+Record wastewater flow alongside concentration, treatment stage and analytical method, separately from water consumption, energy and lifecycle footprint. Read [COD versus water accounting](../categories/wastewater-cod-is-not-water-footprint.md), [the digestion process](../processes/brewery-wastewater-anaerobic-digestion.md) and [gas recovery scenarios](brewery-wastewater-to-renewable-gas-scenarios.md).
+
+[^v119-wastewater26]: [Small Breweries, Large Footprints? Environmental Implications of Brewing Waste (2026)](https://www.mdpi.com/2076-3298/13/3/164). Environmental research review authors. Checked 2026-10-28. Access: Public indexed review covering variable wastewater COD, BOD, pH, solids and treatment options; cited ranges span different facilities, not universal discharge permissions.
+
+[^v119-bead26]: [Bioelectrochemically Enhanced Anaerobic Digestion of Brewery Wastewater at Ambient Temperature (2026)](https://pubmed.ncbi.nlm.nih.gov/42612100/). Seyedomid Ahmadinejad, Shuyao Wang, Banu Ormeci and colleagues. Checked 2026-10-28. Access: Full PubMed abstract of one 365-day upflow brewery wastewater reactor with comparisons against conventional digestion; full protocol and economic feasibility not independently evaluated.
