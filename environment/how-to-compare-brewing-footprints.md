@@ -31,12 +31,27 @@ sources:
   source_kind: systematic-review
   access_scope: Open published 2026 review focusing on energy-intensive processing, with illustrative
     rather than universal energy intensities.
+- id: v16-mexico-lca
+  resource: https://www.eemj.eu/index.php/EEMJ/article/view/5028
+  title: Carbon and water footprints of micro craft breweries using a life cycle assessment approach (2024)
+  author_label: Perea-Eguia, Wakida and Hernandez
+  source_kind: primary-lca-abstract
+  access_scope: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle
+    boundaries and water footprint definitions require attention.
+- id: v16-japan-lca
+  resource: https://www.mdpi.com/2071-1050/17/24/11003
+  title: Assessing Sustainability Trade-Offs in Craft Beer Production Through Life Cycle and Costing Analysis
+    Scenarios (2025)
+  author_label: Study authors
+  source_kind: primary-lca-open-text
+  access_scope: Open article abstract on representative Japanese small brewery using 2024 data, specified
+    cradle-to-gate scope, bottled beer and excluded cultivation.
 scope: Method-focused comparison of competing resources and limits of brewery LCA studies.
 evidence_basis:
 - industrial-case-study
 - open-review-abstract
 - systematic-review
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI-researched source-scoped draft; no independent expert or community approval.
 ---
 
@@ -69,3 +84,12 @@ Method-focused comparison of competing resources and limits of brewery LCA studi
 [^v14-water]: [Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)](https://www.mdpi.com/2073-4441/17/8/1179). Greek brewery case-study research team. Consulted 2026-10-27. Access: Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide average.
 
 [^v14-energy]: [Energy Management of the Energy-Intensive Beer Production Stages (2026)](https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.70904). Energy systems review authors. Consulted 2026-10-27. Access: Open published 2026 review focusing on energy-intensive processing, with illustrative rather than universal energy intensities.
+
+## Edition 1.6: sourced research connections
+
+A 2024 Mexican microbrewery study includes water-footprint assumptions in which much of the impact lies **upstream in raw-material production**. A 2025 Japanese small-brewery study explicitly **excludes cultivation** from a cradle-to-gate assessment of bottled beer and examines packaging, processing and costs. Their raw totals should not be ranked directly until boundaries and units match.[^v16-mexico-lca][^v16-japan-lca]
+
+Compare [the Mexican case](mexican-microbrewery-footprint-case.md) and [the Japanese case](japanese-small-brewery-lca-case.md).
+
+[^v16-mexico-lca]: [Carbon and water footprints of micro craft breweries using a life cycle assessment approach (2024)](https://www.eemj.eu/index.php/EEMJ/article/view/5028). Perea-Eguia, Wakida and Hernandez. Consulted 2026-10-28. Access: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle boundaries and water footprint definitions require attention.
+[^v16-japan-lca]: [Assessing Sustainability Trade-Offs in Craft Beer Production Through Life Cycle and Costing Analysis Scenarios (2025)](https://www.mdpi.com/2071-1050/17/24/11003). Study authors. Consulted 2026-10-28. Access: Open article abstract on representative Japanese small brewery using 2024 data, specified cradle-to-gate scope, bottled beer and excluded cultivation.

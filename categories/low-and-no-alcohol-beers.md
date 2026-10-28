@@ -52,6 +52,21 @@ sources:
   source_kind: consumer-experiment-abstract
   access_scope: 'Open publisher abstract: three beer styles with one Swedish shrimp dish; results not
     generalizable to all foods.'
+- id: v16-nolo-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13236638/
+  title: Application of unconventional microorganisms for production of non-alcoholic beer (2026)
+  author_label: Review authors
+  source_kind: open-technical-review
+  access_scope: Open review sections on maltose-negative organisms, process/strain-dependent aroma, ABV
+    and microbiological constraints; commercial performance not generalized.
+- id: v16-nolo-primary
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13000620/
+  title: High-Gravity Brewing, Yeast Strain Selection, and Glucose Oxidase Effects on Quality of Nonalcoholic
+    Beer (2026)
+  author_label: Study authors
+  source_kind: primary-brewing-experiment
+  access_scope: Open study excerpts on selected yeasts, sensory and process variables; limited controlled
+    trials, not legal labeling or universal safety.
 aliases:
 - NoLo beers
 - NABLAB
@@ -64,7 +79,7 @@ scope: Cross-cutting alcohol-content category; technical examples and one explic
   example.
 evidence_basis: official definitions and attributed primary accounts; editorial comparisons identified
   in the text
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
   community representative.
 relations:
@@ -126,3 +141,12 @@ A 2026 study tested three beer styles, alcoholic and non-alcoholic, with one Swe
 [^modern-ttb-alcohol-labels]: [Malt Beverage Labeling: Alcohol Content](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-alcohol-content). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-27. Evidence used: US federal malt-beverage labeling guidance checked 2026-10-27.
 
 [^v14-food-na]: [Non-alcoholic Beers with Food: Consumer Pairing Experiment (2026)](https://www.sciencedirect.com/science/article/pii/S1878450X26001307). Gastronomy consumer research team. Consulted 2026-10-27. Access: Open publisher abstract: three beer styles with one Swedish shrimp dish; results not generalizable to all foods.
+
+## Edition 1.6: sourced research connections
+
+A 2026 review describes **maltose-negative yeasts** as a biological route to restricted ethanol production, with substantial strain- and process-dependent sensory differences. A controlled 2026 brewing study tested selected yeasts and enzymatic modifications; its outcomes are not universal label compliance or food-safety guarantees.[^v16-nolo-review][^v16-nolo-primary]
+
+The new [microbial reference](../microbiology/maltose-negative-yeast-and-low-alcohol.md) and [process guide](../processes/low-alcohol-by-limited-fermentation.md) distinguish limiting fermentation from removing alcohol after it was produced.
+
+[^v16-nolo-review]: [Application of unconventional microorganisms for production of non-alcoholic beer (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13236638/). Review authors. Consulted 2026-10-28. Access: Open review sections on maltose-negative organisms, process/strain-dependent aroma, ABV and microbiological constraints; commercial performance not generalized.
+[^v16-nolo-primary]: [High-Gravity Brewing, Yeast Strain Selection, and Glucose Oxidase Effects on Quality of Nonalcoholic Beer (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13000620/). Study authors. Consulted 2026-10-28. Access: Open study excerpts on selected yeasts, sensory and process variables; limited controlled trials, not legal labeling or universal safety.

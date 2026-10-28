@@ -47,6 +47,14 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v16-munkoyo
+  resource: https://pubmed.ncbi.nlm.nih.gov/9039570/
+  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase
+    source (1997)
+  author_label: Zulu, Dillon and Owens
+  source_kind: primary-food-microbiology-abstract
+  access_scope: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental
+    fermentation with named microbes; not a survey of all Zambian recipes.
 aliases:
 - Corn
 regions:
@@ -56,7 +64,7 @@ evidence_basis:
 - official-style-guideline
 - primary-research
 - producer-technical-documentation
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian
   or community representative.
 relations:
@@ -107,3 +115,11 @@ The technical product accounts concern contemporary malt-based brewing. The chic
 [^ing-crisp-mashing]: [The Crisp Guide to Mashing](https://crispmalt.com/news/the-crisp-guide-to-mashing/). Crisp Malt. Consulted 2026-10-27. Evidence used: retrieved rice, maize and oats sections; no universal temperatures or addition limits adopted.
 [^bjcp-2021-1c]: [BJCP 2021: Cream Ale](https://styles.bjcp.org/bjcp-2021-beer/1/1c-cream-ale). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
 [^bjcp-2021-27f]: [BJCP 2021: Pre-Prohibition Lager](https://styles.bjcp.org/bjcp-2021-beer/27/27f-pre-prohibition-lager). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+## Edition 1.6: sourced research connections
+
+A 1997 experiment investigated a Zambian **cooked maize–Rhynchosia root** munkoyo system, illustrating that maize starch can be made available by a route other than conventional germinated-barley malt. The studied root extract supplied amylase activity under selected experimental conditions; not all maize beers or related ferments use this method.[^v16-munkoyo]
+
+See [the ingredient](rhynchosia-root-for-munkoyo.md) and [process comparison](../processes/munkoyo-root-starch-conversion.md).
+
+[^v16-munkoyo]: [Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source (1997)](https://pubmed.ncbi.nlm.nih.gov/9039570/). Zulu, Dillon and Owens. Consulted 2026-10-28. Access: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental fermentation with named microbes; not a survey of all Zambian recipes.

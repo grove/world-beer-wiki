@@ -39,3 +39,8 @@ New evidence-based references (all retain draft status):
 - [Dry starter cakes and the separation of fermentation tasks](starter-cakes-and-starch-conversion.md) — Brewing Process Reference.
 - [Laboratory isolates versus maintained brewing communities](isolates-and-living-starter-communities.md) — Brewing Process Reference.
 - [When archaeological brewing experiments help—and when they do not](archaeological-brewing-reconstruction.md) — Brewing Process Reference.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Limiting alcohol through yeast sugar utilization](low-alcohol-by-limited-fermentation.md) — How controlled wort, strain properties and sensory tradeoffs differ from removing alcohol after brewing.
+- [Munkoyo root-based saccharification versus malting](munkoyo-root-starch-conversion.md) — An experimental maize-and-root pathway alongside grain malting and microbial enzyme starters.

@@ -32,3 +32,7 @@ The [Zoigl account](../culture/zoigl-communal-brewing.md) adds a different calen
 New evidence-based references (all retain draft status):
 
 - [Brewing time and ceremonial time are not the same](brewing-time-versus-ceremonial-time.md) — Calendar Interpretation.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Sahti occasions: weddings and funerals, not a fixed festival date](sahti-occasions-without-a-fixed-date.md) — How a documented Finnish celebration-centered beer resists an invented Gregorian event schedule.

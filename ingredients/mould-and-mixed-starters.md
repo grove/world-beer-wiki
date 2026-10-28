@@ -60,6 +60,14 @@ sources:
   source_kind: primary-microbiology-open-text
   access_scope: 'Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community
     differences; laboratory detections not proof of universal starter composition.'
+- id: v16-assam
+  resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full
+  title: Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes
+    in southern Assam (2024)
+  author_label: Yumnam, Hazarika and Sharma
+  source_kind: primary-field-and-sequencing-study
+  access_scope: Open HTML methods/results, 15 community-produced samples from five named groups (three each)
+    and 16S assay; no full ethnography or clinical outcome evidence.
 aliases:
 - Mold and mixed starters
 - Saccharifying starters
@@ -70,7 +78,7 @@ scope: Comparative starter reference; named local starters are not aliases or as
 evidence_basis:
 - primary-research
 - producer-association-technical-documentation
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian
   or community representative.
 relations:
@@ -142,3 +150,11 @@ Compare the [Vietnamese starter study](../microbiology/vietnamese-banh-men-commu
 [^v15-banhmen-2008]: [Microbial diversity of traditional Vietnamese alcohol fermentation starters (banh men) as determined by PCR-mediated DGGE (2008)](https://pubmed.ncbi.nlm.nih.gov/18838186/). Vu Nguyen Thanh, Le Thuy Mai and Duong Anh Tuan. Consulted 2026-10-27. Source access: Indexed PubMed abstract; 52 starter samples and taxa detected; full article not accessed.
 
 [^v15-himalaya-2019]: [Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full). Frontiers in Microbiology research team. Consulted 2026-10-27. Source access: Full journal HTML: scoped dry starter samples, terminology, bacterial isolation and community differences; laboratory detections not proof of universal starter composition.
+
+## Edition 1.6: sourced research connections
+
+A 2024 southern Assam sampling study identifies distinct named **rice-beverage starters** among Hmar, Karbi and Tea tribes cohorts. This evidence reinforces that “starter” may be a culturally situated, multi-organism preparation, not a synonym for pure commercial yeast. Its bacterial amplicon data do not by themselves identify the enzymatic contributor in each finished beverage.[^v16-assam]
+
+Read [the situated five-drink comparison](../culture/southern-assam-five-beverage-study.md) and [the microbiome method](../microbiology/assam-rice-ferment-sampling.md) before inferring a universal microbial formula.
+
+[^v16-assam]: [Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in southern Assam (2024)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full). Yumnam, Hazarika and Sharma. Consulted 2026-10-28. Access: Open HTML methods/results, 15 community-produced samples from five named groups (three each) and 16S assay; no full ethnography or clinical outcome evidence.

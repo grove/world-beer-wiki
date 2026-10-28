@@ -24,7 +24,22 @@ sources:
   title: Munkoyo profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
   access_scope: Retained 2025 botanical study and 1997 fermentation abstract, with their separate access limits.
-source_checked_on: '2026-10-27'
+- id: v16-munkoyo
+  resource: https://pubmed.ncbi.nlm.nih.gov/9039570/
+  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase
+    source (1997)
+  author_label: Zulu, Dillon and Owens
+  source_kind: primary-food-microbiology-abstract
+  access_scope: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental
+    fermentation with named microbes; not a survey of all Zambian recipes.
+- id: v16-ferulic-2004
+  resource: https://pubs.acs.org/doi/10.1021/jf0346556
+  title: Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)
+  author_label: Research authors
+  source_kind: primary-brewing-chemistry-abstract
+  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation;
+    studied combinations not all wheat beer.
+source_checked_on: '2026-10-28'
 review_note: Research draft; explanatory comparison, not an interchangeable ingredient list.
 relations:
 - {relation: compare_with, target: ingredients/barley-and-malt}
@@ -63,3 +78,12 @@ This is not a foraging guide or an instruction to culture unidentified molds. Na
 [^atlas-schlenkerla-process]: [Malting and brewing process of Schlenkerla Smoked Beer](https://www.schlenkerla.de/rauchbier/prozess/prozesse.html), Schlenkerla. Production stages consulted 27 October 2026; producer-specific account.
 [^atlas-jss-koji]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/), Japan Sake and Shochu Makers Association. Koji and fermentation sections consulted 27 October 2026.
 [^atlas-munkoyo-context]: [Munkoyo profile in World Beer Wiki](../styles/munkoyo.md), existing research synthesis and its source notes.
+
+## Edition 1.6: sourced research connections
+
+The root-assisted munkoyo experiment supplies a bounded case where *Rhynchosia heterophylla* extract contributes starch-converting activity to cooked maize. A separate beer-chemistry study shows that mash processes also affect the release of **ferulic acid**, a precursor associated with phenolic beer aroma. Starch conversion and aroma-precursor release may occur in the same brewery operations, but are different chemical phenomena.[^v16-munkoyo][^v16-ferulic-2004]
+
+Compare [munkoyo saccharification](munkoyo-root-starch-conversion.md) with [ferulic-acid chemistry](../ingredients/ferulic-acid-in-wort.md) without presenting either as a universal recipe.
+
+[^v16-munkoyo]: [Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source (1997)](https://pubmed.ncbi.nlm.nih.gov/9039570/). Zulu, Dillon and Owens. Consulted 2026-10-28. Access: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental fermentation with named microbes; not a survey of all Zambian recipes.
+[^v16-ferulic-2004]: [Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)](https://pubs.acs.org/doi/10.1021/jf0346556). Research authors. Consulted 2026-10-28. Access: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation; studied combinations not all wheat beer.

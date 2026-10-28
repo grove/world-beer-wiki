@@ -9,14 +9,14 @@ tags:
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.5
-  at: '2026-10-27T23:15:00Z'
+  by: world-beer-wiki/1.6
+  at: '2026-10-28T05:40:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.3'
-implementation_status: fourth-installment-implemented
+specification_version: '1.4'
+implementation_status: fifth-installment-implemented
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -291,6 +291,78 @@ work_items:
   - editorial/research-update-1-5.md
   delivered_scope: Twenty-two distinct referenced works with source access limits, fourteen existing-source
     revisions and a review queue without claims of external sign-off.
+- id: ATLAS-039
+  title: Document banana-based ferments and community-named Assam rice drinks
+  state: implemented
+  paths:
+  - styles/tonto.md
+  - styles/urugwa.md
+  - styles/hor-alank.md
+  - styles/zu-hmar.md
+  delivered_scope: Four explicitly bounded local beverage profiles, with unlike substrates and community names
+    kept distinct; not universal beer-style rules.
+- id: ATLAS-040
+  title: Research situated cultural learning and non-fixed ceremonial timing
+  state: implemented
+  paths:
+  - culture/southern-assam-five-beverage-study.md
+  - culture/sahti-apprenticeship-and-celebration.md
+  - culture/mapuche-fermented-drinks-and-source-voices.md
+  - calendar/sahti-occasions-without-a-fixed-date.md
+  delivered_scope: Community-specific research accounts, source mediation and occasion-linked timing without
+    invented annual dates or consent claims.
+- id: ATLAS-041
+  title: Deepen microbial survey interpretation and farmhouse population studies
+  state: implemented
+  paths:
+  - microbiology/assam-rice-ferment-sampling.md
+  - microbiology/umqombothi-amplicons-and-predicted-function.md
+  - microbiology/kveik-population-history-2026.md
+  - microbiology/hop-resistant-lactic-acid-bacteria.md
+  - microbiology/maltose-negative-yeast-and-low-alcohol.md
+  delivered_scope: Five microbiology references distinguishing culture, isolate, DNA detection, biochemical
+    function and study size.
+- id: ATLAS-042
+  title: Connect materials, processes, sensory pathways, objects and historical inference
+  state: implemented
+  paths:
+  - ingredients/rhynchosia-root-for-munkoyo.md
+  - ingredients/banana-juice.md
+  - ingredients/ferulic-acid-in-wort.md
+  - processes/munkoyo-root-starch-conversion.md
+  - sensory/clove-aroma-and-4-vinylguaiacol.md
+  - objects/assam-earthen-pots-and-covers.md
+  delivered_scope: Root enzymes, fruit substrate, yeast-derived flavor, process comparison and vessels with
+    bounded sources.
+- id: ATLAS-043
+  title: Separate environmental LCA units and system boundaries
+  state: implemented
+  paths:
+  - environment/mexican-microbrewery-footprint-case.md
+  - environment/japanese-small-brewery-lca-case.md
+  delivered_scope: Two independent local case studies; no misleading single score across incompatible system
+    boundaries.
+- id: ATLAS-044
+  title: Integrate new citations into existing research and review queue
+  state: implemented
+  paths:
+  - styles/munkoyo.md
+  - styles/umqombothi.md
+  - ingredients/kveik.md
+  - references/atlas-sources-1-6.md
+  - editorial/source-review-queue-1-6.md
+  delivered_scope: Twenty-two original entries revised with source-specific context; 21 external source records
+    used, access and review limitations logged.
+- id: ATLAS-045
+  title: Add offline editorial hygiene checks and edition 1.6 reproducibility
+  state: implemented
+  paths:
+  - tools/research_quality.py
+  - tests/test_research_quality.py
+  - editorial/validation-report-1-6.md
+  - navigation/all-atlas-subjects.md
+  delivered_scope: New regression-tested evidence hygiene checks and generated complete index; validators remain
+    distinct from factual expert review.
 ---
 
 # World Beer Atlas expansion specification
@@ -427,3 +499,17 @@ The source-backed 1.5 expansion records specific bounded case studies and increa
 Interpretation of oral-history catalog records must retain narrator and access distinctions; citation of an archive finding aid is *not* equivalent to reading an individual transcript. An excavated brewery supports a particular site, not an exact ancient recipe or proof of a direct living lineage. Microbiological detections must not be promoted to universal practices or food safety assessments. Style guideline version claims require both publisher and edition; do not combine 2021 BJCP and 2026 BA into one undated taxonomy. See the [source review queue](source-review-queue-1-5.md) for research not yet independently verified.
 
 **Current scope is finite and reviewable:** implementation of ATLAS-032 through ATLAS-038 completes those *specified deliverables only*. ATLAS-012 human/community review remains planned. Licensed media and interactive live calendars remain deferred. The remaining-source questions have responsible next actions, not false completion labels.
+
+## 12. Edition 1.6 — source-first geography, laboratory scope and explanation
+
+The fifth research installment adds 30 bounded subject articles to the 372-article baseline, resulting in **402 subject articles**, including **170 named beer/tradition and related-ferment profiles**. It also adds research notes to 22 existing subjects. ATLAS-039 to ATLAS-045 define the finite work accomplished in this installment; they do not assert completion of any region or topic. The publication and its evidence limits are documented in [research update 1.6](research-update-1-6.md) and [source supplement](../references/atlas-sources-1-6.md).
+
+### Evidence interpretation requirements
+
+The five-community, 15-sample Southern Assam study is **not** a comprehensive account of Indigenous rice-beverage practices. Urugwa evidence currently comes from a secondary review, and the Ugandan Tonto chemistry study sampled two districts; retain those different access levels. Finnish producer accounts support named apprenticeship and celebrations, not a fixed date or the origin of the national tradition. Early-diverging kveik genomic lineages are not dates of beer invention. Measured fermentation organisms, predicted pathways, household culture and active causation are distinct claims. Peruvian and Chilean chicha sources retain their own communities and histories; similarities do not prove descent.
+
+The edition's [quality checker](../tools/research_quality.py) adds reproducible tests for new-page source metadata, cited footnotes, local reading links and review status. A passing report means that the articles meet *local editorial hygiene*, not that external sources were exhaustively read or that communities approved the writing. The next priority is independent local-language and practitioner review, full original-text verification of abstract-only studies, and clear correction handling.
+
+### Accessibility of research
+
+The atlas remains readable as Markdown without network access or runtime dependencies. Automated exports and website navigation are optional derived layers. Historic reports retain the counts they actually measured; the new release records its own numbers instead of rewriting older editions.

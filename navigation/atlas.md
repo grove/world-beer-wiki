@@ -261,3 +261,19 @@ The previous [names and aliases](all-names.md) index remains the 1.1 baseline. T
 | [The brewery they closed with fire](../stories/the-brewery-they-closed-with-fire.md) | stories |
 
 [Complete all-subject index](all-atlas-subjects.md) · [1.5 research update](../editorial/research-update-1-5.md)
+
+## Edition 1.6 — journeys through evidence, not a style ladder
+
+**Two banana aromas, two stories:** [Ugandan Tonto](../styles/tonto.md) → [banana substrate](../ingredients/banana-juice.md) → [banana-like yeast esters](../sensory/banana-fruit-vs-yeast-esters.md) → [the tasting mystery](../stories/where-did-the-banana-aroma-come-from.md).
+
+**Five names, fifteen samples:** [Assam field study](../culture/southern-assam-five-beverage-study.md) → [Karbi Hor Alank](../styles/hor-alank.md) → [Hmar Zu](../styles/zu-hmar.md) → [sequencing limits](../microbiology/assam-rice-ferment-sampling.md).
+
+**Celebration need not be a date:** [Sahti apprenticeship](../culture/sahti-apprenticeship-and-celebration.md) → [weddings/funerals as occasions](../calendar/sahti-occasions-without-a-fixed-date.md) → [Sahti](../styles/sahti.md).
+
+**Follow a clove-like sensation:** [ferulic acid](../ingredients/ferulic-acid-in-wort.md) → [4-vinylguaiacol](../sensory/clove-aroma-and-4-vinylguaiacol.md) → [Weissbier](../styles/weissbier.md). A descriptor is not proof that spice was added.
+
+**Which yeast did the scientist actually sequence?** [household kveik study](../microbiology/kveik-population-history-2026.md) → [heritage culture versus isolate](../stories/the-family-culture-is-not-a-single-genome.md) → [historical yeast object research](../history/historical-yeast-artifacts-research-questions.md).
+
+**Compare environmental studies properly:** [Mexico](../environment/mexican-microbrewery-footprint-case.md) → [Japan](../environment/japanese-small-brewery-lca-case.md) → [footprint methodology](../environment/how-to-compare-brewing-footprints.md).
+
+[Full new-article ledger](../editorial/research-update-1-6.md) · [Source records and access limits](../references/atlas-sources-1-6.md)

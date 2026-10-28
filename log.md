@@ -31,3 +31,7 @@ Added 46 sourced entries across twelve subject areas including new environment a
 ## 2026-10-27 — Research edition 1.5
 
 Added 31 sourced reference articles across twelve non-style layers and 14 cited extensions to existing entries. Introduced a deterministic all-subject index and CI stale-index check, edition-aware current style-guideline comparison, distinct source supplement and independent review queue. See [research update](editorial/research-update-1-5.md) and [scope tracker](editorial/atlas-progress.md). All 166 original named beer/tradition profile paths remain intact.
+
+## 2026-10-28 — Research edition 1.6
+
+Added 30 cited subject articles and research extensions to 22 established subjects; total **402 canonical subject pages** in thirteen layers, including 170 named beer/related-ferment profiles. This release deepens Southern Assam rice-beverage names, Uganda/Rwanda banana ferments, Finnish sahti transmission, Chilean historical testimony, yeast and bacterial inference, Rhynchosia root starch conversion, yeast-derived aromas, and life-cycle methodology. Added 21 distinct accessed-source records with backlinks, independent-review queue and seven tracked work items. New offline research-quality checks have seven regression tests. These additions remain drafts; they do not claim community approval, laboratory safety verification or globally comparable footprint figures. See [research update](editorial/research-update-1-6.md), [source supplement](references/atlas-sources-1-6.md) and [validation](editorial/validation-report-1-6.md).

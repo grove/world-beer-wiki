@@ -42,3 +42,11 @@ New evidence-based references (all retain draft status):
 - [Bánh men: microbial communities in Vietnamese starter cakes](vietnamese-banh-men-communities.md) — Microbiology Reference.
 - [Non-Saccharomyces isolates in Abidjan sorghum beer](non-saccharomyces-yeasts-in-abidjan-sorghum-beer.md) — Microbiology Reference.
 - [Saccharomycopsis fibuligera: a starch-active yeast](saccharomycopsis-fibuligera-in-starters.md) — Microbiology Reference.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Kveik population history: new genomic evidence in 2026](kveik-population-history-2026.md) — A 25-culture western Norwegian sampling study distinguished from a 44-culture European farmhouse survey.
+- [Maltose-negative yeasts in low-alcohol brewing](maltose-negative-yeast-and-low-alcohol.md) — A fermentation strategy that limits wort-sugar utilization without guaranteeing alcohol content or flavor.
+- [Reading the 2024 southern Assam rice-ferment microbiome survey](assam-rice-ferment-sampling.md) — Why 15 samples and bacterial sequencing are a snapshot rather than a starter recipe or health trial.
+- [Umqombothi: amplicons, predicted functions and actual fermentation](umqombothi-amplicons-and-predicted-function.md) — A 2023 comparison of raw ingredients and brewed samples, interpreted without treating DNA as a safety certificate.
+- [Why some lactic acid bacteria can survive hopped beer](hop-resistant-lactic-acid-bacteria.md) — Hop acids inhibit sensitive bacteria, but strain-level resistance can evolve or be selected.

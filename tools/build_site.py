@@ -10,8 +10,10 @@ import os
 from pathlib import Path, PurePosixPath
 import re
 import shutil
+from urllib.parse import unquote, urlsplit
 
 import yaml
+from validate_wiki import links, without_fences
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -199,6 +201,35 @@ def navigation(pages, docs):
     return nav
 
 
+def audit_staged_links(docs, pages):
+    """Find links to files omitted from the staged site before MkDocs strict mode.
+
+    The repository Markdown validator accepts links to maintenance files such as
+    .github/workflows/*.yml because those files exist in the repository; the
+    website deliberately excludes those folders. Catch this distinction early.
+    """
+    for page in sorted(pages):
+        source = docs / page.as_posix()
+        rendered = without_fences(source.read_text(encoding="utf-8"))
+        for target, line in links(rendered):
+            try:
+                parsed = urlsplit(target)
+            except ValueError:
+                continue  # General wiki validator reports malformed URL metadata.
+            if parsed.scheme or parsed.netloc or not parsed.path:
+                continue
+            candidate = (source.parent / unquote(parsed.path)).resolve()
+            if not candidate.is_relative_to(docs.resolve()):
+                raise ValueError(f"{page}:{line}: site link escapes staged documents: {target}")
+            if candidate.is_dir():
+                candidate = candidate / "index.md"
+            if not candidate.is_file():
+                raise ValueError(
+                    f"{page}:{line}: site link target is not published: {target}; "
+                    "use an absolute repository URL for excluded maintenance files"
+                )
+
+
 def build(root=ROOT):
     root = Path(root).resolve()
     output = root / ".build"
@@ -240,6 +271,8 @@ def build(root=ROOT):
         elif path.parts[0] in {"styles", "ingredients", "categories", "culture", "calendar", "microbiology", "processes", "objects", "sensory", "stories"}:
             content = article_chips(content)
         article.write_text(content, encoding="utf-8")
+
+    audit_staged_links(docs, pages)
 
     config = yaml.safe_load((root / "mkdocs.yml").read_text(encoding="utf-8"))
     config["docs_dir"] = str(docs)

@@ -31,3 +31,9 @@ New evidence-based references (all retain draft status):
 - [A starter cake is not a strain catalogue](a-cake-is-a-community-not-a-strain.md) — Research Story.
 - [One beer, two judging books](one-title-two-guidelines.md) — Research Story.
 - [The brewery they closed with fire](the-brewery-they-closed-with-fire.md) — Research Story.
+
+## Edition 1.6 — additional source-scoped research
+
+- [A bacterium can be welcome in one beer and spoil another](when-a-bacterium-is-welcome-and-when-it-is-not.md) — The same broad microbial label does not explain intent, function or failure.
+- [A family yeast is not one genome](the-family-culture-is-not-a-single-genome.md) — How sampling a culture changes what researchers can see about fermentation heritage.
+- [The banana that was never added](where-did-the-banana-aroma-come-from.md) — An evidence-led tasting mystery about fruit, fermentation and the mistakes of ingredient inference.

@@ -71,3 +71,7 @@ Historical depth varies. A judging guideline's background paragraph is not an ar
 Seek community review and local-language sources for terminology; original records for historical claims; independent sensory and process observations where only producer descriptions exist; and broader regional sampling before generalizing a laboratory study. Preserve the distinction between observed practice, an experimental adaptation and a contemporary judging category.
 
 The corpus has no systematic brewery catalogue, current product-availability service, recipe database, dietary assessment or legal classification service. Its [validation](validation-report.md) checks structure and provenance consistency, not the truth of every interpretation.
+
+## Scope after edition 1.6
+
+The corpus now has **402** mixed subject articles. Four new drink profiles are **local or related-ferment references**, not four newly recognized universal judging styles. Several cultural case studies derive from just one primary sampling project or from secondary/producer sources and need independent community-language checking. Laboratory detection does not prove cultural practice, metabolic causality or food safety. Two environmental case studies have incompatible life-cycle boundaries. See the [1.6 review queue](source-review-queue-1-6.md) and [source supplement](../references/atlas-sources-1-6.md).

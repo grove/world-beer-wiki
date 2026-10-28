@@ -11,3 +11,7 @@
 - [Edition 1.3 atlas reading routes](atlas.md) — expanded cultural, historical and scientific subjects.
 
 [Complete index of every atlas subject](all-atlas-subjects.md) · [1.5 research routes and added pages](atlas.md)
+
+## Edition 1.6
+
+[402 subject entries in one deterministic directory](all-atlas-subjects.md) · [Six evidence-based reading routes](atlas.md) · [30 new research articles](../editorial/research-update-1-6.md).

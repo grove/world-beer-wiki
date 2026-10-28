@@ -13,3 +13,5 @@ Source records, independent publications and independent confirmations are diffe
 - [Source supplement 1.4](atlas-sources-1-4.md) — 35 source records, access scope and evidence limitations for the latest research.
 
 [Research edition 1.5 sources](atlas-sources-1-5.md) — 22 distinct source records, consultation limits and backlinks; reuse is not independent corroboration.
+
+[Edition 1.6 annotated source supplement](atlas-sources-1-6.md) — 21 distinct source records reused across 30 new and 22 revised subjects; reports actual source access rather than an independent verification score.

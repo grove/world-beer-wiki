@@ -25,6 +25,13 @@ sources:
   source_kind: primary-microbial-genomics
   access_scope: Open-access full text and abstract; 9 Norwegian source cultures, lab-tested phenotype not
     guarantee.
+- id: v16-kveik-2026
+  resource: https://academic.oup.com/gbe/article/18/9/evag220/8771788
+  title: Genomic Evidence of Early-Diverging Domesticated Lineages in Norwegian Farmhouse Yeast (2026)
+  author_label: Dondrup et al.
+  source_kind: primary-genomics-open-excerpts
+  access_scope: 'Open publisher abstract plus selected sampling, results and discussion excerpts: 64 isolates
+    from 25 Western Norwegian cultures; ancestry inference not date of brewing invention.'
 regions:
 - Northern Europe
 - Norway
@@ -32,7 +39,7 @@ scope: Two 2026 genomic studies and the earlier 2018 sampling, distinguishing cu
   estimates.
 evidence_basis:
 - primary-microbial-genomics
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI-researched, source-scoped draft; not independently reviewed or community-approved.
 relations:
 - relation: compare_with
@@ -82,3 +89,11 @@ The 2026 paper’s PubMed abstract supports sample sizes and genomic conclusions
 [^v13-kveik26]: [Genomic Evidence of Early-Diverging Domesticated Lineages in Norwegian Farmhouse Yeast (2026)](https://pubmed.ncbi.nlm.nih.gov/42657995/). Michael Dondrup and colleagues. Consulted 2026-10-27. Evidence accessed: PubMed abstract; 64 isolates from 25 western Norwegian cultures, inference on lineages not dating a specific batch.
 
 [^v13-kveik18]: [Traditional Norwegian Kveik Are a Genetically Distinct Group (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6145013/). Richard Preiss and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access full text and abstract; 9 Norwegian source cultures, lab-tested phenotype not guarantee.
+
+## Edition 1.6: sourced research connections
+
+An additional, independent **August 2026** paper (Dondrup and colleagues) evaluated 64 isolates derived from 25 culturally selected western Norwegian brewing cultures. It proposed early-diverging phylogenetic placement and argued that earlier apparent admixture signals require correction for population structure and selection. It does not resolve the birthplace or calendar date of kveik domestication.[^v16-kveik-2026]
+
+See [the side-by-side study comparison](kveik-population-history-2026.md). Do not conflate this 25-culture study with the other 2026 multi-country 44-culture investigation.
+
+[^v16-kveik-2026]: [Genomic Evidence of Early-Diverging Domesticated Lineages in Norwegian Farmhouse Yeast (2026)](https://academic.oup.com/gbe/article/18/9/evag220/8771788). Dondrup et al.. Consulted 2026-10-28. Access: Open publisher abstract plus selected sampling, results and discussion excerpts: 64 isolates from 25 Western Norwegian cultures; ancestry inference not date of brewing invention.

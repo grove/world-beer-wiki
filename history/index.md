@@ -31,3 +31,8 @@ New evidence-based references (all retain draft status):
 - [Cerro Baúl: an excavated Wari brewery](cerro-baul-wari-brewery.md) — Historical Research.
 - [Peoples Brewing: Black brewery ownership in 1970](peoples-brewing-and-ownership.md) — Historical Research.
 - [Who is missing from brewing archives?](beer-records-and-archival-silence.md) — Historical Research.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Chicha in Chilean colonial records: whose voice do we hear?](chile-chicha-and-the-colonial-archive.md) — Separating reported pre-Hispanic and colonial practices from later chroniclers’ judgment and retrospective synthesis.
+- [What historical brewing artifacts could tell us about yeast](historical-yeast-artifacts-research-questions.md) — A research program, not a claim to have resurrected an ancient starter.

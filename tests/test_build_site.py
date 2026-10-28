@@ -54,6 +54,19 @@ class BuildSiteTests(unittest.TestCase):
         self.write("culture/case.md", "---\ntitle: Case\ntype: Cultural Practice\nstatus: draft\n---\n\n# Case\n")
         self.write("website/assets/stylesheets/extra.css", "/* fixture */")
 
+    def test_excluded_repository_file_requires_absolute_link(self):
+        self.write(".github/workflows/validate.yml", "name: Validate\n")
+        self.write("editorial/index.md", "# Editorial\n")
+        self.write("editorial/progress.md", "# Progress\n\n[CI](../.github/workflows/validate.yml)\n")
+        with self.assertRaisesRegex(ValueError, "site link target is not published"):
+            build(self.root)
+
+    def test_external_github_link_is_allowed(self):
+        self.write("editorial/index.md", "# Editorial\n")
+        self.write("editorial/progress.md", "# Progress\n\n[CI](https://github.com/example/repo/blob/main/.github/workflows/validate.yml)\n")
+        build(self.root)
+        self.assertTrue((self.root / ".build/docs/editorial/progress.md").is_file())
+
     def test_nav_search_aliases_and_growth(self):
         original = (self.root / "styles/amber-ale.md").read_text()
         build(self.root)

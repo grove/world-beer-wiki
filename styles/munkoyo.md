@@ -28,6 +28,14 @@ sources:
   source_kind: primary-research
   access_scope: PubMed abstract of original experimental fermentation research; full paper not inspected
   author_label: R. M. Zulu, V. M. Dillon and J. D. Owens
+- id: v16-munkoyo
+  resource: https://pubmed.ncbi.nlm.nih.gov/9039570/
+  title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase
+    source (1997)
+  author_label: Zulu, Dillon and Owens
+  source_kind: primary-food-microbiology-abstract
+  access_scope: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental
+    fermentation with named microbes; not a survey of all Zambian recipes.
 aliases: []
 regions:
 - Southern Africa
@@ -37,7 +45,7 @@ countries:
 tradition_status: living-tradition
 scope: Zambian beverage and root-use studies; included as a related cereal ferment, not a standardized alcoholic beer.
 evidence_basis: Primary research with article-specific access limits recorded below.
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
 relations:
 - relation: compare_with
@@ -83,3 +91,11 @@ The botanical paper was available in full; the 1997 fermentation paper was read 
 [^trad-munkoyo-botany]: [Characterization and DNA barcoding of Zambian plant species used as inoculum in the traditional fermentation of Munkoyo; a cereal-based beverage (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11803949/). Mubonda Kalumbilo, David Chuba, Agripina Banda, Eddy J. Smid, Sijmen E. Schoustra and Gerlinde B. De Deyn. Consulted 2026-10-27. Evidence used: full-text original botanical study; plant identification, sampling and beverage-context sections.
 
 [^trad-munkoyo-fermentation]: [Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source (1997)](https://pubmed.ncbi.nlm.nih.gov/9039570/). R. M. Zulu, V. M. Dillon and J. D. Owens. Consulted 2026-10-27. Evidence used: PubMed abstract of original experimental fermentation research; full paper not inspected.
+
+## Edition 1.6: sourced research connections
+
+The 1997 study of a Zambian munkoyo beverage made the **enzyme source** unusually explicit: it identified *Rhynchosia heterophylla* root extract in a cooked-maize mixture and tested fermentation using specified bacterial and yeast strains. This supports a plant-enzyme comparison, **not** a fixed recipe or evidence that every brewer uses those laboratory isolates.[^v16-munkoyo]
+
+Follow [Rhynchosia root identity](../ingredients/rhynchosia-root-for-munkoyo.md) and [the root-based starch pathway](../processes/munkoyo-root-starch-conversion.md). Plant identification, processing conditions and locally named preparations still need further producer-specific documentation.
+
+[^v16-munkoyo]: [Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase source (1997)](https://pubmed.ncbi.nlm.nih.gov/9039570/). Zulu, Dillon and Owens. Consulted 2026-10-28. Access: PubMed abstract of a studied R. heterophylla/root extract and cooked-maize experimental fermentation with named microbes; not a survey of all Zambian recipes.

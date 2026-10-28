@@ -17,10 +17,17 @@ sources:
   source_kind: industrial-case-study
   access_scope: 'Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide
     average.'
+- id: v16-mexico-lca
+  resource: https://www.eemj.eu/index.php/EEMJ/article/view/5028
+  title: Carbon and water footprints of micro craft breweries using a life cycle assessment approach (2024)
+  author_label: Perea-Eguia, Wakida and Hernandez
+  source_kind: primary-lca-abstract
+  access_scope: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle
+    boundaries and water footprint definitions require attention.
 scope: Industrial Greek brewery case study on water use, treatment and reuse, not a universal benchmark.
 evidence_basis:
 - industrial-case-study
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI-researched source-scoped draft; no independent expert or community approval.
 ---
 
@@ -49,3 +56,11 @@ Industrial Greek brewery case study on water use, treatment and reuse, not a uni
 ## Source notes
 
 [^v14-water]: [Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)](https://www.mdpi.com/2073-4441/17/8/1179). Greek brewery case-study research team. Consulted 2026-10-27. Access: Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide average.
+
+## Edition 1.6: sourced research connections
+
+The Mexican microbrewery LCA survey reported that nearly all of its calculated water-footprint burden was associated with **agricultural raw materials**, a different scope than factory water drawn, treated and discharged on site. Mixing those units would distort comparisons and policy discussions.[^v16-mexico-lca]
+
+See the [case-study reading](mexican-microbrewery-footprint-case.md) and [comparability guide](how-to-compare-brewing-footprints.md).
+
+[^v16-mexico-lca]: [Carbon and water footprints of micro craft breweries using a life cycle assessment approach (2024)](https://www.eemj.eu/index.php/EEMJ/article/view/5028). Perea-Eguia, Wakida and Hernandez. Consulted 2026-10-28. Access: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle boundaries and water footprint definitions require attention.

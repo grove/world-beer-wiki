@@ -174,3 +174,10 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 | [Witbier](witbier.md) | Beer Style | Europe | BJCP 2021 24A |
 | [Wood-aged beer](wood-aged-beer.md) | Specialty Beer Category | International | BJCP 2021 33A |
 | [Zutho](zutho.md) | Beer Tradition | South Asia, India, Nagaland | — |
+
+## Edition 1.6 — additional source-scoped research
+
+- [Hor Alank — Karbi rice-based ferment in southern Assam](hor-alank.md) — A Karbi-associated rice beverage documented in a 15-sample Southern Assam comparative survey.
+- [Tonto — fermented banana drink in Uganda](tonto.md) — A source-bounded Ugandan banana beverage studied in two districts; not a universal grain-beer style.
+- [Urugwa — banana and sorghum fermented beverage in Rwanda](urugwa.md) — A secondary-source description of Rwandan banana and roasted-sorghum fermentation, with local variation kept visible.
+- [Zu — Hmar rice-based ferment in southern Assam](zu-hmar.md) — A situated description of Hmar Zu and its starter recorded in a five-community field and microbial study.

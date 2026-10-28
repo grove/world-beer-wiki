@@ -42,21 +42,21 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 
 | Section | Entries | Purpose |
 |---|---:|---|
-| [Beer and tradition profiles](styles/index.md) | 166 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 38 | Materials, processing forms, enzymes and fermentation organisms. |
-| [Category guides](categories/index.md) | 21 | Explanations and comparisons across families and classification axes. |
-| [Culture](culture/index.md) | 26 | Situated institutions, work, exchange and knowledge. |
-| [Calendar](calendar/index.md) | 12 | Seasons and edition-specific events. |
-| [Microbiology](microbiology/index.md) | 24 | Organisms, cultures and ecological evidence. |
-| [Processes](processes/index.md) | 21 | Transformations and production comparisons. |
-| [Objects and service](objects/index.md) | 9 | Equipment and ways of presenting drinks. |
-| [Sensory](sensory/index.md) | 13 | Flavor reasoning and evidence boundaries. |
-| [Stories](stories/index.md) | 13 | Evidence-based narrative reading routes. |
-| [History and archaeology](history/index.md) | 18 | Historical policies, industrialization and ancient material evidence. |
-| [Environment](environment/index.md) | 7 | Climate, cultivation, energy, water and materials. |
+| [Beer and tradition profiles](styles/index.md) | 170 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
+| [Ingredients and cultures](ingredients/index.md) | 41 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Category guides](categories/index.md) | 23 | Explanations and comparisons across families and classification axes. |
+| [Culture](culture/index.md) | 29 | Situated institutions, work, exchange and knowledge. |
+| [Calendar](calendar/index.md) | 13 | Seasons and edition-specific events. |
+| [Microbiology](microbiology/index.md) | 29 | Organisms, cultures and ecological evidence. |
+| [Processes](processes/index.md) | 23 | Transformations and production comparisons. |
+| [Objects and service](objects/index.md) | 10 | Equipment and ways of presenting drinks. |
+| [Sensory](sensory/index.md) | 15 | Flavor reasoning and evidence boundaries. |
+| [Stories](stories/index.md) | 16 | Evidence-based narrative reading routes. |
+| [History and archaeology](history/index.md) | 20 | Historical policies, industrialization and ancient material evidence. |
+| [Environment](environment/index.md) | 9 | Climate, cultivation, energy, water and materials. |
 | [Beer with food](food/index.md) | 4 | Evidence-based pairing context and consumer study designs. |
 
-That is **372 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.5 research update](editorial/research-update-1-5.md) document delivered and remaining scope.
+That is **402 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.6 research update](editorial/research-update-1-6.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
@@ -103,3 +103,9 @@ Browse [environment](environment/index.md), [food and pairing](food/index.md) or
 ## Research edition 1.5
 
 Use the [complete subject index](navigation/all-atlas-subjects.md) to find every entry across all sections, or follow [curated investigation routes](navigation/atlas.md). The [1.5 source supplement](references/atlas-sources-1-5.md) records access limitations; the [research review queue](editorial/source-review-queue-1-5.md) shows work that remains unverified. Regenerate the index with `python tools/build_subject_index.py`; continuous integration checks that committed navigation is current.
+
+## Edition 1.6 reading routes and editorial hygiene
+
+The [complete subject index](navigation/all-atlas-subjects.md) now spans 402 canonical entries. [Research journeys](navigation/atlas.md) connect banana-based ferments, Assamese community names, Finnish celebratory sahti, phenolic yeast aroma, kveik genomics, and environmental case studies. The [21-source edition supplement](references/atlas-sources-1-6.md) documents actual access and reused records.
+
+The [edition research-quality checker](tools/research_quality.py) adds source-access, citation-use and cross-link checks; it does not fact-check external studies or stand in for human community review. Run `python tools/research_quality.py --json` after the existing validator commands.
