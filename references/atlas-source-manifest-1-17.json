@@ -1,0 +1,159 @@
+{
+  "edition": "1.17",
+  "checked_on": "2026-10-28",
+  "editorial_scope": "Agronomy, heritage barley, farm contracts, mycotoxin evidence and malting-to-beer material transfer. AI research draft; no operational safety advice.",
+  "sources": [
+    {
+      "id": "v117-fusarium-trial",
+      "title": "Fusarium infection in malting barley drives trichothecene transfer and transformation during brewing process, impacting beer safety and composition (2026)",
+      "author_label": "Eva Maria Biehl and colleagues",
+      "resource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070047/",
+      "source_kind": "primary-controlled-malting-and-brewing-experiment",
+      "access_scope": "PubMed full abstract and detailed PMC-indexed study sections; direct PMC open returned a browser verification check. Inoculated experimental malt, not a survey of commercial beers or a safety protocol."
+    },
+    {
+      "id": "v117-fusarium-review",
+      "title": "Relevant Fusarium Mycotoxins in Malt and Beer (2022)",
+      "author_label": "Pascari and colleagues",
+      "resource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8774397/",
+      "source_kind": "peer-reviewed-review-indexed-full-text",
+      "access_scope": "Public PMC indexed full review sections; direct page may require verification. Secondary synthesis rather than new experimental prevalence or regulatory assessment."
+    },
+    {
+      "id": "v117-fungal-strains",
+      "title": "Impacts of pathogen strain and barley cultivar on Fusarium head blight in barley and during malting (2024)",
+      "author_label": "Anuradha U. Jayathissa and colleagues",
+      "resource": "https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13918",
+      "source_kind": "primary-controlled-field-and-malt-trial",
+      "access_scope": "Full public open-access study with 2019–2021 field trials of two cultivars and seven F. graminearum isolates plus controls; strain/year/cultivar effects are trial-specific."
+    },
+    {
+      "id": "v117-sprouting-review",
+      "title": "A critical review of pre-harvest sprouting in barley (2026)",
+      "author_label": "S. I. Hull, S. Hayward, S. Orth and P. A. Swanepoel",
+      "resource": "https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70475",
+      "source_kind": "open-agronomic-review",
+      "access_scope": "Accessible full 2026 review of barley seed dormancy, rainfall, physiology and malting consequences; not a harvest forecast for any farm."
+    },
+    {
+      "id": "v117-enzymes",
+      "title": "Enzyme Activities Shape Malting Quality Standards (2025)",
+      "author_label": "Food Science & Nutrition research authors",
+      "resource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11717045/",
+      "source_kind": "peer-reviewed-malting-review-public-index",
+      "access_scope": "2025 open research article indexed via PMC, emphasizing enzyme activity and genetic/environmental factors; exact detailed methods not independently reproduced."
+    },
+    {
+      "id": "v117-pollutants",
+      "title": "Understanding How Chemical Pollutants Arise and Evolve in the Brewing Supply Chain: A Scoping Review (2024)",
+      "author_label": "Scoping-review research authors",
+      "resource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11171931/",
+      "source_kind": "peer-reviewed-supply-chain-scoping-review",
+      "access_scope": "PMC-indexed open review about storage, grain, adjuncts and contaminant fate; not a factory inspection or a statement that all beers contain contaminants."
+    },
+    {
+      "id": "v117-modified",
+      "title": "Modified Mycotoxins in Food: Current Evidence, Key Uncertainties, and Priorities for Risk Assessment (2026)",
+      "author_label": "Systematic-review authors",
+      "resource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13499292/",
+      "source_kind": "systematic-food-risk-review",
+      "access_scope": "Public PMC indexed full sections and methods tables; direct open blocked by a browser check. Discusses modified forms and evidence gaps, not a beer-specific safety threshold."
+    },
+    {
+      "id": "v117-chain",
+      "title": "The barley–malt–beer chain: A process and food safety approach (2026)",
+      "author_label": "José Gómez-Espinoza and colleagues",
+      "resource": "https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/jsf2.70039",
+      "source_kind": "open-brewing-safety-literature-review",
+      "access_scope": "Full accessible open 2026 review of grain handling, malt and brewing contaminant transfer; secondary synthesis, not validated production instructions."
+    },
+    {
+      "id": "v117-eu-contaminants",
+      "title": "Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026",
+      "author_label": "European Commission",
+      "resource": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915",
+      "source_kind": "official-consolidated-eu-regulation",
+      "access_scope": "EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision."
+    },
+    {
+      "id": "v117-eu-don-amendment",
+      "title": "Commission Regulation (EU) 2024/1022 amending maximum levels of deoxynivalenol in food",
+      "author_label": "European Commission",
+      "resource": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1022",
+      "source_kind": "official-dated-eu-amendment",
+      "access_scope": "Full public 2024 legal act applying from 1 July 2024; not evidence of identical limits for every cereal, beer and brewery by-product."
+    },
+    {
+      "id": "v117-bere-review",
+      "title": "Back to the future: Using ancient Bere barley landraces for a sustainable future",
+      "author_label": "Peter Martin and colleagues",
+      "resource": "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432",
+      "source_kind": "open-agronomic-and-heritage-review",
+      "access_scope": "Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date."
+    },
+    {
+      "id": "v117-bere-institute",
+      "title": "Research on cereals: Bere barley and modern varieties",
+      "author_label": "University of the Highlands and Islands Agronomy Institute",
+      "resource": "https://www.westhighland.uhi.ac.uk/en/research-enterprise/res-themes/silk/agronomy-and-agriculture-institute/research-on-cereals/",
+      "source_kind": "university-agriculture-research-summary",
+      "access_scope": "Public indexed university overview of Bere research, resilient traits and local supply chains; direct URL returned a 502 during follow-up, not an independent field interview."
+    },
+    {
+      "id": "v117-hot-steep",
+      "title": "Hot Steep Malt Sensory Evaluation Method combined with Check-All-That-Apply (2025)",
+      "author_label": "Doris Häge, Felix Baumgartner and Bernd Lindemann",
+      "resource": "https://brewingscience.de/index.php/brewingscience/article/view/135",
+      "source_kind": "primary-sensory-experiment-publisher-abstract",
+      "access_scope": "Full public publisher abstract describing selected heritage and modern spring barley samples; PDF methods and panel-level data not read. Sensory study is not a universal malt ranking."
+    },
+    {
+      "id": "v117-contracts-2021",
+      "title": "Economics of contracts in African food systems: evidence from the malt barley sector in Ethiopia (2021)",
+      "author_label": "Delelegne A. Tefera and Jos Bijman",
+      "resource": "https://link.springer.com/article/10.1186/s40100-021-00198-0",
+      "source_kind": "open-agricultural-economics-study",
+      "access_scope": "Full open Ethiopia study using cross-sectional survey and statistical adjustment; Arsi contracting results not universal causal outcomes across all farmers."
+    },
+    {
+      "id": "v117-contracts-2022",
+      "title": "Are smallholder farmers benefiting from malt barley contract farming engagement in Ethiopia? (2022)",
+      "author_label": "Zerhun Ganewo and colleagues",
+      "resource": "https://link.springer.com/article/10.1186/s40066-022-00396-z",
+      "source_kind": "open-agricultural-household-survey",
+      "access_scope": "Full open 2022 study of 312 households with propensity-score matching on income and dietary diversity; association/estimation within its sampled setting, not a nutritional or national guarantee."
+    },
+    {
+      "id": "v117-contracts-2025",
+      "title": "Impact of contract farming on householders' income, intensification, and land productivity in Ethiopia (2025)",
+      "author_label": "Frontiers agricultural economics research team",
+      "resource": "https://www.frontiersin.org/journals/environmental-economics/articles/10.3389/frevc.2025.1415517/full",
+      "source_kind": "open-field-survey-and-matched-analysis",
+      "access_scope": "Full open 2025 study of 248 sampled households in Central and Southern Oromia with interviews, FGD and matching; local estimates and contract forms must not be generalized."
+    },
+    {
+      "id": "v117-drought-study",
+      "title": "Proteomic Insights into the Impact of Drought Stress on Barley Grain Composition and Malt Quality (2026)",
+      "author_label": "Barley malt proteomics study authors",
+      "resource": "https://pubmed.ncbi.nlm.nih.gov/42170759/",
+      "source_kind": "primary-field-proteomics-abstract",
+      "access_scope": "PubMed full abstract of a 2026 three-cultivar drought-gradient experiment; complete paper, farm transferability and detailed protocols not reviewed."
+    },
+    {
+      "id": "v117-food-mycotoxins",
+      "title": "Mycotoxin detection in food and feed: bridging conventional analytical methods with emerging sensor-based technologies (2026)",
+      "author_label": "Viola O. Okechukwu and colleagues",
+      "resource": "https://link.springer.com/article/10.1007/s12550-026-00657-x",
+      "source_kind": "open-analytical-method-review",
+      "access_scope": "Full open 2026 review of laboratory versus emerging sensing approaches for food and feed; not validated against every beer/ingredient matrix."
+    },
+    {
+      "id": "v117-estie-market",
+      "title": "Value chain analysis of malt barley in North western part of Ethiopia (2021)",
+      "author_label": "Cogent Social Sciences malt barley value-chain research authors",
+      "resource": "https://www.tandfonline.com/doi/full/10.1080/23311886.2021.1980260",
+      "source_kind": "open-regional-value-chain-survey",
+      "access_scope": "Full accessible report on Estie-area cooperative marketing and trust-based relationships; place-specific descriptions, not a single nationwide contract structure."
+    }
+  ]
+}
