@@ -13,12 +13,12 @@ generated:
 sources:
 - id: v15-wari-2005
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/
-  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru
-    (2005)'
+  title: 'Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl,
+    Peru (2005)'
   author_label: Michael E. Moseley and coauthors
   source_kind: primary-archaeological-paper
-  access_scope: Indexed excerpts of open article text returned in search; direct page open presented a browser
-    challenge; excavation claims limited to retrieved passages, not unseen figures.
+  access_scope: Indexed excerpts of open article text returned in search; direct page open presented a
+    browser challenge; excavation claims limited to retrieved passages, not unseen figures.
 - id: v15-himalaya-review
   resource: https://link.springer.com/article/10.1186/s42779-024-00260-4
   title: 'Himalayan fermented beverages and their therapeutic properties: a comprehensive review (2024)'
@@ -26,15 +26,29 @@ sources:
   source_kind: open-review
   access_scope: Open review on Himalayan beverage variation and starter practice; medical claims and therapeutic
     implications excluded.
+- id: v112-paiwan-agency
+  resource: https://www.cip.gov.tw/en/tribe/grid-list/E8D1B17F6A81D678D0636733C6861689/info.html?cumid=D0636733C6861689
+  title: 'Paiwan: customs, millet harvest and Five-Year Ritual'
+  author_label: Taiwan Council of Indigenous Peoples
+  source_kind: indigenous-affairs-institutional-account
+  access_scope: Public English agency description of certain Paiwan practices; community variation and
+    restricted ceremonial detail not independently reviewed.
+- id: v112-aludi-georgia
+  resource: https://georgia.travel/georgian-beer-aludi
+  title: Georgian Aludi
+  author_label: Georgia Travel, Georgian National Tourism Administration
+  source_kind: official-regional-cultural-account
+  access_scope: English government tourism description of Georgian mountain beer, seasonal festivities
+    and ceremonial contexts; not independently community-verified or a UNESCO listing.
 regions:
 - Cross-regional
-scope: Comparison of a Wari archaeological closure event with seasonal and starter preparation described in
-  ethnographic reviews; no recurring date inferred.
+scope: Comparison of a Wari archaeological closure event with seasonal and starter preparation described
+  in ethnographic reviews; no recurring date inferred.
 calendar:
   kind: seasonal
   system: Comparative local seasonal descriptions; no single historical or Gregorian calendar inferred.
-  timing: Himalayan studies discuss warmer and colder preparation conditions; Cerro Baúl documents
-    an archaeological ceremonial closure, with no reliably identified recurring date.
+  timing: Himalayan studies discuss warmer and colder preparation conditions; Cerro Baúl documents an
+    archaeological ceremonial closure, with no reliably identified recurring date.
   source_ids:
   - v15-himalaya-review
   - v15-wari-2005
@@ -75,8 +89,19 @@ For each documented practice, record separately when material was harvested, whe
 
 Comparison of a Wari archaeological closure event with seasonal and starter preparation described in ethnographic reviews; no recurring date inferred. This is a research draft; cited sampling, interviews, archives, guideline editions or experiments retain their stated limits. No independent specialist or community review is claimed.
 
+
+## Edition 1.12: newly sourced connections
+
+Taiwan's Council of Indigenous Peoples describes Paiwan millet harvest associations and a **Five-Year Ritual among specific Paiwan groups**, but that account does not provide a single Gregorian date for all communities.[^v112-paiwan-agency] Georgia's tourism authority likewise associates aludi with named highland gatherings and summer occasions, not a worldwide fixed brewing calendar.[^v112-aludi-georgia]
+
+See [Paiwan ritual timing](paiwan-five-year-ritual-and-millet-wine.md) and [Georgian aludi gatherings](aludi-summer-gatherings.md).
+
 ## Source notes
 
 [^v15-wari-2005]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley and coauthors. Consulted 2026-10-27. Access: Indexed excerpts of open article text returned in search; direct page open presented a browser challenge; excavation claims limited to retrieved passages, not unseen figures.
 
 [^v15-himalaya-review]: [Himalayan fermented beverages and their therapeutic properties: a comprehensive review (2024)](https://link.springer.com/article/10.1186/s42779-024-00260-4). Soumya Majumder and Malay Bhattacharya. Consulted 2026-10-27. Access: Open review on Himalayan beverage variation and starter practice; medical claims and therapeutic implications excluded.
+
+[^v112-paiwan-agency]: [Paiwan: customs, millet harvest and Five-Year Ritual](https://www.cip.gov.tw/en/tribe/grid-list/E8D1B17F6A81D678D0636733C6861689/info.html?cumid=D0636733C6861689). Taiwan Council of Indigenous Peoples. Consulted 2026-10-28. Evidence access: Public English agency description of certain Paiwan practices; community variation and restricted ceremonial detail not independently reviewed.
+
+[^v112-aludi-georgia]: [Georgian Aludi](https://georgia.travel/georgian-beer-aludi). Georgia Travel, Georgian National Tourism Administration. Consulted 2026-10-28. Evidence access: English government tourism description of Georgian mountain beer, seasonal festivities and ceremonial contexts; not independently community-verified or a UNESCO listing.

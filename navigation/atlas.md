@@ -286,3 +286,8 @@ The previous [names and aliases](all-names.md) index remains the 1.1 baseline. T
 ## Edition 1.11 research trails
 
 [Nine evidence-led trails](edition-1-11-reading-trails.md) connect Mexican agave, Brazilian cassava, Nigerian cereal food-drinks, and brewing chemistry without unsupported historical descent claims.
+
+
+## Research edition 1.12
+
+[Nine research routes for edition 1.12](edition-1-12-reading-trails.md) compare mahewu, boza, kvass, aludi, amazake and Paiwan millet accounts without implying a single global family.

@@ -15,14 +15,16 @@ generated:
 sources:
 - id: umqombothi-review
   resource: https://www.mdpi.com/2227-9717/8/11/1451
-  title: Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer) (2020)
+  title: Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer)
+    (2020)
   author: team:hlangwani-et-al
   source_kind: research-review
   access_scope: published process and sensory overview
   author_label: Hlangwani et al.
 - id: umqombothi-research
   resource: https://www.mdpi.com/2311-5637/7/4/225
-  title: Nutritional Compositions of Optimally Processed Umqombothi (a South African Indigenous Beer) (2021)
+  title: Nutritional Compositions of Optimally Processed Umqombothi (a South African Indigenous Beer)
+    (2021)
   author: team:hlangwani-et-al
   source_kind: primary-research
   access_scope: indexed published text; customary and optimized production comparison
@@ -40,22 +42,38 @@ sources:
   title: Analysis of the bacterial and fungal populations in South African sorghum beer (umqombothi) (2023)
   author_label: Study authors
   source_kind: primary-microbial-profiling
-  access_scope: Open Springer article abstract and indexed results comparing mixed ingredients, customary brew
-    and optimized brew; inferred pathways are not measured production rates.
+  access_scope: Open Springer article abstract and indexed results comparing mixed ingredients, customary
+    brew and optimized brew; inferred pathways are not measured production rates.
 - id: v111-umqombothi-museum
   resource: https://nationalmuseumpublications.co.za/umqombothi-our-african-beer/
   title: 'Umqombothi: Our African Beer (National Museum publication, 2019)'
   author_label: National Museum Publications (South Africa)
   source_kind: museum-cultural-account
-  access_scope: Museum narrative with context on ancestor offerings, cooperative work and vessels; not a representative
-    survey of all communities.
+  access_scope: Museum narrative with context on ancestor offerings, cooperative work and vessels; not
+    a representative survey of all communities.
 - id: v111-umqombothi-review
   resource: https://www.mdpi.com/2227-9717/8/11/1451
-  title: Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer) (2020)
+  title: Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer)
+    (2020)
   author_label: Processing-review authors
   source_kind: regional-process-review-open-text
-  access_scope: Open review text covering several South African social occasions and production accounts; secondary
-    synthesis with variation.
+  access_scope: Open review text covering several South African social occasions and production accounts;
+    secondary synthesis with variation.
+- id: v112-zimbabwe-review
+  resource: https://pubmed.ncbi.nlm.nih.gov/10598109/
+  title: A review of traditional fermented foods and beverages of Zimbabwe (1999)
+  author_label: T. H. Gadaga, A. N. Mutukumira, J. A. Narvhus and S. B. Feresu
+  source_kind: secondary-review-abstract
+  access_scope: PubMed abstract, distinguishing nonalcoholic maize refreshments and alcoholic malt beers;
+    no original household observations inspected.
+- id: v112-mahewu-2019
+  resource: https://pubmed.ncbi.nlm.nih.gov/30902861/
+  title: Composition and Origin of the Fermentation Microbiota of Mahewu, a Zimbabwean Fermented Cereal
+    Beverage (2019)
+  author_label: Felicitas Pswarayi and Michael G. Gänzle
+  source_kind: primary-microbiology-study
+  access_scope: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal
+    source tracking; full tables not independently reproduced.
 aliases:
 - Umqomboti
 regions:
@@ -126,6 +144,13 @@ The South African National Museum account stresses sharing and work reciprocity 
 
 Read [Umqombothi, ancestors and shared work](../culture/umqombothi-and-shared-social-work.md) for the evidence boundaries, and compare [sorghum and millet](../ingredients/sorghum-and-millet.md) for the grain rather than treating social function as a brewing ingredient. Museum observations and regional review synthesis should not erase named producers' contemporary variation.
 
+
+## Edition 1.12: newly sourced connections
+
+The Zimbabwe fermented-food review distinguishes alcoholic cereal beers from the nonalcoholic cereal refreshment *mahewu*. An ingredient such as maize or sorghum is not sufficient to equate the two.[^v112-zimbabwe-review] A Zimbabwe mahewu study traced part of its lactic-fermentation microbiota to millet malt; this is **not** a finding about the culture used for every [Umqombothi](umqombothi.md) preparation.[^v112-mahewu-2019]
+
+Read [Mahewu](mahewu.md) and [Millet malt as a microbial input](../ingredients/millet-malt-as-microbial-input.md) as carefully scoped comparisons.
+
 ## Source notes
 
 [^umqombothi-review]: [Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer) (2020)](https://www.mdpi.com/2227-9717/8/11/1451). Hlangwani et al. Consulted 2026-10-27. Evidence used: published process and sensory overview.
@@ -143,3 +168,7 @@ Read [the methods interpretation](../microbiology/umqombothi-amplicons-and-predi
 [^v16-umqom-micro]: [Analysis of the bacterial and fungal populations in South African sorghum beer (umqombothi) (2023)](https://link.springer.com/article/10.1007/s11274-023-03764-4). Study authors. Consulted 2026-10-28. Access: Open Springer article abstract and indexed results comparing mixed ingredients, customary brew and optimized brew; inferred pathways are not measured production rates.
 [^v111-umqombothi-museum]: [Umqombothi: Our African Beer (National Museum publication, 2019)](https://nationalmuseumpublications.co.za/umqombothi-our-african-beer/). National Museum Publications (South Africa). Consulted 2026-10-28. Access: Museum narrative with context on ancestor offerings, cooperative work and vessels; not a representative survey of all communities.
 [^v111-umqombothi-review]: [Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer) (2020)](https://www.mdpi.com/2227-9717/8/11/1451). Processing-review authors. Consulted 2026-10-28. Access: Open review text covering several South African social occasions and production accounts; secondary synthesis with variation.
+
+[^v112-zimbabwe-review]: [A review of traditional fermented foods and beverages of Zimbabwe (1999)](https://pubmed.ncbi.nlm.nih.gov/10598109/). T. H. Gadaga, A. N. Mutukumira, J. A. Narvhus and S. B. Feresu. Consulted 2026-10-28. Evidence access: PubMed abstract, distinguishing nonalcoholic maize refreshments and alcoholic malt beers; no original household observations inspected.
+
+[^v112-mahewu-2019]: [Composition and Origin of the Fermentation Microbiota of Mahewu, a Zimbabwean Fermented Cereal Beverage (2019)](https://pubmed.ncbi.nlm.nih.gov/30902861/). Felicitas Pswarayi and Michael G. Gänzle. Consulted 2026-10-28. Evidence access: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal source tracking; full tables not independently reproduced.

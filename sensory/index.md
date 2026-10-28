@@ -63,3 +63,8 @@ New evidence-based references (all retain draft status):
 - [Protein–polyphenol haze and intentional cloudiness](haze-and-protein-polyphenol-bonds.md)
 - [Sulfur character during brewing fermentation](sulfur-during-fermentation.md)
 - [Why hoppy ales age in different ways](hoppy-ale-aroma-during-storage.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Boza: sweet, sour and the limits of sensory guessing](boza-sweet-sour-not-an-abv-reading.md)

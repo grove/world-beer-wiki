@@ -35,3 +35,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.11: source-led additions
 
 - [Packaging protection versus environmental footprint](packaging-chemistry-and-life-cycle.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Mahewu grain choices and the limits of climate-smart claims](mahewu-grain-availability-and-resilience.md)

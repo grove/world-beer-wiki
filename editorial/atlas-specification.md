@@ -9,14 +9,14 @@ tags:
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.10
-  at: '2026-10-28T08:50:00Z'
+  by: world-beer-wiki/1.12
+  at: '2026-10-28T08:00:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.6'
-implementation_status: ninth-installment-implemented
+specification_version: '1.7'
+implementation_status: tenth-installment-implemented
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -630,7 +630,8 @@ work_items:
   - styles/pulque.md
   - ingredients/agave-aguamiel.md
   - history/chalco-pulque-taxation-1778-1821.md
-  delivered_scope: Named beverage, microbial processes and colonial archives are distinguished; neither rituals nor taxes become universal contemporary practice.
+  delivered_scope: Named beverage, microbial processes and colonial archives are distinguished; neither
+    rituals nor taxes become universal contemporary practice.
 - id: ATLAS-074
   title: Deepen Brazilian Indigenous cassava fermentation without erasure
   state: implemented
@@ -638,7 +639,8 @@ work_items:
   - styles/cauim.md
   - styles/giroba.md
   - history/cauim-and-colonial-source-problems.md
-  delivered_scope: Distinguish Guarani, Tupinambá and Tapirapé communities and different centuries, substrates and evidence genres.
+  delivered_scope: Distinguish Guarani, Tupinambá and Tapirapé communities and different centuries, substrates
+    and evidence genres.
 - id: ATLAS-075
   title: Document Nigerian food-drinks and South African social use
   state: implemented
@@ -646,7 +648,8 @@ work_items:
   - styles/kunun-zaki.md
   - culture/umqombothi-and-shared-social-work.md
   - calendar/kunun-zaki-dry-season-association.md
-  delivered_scope: A mild grain drink, social service and reported seasonal preference are not reduced to fixed beer styles or a festival date.
+  delivered_scope: A mild grain drink, social service and reported seasonal preference are not reduced
+    to fixed beer styles or a festival date.
 - id: ATLAS-076
   title: Reconcile organism detection, process and food-safety evidence
   state: implemented
@@ -654,7 +657,8 @@ work_items:
   - microbiology/pulque-five-stage-metagenomics.md
   - microbiology/tapirape-cauim-bacteria-and-yeast.md
   - categories/acidification-is-not-safety-certification.md
-  delivered_scope: Five-stage sequencing, sampled cultures and health/safety inferences remain separate; no uncontrolled fermentation protocol.
+  delivered_scope: Five-stage sequencing, sampled cultures and health/safety inferences remain separate;
+    no uncontrolled fermentation protocol.
 - id: ATLAS-077
   title: Extend hoppy-aging, aldehyde and colloidal science
   state: implemented
@@ -670,7 +674,8 @@ work_items:
   - styles/umqombothi.md
   - styles/burukutu.md
   - sensory/oxidative-aging.md
-  delivered_scope: Eighteen existing subjects receive source-cited edition-1.11 sections; all canonical paths remain stable.
+  delivered_scope: Eighteen existing subjects receive source-cited edition-1.11 sections; all canonical
+    paths remain stable.
 - id: ATLAS-079
   title: Publish 1.11 source ledger, navigation and checks
   state: implemented
@@ -679,7 +684,74 @@ work_items:
   - navigation/edition-1-11-reading-trails.md
   - editorial/research-update-1-11.md
   - tests/test_research_quality_v111.py
-  delivered_scope: Source-use backlinks, progress tracking, index, offline validation and site staging are reproducible; independent review remains unperformed.
+  delivered_scope: Source-use backlinks, progress tracking, index, offline validation and site staging
+    are reproducible; independent review remains unperformed.
+- id: ATLAS-080
+  title: Mahewu as a grain, process and microbe case
+  state: implemented
+  paths:
+  - styles/mahewu.md
+  - microbiology/mahewu-starter-cultures-2026.md
+  - processes/mahewu-cooked-porridge-and-malt.md
+  delivered_scope: Zimbabwean mahewu is described as a culturally situated cereal food-drink; 2019 community
+    samples, 2024 grain survey and 2026 model starters remain different studies.
+- id: ATLAS-081
+  title: Boza commerce, microbial ecology and Ottoman evidence
+  state: implemented
+  paths:
+  - styles/boza.md
+  - culture/istanbul-boza-sellers.md
+  - microbiology/bulgarian-boza-pediococcus.md
+  - history/ottoman-drink-restrictions-and-negotiation.md
+  delivered_scope: One experimental boza, one Bulgarian microbial sample, Istanbul artisan service and
+    a historical tavern-legal abstract remain distinct evidence.
+- id: ATLAS-082
+  title: Georgian Aludi, highland culture and seasons
+  state: implemented
+  paths:
+  - styles/aludi-georgian-highland-beer.md
+  - culture/georgian-highland-beer-and-blessings.md
+  - calendar/aludi-summer-gatherings.md
+  delivered_scope: Tourism-office documentation supports geographically scoped association, not a compulsory
+    national recipe or UNESCO listing.
+- id: ATLAS-083
+  title: Paiwan cultural calendar versus unnamed sampled millet culture
+  state: implemented
+  paths:
+  - styles/taiwan-indigenous-millet-ferment.md
+  - culture/paiwan-millet-and-community-occasions.md
+  - microbiology/taiwan-millet-starter-lab-study.md
+  delivered_scope: Institutional Paiwan ceremony and a laboratory study without named originating community
+    are expressly not equated, and no fixed Gregorian date is invented.
+- id: ATLAS-084
+  title: Japanese amazake and kvass as different starch systems
+  state: implemented
+  paths:
+  - styles/amazake.md
+  - processes/koji-amazake-saccharification.md
+  - processes/kvass-bread-versus-malt.md
+  delivered_scope: Different starter, substrate, food/drink and alcohol boundaries are documented; limited
+    abstracts and producer affiliations remain identified.
+- id: ATLAS-085
+  title: Improve existing canonical profiles without duplicates
+  state: implemented
+  paths:
+  - styles/boza.md
+  - styles/kvass.md
+  - styles/ikigage.md
+  - ingredients/sorghum-and-millet.md
+  delivered_scope: Eighteen existing subjects receive sourced edition-1.12 extensions; no existing profile
+    is overwritten or falsely declared expert-reviewed.
+- id: ATLAS-086
+  title: Publish full provenance, subject index and automated checks
+  state: implemented
+  paths:
+  - references/atlas-sources-1-12.md
+  - editorial/research-update-1-12.md
+  - editorial/validation-report-1-12.md
+  - tests/test_research_quality_v112.py
+  delivered_scope: Fifteen source records have actual access scopes and article backlinks, while the index,
+    regression tests and staged website remain reproducible.
 ---
 
 # World Beer Atlas expansion specification
@@ -890,3 +962,10 @@ The new [source register](../references/atlas-sources-1-10.md), [release validat
 Edition 1.11 adds **34 source-scoped subjects and 18 sourced revisions**, recorded in ATLAS-073 through ATLAS-079. Existing pages and their canonical paths remain stable. This ledger says the named deliverable exists; it does not claim global coverage or independent expert approval. [The 1.11 research update](research-update-1-11.md) and [source supplement](../references/atlas-sources-1-11.md) identify the exact sources, access limitations and article backlinks.
 
 **Method boundaries:** Colonial clerical and tax accounts are mediated records, not community-endorsed rituals; a sampled Brazilian preparation does not define another community’s recipe. Microbial sequencing and isolated culture counts do not certify safety, health benefits or metabolic function. Staling chemistry is sample-, time- and system-dependent. The [review queue](source-review-queue-1-11.md) retains the unperformed full-text, local-language and community checks. ATLAS-012 remains *planned*; media and live atlas features remain *deferred*.
+
+
+## 17. Edition 1.12 — living cereal drinks, starter roles, seasonal knowledge and source scope
+
+**30 new source-scoped articles and 18 sourced revisions** are tracked in ATLAS-080–086. Implementation means the named files and tests are present; it does not imply worldwide coverage, local consent, an exact historic recipe or microbial safety. See the [research report](research-update-1-12.md), [source access register](../references/atlas-sources-1-12.md), and [independent-review queue](source-review-queue-1-12.md).
+
+**Research guardrails:** The experimental 1997 Turkish boza batch is not a standard 0.79% rule. The 2026 Zimbabwe mahewu starter study is not a field food-safety certification. The 2013 Taiwanese millet study does not identify its sampled group and must not be attributed to Paiwan ritual; governmental descriptions of a Five-Year Ritual do not supply a constant Gregorian date. A Georgian tourism account is not UNESCO inscription or independent highland-community review. Koji sweetening, sake-lees use, household rye kvass and laboratory barley kvass are separate transformations. Current and historical editions remain draft; ATLAS-012 review still awaits actual expert and community participation.

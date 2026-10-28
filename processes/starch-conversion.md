@@ -13,29 +13,29 @@ status: draft
 generated:
   by: world-beer-wiki/1.2
   at: '2026-10-27T20:25:00Z'
-scope: A comparative explanation using a producer's malting account, a sake association's account
-  and the existing Munkoyo research profile.
+scope: A comparative explanation using a producer's malting account, a sake association's account and
+  the existing Munkoyo research profile.
 sources:
 - id: atlas-schlenkerla-process
   resource: https://www.schlenkerla.de/rauchbier/prozess/prozesse.html
   title: Malting and brewing process of Schlenkerla Smoked Beer
   author_label: Schlenkerla
   source_kind: producer-technical-documentation
-  access_scope: Steeping, germination, kilning, mashing and wort-separation descriptions; universal
-    historical and exclusivity claims not adopted.
+  access_scope: Steeping, germination, kilning, mashing and wort-separation descriptions; universal historical
+    and exclusivity claims not adopted.
 - id: atlas-jss-koji
   resource: https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/
   title: Sake Brewing Processes and Flavor
   author_label: Japan Sake and Shochu Makers Association
   source_kind: producer-association-technical-documentation
-  access_scope: Koji-making and fermentation sections; production description, not a complete sake
-    taxonomy or unknown-mold identification guide.
+  access_scope: Koji-making and fermentation sections; production description, not a complete sake taxonomy
+    or unknown-mold identification guide.
 - id: atlas-munkoyo-context
   resource: /styles/munkoyo.md
   title: Munkoyo profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Retained 2025 botanical study and 1997 fermentation abstract, with their separate
-    access limits.
+  access_scope: Retained 2025 botanical study and 1997 fermentation abstract, with their separate access
+    limits.
 - id: v16-munkoyo
   resource: https://pubmed.ncbi.nlm.nih.gov/9039570/
   title: Munkoyo beverage, a traditional Zambian fermented maize gruel using Rhynchosia root as amylase
@@ -56,15 +56,15 @@ sources:
   title: Microorganisms in Chinese Starter Bubod and Rice Wine Tapuy in the Philippines (1990)
   author_label: Michio Kozaki and Tai Uchimura
   source_kind: primary-isolate-study-abstract
-  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast
-    isolates in studied material; full Japanese paper not read.
+  access_scope: Journal abstract identifying 36 mould, 62 acid-producing bacterial and 100 yeast isolates
+    in studied material; full Japanese paper not read.
 - id: v18-mbege
   resource: https://www.mdpi.com/2306-5710/2/3/21
   title: Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)
   author_label: Ryosuke Kubo and Method Kilasara
   source_kind: primary-field-observation
-  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian
-    brewing sequence and experimental bark comparison; not a region-wide census.
+  access_scope: Publisher abstract and detailed indexed record; documented northeastern Tanzanian brewing
+    sequence and experimental bark comparison; not a region-wide census.
 - id: v18-jaanr
   resource: https://indianjournals.com/article/ijm-46-4-004
   title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
@@ -84,8 +84,23 @@ sources:
   title: Tapé Fermentation (1972)
   author_label: Ko Swan Djien
   source_kind: primary-fermentation-research-abstract
-  access_scope: Original journal abstract via PMC index; selected two-organism laboratory system
-    using ragi isolates; no complete field study read.
+  access_scope: Original journal abstract via PMC index; selected two-organism laboratory system using
+    ragi isolates; no complete field study read.
+- id: v112-amazake-2021
+  resource: https://pubmed.ncbi.nlm.nih.gov/34200668/
+  title: Ingredients, Functionality, and Safety of the Japanese Traditional Sweet Drink Amazake (2021)
+  author_label: Atsushi Kurahashi
+  source_kind: industry-authored-technical-review-abstract
+  access_scope: PubMed abstract for two amazake production types; author works for a sake producer; purported
+    health benefits not evaluated here.
+- id: v112-kvass-2022
+  resource: https://pubmed.ncbi.nlm.nih.gov/35616735/
+  title: Fermentation process optimization, chemical analysis, and storage stability evaluation of a probiotic
+    barley malt kvass (2022)
+  author_label: Panpan Wang and colleagues
+  source_kind: primary-application-study-abstract
+  access_scope: Indexed research abstract; three cultured strains and barley malt optimization are experimental,
+    not an ancestral kvass recipe.
 source_checked_on: '2026-10-28'
 review_note: Research draft; explanatory comparison, not an interchangeable ingredient list.
 relations:
@@ -148,6 +163,13 @@ The contrast between malt mashing and parallel conversion becomes clearer in a 1
 Compare [ragi conversion](ragi-parallel-starch-and-ethanol-fermentation.md) and the [traditional dry starter ingredient](../ingredients/ragi-tapai.md). Chemical equivalence does not justify cultural equivalence or an untested safety claim.
 
 
+
+## Edition 1.12: newly sourced connections
+
+A useful three-way distinction is **koji-driven starch saccharification** in Japanese amazake, **malt-derived sugars in experimental barley-malt kvass**, and use of **previously baked bread as substrate** in other kvass practices. A 2021 sake-industry review and a 2022 kvass study describe these different process choices; neither implies identical culture, alcohol content, or historical transmission.[^v112-amazake-2021][^v112-kvass-2022]
+
+Read [Koji amazake](koji-amazake-saccharification.md) and [bread versus malt](kvass-bread-versus-malt.md).
+
 ## Source notes
 [^atlas-schlenkerla-process]: [Malting and brewing process of Schlenkerla Smoked Beer](https://www.schlenkerla.de/rauchbier/prozess/prozesse.html), Schlenkerla. Production stages consulted 27 October 2026; producer-specific account.
 [^atlas-jss-koji]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/), Japan Sake and Shochu Makers Association. Koji and fermentation sections consulted 27 October 2026.
@@ -171,3 +193,7 @@ Compare [munkoyo saccharification](munkoyo-root-starch-conversion.md) with [feru
 [^v19-huangjiu-review]: [The microbiome of Chinese rice wine (Huangjiu) (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/). Chinese rice-wine microbiome review authors. Checked 2026-10-28. Access: Open indexed review with process description and microbiome survey synthesis; production methods and species vary among locales.
 
 [^v110-tape-1972]: [Tapé Fermentation (1972)](https://pmc.ncbi.nlm.nih.gov/articles/PMC380483/). Ko Swan Djien. Consulted 2026-10-28. Access: Original journal abstract via PMC index; selected two-organism laboratory system using ragi isolates; no complete field study read.
+
+[^v112-amazake-2021]: [Ingredients, Functionality, and Safety of the Japanese Traditional Sweet Drink Amazake (2021)](https://pubmed.ncbi.nlm.nih.gov/34200668/). Atsushi Kurahashi. Consulted 2026-10-28. Evidence access: PubMed abstract for two amazake production types; author works for a sake producer; purported health benefits not evaluated here.
+
+[^v112-kvass-2022]: [Fermentation process optimization, chemical analysis, and storage stability evaluation of a probiotic barley malt kvass (2022)](https://pubmed.ncbi.nlm.nih.gov/35616735/). Panpan Wang and colleagues. Consulted 2026-10-28. Evidence access: Indexed research abstract; three cultured strains and barley malt optimization are experimental, not an ancestral kvass recipe.

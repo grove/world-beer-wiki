@@ -84,3 +84,8 @@ Read [Historical evidence, living traditions and revivals](../categories/histori
 ## Edition 1.11: distinct evidence periods for related ferments
 
 [Pulque ritual in colonial accounts](../culture/nahua-first-pulque-ritual-in-colonial-records.md) and [Chalco tax history](../history/chalco-pulque-taxation-1778-1821.md) are dated historical interpretations. [Modern Tapirapé cauim research](../microbiology/tapirape-cauim-bacteria-and-yeast.md) is a sampled study, not evidence of an unchanged sixteenth-century recipe. See the [archive-method guide](../history/cauim-and-colonial-source-problems.md).
+
+
+## Edition 1.12 additions
+
+Living context: [Paiwan millet occasions](../culture/paiwan-millet-and-community-occasions.md) and [Georgian aludi gatherings](../culture/georgian-highland-beer-and-blessings.md). Dated research: [Turkish boza 1997](../microbiology/boza-fermentation-1997.md), [Taiwan culture survey 2013](../microbiology/taiwan-millet-starter-lab-study.md), and [mahewu starters 2026](../microbiology/mahewu-starter-cultures-2026.md).

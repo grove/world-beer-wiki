@@ -74,3 +74,11 @@ New evidence-based references (all retain draft status):
 - [How oxygen enters and remains in packaged beer](beer-package-oxygen-pathways.md)
 - [Kunun-zaki: slurry, heat and mild fermentation](kunun-zaki-slurry-and-gelatinization.md)
 - [Staling precursors formed before beer is packaged](wort-aldehydes-before-packaging.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Boza: cooked grains and concurrent microbial routes](boza-cooked-grains-and-mixed-fermentation.md)
+- [Cooked cereal porridge and post-heating malt in mahewu](mahewu-cooked-porridge-and-malt.md)
+- [Koji amazake: starch sweetening without inevitable ethanol](koji-amazake-saccharification.md)
+- [Kvass from bread versus experimental malt wort](kvass-bread-versus-malt.md)

@@ -360,3 +360,8 @@ Peru: [Yaminahua masateadas](../culture/yaminahua-masateadas-and-kinship.md), [C
 ## Edition 1.11: additional geographically scoped related ferments
 
 **Mexico:** [Pulque](../styles/pulque.md) · [Tepache](../styles/tepache.md). **Brazil:** [Cauim](../styles/cauim.md) · [Giroba](../styles/giroba.md). **Nigeria:** [Kunun-zaki](../styles/kunun-zaki.md). These are local focus labels, not exclusive places of origin or complete regional surveys.
+
+
+## Edition 1.12 additions
+
+Zimbabwe: [Mahewu](../styles/mahewu.md). Georgia: [Aludi](../styles/aludi-georgian-highland-beer.md). Japan: [Amazake](../styles/amazake.md). Taiwan: [millet ferment context](../styles/taiwan-indigenous-millet-ferment.md). Rwanda: [Ikigage](../styles/ikigage.md). Türkiye and the Balkans: [Boza](../styles/boza.md).

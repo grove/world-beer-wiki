@@ -64,3 +64,9 @@ New evidence-based references (all retain draft status):
 
 - [When fermentation enters a colonial archive](when-fermentation-enters-a-colonial-archive.md)
 - [Why beer ages without a single culprit](why-beer-ages-without-a-single-culprit.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [The boza vendor and the microbe](the-boza-vendor-and-the-microbe.md)
+- [The malt that brought the microbes](the-malt-that-brought-the-microbes.md)

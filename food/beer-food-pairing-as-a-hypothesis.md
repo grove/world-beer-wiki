@@ -30,6 +30,13 @@ sources:
   source_kind: municipal-cultural-account
   access_scope: Full municipal tourism article describing the 1812 ordinance and modern food/service customs;
     not an independently inspected 1812 decree.
+- id: v112-boza-artisans
+  resource: https://www.istesob.org.tr/bozacilar/
+  title: 'Bozacılar: İstanbul Esnaf ve Sanatkarlar Odaları Birliği (2019)'
+  author_label: İstanbul Esnaf ve Sanatkarlar Odaları Birliği
+  source_kind: artisan-association-cultural-account
+  access_scope: Turkish-language public article on historic boza vendors, cold-season street service and
+    named accompaniments; distant-origin and Evliya Çelebi numerical claims not independently verified.
 scope: Expert-interview principles and their limited transfer to actual diners.
 evidence_basis:
 - consumer-pairing-experiment-abstract
@@ -65,6 +72,13 @@ Expert-interview principles and their limited transfer to actual diners. The sou
 
 Not every link between beer and food is a claim about flavor compatibility. Munich’s municipal beer-garden guide describes a service culture in which guests can bring food from home, a practice it traces to an 1812 trade arrangement. This is primarily **social and legal history**, not a controlled pairing experiment. It belongs beside, but not inside, sensory evidence about how tastes interact. Compare [Brotzeit at the beer garden](brotzeit-and-the-munich-beer-garden.md) and [the city’s legal-history account](../history/munich-beer-garden-1812.md). A favorite dish chosen for tradition or convenience need not have a uniquely optimal sensory score.[^v19-munich]
 
+
+## Edition 1.12: newly sourced connections
+
+Istanbul artisan-association documentation describes **boza service** with cinnamon and roasted chickpeas (*leblebi*), including a cold-season street-vendor context. This is evidence of a named serving tradition, **not** a controlled claim that those pairings improve all people's sensory preferences.[^v112-boza-artisans]
+
+See [Istanbul boza vendors](../culture/istanbul-boza-sellers.md) and [Boza](../styles/boza.md).
+
 ## Source notes
 
 [^v14-food]: [From Expert Knowledge and Sensory Science to Food-and-Beer Pairing (2019)](https://www.sciencedirect.com/science/article/pii/S1878450X18300830). Food-pairing interview study authors. Consulted 2026-10-27. Access: Publisher abstract: interviews with ten beer experts and ten sommeliers, fifteen principles; not consumer preference laws.
@@ -72,3 +86,5 @@ Not every link between beer and food is a claim about flavor compatibility. Muni
 [^v14-cheese]: [Matches of Bottom-Fermented Red Beers with Cheeses (2015)](https://www.sciencedirect.com/science/article/pii/S0963996914006930). G. Donadini, M. D. Fumi and I. R. Newby-Clark. Consulted 2026-10-27. Access: Publisher abstract of consumers and cheese/beer match perceptions; study-specific combinations.
 
 [^v19-munich]: [Beer garden guide: how-to beer garden](https://www.munich.travel/en/topics/eat-drink/beer-garden-munich-tips). Munich municipal tourism portal. Checked 2026-10-28. Access: Full municipal tourism article describing the 1812 ordinance and modern food/service customs; not an independently inspected 1812 decree.
+
+[^v112-boza-artisans]: [Bozacılar: İstanbul Esnaf ve Sanatkarlar Odaları Birliği (2019)](https://www.istesob.org.tr/bozacilar/). İstanbul Esnaf ve Sanatkarlar Odaları Birliği. Consulted 2026-10-28. Evidence access: Turkish-language public article on historic boza vendors, cold-season street service and named accompaniments; distant-origin and Evliya Çelebi numerical claims not independently verified.

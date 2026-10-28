@@ -209,3 +209,11 @@ A judging reference is a dated mapping, not proof that a local tradition is exha
 - [Kunun-zaki](kunun-zaki.md)
 - [Pulque](pulque.md)
 - [Tepache](tepache.md)
+
+
+## Research edition 1.12 — documented contexts
+
+- [Aludi: Georgian highland beer](aludi-georgian-highland-beer.md)
+- [Amazake: koji sweet rice drink and sake-lees variants](amazake.md)
+- [Indigenous Taiwanese millet and rice ferments: evidence scope](taiwan-indigenous-millet-ferment.md)
+- [Mahewu (amahewu)](mahewu.md)

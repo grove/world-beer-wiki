@@ -1,15 +1,12 @@
 ---
 type: Implementation Progress Report
-title: Atlas scope and progress
-description: Finite scope and evidence ledger for World Beer Atlas edition 1.11.
-tags:
-- wiki-documentation
-- atlas
-- progress
+title: 'Atlas scope and progress'
+description: 'Finite progress for 86 work items; edition 1.12.'
+tags: [wiki-documentation, atlas, progress]
 status: draft
 generated:
-  by: world-beer-wiki/1.11
-  at: '2026-10-28T08:55:00Z'
+  by: world-beer-wiki/1.12
+  at: '2026-10-28T08:00:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -18,9 +15,9 @@ sources:
 
 # Atlas scope and progress
 
-**Edition 1.11: 76 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
+**Edition 1.12: 83 implemented, one planned, two deferred work items**. This is a finite project-deliverables ledger, not a percentage of world beer cultures researched or an independent evidence-approval register. All researched articles remain drafts.
 
-| ID | Workstream | Status | Reproducible deliverable paths |
+| ID | Deliverable | State | Entry paths |
 |---|---|---|---|
 | ATLAS-001 | Scope and evidence contract | implemented | [atlas-specification.md](../editorial/atlas-specification.md) |
 | ATLAS-002 | Cultural case studies | implemented | [index.md](../culture/index.md) |
@@ -33,9 +30,9 @@ sources:
 | ATLAS-009 | Typed evidence-bearing relationships | implemented | `tools/atlas.py` · [reading-with-an-llm.md](../editorial/reading-with-an-llm.md) |
 | ATLAS-010 | Offline exports, validation and tests | implemented | `tools/atlas.py` · `tests/test_atlas.py` · `.github/workflows/validate.yml` · [validation-report-1-2.md](../editorial/validation-report-1-2.md) |
 | ATLAS-011 | Navigation and existing-profile integration | implemented | [index.md](../index.md) · [atlas.md](../navigation/atlas.md) · [atlas-sources.md](../references/atlas-sources.md) · `tools/build_site.py` |
-| ATLAS-012 | Community and specialist review | planned | Not completed |
-| ATLAS-013 | Licensed illustrations and pronunciation recordings | deferred | Not completed |
-| ATLAS-014 | Optional interactive atlas and date-aware discovery | deferred | Not completed |
+| ATLAS-012 | Community and specialist review | planned | No reviewed deliverable claimed |
+| ATLAS-013 | Licensed illustrations and pronunciation recordings | deferred | No reviewed deliverable claimed |
+| ATLAS-014 | Optional interactive atlas and date-aware discovery | deferred | No reviewed deliverable claimed |
 | ATLAS-015 | Focused history and archaeological context | implemented | [index.md](../history/index.md) |
 | ATLAS-016 | Extended cultural and seasonal source research | implemented | [index.md](../culture/index.md) |
 | ATLAS-017 | Microbial genomes and fermentation ecology | implemented | [index.md](../microbiology/index.md) |
@@ -75,14 +72,12 @@ sources:
 | ATLAS-051 | Compare environment and sensory research with reproducible evidence boundaries | implemented | [beer-packaging-transport-and-return-loops.md](../environment/beer-packaging-transport-and-return-loops.md) · [spent-grain-food-safety-and-circularity.md](../environment/spent-grain-food-safety-and-circularity.md) · [cheese-beer-preference-is-not-a-rule.md](../food/cheese-beer-preference-is-not-a-rule.md) |
 | ATLAS-052 | Improve gender-history comparisons, narrative trails and original articles | implemented | [gender-and-brewing-what-the-sources-show.md](../categories/gender-and-brewing-what-the-sources-show.md) · [brewsters-household-labor-in-medieval-england.md](../history/brewsters-household-labor-in-medieval-england.md) · [ale-tasters-and-brewster-protests.md](../history/ale-tasters-and-brewster-protests.md) · [edition-1-7-reading-trails.md](../navigation/edition-1-7-reading-trails.md) |
 | ATLAS-053 | Maintain source provenance, research hygiene and edition navigation | implemented | [atlas-sources-1-7.md](../references/atlas-sources-1-7.md) · `tools/research_quality.py` · `tests/test_research_quality_v17.py` · [research-update-1-7.md](../editorial/research-update-1-7.md) · [validation-report-1-7.md](../editorial/validation-report-1-7.md) |
-
 | ATLAS-054 | Shawi cassava fermentation and cultural evidence | implemented | [shawi-masato-and-water.md](../culture/shawi-masato-and-water.md) · [shawi-masato-preparation.md](../processes/shawi-masato-preparation.md) |
 | ATLAS-055 | Mbege process, botanical input and contextual ritual evidence | implemented | [mbege-as-regional-knowledge.md](../culture/mbege-as-regional-knowledge.md) · [mbege-nyalu-and-mso.md](../processes/mbege-nyalu-and-mso.md) · [msesewe-stem-bark-in-mbege.md](../ingredients/msesewe-stem-bark-in-mbege.md) · [chagga-ritual-beer-in-rombo.md](../culture/chagga-ritual-beer-in-rombo.md) |
 | ATLAS-056 | Ethiopian food-drinks and Himalayan millet ecology | implemented | [borde-ethiopian-fermented-cereal.md](../styles/borde-ethiopian-fermented-cereal.md) · [shamita-ethiopian-fermented-barley.md](../styles/shamita-ethiopian-fermented-barley.md) · [jaanr-microbial-succession.md](../microbiology/jaanr-microbial-succession.md) |
 | ATLAS-057 | Beer foam proteins and aging chemistry | implemented | [beer-foam-active-proteins.md](../ingredients/beer-foam-active-proteins.md) · [heat-ltp1-and-beer-foam.md](../sensory/heat-ltp1-and-beer-foam.md) · [beer-staling-and-aldehydes.md](../sensory/beer-staling-and-aldehydes.md) |
 | ATLAS-058 | Hop chemistry, yeast effects and source-to-aroma uncertainty | implemented | [polyfunctional-thiol-precursors.md](../ingredients/polyfunctional-thiol-precursors.md) · [thiol-release-and-yeast-timing.md](../microbiology/thiol-release-and-yeast-timing.md) · [hop-terpenoid-biotransformation.md](../sensory/hop-terpenoid-biotransformation.md) |
 | ATLAS-059 | Evidence QA, indexes, research register and reading trails | implemented | [atlas-sources-1-8.md](../references/atlas-sources-1-8.md) · [research-update-1-8.md](../editorial/research-update-1-8.md) · [validation-report-1-8.md](../editorial/validation-report-1-8.md) · [edition-1-8-reading-trails.md](../navigation/edition-1-8-reading-trails.md) · `tests/test_research_quality_v18.py` |
-
 | ATLAS-060 | Vietnamese jar-ferment traditions, materials, occasions and livelihoods | implemented | [ruou-can-vietnamese-jar-ferment.md](../styles/ruou-can-vietnamese-jar-ferment.md) · [stieng-ruou-can-and-transmission.md](../culture/stieng-ruou-can-and-transmission.md) · [ma-ruou-can-in-lam-dong.md](../culture/ma-ruou-can-in-lam-dong.md) · [vietnamese-communal-jar-and-straws.md](../objects/vietnamese-communal-jar-and-straws.md) |
 | ATLAS-061 | Bhutanese ara culture and Himalayan phab laboratory comparison | implemented | [bhutan-ara-and-social-ritual.md](../culture/bhutan-ara-and-social-ritual.md) · [phab-dry-starter-research.md](../microbiology/phab-dry-starter-research.md) |
 | ATLAS-062 | Ur III and Sumerian archives, terminology and inference | implemented | [ur-iii-beer-ration-tablet.md](../history/ur-iii-beer-ration-tablet.md) · [sumerian-beer-terms-and-uncertainty.md](../history/sumerian-beer-terms-and-uncertainty.md) · [the-tablet-was-not-the-recipe.md](../stories/the-tablet-was-not-the-recipe.md) |
@@ -90,51 +85,37 @@ sources:
 | ATLAS-064 | Korean and Chinese cereal starter ecology, process and sensory boundaries | implemented | [nuruk-42-sample-survey.md](../microbiology/nuruk-42-sample-survey.md) · [huangjiu-manual-and-mechanized-microbes.md](../microbiology/huangjiu-manual-and-mechanized-microbes.md) · [huangjiu-chinese-cereal-wine.md](../styles/huangjiu-chinese-cereal-wine.md) · [wheat-qu-and-huangjiu.md](../ingredients/wheat-qu-and-huangjiu.md) |
 | ATLAS-065 | Nubian ancient-grain genetics and archaeological interpretive limits | implemented | [qasr-ibrim-barley-ancient-dna.md](../history/qasr-ibrim-barley-ancient-dna.md) · [barley-row-type-and-brewing-assumptions.md](../ingredients/barley-row-type-and-brewing-assumptions.md) |
 | ATLAS-066 | Cross-domain revisions, original-source register, reproducible QA and reading trails | implemented | [atlas-sources-1-9.md](../references/atlas-sources-1-9.md) · [research-update-1-9.md](../editorial/research-update-1-9.md) · [validation-report-1-9.md](../editorial/validation-report-1-9.md) · [edition-1-9-reading-trails.md](../navigation/edition-1-9-reading-trails.md) · `tests/test_research_quality_v19.py` |
-
+| ATLAS-067 | Amazonian feasts and Andean chicha social research | implemented | [yaminahua-masateadas-and-kinship.md](../culture/yaminahua-masateadas-and-kinship.md) · [cusco-chicherias-maize-and-gendered-work.md](../culture/cusco-chicherias-maize-and-gendered-work.md) · [north-peru-chicha-labor-and-scale.md](../culture/north-peru-chicha-labor-and-scale.md) · [masateada-gatherings-without-fixed-dates.md](../calendar/masateada-gatherings-without-fixed-dates.md) |
+| ATLAS-068 | Wari archaeological interpretation and laboratory-history boundaries | implemented | [cerro-baul-dregs-and-state-brewing.md](../history/cerro-baul-dregs-and-state-brewing.md) · [tape-fermentation-laboratory-model-1972.md](../history/tape-fermentation-laboratory-model-1972.md) |
+| ATLAS-069 | Ragi, tapai, khao mak and rice-ferment classification | implemented | [ragi-tapai.md](../ingredients/ragi-tapai.md) · [tapai-ketan.md](../styles/tapai-ketan.md) · [khao-mak-thai-fermented-rice.md](../styles/khao-mak-thai-fermented-rice.md) · [tapai-as-food-and-beverage.md](../food/tapai-as-food-and-beverage.md) |
+| ATLAS-070 | Alternative grains, enzymatic constraints and photo-chemistry | implemented | [buckwheat-and-extract-limits.md](../ingredients/buckwheat-and-extract-limits.md) · [quinoa-and-amaranth-in-beer.md](../ingredients/quinoa-and-amaranth-in-beer.md) · [gluten-free-starch-conversion.md](../processes/gluten-free-starch-conversion.md) · [riboflavin-and-beer-light.md](../ingredients/riboflavin-and-beer-light.md) |
+| ATLAS-071 | Low-alcohol methods, sensory effects and microbial challenge research | implemented | [nonalcoholic-beer-pathogen-challenge.md](../microbiology/nonalcoholic-beer-pathogen-challenge.md) · [thermal-and-membrane-dealcoholisation.md](../processes/thermal-and-membrane-dealcoholisation.md) · [worty-aroma-in-low-alcohol-beer.md](../sensory/worty-aroma-in-low-alcohol-beer.md) · [nonalcoholic-beer-methods-and-safety.md](../categories/nonalcoholic-beer-methods-and-safety.md) |
+| ATLAS-072 | Edition 1.10 provenance, 15 revisions, automation and reading paths | implemented | [atlas-sources-1-10.md](../references/atlas-sources-1-10.md) · [research-update-1-10.md](../editorial/research-update-1-10.md) · [validation-report-1-10.md](../editorial/validation-report-1-10.md) · [edition-1-10-reading-trails.md](../navigation/edition-1-10-reading-trails.md) · `tests/test_research_quality_v110.py` |
 | ATLAS-073 | Document agave sap and Mexican pulque culture | implemented | [pulque.md](../styles/pulque.md) · [agave-aguamiel.md](../ingredients/agave-aguamiel.md) · [chalco-pulque-taxation-1778-1821.md](../history/chalco-pulque-taxation-1778-1821.md) |
 | ATLAS-074 | Deepen Brazilian Indigenous cassava fermentation without erasure | implemented | [cauim.md](../styles/cauim.md) · [giroba.md](../styles/giroba.md) · [cauim-and-colonial-source-problems.md](../history/cauim-and-colonial-source-problems.md) |
 | ATLAS-075 | Document Nigerian food-drinks and South African social use | implemented | [kunun-zaki.md](../styles/kunun-zaki.md) · [umqombothi-and-shared-social-work.md](../culture/umqombothi-and-shared-social-work.md) · [kunun-zaki-dry-season-association.md](../calendar/kunun-zaki-dry-season-association.md) |
 | ATLAS-076 | Reconcile organism detection, process and food-safety evidence | implemented | [pulque-five-stage-metagenomics.md](../microbiology/pulque-five-stage-metagenomics.md) · [tapirape-cauim-bacteria-and-yeast.md](../microbiology/tapirape-cauim-bacteria-and-yeast.md) · [acidification-is-not-safety-certification.md](../categories/acidification-is-not-safety-certification.md) |
 | ATLAS-077 | Extend hoppy-aging, aldehyde and colloidal science | implemented | [hoppy-ale-aroma-during-storage.md](../sensory/hoppy-ale-aroma-during-storage.md) · [haze-and-protein-polyphenol-bonds.md](../sensory/haze-and-protein-polyphenol-bonds.md) · [wort-aldehydes-before-packaging.md](../processes/wort-aldehydes-before-packaging.md) |
 | ATLAS-078 | Revise canonical reference pages with cited context | implemented | [umqombothi.md](../styles/umqombothi.md) · [burukutu.md](../styles/burukutu.md) · [oxidative-aging.md](../sensory/oxidative-aging.md) |
-| ATLAS-079 | Publish 1.11 source ledger, navigation and checks | implemented | [atlas-sources-1-11.md](../references/atlas-sources-1-11.md) · [edition-1-11-reading-trails.md](../navigation/edition-1-11-reading-trails.md) · [research-update-1-11.md](../editorial/research-update-1-11.md) · [test_research_quality_v111.py](../tests/test_research_quality_v111.py) |
+| ATLAS-079 | Publish 1.11 source ledger, navigation and checks | implemented | [atlas-sources-1-11.md](../references/atlas-sources-1-11.md) · [edition-1-11-reading-trails.md](../navigation/edition-1-11-reading-trails.md) · [research-update-1-11.md](../editorial/research-update-1-11.md) · `tests/test_research_quality_v111.py` |
+| ATLAS-080 | Mahewu as a grain, process and microbe case | implemented | [mahewu.md](../styles/mahewu.md) · [mahewu-starter-cultures-2026.md](../microbiology/mahewu-starter-cultures-2026.md) · [mahewu-cooked-porridge-and-malt.md](../processes/mahewu-cooked-porridge-and-malt.md) |
+| ATLAS-081 | Boza commerce, microbial ecology and Ottoman evidence | implemented | [boza.md](../styles/boza.md) · [istanbul-boza-sellers.md](../culture/istanbul-boza-sellers.md) · [bulgarian-boza-pediococcus.md](../microbiology/bulgarian-boza-pediococcus.md) · [ottoman-drink-restrictions-and-negotiation.md](../history/ottoman-drink-restrictions-and-negotiation.md) |
+| ATLAS-082 | Georgian Aludi, highland culture and seasons | implemented | [aludi-georgian-highland-beer.md](../styles/aludi-georgian-highland-beer.md) · [georgian-highland-beer-and-blessings.md](../culture/georgian-highland-beer-and-blessings.md) · [aludi-summer-gatherings.md](../calendar/aludi-summer-gatherings.md) |
+| ATLAS-083 | Paiwan cultural calendar versus unnamed sampled millet culture | implemented | [taiwan-indigenous-millet-ferment.md](../styles/taiwan-indigenous-millet-ferment.md) · [paiwan-millet-and-community-occasions.md](../culture/paiwan-millet-and-community-occasions.md) · [taiwan-millet-starter-lab-study.md](../microbiology/taiwan-millet-starter-lab-study.md) |
+| ATLAS-084 | Japanese amazake and kvass as different starch systems | implemented | [amazake.md](../styles/amazake.md) · [koji-amazake-saccharification.md](../processes/koji-amazake-saccharification.md) · [kvass-bread-versus-malt.md](../processes/kvass-bread-versus-malt.md) |
+| ATLAS-085 | Improve existing canonical profiles without duplicates | implemented | [boza.md](../styles/boza.md) · [kvass.md](../styles/kvass.md) · [ikigage.md](../styles/ikigage.md) · [sorghum-and-millet.md](../ingredients/sorghum-and-millet.md) |
+| ATLAS-086 | Publish full provenance, subject index and automated checks | implemented | [atlas-sources-1-12.md](../references/atlas-sources-1-12.md) · [research-update-1-12.md](../editorial/research-update-1-12.md) · [validation-report-1-12.md](../editorial/validation-report-1-12.md) · `tests/test_research_quality_v112.py` |
 
-## What remains unverified
+## Distinguish completion from verification
 
-**ATLAS-012**, independent community and specialist review, is still planned. Source access from a publisher abstract or a project narrative is not equivalent to reading all underlying records; an archival citation cannot certify the account’s representativeness. Licensed illustrations/recordings and a live interactive calendar remain deferred. The [edition 1.7 review queue](source-review-queue-1-7.md) and [earlier 1.6 queue](source-review-queue-1-6.md) identify specific work.
+[The specification](atlas-specification.md) states each item’s delivered scope and acceptance criterion. ATLAS-012 independent research/community review is **planned, not performed**. Licensed media and live calendars are deferred. The [new source-review queue](source-review-queue-1-12.md) preserves unresolved source access and cultural checks, without claiming community endorsement.
 
-## Machine-readable check
+## Reproduce the structured ledger
 
-`python tools/atlas.py progress` exports this finite ledger without inventing a worldwide completeness percentage. `python tools/atlas.py check` verifies declared delivered files; `python tools/research_quality.py --edition 1.7` checks local source hygiene. All remain independent of actual external professional validation.
+```bash
+python tools/atlas.py check --json
+python tools/atlas.py progress
+python tools/atlas.py catalog
+```
 
-[Specification](atlas-specification.md) · [Research update](research-update-1-7.md) · [Validation](validation-report-1-7.md) · [All subjects](../navigation/all-atlas-subjects.md)
-
-## Edition 1.8 delivered scope
-
-29 source-bounded articles and 14 original-article additions; 6 finite ledger items. All community and scientific peer review remains uncompleted. [Research update](research-update-1-8.md) · [Sources](../references/atlas-sources-1-8.md) · [Independent-review queue](source-review-queue-1-8.md).
-
-## Edition 1.9 scope and reproducibility
-
-31 new articles, 18 researched revisions and 18 distinct external works. The ledger marks only these defined deliverables as implemented; independent community/specialist review is still pending. [Research update](research-update-1-9.md) · [Sources](../references/atlas-sources-1-9.md) · [Review queue](source-review-queue-1-9.md).
-
-## Edition 1.10 delivered work
-
-The following scoped items are implemented, not independently reviewed.
-
-| ID | Workstream | State | Tracked entry points |
-|---|---|---|---|
-| ATLAS-067 | Amazonian feasts and Andean chicha social research | implemented | [yaminahua-masateadas-and-kinship.md](../culture/yaminahua-masateadas-and-kinship.md) · [cusco-chicherias-maize-and-gendered-work.md](../culture/cusco-chicherias-maize-and-gendered-work.md) · [north-peru-chicha-labor-and-scale.md](../culture/north-peru-chicha-labor-and-scale.md) · [masateada-gatherings-without-fixed-dates.md](../calendar/masateada-gatherings-without-fixed-dates.md) |
-| ATLAS-068 | Wari archaeological interpretation and laboratory-history boundaries | implemented | [cerro-baul-dregs-and-state-brewing.md](../history/cerro-baul-dregs-and-state-brewing.md) · [tape-fermentation-laboratory-model-1972.md](../history/tape-fermentation-laboratory-model-1972.md) |
-| ATLAS-069 | Ragi, tapai, khao mak and rice-ferment classification | implemented | [ragi-tapai.md](../ingredients/ragi-tapai.md) · [tapai-ketan.md](../styles/tapai-ketan.md) · [khao-mak-thai-fermented-rice.md](../styles/khao-mak-thai-fermented-rice.md) · [tapai-as-food-and-beverage.md](../food/tapai-as-food-and-beverage.md) |
-| ATLAS-070 | Alternative grains, enzymatic constraints and photo-chemistry | implemented | [buckwheat-and-extract-limits.md](../ingredients/buckwheat-and-extract-limits.md) · [quinoa-and-amaranth-in-beer.md](../ingredients/quinoa-and-amaranth-in-beer.md) · [gluten-free-starch-conversion.md](../processes/gluten-free-starch-conversion.md) · [riboflavin-and-beer-light.md](../ingredients/riboflavin-and-beer-light.md) |
-| ATLAS-071 | Low-alcohol methods, sensory effects and microbial challenge research | implemented | [nonalcoholic-beer-pathogen-challenge.md](../microbiology/nonalcoholic-beer-pathogen-challenge.md) · [thermal-and-membrane-dealcoholisation.md](../processes/thermal-and-membrane-dealcoholisation.md) · [worty-aroma-in-low-alcohol-beer.md](../sensory/worty-aroma-in-low-alcohol-beer.md) · [nonalcoholic-beer-methods-and-safety.md](../categories/nonalcoholic-beer-methods-and-safety.md) |
-| ATLAS-072 | Edition 1.10 provenance, 15 revisions, automation and reading paths | implemented | [atlas-sources-1-10.md](../references/atlas-sources-1-10.md) · [research-update-1-10.md](../editorial/research-update-1-10.md) · [validation-report-1-10.md](../editorial/validation-report-1-10.md) · [edition-1-10-reading-trails.md](../navigation/edition-1-10-reading-trails.md) · [test_research_quality_v110.py](../tests/test_research_quality_v110.py) |
-
-**What remains open:** ATLAS-012 community and independent subject-specialist reviews; additional source full-text/translation verification; actual product safety and gluten testing outside this encyclopedia. Licensed media and a live interactive calendar remain deferred.
-
-[New research update](research-update-1-10.md) · [Sources](../references/atlas-sources-1-10.md) · [Review queue](source-review-queue-1-10.md).
-
-
-## Edition 1.11 audit
-
-Read [newly sourced research](research-update-1-11.md), [access limits and source backlinks](../references/atlas-sources-1-11.md) and [review queue](source-review-queue-1-11.md). **This progress report describes deliverables, not independent verification.**
+[Home](../index.md) · [Research update](research-update-1-12.md) · [Validation](validation-report-1-12.md)

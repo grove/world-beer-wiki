@@ -1,8 +1,8 @@
 ---
 type: Historical Research
 title: Who is missing from brewing archives?
-description: An evidence-method reference comparing medieval written rules with contemporary oral-history collections;
-  not a reconstructed account of unnamed individuals.
+description: An evidence-method reference comparing medieval written rules with contemporary oral-history
+  collections; not a reconstructed account of unnamed individuals.
 tags:
 - history
 - research-edition-1.5
@@ -43,16 +43,24 @@ sources:
   title: La supervivencia de los rituales del maguey y el pulque en la época colonial (2023)
   author_label: Rodolfo Ramírez Rodríguez
   source_kind: primary-historical-interpretation-abstract
-  access_scope: INAH article abstract, not full colonial transcriptions; describes seventeenth-century Nahua
-    ritual accounts mediated by clerical sources.
+  access_scope: INAH article abstract, not full colonial transcriptions; describes seventeenth-century
+    Nahua ritual accounts mediated by clerical sources.
 - id: v111-pulque-tax
   resource: https://revistas.inah.gob.mx/index.php/historias/article/view/22610
-  title: Producir y fiscalizar el pulque en el suroriente de la Cuenca de México, 1778–1821 (issue 2023; site
-    posted 2025)
+  title: Producir y fiscalizar el pulque en el suroriente de la Cuenca de México, 1778–1821 (issue 2023;
+    site posted 2025)
   author_label: Carlos Roberto Cruz Gómez
   source_kind: primary-historical-research-abstract
-  access_scope: INAH journal abstract; Chalco-centered archival interpretation, not directly inspected original
-    tax ledgers; distinguish issue date from web posting.
+  access_scope: INAH journal abstract; Chalco-centered archival interpretation, not directly inspected
+    original tax ledgers; distinguish issue date from web posting.
+- id: v112-ottoman-2024
+  resource: https://www.journals.uchicago.edu/doi/10.1086/728455
+  title: 'Prohibition and Negotiation: Alcoholic Beverages and Taverns in Seventeenth-Century Ottoman
+    Istanbul (2024)'
+  author_label: Sultan Toprak Oker
+  source_kind: historical-interpretation-abstract
+  access_scope: Journal abstract, not court archival records; describes alcohol/tavern bans generally
+    and does not identify every bozahane as a target.
 regions:
 - England; United States
 scope: An evidence-method reference comparing medieval written rules with contemporary oral-history collections;
@@ -106,6 +114,13 @@ Mexican historical evidence shows why *who recorded a drink* matters. A scholar 
 
 Follow [Nahua first-pulque records](../culture/nahua-first-pulque-ritual-in-colonial-records.md) and [Chalco taxes](chalco-pulque-taxation-1778-1821.md). The studies' public abstracts, rather than transcribed primary documents, were checked; ritual details and tax figures are not reconstructed without fuller evidence.
 
+
+## Edition 1.12: newly sourced connections
+
+The historian's abstract on seventeenth-century Ottoman Istanbul describes **negotiation of alcohol and tavern prohibitions**. It does not provide evidence that every boza-vending location was legally identical to a tavern serving alcohol. Calling all boza vendors targets of one ban would exceed the accessible article.[^v112-ottoman-2024]
+
+Read the [Istanbul prohibition historiography](ottoman-drink-restrictions-and-negotiation.md) alongside [boza sellers](../culture/istanbul-boza-sellers.md).
+
 ## Source notes
 
 [^v15-bennett-book]: [Ale, Beer, and Brewsters in England: Women’s Work in a Changing World, 1300–1600 (1996)](https://academic.oup.com/book/47408). Judith M. Bennett. Consulted 2026-10-27. Access: Publisher book description and chapter abstracts; detailed book chapters not accessed.
@@ -117,3 +132,5 @@ Follow [Nahua first-pulque records](../culture/nahua-first-pulque-ritual-in-colo
 [^v19-cdli-ration]: [Beer: Means of Compensation, Ur III tablet collection note (2024)](https://cdli.earth/cdli-tablet/549). Cuneiform Digital Library Initiative, Robert K. Englund and contributors. Checked 2026-10-28. Access: Full public artifact description and linked secondary interpretation; no independent reading of clay tablet or its transliteration; the catalog notes irregular messenger rations.
 [^v111-pulque-ritual]: [La supervivencia de los rituales del maguey y el pulque en la época colonial (2023)](https://revistas.inah.gob.mx/index.php/narrativasantropologicas/article/view/20330). Rodolfo Ramírez Rodríguez. Consulted 2026-10-28. Access: INAH article abstract, not full colonial transcriptions; describes seventeenth-century Nahua ritual accounts mediated by clerical sources.
 [^v111-pulque-tax]: [Producir y fiscalizar el pulque en el suroriente de la Cuenca de México, 1778–1821 (issue 2023; site posted 2025)](https://revistas.inah.gob.mx/index.php/historias/article/view/22610). Carlos Roberto Cruz Gómez. Consulted 2026-10-28. Access: INAH journal abstract; Chalco-centered archival interpretation, not directly inspected original tax ledgers; distinguish issue date from web posting.
+
+[^v112-ottoman-2024]: [Prohibition and Negotiation: Alcoholic Beverages and Taverns in Seventeenth-Century Ottoman Istanbul (2024)](https://www.journals.uchicago.edu/doi/10.1086/728455). Sultan Toprak Oker. Consulted 2026-10-28. Evidence access: Journal abstract, not court archival records; describes alcohol/tavern bans generally and does not identify every bozahane as a target.
