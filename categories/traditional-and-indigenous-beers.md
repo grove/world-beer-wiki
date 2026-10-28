@@ -30,10 +30,25 @@ sources:
   source_kind: institutional-heritage-record
   access_scope: Official inscription and public summary viewed; describes cultural practices, not all
     individual recipes.
+- id: v16-assam
+  resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full
+  title: Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes
+    in southern Assam (2024)
+  author_label: Yumnam, Hazarika and Sharma
+  source_kind: primary-field-and-sequencing-study
+  access_scope: Open HTML methods/results, 15 community-produced samples from five named groups (three each)
+    and 16S assay; no full ethnography or clinical outcome evidence.
+- id: v16-banana-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4932199/
+  title: 'Produce from Africa’s Gardens: Potential for Leafy Vegetable and Fruit Fermentations (2016)'
+  author_label: Review authors
+  source_kind: open-review
+  access_scope: Open review text/excerpts on African banana-fermented beverages and Rwandan urugwa, using
+    cited secondary descriptions; not firsthand fieldwork.
 scope: An editorial comparison route, not a single beer style, cultural identity, or exhaustive world
   census.
 evidence_basis: Synthesis of the linked profiles; each preserves its own sources and limits.
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI research draft; the category does not imply community endorsement.
 relations:
 - relation: compare_with
@@ -100,3 +115,12 @@ Coverage is uneven. Further work should seek locally authored histories, communi
 UNESCO's 2016 inscription of Belgian beer culture includes making, serving, teaching, food, institutions and social use. This illustrates why cultural-heritage accounts belong alongside, not beneath, style categories. The [heritage comparison](beer-as-intangible-heritage.md) and [Belgian example](../culture/belgian-beer-as-living-heritage.md) are not a declaration that a recognized tradition is more authentic than any unlisted one.[^v13-belgium-unesco]
 
 [^v13-belgium-unesco]: [Beer culture in Belgium: Representative List inscription 01062 (2016)](https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062). UNESCO Intangible Cultural Heritage. Consulted 2026-10-27. Evidence accessed: Official inscription and public summary viewed; describes cultural practices, not all individual recipes.
+
+## Edition 1.6: sourced research connections
+
+A 2024 Assam study separately identifies **Zeme Naga Zao, Dimasa Judima, Hmar Zu, Karbi Hor Alank, and Haria** in a Tea tribes cohort. In East Africa, a fruit-fermentation review discusses Rwandan Urugwa, which cannot be collapsed into Ugandan Tonto. These source-bound names demonstrate why a world survey needs locality and community terms, not just ingredient or continent labels.[^v16-assam][^v16-banana-review]
+
+See [the Assam cultural comparison](../culture/southern-assam-five-beverage-study.md) and [banana fermentation family](banana-beer-boundaries.md).
+
+[^v16-assam]: [Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in southern Assam (2024)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410098/full). Yumnam, Hazarika and Sharma. Consulted 2026-10-28. Access: Open HTML methods/results, 15 community-produced samples from five named groups (three each) and 16S assay; no full ethnography or clinical outcome evidence.
+[^v16-banana-review]: [Produce from Africa’s Gardens: Potential for Leafy Vegetable and Fruit Fermentations (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4932199/). Review authors. Consulted 2026-10-28. Access: Open review text/excerpts on African banana-fermented beverages and Rwandan urugwa, using cited secondary descriptions; not firsthand fieldwork.

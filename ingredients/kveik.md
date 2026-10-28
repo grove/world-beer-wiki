@@ -43,6 +43,21 @@ sources:
   source_kind: primary-microbial-genomics
   access_scope: PubMed abstract; 1,760 isolates from 44 cultures, four named countries; not representative
     of the entire world.
+- id: v16-kveik-2026
+  resource: https://academic.oup.com/gbe/article/18/9/evag220/8771788
+  title: Genomic Evidence of Early-Diverging Domesticated Lineages in Norwegian Farmhouse Yeast (2026)
+  author_label: Dondrup et al.
+  source_kind: primary-genomics-open-excerpts
+  access_scope: 'Open publisher abstract plus selected sampling, results and discussion excerpts: 64 isolates
+    from 25 Western Norwegian cultures; ancestry inference not date of brewing invention.'
+- id: v16-farmhouse-2026
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13123463/
+  title: Distinctive domestication of farmhouse beer yeasts preserved pre-industrial genetic and phenotypic
+    diversity (2026)
+  author_label: Study authors
+  source_kind: primary-genomics-open-excerpts
+  access_scope: 'Open-article indexed abstract/results: 1,760 isolates from 44 cultures in Norway, Latvia,
+    Lithuania and Russia; no universal trait assignments.'
 aliases:
 - Kveik cultures
 regions:
@@ -52,7 +67,7 @@ scope: Traditional Norwegian kveik cultures and research on their isolates; not 
 evidence_basis:
 - primary-research
 - producer-technical-documentation
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian
   or community representative.
 relations:
@@ -107,3 +122,12 @@ The studies give strong evidence about their tested cultures and strains, while 
 A 2026 genomic study described **1,760 isolates from 44 traditional cultures** across Norway, Latvia, Lithuania and Russia. Its findings include a range from near-monocultures to multi-variant *Saccharomyces cerevisiae* populations. These samples should not be mistaken for all kveik cultures or used to equate commercial isolates with household lineages. See [farmhouse diversity](../microbiology/farmhouse-yeast-diversity.md) and [a sourced story](../stories/a-starter-is-more-than-a-strain.md).[^v13-farmhouse26]
 
 [^v13-farmhouse26]: [Distinctive domestication of farmhouse beer yeasts preserved pre-industrial diversity (2026)](https://pubmed.ncbi.nlm.nih.gov/41946361/). Authors, Current Biology. Consulted 2026-10-27. Evidence accessed: PubMed abstract; 1,760 isolates from 44 cultures, four named countries; not representative of the entire world.
+
+## Edition 1.6: sourced research connections
+
+Two studies published in 2026 illuminate different scales. One sequenced **64 isolates from 25 western Norwegian cultures** sampled with intergenerational heritage criteria; another examined **1,760 isolates from 44 farmhouse cultures** in Norway, Latvia, Lithuania and Russia. They report geographic genetic structure and different degrees of culture diversity. Neither sample inventory is a census of all Norwegian brewers or a timestamp for the invention of vossaøl.[^v16-kveik-2026][^v16-farmhouse-2026]
+
+Follow [the population-history comparison](../microbiology/kveik-population-history-2026.md) rather than equating one genome with a family-maintained culture.
+
+[^v16-kveik-2026]: [Genomic Evidence of Early-Diverging Domesticated Lineages in Norwegian Farmhouse Yeast (2026)](https://academic.oup.com/gbe/article/18/9/evag220/8771788). Dondrup et al.. Consulted 2026-10-28. Access: Open publisher abstract plus selected sampling, results and discussion excerpts: 64 isolates from 25 Western Norwegian cultures; ancestry inference not date of brewing invention.
+[^v16-farmhouse-2026]: [Distinctive domestication of farmhouse beer yeasts preserved pre-industrial genetic and phenotypic diversity (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13123463/). Study authors. Consulted 2026-10-28. Access: Open-article indexed abstract/results: 1,760 isolates from 44 cultures in Norway, Latvia, Lithuania and Russia; no universal trait assignments.

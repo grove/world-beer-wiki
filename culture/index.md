@@ -44,3 +44,9 @@ New evidence-based references (all retain draft status):
 - [Marcha and named Himalayan starter traditions](marcha-and-himalayan-starter-knowledge.md) — Cultural Case Study.
 - [Oxford alewives: gender, trade and town regulation](alewives-and-oxford-town-life.md) — Cultural Case Study.
 - [Wari brewing, feasts and unequal access](wari-brewing-and-state-hospitality.md) — Cultural Case Study.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Five beverages and five communities in southern Assam](southern-assam-five-beverage-study.md) — A close reading of named drinks, sample design and cultural limitations in a 2024 comparison.
+- [Mapuche fermented drinks and the voices in colonial sources](mapuche-fermented-drinks-and-source-voices.md) — What a Chilean literature review says about fermented beverages, women’s work and unequal historical records.
+- [Sahti apprenticeship and celebration in Finnish accounts](sahti-apprenticeship-and-celebration.md) — How one brewer learned from a neighbor and how sahti is described as an occasion-centered drink.

@@ -13,3 +13,5 @@
 - [Edition 1.4 validation report](validation-report-1-4.md) — structural, export, regression and site-build checks.
 
 [Research edition 1.5](research-update-1-5.md) · [Validation 1.5](validation-report-1-5.md) · [Open evidence and community-review queue](source-review-queue-1-5.md)
+
+[Edition 1.6 research update](research-update-1-6.md) · [Validation report](validation-report-1-6.md) · [Independent review queue](source-review-queue-1-6.md) · [Research hygiene tool](../tools/research_quality.py)

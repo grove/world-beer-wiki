@@ -79,3 +79,9 @@ New evidence-based references (all retain draft status):
 
 - [Gesho and moringa: experiment versus local tradition](gesho-versus-moringa-in-a-tella-study.md) — Ingredient Reference.
 - [Schinus molle: pepper-tree drupes in Andean ferment history](schinus-molle-in-andean-ferments.md) — Ingredient Reference.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Banana juice as a fermentation substrate](banana-juice.md) — Fermentable fruit sugars, optional cereal additions and the danger of confusing banana fruit with banana aroma.
+- [Ferulic acid in wort and phenolic brewing aromas](ferulic-acid-in-wort.md) — Where a cereal-derived precursor meets heat and yeast metabolism to contribute clove-like flavor.
+- [Rhynchosia roots as a starch-conversion ingredient in munkoyo](rhynchosia-root-for-munkoyo.md) — A bounded experimental account of roots supplying enzymes to cooked maize in a Zambian ferment.

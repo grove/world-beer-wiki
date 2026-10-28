@@ -22,13 +22,28 @@ sources:
   author_label: Stefan Coghe and colleagues
   source_kind: primary-chemical-research
   access_scope: Indexed abstract; measured 4-vinylguaiacol and strain-specific POF+ effects.
+- id: v16-ferulic-2004
+  resource: https://pubs.acs.org/doi/10.1021/jf0346556
+  title: Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)
+  author_label: Research authors
+  source_kind: primary-brewing-chemistry-abstract
+  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation;
+    studied combinations not all wheat beer.
+- id: v16-tonto
+  resource: https://pubmed.ncbi.nlm.nih.gov/42388651/
+  title: Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of Tonto
+    (2026)
+  author_label: Atwine et al.
+  source_kind: primary-study-abstract
+  access_scope: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles, sensory
+    and methanol measurements; full paper not independently read.
 regions:
 - Cross-regional
 scope: Metabolite groups and their possible sensory associations, distinguishing compounds from ingredients.
 evidence_basis:
 - primary-chemical-research
 - scientific-review
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI-researched, source-scoped draft; not independently reviewed or community-approved.
 relations:
 - relation: compare_with
@@ -69,3 +84,12 @@ Descriptors are qualitative and style-dependent. Detection thresholds depend on 
 [^v13-esters]: [Mechanisms of production and control of acetate esters in yeasts (2023)](https://pubmed.ncbi.nlm.nih.gov/37607842/). Hiroyuki Yoshimoto and Takayuki Bogaki. Consulted 2026-10-27. Evidence accessed: Indexed abstract, mechanistic factors; no sensory threshold claim or universal strain behavior.
 
 [^v13-pof]: [Ferulic acid release and 4-vinylguaiacol formation during brewing (2004)](https://pubmed.ncbi.nlm.nih.gov/14759156/). Stefan Coghe and colleagues. Consulted 2026-10-27. Evidence accessed: Indexed abstract; measured 4-vinylguaiacol and strain-specific POF+ effects.
+
+## Edition 1.6: sourced research connections
+
+Two analytic cases illustrate why a flavor descriptor is not a raw-material list. A beer-chemistry study traces **clove-like 4-vinylguaiacol** to ferulic acid released from cereals and transformed by heat or selected yeasts. A 2026 Ugandan Tonto study links fruit-forward sensations to measured volatile compounds in drinks where banana juice actually is the substrate.[^v16-ferulic-2004][^v16-tonto]
+
+Compare [the clove pathway](clove-aroma-and-4-vinylguaiacol.md) and [the banana ambiguity](banana-fruit-vs-yeast-esters.md).
+
+[^v16-ferulic-2004]: [Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)](https://pubs.acs.org/doi/10.1021/jf0346556). Research authors. Consulted 2026-10-28. Access: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation; studied combinations not all wheat beer.
+[^v16-tonto]: [Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of Tonto (2026)](https://pubmed.ncbi.nlm.nih.gov/42388651/). Atwine et al.. Consulted 2026-10-28. Access: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles, sensory and methanol measurements; full paper not independently read.

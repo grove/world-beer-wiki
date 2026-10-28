@@ -27,3 +27,7 @@ No photograph, shape or traditional name alone certifies age, microbial composit
 New evidence-based references (all retain draft status):
 
 - [Wari brewing vats and kero drinking cups](wari-brewing-vats-and-kero-cups.md) — Material Culture Reference.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Earthen pots and covers in southern Assam rice-fermentation accounts](assam-earthen-pots-and-covers.md) — Material context described by a named comparative study, not evidence of one compulsory vessel.

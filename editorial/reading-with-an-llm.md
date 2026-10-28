@@ -70,3 +70,11 @@ The optional [atlas utility](../tools/atlas.py) exports the catalog and reverse 
 ## Edition 1.5: cross-source claim boundaries
 
 The [complete subject directory](../navigation/all-atlas-subjects.md) now includes all 372 canonical subjects, not just beer names. For cultural history, distinguish a museum retrospective, an oral-history **finding aid**, a transcript actually read and archaeological reconstruction. A citation to the Smithsonian collection catalog is not permission to invent an interview quote. For microbial reports, distinguish presence detected from experimentally measured metabolism; location and study year are essential qualifiers. For present-day beer taxonomy, name both issuer and edition; the BJCP beer guide currently cited is 2021 while the Brewers Association directory is 2026. Read the [new review queue](source-review-queue-1-5.md) and [source access supplement](../references/atlas-sources-1-5.md) before claiming verification.
+
+## Edition 1.6: retrieval decisions that prevent false inference
+
+- If asked for **banana beer**, retrieve [the banana-ferment comparison](../categories/banana-beer-boundaries.md) and named Tonto/Urugwa profiles. Do not infer that banana-like sensory descriptors prove banana fruit in the beer.
+- If asked whether a microorganism is “in” a traditional ferment, distinguish [sampled DNA](../microbiology/assam-rice-ferment-sampling.md), **an isolate**, a deliberately inoculated culture, **functional activity**, and a community's own account. These are not synonyms.
+- For environmental rankings, do not compare [Mexican upstream water footprint](../environment/mexican-microbrewery-footprint-case.md) directly with [Japanese excluding-cultivation boundaries](../environment/japanese-small-brewery-lca-case.md).
+- A cultural occasion without an annually fixed date ([Sahti](../calendar/sahti-occasions-without-a-fixed-date.md)) must not be represented as a confirmed future festival event.
+- The [edition source supplement](../references/atlas-sources-1-6.md) states actual accessed portions. Preserve them in every generated answer; future retrieval may discover different evidence, but must not silently rewrite this research record.

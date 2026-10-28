@@ -53,6 +53,21 @@ sources:
   source_kind: climate-primary-open-text
   access_scope: 'Open full study: historical records and projections for specific European growing regions;
     not all worldwide hops.'
+- id: v16-hop-review
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC10910910/
+  title: The two faces of microorganisms in traditional brewing and implications for no- and low-alcohol
+    beer (2024)
+  author_label: Review authors
+  source_kind: open-scientific-review
+  access_scope: Open review text on iso-alpha acid antimicrobial effects, resistance and selected yeasts;
+    organism behavior depends on strain and conditions.
+- id: v16-hop-primary
+  resource: https://pubmed.ncbi.nlm.nih.gov/17021196/
+  title: Characterization of a highly hop-resistant Lactobacillus brevis strain lacking hop transport (2006)
+  author_label: Study authors
+  source_kind: primary-microbiology-abstract
+  access_scope: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance
+    mechanisms, not a universal species trait.
 aliases:
 - Humulus lupulus
 regions:
@@ -62,7 +77,7 @@ evidence_basis:
 - official-technical-education
 - primary-research
 - producer-technical-documentation
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian
   or community representative.
 relations:
@@ -139,3 +154,12 @@ Brewers Association material describes dry-hop-associated enzyme activity that c
 [^v13-hopcreep]: [Hop Creep – Technical Brief](https://www.brewersassociation.org/educational-publications/hop-creep-technical-brief/). Arnbjørn Stokholm and Thomas H. Shellhammer, Brewers Association. Consulted 2026-10-27. Evidence accessed: Technical summary accessible; conditions and possible outcomes, no universal batch predictions.
 
 [^v14-hops-climate]: [Climate-induced Decline in the Quality and Quantity of European Hops (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/). European hop climate researchers. Consulted 2026-10-27. Access: Open full study: historical records and projections for specific European growing regions; not all worldwide hops.
+
+## Edition 1.6: sourced research connections
+
+A scientific review explains that hop iso-alpha acids can inhibit many sensitive Gram-positive bacteria, while some beer-associated lactic acid bacteria tolerate them. A targeted *Lactobacillus brevis* experiment demonstrated several resistance-related physiological changes, rather than one universal export mechanism. The bacterium's identity alone does not predict whether a given beer will spoil.[^v16-hop-review][^v16-hop-primary]
+
+The [hop-resistant LAB reference](../microbiology/hop-resistant-lactic-acid-bacteria.md) distinguishes deliberate acidification from unwanted growth.
+
+[^v16-hop-review]: [The two faces of microorganisms in traditional brewing and implications for no- and low-alcohol beer (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10910910/). Review authors. Consulted 2026-10-28. Access: Open review text on iso-alpha acid antimicrobial effects, resistance and selected yeasts; organism behavior depends on strain and conditions.
+[^v16-hop-primary]: [Characterization of a highly hop-resistant Lactobacillus brevis strain lacking hop transport (2006)](https://pubmed.ncbi.nlm.nih.gov/17021196/). Study authors. Consulted 2026-10-28. Access: Indexed abstract of L. brevis TMW 1.465 experimental adaptation; strain-specific resistance mechanisms, not a universal species trait.

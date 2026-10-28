@@ -39,3 +39,8 @@ New evidence-based references (all retain draft status):
 
 - [Starter technologies cross borders; beverage names need not](beer-starters-and-beverage-names.md) — Comparative Category Guide.
 - [Two current judging frameworks, not one world beer taxonomy](bjcp-2021-versus-ba-2026.md) — Comparative Category Guide.
+
+## Edition 1.6 — additional source-scoped research
+
+- [A sampled ferment is not a population of brewers](study-sample-vs-living-tradition.md) — A practical guide to interpreting fieldwork, isolate counts, claims about community practice and source access.
+- [Banana beer, fruit fermentation and the limits of a name](banana-beer-boundaries.md) — Compare Ugandan Tonto and Rwandan Urugwa without forcing both into barley-beer rules.

@@ -16,3 +16,8 @@ The chain from growing crops to serving a beer has resource and climate conseque
 New evidence-based references (all retain draft status):
 
 - [Brewing scale, irrigation and land use at Cerro Baúl](large-breweries-and-land-use-at-cerro-baul.md) — Environment Research.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Footprint estimates from surveyed Mexican microbreweries](mexican-microbrewery-footprint-case.md) — A 2024 study with explicit local assumptions and different scopes of direct, indirect and agricultural water.
+- [Single-use glass and system boundaries in a Japanese brewery study](japanese-small-brewery-lca-case.md) — A 2025 assessment where packaging and processing dominate within an explicitly limited life-cycle model.

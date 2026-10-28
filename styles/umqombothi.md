@@ -34,6 +34,13 @@ sources:
   source_kind: primary-research
   access_scope: full-text original research; three laboratory temperature treatments and consumer evaluation
   author_label: Thembelani Xolo, Zanephyn Keyser and Victoria A. Jideani
+- id: v16-umqom-micro
+  resource: https://link.springer.com/article/10.1007/s11274-023-03764-4
+  title: Analysis of the bacterial and fungal populations in South African sorghum beer (umqombothi) (2023)
+  author_label: Study authors
+  source_kind: primary-microbial-profiling
+  access_scope: Open Springer article abstract and indexed results comparing mixed ingredients, customary
+    brew and optimized brew; inferred pathways are not measured production rates.
 aliases:
 - Umqomboti
 regions:
@@ -42,7 +49,7 @@ regions:
 tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary fermentation research; regional scope limited to cited samples
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
 relations:
 - relation: compare_with
@@ -104,3 +111,11 @@ Comparison links are not claims of direct ancestry.
 [^umqombothi-research]: [Nutritional Compositions of Optimally Processed Umqombothi (a South African Indigenous Beer) (2021)](https://www.mdpi.com/2311-5637/7/4/225). Hlangwani et al. Consulted 2026-10-27. Evidence used: indexed published text; customary and optimized production comparison.
 
 [^trad-umqombothi-stages]: [Physicochemical and microbiological changes during two-stage fermentation production of umqombothi (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10803943/). Thembelani Xolo, Zanephyn Keyser and Victoria A. Jideani. Consulted 2026-10-27. Evidence used: full-text original research; three laboratory temperature treatments and consumer evaluation.
+
+## Edition 1.6: sourced research connections
+
+A 2023 South African umqombothi experiment compared microbial sequence patterns in mixed raw materials, a customary beer brew and an optimized brew. The authors reported differences in detected bacterial and fungal communities and **computationally predicted pathways**. These findings describe the analyzed groups; a predicted function is not direct measurement of activity, and a detected organism does not certify quality or safety.[^v16-umqom-micro]
+
+Read [the methods interpretation](../microbiology/umqombothi-amplicons-and-predicted-function.md) before assuming a taxon is required in all sorghum beer. This is a newly consulted study, not a replacement for lived maker knowledge.
+
+[^v16-umqom-micro]: [Analysis of the bacterial and fungal populations in South African sorghum beer (umqombothi) (2023)](https://link.springer.com/article/10.1007/s11274-023-03764-4). Study authors. Consulted 2026-10-28. Access: Open Springer article abstract and indexed results comparing mixed ingredients, customary brew and optimized brew; inferred pathways are not measured production rates.

@@ -34,6 +34,20 @@ sources:
   source_kind: institutional-geopark-account
   access_scope: UNESCO geopark overview names sahti as local intangible tradition, not UNESCO inscription
     of sahti itself.
+- id: v16-sahti-maker
+  resource: https://www.sahti.fi/en/historiaa
+  title: 'Lammin Sahti: history and transmission of sahti'
+  author_label: Lammin Sahti
+  source_kind: firsthand-producer-history
+  access_scope: Brewery’s first-person account of late-1960s apprenticeship, 1985 company, 1987 licensed
+    service, and celebration use; not a nationwide census.
+- id: v16-sahti-community
+  resource: https://visitsahti.fi/en/what-is-sahti/
+  title: What is sahti?
+  author_label: Visit Sahti
+  source_kind: practitioner-advocacy-site
+  access_scope: Practitioner presentation of ingredients, clubs, celebrations and product identity; not
+    independent proof of precise antiquity.
 aliases:
 - Finnish sahti
 regions:
@@ -47,7 +61,7 @@ classification:
   edition: '2021'
   code: '27'
   substyle: Sahti
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
   community representative.
 relations:
@@ -114,3 +128,12 @@ UNESCO’s Lauhanvuori–Hämeenkangas Global Geopark overview describes sahti b
 [^trad-sahti-analysis]: [Physicochemical characterization of sahti, an ‘ancient’ beer style indigenous to Finland (2015)](https://onlinelibrary.wiley.com/doi/full/10.1002/jib.246). Jukka Ekberg et al.. Consulted 2026-10-27. Evidence used: full-text original research; twelve farmhouse samples, Journal of the Institute of Brewing 121, 464–473.
 
 [^v14-sahti]: [Lauhanvuori-Hämeenkangas UNESCO Global Geopark](https://www.unesco.org/en/iggp/lauhanvuori-hameenkangas-unesco-global-geopark). UNESCO. Consulted 2026-10-27. Access: UNESCO geopark overview names sahti as local intangible tradition, not UNESCO inscription of sahti itself.
+
+## Edition 1.6: sourced research connections
+
+Lammin Sahti recounts an apprenticeship in Lammi in the late 1960s and dates its own founding to 1985 and first licensed service to 1987. These dates are **one brewery's modern history**, not the invention of sahti. The producer explicitly associates sahti with weddings and funerals; practitioner material also documents clubs that promote the practice.[^v16-sahti-maker][^v16-sahti-community]
+
+The [transmission case](../culture/sahti-apprenticeship-and-celebration.md) and [occasion-based calendar entry](../calendar/sahti-occasions-without-a-fixed-date.md) separate a celebration from an invented annual festival date.
+
+[^v16-sahti-maker]: [Lammin Sahti: history and transmission of sahti](https://www.sahti.fi/en/historiaa). Lammin Sahti. Consulted 2026-10-28. Access: Brewery’s first-person account of late-1960s apprenticeship, 1985 company, 1987 licensed service, and celebration use; not a nationwide census.
+[^v16-sahti-community]: [What is sahti?](https://visitsahti.fi/en/what-is-sahti/). Visit Sahti. Consulted 2026-10-28. Access: Practitioner presentation of ingredients, clubs, celebrations and product identity; not independent proof of precise antiquity.

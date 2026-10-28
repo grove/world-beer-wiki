@@ -51,12 +51,19 @@ sources:
   source_kind: peer-reviewed-archaeology-abstract
   access_scope: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided
     experiments; full paper not accessed.
+- id: v16-fermented-pasts
+  resource: https://globe.ku.dk/research/molecular-ecology-and-evolution/schroeder-group/fermented-pasts/
+  title: FERMENTED PASTS research project
+  author_label: University of Copenhagen research group
+  source_kind: institutional-research-project
+  access_scope: Institutional description of research questions and methods, not published archaeological
+    findings or confirmed ancient yeast DNA.
 regions:
 - Cross-regional
 scope: A comparative evidence hierarchy for residues, grain structures, tools and modern reconstructions.
 evidence_basis:
 - archaeological-primary-research
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI-researched, source-scoped draft; not independently reviewed or community-approved.
 relations:
 - relation: compare_with
@@ -123,3 +130,11 @@ Explore the [excavated brewery](cerro-baul-wari-brewery.md) and [what experiment
 [^v15-wari-2005]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley and coauthors. Consulted 2026-10-27. Source access: Indexed excerpts of open article text returned in search; direct page open presented a browser challenge; excavation claims limited to retrieved passages, not unseen figures.
 
 [^v15-wari-2024]: [Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)](https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/). Donna J. Nash, Matthew E. Biwer and Emilee Witte. Consulted 2026-10-27. Source access: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided experiments; full paper not accessed.
+
+## Edition 1.6: sourced research connections
+
+The University of Copenhagen's FERMENTED PASTS project proposes comparing historical brewing objects with current microbial lineages using ancient DNA and microbiological methods. This is an excellent **research question**, not proof that a viable ancient yeast has been recovered from a ring or barrel. Residue attribution, contamination controls, dating and contextual artifacts remain necessary to make an archaeological claim.[^v16-fermented-pasts]
+
+See [the research-program profile](historical-yeast-artifacts-research-questions.md).
+
+[^v16-fermented-pasts]: [FERMENTED PASTS research project](https://globe.ku.dk/research/molecular-ecology-and-evolution/schroeder-group/fermented-pasts/). University of Copenhagen research group. Consulted 2026-10-28. Access: Institutional description of research questions and methods, not published archaeological findings or confirmed ancient yeast DNA.

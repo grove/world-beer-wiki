@@ -59,6 +59,14 @@ sources:
   source_kind: peer-reviewed-archaeology-abstract
   access_scope: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided
     experiments; full paper not accessed.
+- id: v16-chicha-2026
+  resource: https://pubmed.ncbi.nlm.nih.gov/42728806/
+  title: 'Chicha de Jora: A Traditional Andean Fermented Beverage as a Complex Cereal Fermentation System
+    (2026)'
+  author_label: Torres-Cárdenas et al.
+  source_kind: open-review-abstract
+  access_scope: PubMed abstract and indexed review excerpts on maize, adjuncts and varied processes; not
+    a universal recipe or evidence for health claims.
 aliases: []
 regions:
 - South America
@@ -69,7 +77,7 @@ countries:
 tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary research or community-authored documentation
-source_checked_on: '2026-10-27'
+source_checked_on: '2026-10-28'
 review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
   representative.
 relations:
@@ -159,3 +167,11 @@ A scientific synthesis of **chicha de jora** describes germinated maize, drying,
 [^v15-wari-2005]: [Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/). Michael E. Moseley and coauthors. Consulted 2026-10-27. Source access: Indexed excerpts of open article text returned in search; direct page open presented a browser challenge; excavation claims limited to retrieved passages, not unseen figures.
 
 [^v15-wari-2024]: [Dreg Deposits and Domestic Beer Production in the Wari Empire (2024)](https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/). Donna J. Nash, Matthew E. Biwer and Emilee Witte. Consulted 2026-10-27. Source access: Institutional research abstract; 2024 reassessment from Cerro Baúl excavation and informant-guided experiments; full paper not accessed.
+
+## Edition 1.6: sourced research connections
+
+A 2026 Peruvian scholarly review describes chicha de jora as a **variable cereal fermentation system**, compiling maize varieties, adjuncts, different processing sequences and reported microbial assemblages. The review strengthens the case against treating one industrial recipe as the ancient or nationally compulsory form. Its discussion of possible bioactive components does not establish clinical benefit.[^v16-chicha-2026]
+
+Read [colonial-record interpretation](../history/chile-chicha-and-the-colonial-archive.md) for a **different region and source type**; Peruvian review evidence is not an eyewitness account of Chilean Indigenous practice.
+
+[^v16-chicha-2026]: [Chicha de Jora: A Traditional Andean Fermented Beverage as a Complex Cereal Fermentation System (2026)](https://pubmed.ncbi.nlm.nih.gov/42728806/). Torres-Cárdenas et al.. Consulted 2026-10-28. Access: PubMed abstract and indexed review excerpts on maize, adjuncts and varied processes; not a universal recipe or evidence for health claims.

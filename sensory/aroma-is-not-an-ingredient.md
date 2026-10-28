@@ -27,7 +27,22 @@ sources:
   title: Sugars, syrups and lactose reference in World Beer Wiki
   source_kind: existing-corpus-synthesis
   access_scope: Retained distinctions between fermentable additions, residual sweetness and lactose.
-source_checked_on: '2026-10-27'
+- id: v16-ferulic-2004
+  resource: https://pubs.acs.org/doi/10.1021/jf0346556
+  title: Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)
+  author_label: Research authors
+  source_kind: primary-brewing-chemistry-abstract
+  access_scope: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation;
+    studied combinations not all wheat beer.
+- id: v16-tonto
+  resource: https://pubmed.ncbi.nlm.nih.gov/42388651/
+  title: Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of Tonto
+    (2026)
+  author_label: Atwine et al.
+  source_kind: primary-study-abstract
+  access_scope: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles, sensory
+    and methanol measurements; full paper not independently read.
+source_checked_on: '2026-10-28'
 review_note: Research draft; no sensory panel or analytical experiment conducted for this page.
 relations:
 - {relation: compare_with, target: ingredients/citrus-peel}
@@ -74,3 +89,12 @@ These are comparisons of source-backed descriptions, not a blinded sensory exper
 [^atlas-voss-context]: [Vossaøl](../styles/vossaol.md), retained field observations and attribution.
 [^atlas-stout-context]: [American Stout](../styles/american-stout.md), retained ingredient and flavor distinctions.
 [^atlas-sugars-context]: [Sugars, syrups and lactose](../ingredients/sugars.md), retained ingredient-versus-sensory distinction.
+
+## Edition 1.6: sourced research connections
+
+The “clove” descriptor in a wheat beer need not mean clove spice was added: brewing experiments measure 4-vinylguaiacol from cereal ferulic acid. Conversely, **Tonto is fermented from banana juice**, and its sampled volatile profile includes ester-associated banana-like impressions. Aroma identification, chemical evidence and a maker's ingredient account are separate evidence types.[^v16-ferulic-2004][^v16-tonto]
+
+Follow [clove aroma](clove-aroma-and-4-vinylguaiacol.md), [banana descriptors](banana-fruit-vs-yeast-esters.md), and [Tonto](../styles/tonto.md).
+
+[^v16-ferulic-2004]: [Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation (2004)](https://pubs.acs.org/doi/10.1021/jf0346556). Research authors. Consulted 2026-10-28. Access: Publisher abstract reporting ferulic acid transformations during mash, boil and yeast fermentation; studied combinations not all wheat beer.
+[^v16-tonto]: [Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of Tonto (2026)](https://pubmed.ncbi.nlm.nih.gov/42388651/). Atwine et al.. Consulted 2026-10-28. Access: PubMed abstract, study locations Ntungamo and Kalungu, n=42, fermentation, volatiles, sensory and methanol measurements; full paper not independently read.

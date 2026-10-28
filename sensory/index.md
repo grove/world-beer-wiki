@@ -30,3 +30,8 @@ New evidence-based references (all retain draft status):
 - [Bitterness: a measured stimulus is not a universal taste](bitterness-is-not-one-number.md) — Sensory Research Guide.
 - [Hop polyphenols, lingering bitterness and dryness](hop-polyphenols-and-astringency.md) — Sensory Research Guide.
 - [Why a scientific sample is not a universal tasting profile](research-samples-are-not-a-style-taste.md) — Sensory Research Guide.
+
+## Edition 1.6 — additional source-scoped research
+
+- [Clove aroma can come from yeast, not clove spice](clove-aroma-and-4-vinylguaiacol.md) — Follow ferulic acid through processing and phenolic yeast activity without inventing an ingredient list.
+- [Two routes to banana aroma: fruit and fermentation esters](banana-fruit-vs-yeast-esters.md) — Why a banana descriptor does not identify banana juice in the recipe.
