@@ -136,11 +136,11 @@ Follow [seven question-led reading trails](navigation/edition-1-10-reading-trail
 
 ## Research edition 1.12
 
-The corpus now contains **579 subject articles**, with 30 newly researched references and 18 sourced extensions. Begin with [nine reading trails](navigation/edition-1-12-reading-trails.md) and the [actual source-access register](references/atlas-sources-1-12.md). The [scope ledger](editorial/atlas-progress.md) reports 83 implemented file-scoped items, one unfulfilled review item and two deferred features. Structural validation is not independent cultural, historical, scientific or food-safety review.
+At the edition 1.12 release, the corpus contained **579 subject articles**, with 30 newly researched references and 18 sourced extensions. Begin with [nine reading trails](navigation/edition-1-12-reading-trails.md) and the [actual source-access register](references/atlas-sources-1-12.md). The [scope ledger](editorial/atlas-progress.md) reports 83 implemented file-scoped items, one unfulfilled review item and two deferred features. Structural validation is not independent cultural, historical, scientific or food-safety review.
 
 ## Research edition 1.13 (historical)
 
-The current corpus contains **614 subject articles**, including 35 new research cases and 19 source-grounded revisions. Start with the [nine edition 1.13 trails](navigation/edition-1-13-reading-trails.md), the [21-work annotated source register](references/atlas-sources-1-13.md), [scope ledger](editorial/atlas-progress.md), and [outstanding review queue](editorial/source-review-queue-1-13.md). All original study-period limitations and earlier release results remain dated and visible.
+At the edition 1.13 release, the corpus contained **614 subject articles**, including 35 new research cases and 19 source-grounded revisions. Start with the [nine edition 1.13 trails](navigation/edition-1-13-reading-trails.md), the [21-work annotated source register](references/atlas-sources-1-13.md), [scope ledger](editorial/atlas-progress.md), and [outstanding review queue](editorial/source-review-queue-1-13.md). All original study-period limitations and earlier release results remain dated and visible.
 
 ## Edition 1.14 — field, craft, fermentation, service and waste
 
