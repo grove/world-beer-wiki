@@ -41,3 +41,5 @@
 ## Research edition 1.12
 
 [Edition 1.12 research update](research-update-1-12.md) · [Independent review queue](source-review-queue-1-12.md) · [Validation](validation-report-1-12.md).
+
+[Research 1.13](research-update-1-13.md) · [Validation 1.13](validation-report-1-13.md) · [Review queue 1.13](source-review-queue-1-13.md) · [Progress](atlas-progress.md).

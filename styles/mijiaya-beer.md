@@ -27,6 +27,14 @@ sources:
   source_kind: archaeological-primary-research
   access_scope: Open-access article text inspected; residues, phytoliths, vessel context and interpretive
     limitations.
+- id: v113-jiahu-2026
+  resource: https://www.mdpi.com/2571-9408/9/8/335
+  title: 'Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)'
+  author_label: Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo
+  source_kind: primary-archaeological-microfossil-study
+  access_scope: Publisher indexed abstract, introduction and selected contextual excerpts; direct article
+    opening failed; starch/fungal identifications are authors’ interpretation, not independently examined
+    images.
 aliases:
 - Mijiaya beer
 regions:
@@ -89,6 +97,12 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.13: newly sourced connections
+
+The 2026 reanalysis of earlier Jiahu pottery offers a method comparator for Mijiaya: microfossils and chemical residues at different sites cannot be combined into one ancient recipe or unbroken brewing genealogy. The newer Jiahu study argues for mold-assisted conversion and some malt-like signatures in its own ceramic samples; this does not prescribe a process at Mijiaya.[^v113-jiahu-2026]
+
+Compare the [Jiahu evidence profile](jiahu-fermented-beverage.md) and [2004/2026 reassessment](../history/jiahu-2004-to-2026-reinterpretation.md).
+
 ## Source notes
 
 [^mijiaya-study]: [Revealing a 5,000-y-old beer recipe in China (2016)](https://www.pnas.org/doi/10.1073/pnas.1601465113). Jiajing Wang and colleagues. Consulted 2026-10-27. Evidence used: abstract and interpretation of pottery residues; not a recovered written recipe.
@@ -98,3 +112,5 @@ Comparison links are not claims of direct ancestry.
 The open-access study uses vessel context, starch and phytolith remains, and chemical evidence to argue for an ancient cereal ferment at **Mijiaya**. It does not recover a whole recipe, date the invention of all Chinese beer, or identify a living community successor. Compare [archaeological inference](../history/how-archaeologists-identify-beer.md) and [Job's tears](../ingredients/job-tears.md).[^v13-mijiaya]
 
 [^v13-mijiaya]: [Revealing a 5,000-y-old beer recipe in China (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4988576/). Jiajing Wang, Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access article text inspected; residues, phytoliths, vessel context and interpretive limitations.
+
+[^v113-jiahu-2026]: [Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)](https://www.mdpi.com/2571-9408/9/8/335). Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo. Consulted 2026-10-28. Access: Publisher indexed abstract, introduction and selected contextual excerpts; direct article opening failed; starch/fungal identifications are authors’ interpretation, not independently examined images.

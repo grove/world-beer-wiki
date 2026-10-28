@@ -26,6 +26,21 @@ sources:
   source_kind: primary-research
   access_scope: published abstract; Benin market samples
   author_label: Greppi et al.
+- id: v113-tchou-2007
+  resource: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1470-6431.2006.00546.x
+  title: 'Household production of sorghum beer in Benin: technological and socio-economic aspects (2007)'
+  author_label: A. P. P. Kayodé, J. D. Hounhouigan, M. J. R. Nout and A. Niehof
+  source_kind: primary-household-survey-abstract
+  access_scope: Publisher and university-indexed abstract; older income amounts and sample-specific properties
+    are historical observations, not current prices or medical benefits.
+- id: v113-tchou-2025
+  resource: https://pubmed.ncbi.nlm.nih.gov/41236300/
+  title: Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan
+    (2025)
+  author_label: C. N. M. Nanoukon and colleagues
+  source_kind: primary-isolate-study-abstract
+  access_scope: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot
+    be used as a population-wide species prevalence or health study.
 aliases:
 - Tchouk
 regions:
@@ -78,8 +93,18 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.13: newly sourced connections
+
+The Benin household-enterprise study documents both the social functions of tchoukoutou and brewers’ assessments of sorghum varieties; it does not establish an invariant recipe or present-day income figure.[^v113-tchou-2007] A later yeast-sequencing study reports a larger proportion of *Schizosaccharomyces pombe* among its identified tchoukoutou yeasts than earlier surveys had reported, but these percentages refer to that sampling and identification design, not to every fermenting cell or every brewing region.[^v113-tchou-2025]
+
+The new [household-enterprise account](../culture/tchoukoutou-household-enterprises.md) and [comparison of yeast methods](../microbiology/tchoukoutou-yeast-surveys-in-disagreement.md) make those distinctions explicit.
+
 ## Source notes
 
 [^tchoukoutou-togo]: [Étude de quelques caractéristiques physico-chimiques de Tchoukoutou, un type de bières locales produit au Togo (2018)](https://www.ajol.info/index.php/ijbcs/article/view/183870). Novidzro et al.. Consulted 2026-10-27. Evidence used: published abstract.
 
 [^tchoukoutou-yeasts]: [Determination of yeast diversity in ogi, mawè, gowé and tchoukoutou (2013)](https://pubmed.ncbi.nlm.nih.gov/23727651/). Greppi et al.. Consulted 2026-10-27. Evidence used: published abstract; Benin market samples.
+
+[^v113-tchou-2007]: [Household production of sorghum beer in Benin: technological and socio-economic aspects (2007)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1470-6431.2006.00546.x). A. P. P. Kayodé, J. D. Hounhouigan, M. J. R. Nout and A. Niehof. Consulted 2026-10-28. Access: Publisher and university-indexed abstract; older income amounts and sample-specific properties are historical observations, not current prices or medical benefits.
+
+[^v113-tchou-2025]: [Molecular identification of yeasts involved in alcoholic fermentation of Tchoukoutou and Atan (2025)](https://pubmed.ncbi.nlm.nih.gov/41236300/). C. N. M. Nanoukon and colleagues. Consulted 2026-10-28. Access: Indexed abstract from six Beninese municipalities and limited isolate frequencies; cannot be used as a population-wide species prevalence or health study.

@@ -89,3 +89,7 @@ Read [Historical evidence, living traditions and revivals](../categories/histori
 ## Edition 1.12 additions
 
 Living context: [Paiwan millet occasions](../culture/paiwan-millet-and-community-occasions.md) and [Georgian aludi gatherings](../culture/georgian-highland-beer-and-blessings.md). Dated research: [Turkish boza 1997](../microbiology/boza-fermentation-1997.md), [Taiwan culture survey 2013](../microbiology/taiwan-millet-starter-lab-study.md), and [mahewu starters 2026](../microbiology/mahewu-starter-cultures-2026.md).
+
+## Edition 1.13 research connections
+
+Neolithic archaeological interpretation: [Jiahu 2004 and 2026 studies](../history/jiahu-2004-to-2026-reinterpretation.md). Studied present-day practices: [Muratina 2003 Kenyan thesis](../styles/muratina.md), [Bushera 2003 Uganda household work](../styles/bushera.md) and [2025 Tchoukoutou isolates](../microbiology/tchoukoutou-yeast-surveys-in-disagreement.md).

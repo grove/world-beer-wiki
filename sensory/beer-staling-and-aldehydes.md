@@ -27,6 +27,13 @@ sources:
   source_kind: primary-200l-trials-open-text
   access_scope: Open 200-L lager pilot study with 15 monitored carbonyls; pressurized/atmospheric comparison
     and fermentation changes are setting-dependent.
+- id: v113-aldehydes-2025
+  resource: https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548
+  title: Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)
+  author_label: Carolina Maia and David Cook
+  source_kind: primary-analytical-beer-chemistry
+  access_scope: Publisher indexed full abstract and introduction; three commercial lager matrices after
+    freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.
 regions:
 - Cross-regional
 scope: 2025 research synthesis of aldehyde formation and storage-related changes; no universal best-before
@@ -67,7 +74,15 @@ A 200-L pale-lager experiment monitored 15 carbonyl compounds across different w
 
 See [wort aldehydes before packaging](../processes/wort-aldehydes-before-packaging.md). The pilot brew cannot set a shelf-life standard for all beer or prove that every pressurized boiling system produces a particular off-flavor in market products.
 
+## Edition 1.13: newly sourced connections
+
+A 2025 study of three concentrated lager-derived matrices investigated aldehyde binding and competitive displacement, rather than simply counting total staling molecules. The results help clarify why aroma emergence over shelf life cannot always be equated with straightforward formation of one compound. Experimental headspace behavior and a consumer's finished-beer sensory judgment remain different endpoints.[^v113-aldehydes-2025]
+
+See [beer-matrix binding and release](beer-matrix-bound-aldehydes.md) for the analytical context.
+
 ## Source notes
 
 [^v18-aldehydes]: [Technological strategies for controlling aldehyde formation in beer (2025)](https://brewingscience.de/index.php/brewingscience/article/view/517). Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen. Consulted 2026-10-28. Access: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal shelf-life extrapolation.
 [^v111-wort-carbonyl]: [Effect of Wort Boiling System and Hopping Regime on Wort and Beer Stale-Flavor Aldehydes (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10453677/). Pilot-brewing aldehyde research team. Consulted 2026-10-28. Access: Open 200-L lager pilot study with 15 monitored carbonyls; pressurized/atmospheric comparison and fermentation changes are setting-dependent.
+
+[^v113-aldehydes-2025]: [Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)](https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548). Carolina Maia and David Cook. Consulted 2026-10-28. Access: Publisher indexed full abstract and introduction; three commercial lager matrices after freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.

@@ -24,6 +24,20 @@ sources:
   source_kind: primary-lca-abstract
   access_scope: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle
     boundaries and water footprint definitions require attention.
+- id: v113-italy-water-2026
+  resource: https://www.sciencedirect.com/science/article/pii/S0959652626005093
+  title: 'Industrial water reclamation in southern Italy: life-cycle assessment of a brewery (2026)'
+  author_label: Giulia Casarano, Francesco Sardella and Pasquale Giungato
+  source_kind: primary-industrial-lca-abstract
+  access_scope: ScienceDirect open indexed abstract/highlights; water reuse benefits accompanied by modeled
+    ultrafiltration burdens; functional unit and site assumptions need full method review.
+- id: v113-portugal-water-2025
+  resource: https://www.sciencedirect.com/science/article/pii/S1383586625020167
+  title: Pilot-scale advanced wastewater treatment for direct potable reuse for beer (2025)
+  author_label: B-WaterSmart pilot research team
+  source_kind: primary-pilot-treatment-study-abstract
+  access_scope: ScienceDirect abstract of four tested technologies and a 1000 L demonstration beer at
+    a Portuguese facility; monitored pilot conditions, not general safety approval.
 scope: Industrial Greek brewery case study on water use, treatment and reuse, not a universal benchmark.
 evidence_basis:
 - industrial-case-study
@@ -53,6 +67,12 @@ The researchers distinguish proposed reuse pathways, including restricted irriga
 
 Industrial Greek brewery case study on water use, treatment and reuse, not a universal benchmark. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
+## Edition 1.13: newly sourced connections
+
+A 2026 Italian life-cycle study of brewery water reclamation reports water-saving potential alongside new burdens attributable to treatment. A 2025 Portuguese pilot separately investigates treatment performance and a limited brewing demonstration. An LCA result and a monitored treatment pilot answer different questions; neither grants a general regulatory or safety exemption for water reused in another brewery.[^v113-italy-water-2026][^v113-portugal-water-2025]
+
+Compare the [two water cases](brewery-water-reuse-italy-portugal.md) and [treatment-train explanation](../processes/brewery-water-reclamation-trains.md).
+
 ## Source notes
 
 [^v14-water]: [Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)](https://www.mdpi.com/2073-4441/17/8/1179). Greek brewery case-study research team. Consulted 2026-10-27. Access: Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide average.
@@ -64,3 +84,7 @@ The Mexican microbrewery LCA survey reported that nearly all of its calculated w
 See the [case-study reading](mexican-microbrewery-footprint-case.md) and [comparability guide](how-to-compare-brewing-footprints.md).
 
 [^v16-mexico-lca]: [Carbon and water footprints of micro craft breweries using a life cycle assessment approach (2024)](https://www.eemj.eu/index.php/EEMJ/article/view/5028). Perea-Eguia, Wakida and Hernandez. Consulted 2026-10-28. Access: Journal abstract on questionnaire-based Mexican microbrewery footprint estimates; cradle boundaries and water footprint definitions require attention.
+
+[^v113-italy-water-2026]: [Industrial water reclamation in southern Italy: life-cycle assessment of a brewery (2026)](https://www.sciencedirect.com/science/article/pii/S0959652626005093). Giulia Casarano, Francesco Sardella and Pasquale Giungato. Consulted 2026-10-28. Access: ScienceDirect open indexed abstract/highlights; water reuse benefits accompanied by modeled ultrafiltration burdens; functional unit and site assumptions need full method review.
+
+[^v113-portugal-water-2025]: [Pilot-scale advanced wastewater treatment for direct potable reuse for beer (2025)](https://www.sciencedirect.com/science/article/pii/S1383586625020167). B-WaterSmart pilot research team. Consulted 2026-10-28. Access: ScienceDirect abstract of four tested technologies and a 1000 L demonstration beer at a Portuguese facility; monitored pilot conditions, not general safety approval.

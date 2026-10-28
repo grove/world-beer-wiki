@@ -111,6 +111,21 @@ sources:
   source_kind: industry-authored-technical-review-abstract
   access_scope: PubMed abstract for two amazake production types; author works for a sake producer; purported
     health benefits not evaluated here.
+- id: v113-jiahu-2026
+  resource: https://www.mdpi.com/2571-9408/9/8/335
+  title: 'Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)'
+  author_label: Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo
+  source_kind: primary-archaeological-microfossil-study
+  access_scope: Publisher indexed abstract, introduction and selected contextual excerpts; direct article
+    opening failed; starch/fungal identifications are authors’ interpretation, not independently examined
+    images.
+- id: v113-kpete-2015
+  resource: https://www.ajol.info/index.php/ajb/article/view/120480
+  title: Phenotypic characters of yeasts isolated from kpete-kpete (2015)
+  author_label: A. P. P. Kayodé and colleagues
+  source_kind: primary-starter-culture-abstract
+  access_scope: 'Publisher abstract: 24 starter samples from eight processing sites, phenotypic identification;
+    composition is not a complete genome or a validated starter prescription.'
 aliases:
 - Mold and mixed starters
 - Saccharifying starters
@@ -206,6 +221,12 @@ These studies should not be conflated: laboratory sufficiency does not imply his
 
 The Japanese review of [Amazake](../styles/amazake.md) explains a material boundary: **koji saccharification can sweeten starch without being the same operation as an alcoholic fermentation**. The sake-lees variant follows a different route and may retain alcohol.[^v112-amazake-2021] Compare [Koji amazake as a process](../processes/koji-amazake-saccharification.md). A mold starter's role cannot be inferred from the name of its final drink alone.
 
+## Edition 1.13: newly sourced connections
+
+The 2026 Jiahu paper interprets fungal microfossils as possible evidence of mold-based starch saccharification, but it did not recover an intact living starter and cannot name the historical process by a modern regional recipe.[^v113-jiahu-2026] A separate northern Benin survey characterized yeasts in a named *kpete-kpete* sorghum-beer starter; this documents a different sort of living culture rather than demonstrating technical ancestry across continents.[^v113-kpete-2015]
+
+Read [Jiahu conversion hypotheses](../processes/jiahu-starch-and-mould-inference.md) and [Kpete-kpete as a studied starter](../microbiology/kpete-kpete-sorghum-starter.md).
+
 ## Source notes
 
 [^ing-jssa-process]: [Sake Brewing Processes and Flavor](https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/). Japan Sake and Shochu Makers Association. Consulted 2026-10-27. Evidence used: rice preparation, koji and parallel saccharification/fermentation sections.
@@ -236,3 +257,7 @@ Read [the situated five-drink comparison](../culture/southern-assam-five-beverag
 [^v110-tape-1972]: [Tapé Fermentation (1972)](https://pmc.ncbi.nlm.nih.gov/articles/PMC380483/). Ko Swan Djien. Consulted 2026-10-28. Access: Original journal abstract via PMC index; selected two-organism laboratory system using ragi isolates; no complete field study read.
 
 [^v112-amazake-2021]: [Ingredients, Functionality, and Safety of the Japanese Traditional Sweet Drink Amazake (2021)](https://pubmed.ncbi.nlm.nih.gov/34200668/). Atsushi Kurahashi. Consulted 2026-10-28. Evidence access: PubMed abstract for two amazake production types; author works for a sake producer; purported health benefits not evaluated here.
+
+[^v113-jiahu-2026]: [Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)](https://www.mdpi.com/2571-9408/9/8/335). Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo. Consulted 2026-10-28. Access: Publisher indexed abstract, introduction and selected contextual excerpts; direct article opening failed; starch/fungal identifications are authors’ interpretation, not independently examined images.
+
+[^v113-kpete-2015]: [Phenotypic characters of yeasts isolated from kpete-kpete (2015)](https://www.ajol.info/index.php/ajb/article/view/120480). A. P. P. Kayodé and colleagues. Consulted 2026-10-28. Access: Publisher abstract: 24 starter samples from eight processing sites, phenotypic identification; composition is not a complete genome or a validated starter prescription.

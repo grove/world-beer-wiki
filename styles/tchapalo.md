@@ -28,6 +28,20 @@ sources:
   source_kind: primary-microbiology-open-text
   access_scope: Article abstract and indexed open text on samples and species identification; in-vitro isolate
     potential, not a standard strain specification.
+- id: v113-tchapalo-2011
+  resource: https://pubmed.ncbi.nlm.nih.gov/21318423/
+  title: Identification of yeasts during alcoholic fermentation of tchapalo (2011)
+  author_label: K. F. N’Guessan and colleagues
+  source_kind: primary-yeast-study-abstract
+  access_scope: PubMed abstract describing 240 isolates from fermenting sorghum worts inoculated with
+    dried yeast from Abidjan and Bondoukou; studied inocula, not all practices.
+- id: v113-tchapalo-2022
+  resource: https://pubmed.ncbi.nlm.nih.gov/35344598/
+  title: Detection of spoilage-causing yeasts and bacteria in tchapalo (2022)
+  author_label: C. K. Attchelouwa and colleagues
+  source_kind: primary-shelf-life-challenge-study-abstract
+  access_scope: 'PubMed abstract: 11 selected strains inoculated into sterile-filtered tchapalo over three
+    days; sensory and volatiles are specific to that challenge system.'
 aliases: []
 regions:
 - West Africa
@@ -90,8 +104,18 @@ Researchers isolated non-*Saccharomyces* yeasts from traditional sorghum beer in
 
 See the [isolate study](../microbiology/non-saccharomyces-yeasts-in-abidjan-sorghum-beer.md) and the [isolates-versus-communities distinction](../processes/isolates-and-living-starter-communities.md).
 
+## Edition 1.13: newly sourced connections
+
+Studies of Ivorian tchapalo describe multiple yeast isolates from a geographically limited fermentation experiment. A later challenge test added selected organisms to sterile-filtered tchapalo and observed differing sensory changes across strains after three days. These are different research questions: the organisms found or added during brewing cannot be equated with every organism that alters the finished beer in storage.[^v113-tchapalo-2011][^v113-tchapalo-2022]
+
+See [fermentation versus spoilage](../microbiology/tchapalo-fermentation-versus-spoilage.md) and [the method comparison](../categories/yeast-survey-method-disagreements.md). These findings do not certify food safety or a universally fixed tchapalo microbial recipe.
+
 ## Source notes
 
 [^tchapalo-research]: [Influence of yeasts on bioactive compounds content of traditional sorghum beer (tchapalo) produced in Côte d’Ivoire (2020)](https://www.researchgate.net/publication/342405953_Influence_of_Yeasts_on_Bioactive_Compounds_Content_of_Traditonal_Sorghum_Beer_Tchapalo_Produced_in_Ivory_Coast). Coulibaly et al.. Consulted 2026-10-27. Evidence used: author-shared manuscript; DOI 10.1016/j.crfs.2020.06.001.
 
 [^v15-cotedivoire-2022]: [Identification of non-Saccharomyces yeast strains isolated from traditional sorghum beer in Abidjan (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9235157/). BMC Microbiology research authors. Consulted 2026-10-27. Source access: Article abstract and indexed open text on samples and species identification; in-vitro isolate potential, not a standard strain specification.
+
+[^v113-tchapalo-2011]: [Identification of yeasts during alcoholic fermentation of tchapalo (2011)](https://pubmed.ncbi.nlm.nih.gov/21318423/). K. F. N’Guessan and colleagues. Consulted 2026-10-28. Access: PubMed abstract describing 240 isolates from fermenting sorghum worts inoculated with dried yeast from Abidjan and Bondoukou; studied inocula, not all practices.
+
+[^v113-tchapalo-2022]: [Detection of spoilage-causing yeasts and bacteria in tchapalo (2022)](https://pubmed.ncbi.nlm.nih.gov/35344598/). C. K. Attchelouwa and colleagues. Consulted 2026-10-28. Access: PubMed abstract: 11 selected strains inoculated into sterile-filtered tchapalo over three days; sensory and volatiles are specific to that challenge system.

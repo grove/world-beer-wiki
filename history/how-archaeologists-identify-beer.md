@@ -68,6 +68,21 @@ sources:
   source_kind: primary-archaeogenetic-study
   access_scope: Open indexed article excerpt on vrs1 allele in archaeological barley from Qasr Ibrim; grain
     genetics, not proof of brewing at this site or climate projection.
+- id: v113-jiahu-2004
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC539767/
+  title: Fermented beverages of pre- and proto-historic China (2004)
+  author_label: Patrick E. McGovern and colleagues
+  source_kind: primary-archaeological-chemistry
+  access_scope: PNAS indexed article abstract and methodological/results extracts; direct PMC open showed
+    browser challenge; interpretations are from retrieved text, not reanalysis of sherds.
+- id: v113-jiahu-2026
+  resource: https://www.mdpi.com/2571-9408/9/8/335
+  title: 'Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)'
+  author_label: Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo
+  source_kind: primary-archaeological-microfossil-study
+  access_scope: Publisher indexed abstract, introduction and selected contextual excerpts; direct article
+    opening failed; starch/fungal identifications are authors’ interpretation, not independently examined
+    images.
 regions:
 - Cross-regional
 scope: A comparative evidence hierarchy for residues, grain structures, tools and modern reconstructions.
@@ -132,6 +147,12 @@ Explore the [excavated brewery](cerro-baul-wari-brewery.md) and [what experiment
 
 Ancient barley genetics at Qasr Ibrim show why **finding a relevant cereal is not the same as finding beer**. The study examined grain row-type ancestry and the *vrs1* locus; its results support questions about crop adaptation, not a particular fermentation or alcohol content. Such a claim would need additional chemical residues, installations or appropriately interpreted texts. Read [the Qasr Ibrim analysis](qasr-ibrim-barley-ancient-dna.md) and [two-row / six-row barley cautions](../ingredients/barley-row-type-and-brewing-assumptions.md) as a methodological check against turning agricultural archaeology into an invented brewing tradition.[^v19-nubian-barley]
 
+## Edition 1.13: newly sourced connections
+
+Jiahu now offers a useful methodological dialogue: a 2004 chemical-residue reconstruction argued for a mixed drink of rice, honey and fruit; a 2026 microfossil study revisits the same site and proposes a more central role for mold-assisted starch conversion. Neither analysis yields a complete ancient recipe, and the different signals should remain separately attributed.[^v113-jiahu-2004][^v113-jiahu-2026]
+
+See [the two-paper historical comparison](jiahu-2004-to-2026-reinterpretation.md) and [the sampled pottery](../objects/jiahu-pottery-residue-sampling.md).
+
 ## Source notes
 
 [^v13-mijiaya]: [Revealing a 5,000-y-old beer recipe in China (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4988576/). Jiajing Wang, Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access article text inspected; residues, phytoliths, vessel context and interpretive limitations.
@@ -155,3 +176,7 @@ See [the research-program profile](historical-yeast-artifacts-research-questions
 [^v16-fermented-pasts]: [FERMENTED PASTS research project](https://globe.ku.dk/research/molecular-ecology-and-evolution/schroeder-group/fermented-pasts/). University of Copenhagen research group. Consulted 2026-10-28. Access: Institutional description of research questions and methods, not published archaeological findings or confirmed ancient yeast DNA.
 
 [^v19-nubian-barley]: [Archaeogenetic Evidence of Ancient Nubian Barley Evolution from Six to Two-Row Indicates Local Adaptation (2009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2707625/). Qasr Ibrim ancient-barley genetic researchers. Checked 2026-10-28. Access: Open indexed article excerpt on vrs1 allele in archaeological barley from Qasr Ibrim; grain genetics, not proof of brewing at this site or climate projection.
+
+[^v113-jiahu-2004]: [Fermented beverages of pre- and proto-historic China (2004)](https://pmc.ncbi.nlm.nih.gov/articles/PMC539767/). Patrick E. McGovern and colleagues. Consulted 2026-10-28. Access: PNAS indexed article abstract and methodological/results extracts; direct PMC open showed browser challenge; interpretations are from retrieved text, not reanalysis of sherds.
+
+[^v113-jiahu-2026]: [Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)](https://www.mdpi.com/2571-9408/9/8/335). Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo. Consulted 2026-10-28. Access: Publisher indexed abstract, introduction and selected contextual excerpts; direct article opening failed; starch/fungal identifications are authors’ interpretation, not independently examined images.

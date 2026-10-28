@@ -70,3 +70,8 @@ New evidence-based references (all retain draft status):
 
 - [The boza vendor and the microbe](the-boza-vendor-and-the-microbe.md)
 - [The malt that brought the microbes](the-malt-that-brought-the-microbes.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [The Jiahu drink changed when scientists asked a new question](two-analyses-one-jiahu-pot.md) — A narrative of how pottery chemistry and microfossils changed an archaeological brewing hypothesis.
+- [The reusable sponge that changes a Kenyan fermentation](what-a-brewing-sponge-can-carry.md) — A material-culture story about yeast colonization and the danger of universalizing one Muratina case study.

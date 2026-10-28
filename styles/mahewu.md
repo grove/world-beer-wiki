@@ -36,6 +36,13 @@ sources:
   source_kind: secondary-review-abstract
   access_scope: PubMed abstract, distinguishing nonalcoholic maize refreshments and alcoholic malt beers; no original
     household observations inspected.
+- id: v113-east-africa-2025
+  resource: https://ift.onlinelibrary.wiley.com/doi/10.1111/1541-4337.70137
+  title: 'Eastern African traditional fermented foods and beverages: advancements and challenges (2025)'
+  author_label: Hawaz and colleagues
+  source_kind: secondary-review-accessible-section
+  access_scope: Accessible review excerpt comparing bushera, malwa and other regional foods; classifications
+    and names vary and cited underlying studies were not all retrieved.
 regions:
 - Zimbabwe
 - Southern Africa
@@ -77,8 +84,16 @@ The 2019 mahewu study traced a substantial part of the fermentation microbiota t
 - [Mahewu cereal choice, availability and household practice](../culture/mahewu-cereal-choices.md)
 - [Umqombothi](umqombothi.md)
 
+## Edition 1.13: newly sourced connections
+
+A regional review compares Zimbabwean mahewu with Ugandan cereal drinks such as bushera, including their differences in grain use and household souring practices. This is a useful comparative question, not grounds to rename bushera as mahewu or to infer one common microorganism from food texture alone.[^v113-east-africa-2025]
+
+The new [Bushera profile](bushera.md), [fermented-cereal food discussion](../food/bushera-as-fermented-cereal-food.md), and [food-versus-beer classification](../categories/cereal-beer-versus-fermented-cereal-drink.md) document those boundaries.
+
 ## Source notes
 
 [^v112-mahewu-2019]: [Composition and Origin of the Fermentation Microbiota of Mahewu, a Zimbabwean Fermented Cereal Beverage (2019)](https://pubmed.ncbi.nlm.nih.gov/30902861/). Felicitas Pswarayi and Michael G. Gänzle. Consulted 2026-10-28. Access: PubMed indexed abstract and accessible introductory/results excerpts, including seasonal source tracking; full tables not independently reproduced.
 [^v112-mahewu-2024]: [Substitution of maize with sorghum and millets in traditional processing of Mahewu (issue 2024; first online 2023)](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.16887). Kudita and colleagues. Consulted 2026-10-28. Access: Publisher open-access article summary and percentages; subsequent article access blocked; respondents and stated preferences are not nationwide forecasts.
 [^v112-zimbabwe-review]: [A review of traditional fermented foods and beverages of Zimbabwe (1999)](https://pubmed.ncbi.nlm.nih.gov/10598109/). T. H. Gadaga, A. N. Mutukumira, J. A. Narvhus and S. B. Feresu. Consulted 2026-10-28. Access: PubMed abstract, distinguishing nonalcoholic maize refreshments and alcoholic malt beers; no original household observations inspected.
+
+[^v113-east-africa-2025]: [Eastern African traditional fermented foods and beverages: advancements and challenges (2025)](https://ift.onlinelibrary.wiley.com/doi/10.1111/1541-4337.70137). Hawaz and colleagues. Consulted 2026-10-28. Access: Accessible review excerpt comparing bushera, malwa and other regional foods; classifications and names vary and cited underlying studies were not all retrieved.

@@ -97,3 +97,10 @@ New evidence-based references (all retain draft status):
 - [Georgian highland beer, blessings and village gatherings](georgian-highland-beer-and-blessings.md)
 - [Mahewu cereal choice, availability and household practice](mahewu-cereal-choices.md)
 - [Paiwan millet, wine and community occasions](paiwan-millet-and-community-occasions.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Bushera, household knowledge and grain preparation](bushera-household-fermentation-in-southwestern-uganda.md) — Survey-reported household preparation in two Ugandan districts, with its own grain and fermentation variation.
+- [Commercial Chibuku and the boundary of traditional beer](chibuku-and-industrial-opaque-beer.md) — Industrial opaque sorghum beer as a commercial institution; its history is not the history of every household ferment.
+- [Muratina in a Sagana marriage-practice study](muratina-and-agikuyu-marriage-negotiation.md) — An account of a named fermentation practice within one 2026 community-specific study, not a generalized Kenyan marriage rule.
+- [Tchoukoutou and household brewing enterprises in Benin](tchoukoutou-household-enterprises.md) — Household enterprise and consumer perceptions in a 2007 study of Beninese sorghum-beer production.

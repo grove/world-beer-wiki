@@ -365,3 +365,7 @@ Peru: [Yaminahua masateadas](../culture/yaminahua-masateadas-and-kinship.md), [C
 ## Edition 1.12 additions
 
 Zimbabwe: [Mahewu](../styles/mahewu.md). Georgia: [Aludi](../styles/aludi-georgian-highland-beer.md). Japan: [Amazake](../styles/amazake.md). Taiwan: [millet ferment context](../styles/taiwan-indigenous-millet-ferment.md). Rwanda: [Ikigage](../styles/ikigage.md). Türkiye and the Balkans: [Boza](../styles/boza.md).
+
+## Edition 1.13 research connections
+
+Kenya: [Muratina](../styles/muratina.md), [fruit carriers](../objects/muratina-fibrous-starter-carriers.md), and [Sagana marriage context](../culture/muratina-and-agikuyu-marriage-negotiation.md). Benin: [Tchoukoutou livelihoods](../culture/tchoukoutou-household-enterprises.md). Uganda: [Bushera](../styles/bushera.md). China: [Jiahu archaeological evidence](../styles/jiahu-fermented-beverage.md).

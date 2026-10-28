@@ -77,3 +77,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.12 — documented contexts
 
 - [Low-alcohol cereal ferments: boza, kvass, mahewu and beer](low-alcohol-cereal-ferment-boundaries.md)
+
+## Research edition 1.13 — source-scoped additions
+
+- [Opaque cereal beers and fermented cereal food-drinks](cereal-beer-versus-fermented-cereal-drink.md) — A comparison of beverage naming, cereal processing, producer context and measured alcohol without treating every cereal ferment as beer.
+- [When fermentation surveys disagree about the yeast](yeast-survey-method-disagreements.md) — A practical guide to different sample units, isolation, culture-independent methods and fermentation phases.

@@ -18,6 +18,14 @@ sources:
   source_kind: archaeology-primary-open-text
   access_scope: 'Open full study: starch, phytoliths and fungal residues support malt and mold-based
     fermentation at studied north-China sites.'
+- id: v113-jiahu-2026
+  resource: https://www.mdpi.com/2571-9408/9/8/335
+  title: 'Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)'
+  author_label: Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo
+  source_kind: primary-archaeological-microfossil-study
+  access_scope: Publisher indexed abstract, introduction and selected contextual excerpts; direct article
+    opening failed; starch/fungal identifications are authors’ interpretation, not independently examined
+    images.
 scope: Residue-based inferences from selected north-China sites studied in a 2019 archaeological paper.
 evidence_basis:
 - archaeology-primary-open-text
@@ -47,6 +55,14 @@ The authors discuss possible salivary starch conversion but explicitly state tha
 
 Residue-based inferences from selected north-China sites studied in a 2019 archaeological paper. The sources record only their stated settings and access level. This AI-authored article remains a research draft; citations do not imply an independent field, laboratory or community review.
 
+## Edition 1.13: newly sourced connections
+
+The 2026 Jiahu microfossil study argues for qu-like fungal saccharification plus indications compatible with malt-related processing in its Neolithic pottery. These are proxy-based reconstructions, not identification of a preserved living inoculum or the origin of all later East Asian grain ferments.[^v113-jiahu-2026]
+
+The [Jiahu process discussion](../processes/jiahu-starch-and-mould-inference.md) and [evidence-based story](../stories/two-analyses-one-jiahu-pot.md) make these limits visible.
+
 ## Source notes
 
 [^v14-neolithic]: [Specialized pottery and alcohol fermentation in Early Neolithic China (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6600912/). Archaeological research team. Consulted 2026-10-27. Access: Open full study: starch, phytoliths and fungal residues support malt and mold-based fermentation at studied north-China sites.
+
+[^v113-jiahu-2026]: [Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)](https://www.mdpi.com/2571-9408/9/8/335). Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo. Consulted 2026-10-28. Access: Publisher indexed abstract, introduction and selected contextual excerpts; direct article opening failed; starch/fungal identifications are authors’ interpretation, not independently examined images.

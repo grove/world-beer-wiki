@@ -57,3 +57,7 @@ For conversion methods and cultural scope, read [Starch fermentation and the bou
 ## Edition 1.12 additions
 
 [Millet malt as a microbial input](../ingredients/millet-malt-as-microbial-input.md), [rye bread in kvass](../ingredients/rye-bread-as-kvass-substrate.md), [sorghum and millets](../ingredients/sorghum-and-millet.md), and [koji-related starters](../ingredients/mould-and-mixed-starters.md) connect different substrates to different biochemical roles.
+
+## Edition 1.13 research connections
+
+[Kigelia fruit fibre as yeast carrier](../ingredients/kigelia-fruit-fibre.md) · [Benin sorghum suitability](../ingredients/benin-brewing-sorghum-varieties.md) · [Chemical beer antioxidants without health claims](../ingredients/beer-antioxidants-versus-health-claims.md).

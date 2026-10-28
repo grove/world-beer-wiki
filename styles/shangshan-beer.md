@@ -29,6 +29,14 @@ sources:
   source_kind: archaeological-primary-research
   access_scope: Open-access full text inspected; fungal morphology and starch proxy, no live microorganisms
     recovered.
+- id: v113-jiahu-2026
+  resource: https://www.mdpi.com/2571-9408/9/8/335
+  title: 'Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)'
+  author_label: Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo
+  source_kind: primary-archaeological-microfossil-study
+  access_scope: Publisher indexed abstract, introduction and selected contextual excerpts; direct article
+    opening failed; starch/fungal identifications are authors’ interpretation, not independently examined
+    images.
 aliases:
 - Shangshan rice beer
 regions:
@@ -73,6 +81,12 @@ The [rice](../ingredients/rice.md) and [mixed starter](../ingredients/mould-and-
 
 [All beer profiles](index.md) · [Category guides](../categories/index.md) · [Evidence method](../editorial/methodology.md)
 
+## Edition 1.13: newly sourced connections
+
+A 2026 research team reexamined Jiahu pottery residues and proposed a combination of qu-like and malt-related starch conversion evidence. Its methods make a useful comparative framework for thinking about early Chinese fermentation sites, but dates, samples and fungal signatures belong to each archaeological context; nothing here demonstrates direct transmission from Shangshan to Jiahu.[^v113-jiahu-2026]
+
+Read [Jiahu’s archaeological evidence](jiahu-fermented-beverage.md) and [the residue-method comparison](../objects/jiahu-pottery-residue-sampling.md).
+
 ## Source notes
 
 [^wiki-shangshan-study]: [Identification of 10,000-year-old rice beer at Shangshan in the Lower Yangzi River valley of China (2024)](https://www.pnas.org/doi/10.1073/pnas.2412274121). Li Liu, Jianping Zhang, Jingbo Li, Yahui He, Zhongzhe Gao and Leping Jiang. Consulted 2026-10-27. Evidence used: abstract and indexed full-text sections on microfossils and interpretation; ancient microorganisms inferred morphologically, not revived.
@@ -82,3 +96,5 @@ The [rice](../ingredients/rice.md) and [mixed starter](../ingredients/mould-and-
 At **Shangshan**, researchers interpreted fungal-like microfossils together with rice and other starch evidence as signs compatible with early fermented cereal beverage production. The material cannot genetically identify an ancient living strain or prove continuity with current starter makers. Compare [Monascus-like evidence](../microbiology/monascus-in-archaeology.md) and [archaeological methods](../history/how-archaeologists-identify-beer.md).[^v13-shangshan]
 
 [^v13-shangshan]: [Identification of 10,000-year-old rice beer at Shangshan (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11665889/). Li Liu and colleagues. Consulted 2026-10-27. Evidence accessed: Open-access full text inspected; fungal morphology and starch proxy, no live microorganisms recovered.
+
+[^v113-jiahu-2026]: [Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)](https://www.mdpi.com/2571-9408/9/8/335). Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo. Consulted 2026-10-28. Access: Publisher indexed abstract, introduction and selected contextual excerpts; direct article opening failed; starch/fungal identifications are authors’ interpretation, not independently examined images.

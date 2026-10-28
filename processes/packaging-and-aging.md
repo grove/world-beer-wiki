@@ -44,6 +44,13 @@ sources:
   source_kind: open-technical-review
   access_scope: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels
     are reported ranges, not regulatory limits.
+- id: v113-aldehydes-2025
+  resource: https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548
+  title: Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)
+  author_label: Carolina Maia and David Cook
+  source_kind: primary-analytical-beer-chemistry
+  access_scope: Publisher indexed full abstract and introduction; three commercial lager matrices after
+    freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.
 scope: Chemical and microbiological explanations of quality changes after filling.
 evidence_basis:
 - open-oxidation-review
@@ -87,6 +94,12 @@ The oxidative-stability review distinguishes oxygen already dissolved in finishe
 
 The new [package oxygen pathways](beer-package-oxygen-pathways.md) reference links to [material life-cycle boundaries](../environment/packaging-chemistry-and-life-cycle.md). A package can provide good light or oxygen protection without automatically being environmentally preferable in every distribution system.
 
+## Edition 1.13: newly sourced connections
+
+A matrix-binding experiment with three commercial lager beers shows why aldehyde abundance cannot be interpreted solely as aroma intensity: compounds can bind to beer-derived materials and displace one another in analytical challenges. The researchers prepared concentrated beer matrices, so the experiment is not a universal bottle-aging forecast.[^v113-aldehydes-2025]
+
+Read [bound and released aldehydes](../sensory/beer-matrix-bound-aldehydes.md) and [oxidative aging](../sensory/oxidative-aging.md) for related, separately scoped mechanisms.
+
 ## Source notes
 [^v14-aging]: [Transition Metals and Beer Oxidative Stability: Review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Mertens and colleagues. Consulted 2026-10-27. Access: Open text on oxygen, metals and also non-oxidative aging; no shelf-life prediction.
 
@@ -96,3 +109,5 @@ The new [package oxygen pathways](beer-package-oxygen-pathways.md) reference lin
 
 [^v18-aldehydes]: [Technological strategies for controlling aldehyde formation in beer (2025)](https://brewingscience.de/index.php/brewingscience/article/view/517). Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen. Consulted 2026-10-28. Access: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal shelf-life extrapolation.
 [^v111-metals]: [Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Tuur Mertens, Thomas Kunz and Brian R. Gibson. Consulted 2026-10-28. Access: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels are reported ranges, not regulatory limits.
+
+[^v113-aldehydes-2025]: [Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)](https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548). Carolina Maia and David Cook. Consulted 2026-10-28. Access: Publisher indexed full abstract and introduction; three commercial lager matrices after freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.
