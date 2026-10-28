@@ -20,6 +20,18 @@ sources:
   source_kind: open-scientific-review
   access_scope: Full open HTML review on composition, moisture, microbial risks, reuse pathways and
     adoption limits; review, not trial.
+- id: v117-chain
+  resource: "https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/jsf2.70039"
+  title: "The barley–malt–beer chain: A process and food safety approach (2026)"
+  author_label: "José Gómez-Espinoza and colleagues"
+  source_kind: "open-brewing-safety-literature-review"
+  access_scope: "Full accessible open 2026 review of grain handling, malt and brewing contaminant transfer; secondary synthesis, not validated production instructions."
+- id: v117-eu-contaminants
+  resource: "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915"
+  title: "Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026"
+  author_label: "European Commission"
+  source_kind: "official-consolidated-eu-regulation"
+  access_scope: "EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision."
 regions:
 - Cross-regional
 scope: A 2026 review of brewery by-products, processing options and the risks of assuming every reuse
@@ -60,3 +72,15 @@ This is a bounded, AI-authored research draft. Sources support the cited study, 
 ## Source notes
 
 [^v17-spent-2026]: [Review of Brewer’s Spent Grain Valorization: Technologies, Safety, Circularity (2026)](https://www.mdpi.com/2071-1050/18/20/10403). El Hassan Ajandouz and colleagues. Consulted 2026-10-28. Access: Full open HTML review on composition, moisture, microbial risks, reuse pathways and adoption limits; review, not trial.
+
+## Edition 1.17: newly sourced connections
+
+A spent-grain circularity claim cannot be assessed solely from a statement that it is rich in usable material. The 2026 barley–malt–beer literature review discusses how contaminants can transfer or partition among grain, wort and brewing fractions. It is not a food/feed safety certificate for a specific by-product lot.[^v117-chain]
+
+The consolidated EU contaminant regulation separates maximum levels among named food matrices, with conditions and exemptions. A reader cannot apply one unprocessed-barley number to all spent-grain food products, animal feeds or beers without checking current category coverage and relevant law.[^v117-eu-contaminants]
+
+An LCA, a toxin assay and a food-safety inspection answer different questions. See [the new spent-grain and food guide](../food/spent-grain-and-food-safety-boundaries.md) and [grain handling provenance](../objects/grain-stores-and-sample-provenance.md). Do not infer a safe storage, feeding or preservation method.
+
+[^v117-chain]: [The barley–malt–beer chain: A process and food safety approach (2026)](https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/jsf2.70039). José Gómez-Espinoza and colleagues. Checked 2026-10-28. Access: Full accessible open 2026 review of grain handling, malt and brewing contaminant transfer; secondary synthesis, not validated production instructions.
+
+[^v117-eu-contaminants]: [Commission Regulation (EU) 2023/915 on maximum levels for certain contaminants in food, consolidated 19 August 2026](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023R0915). European Commission. Checked 2026-10-28. Access: EUR-Lex official consolidated 19 August 2026 legal text; food-matrix categories and subsequent amendments must be checked case-by-case. No global beer conformity decision.

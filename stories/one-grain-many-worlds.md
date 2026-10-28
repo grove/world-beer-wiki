@@ -27,6 +27,18 @@ sources:
   title: Tesgüino profile in World Beer Wiki
   source_kind: existing-corpus-synthesis
   access_scope: Retained Norogachi community narrative and preparation account.
+- id: v117-bere-review
+  resource: "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432"
+  title: "Back to the future: Using ancient Bere barley landraces for a sustainable future"
+  author_label: "Peter Martin and colleagues"
+  source_kind: "open-agronomic-and-heritage-review"
+  access_scope: "Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date."
+- id: v117-contracts-2021
+  resource: "https://link.springer.com/article/10.1186/s40100-021-00198-0"
+  title: "Economics of contracts in African food systems: evidence from the malt barley sector in Ethiopia (2021)"
+  author_label: "Delelegne A. Tefera and Jos Bijman"
+  source_kind: "open-agricultural-economics-study"
+  access_scope: "Full open Ethiopia study using cross-sectional survey and statistical adjustment; Arsi contracting results not universal causal outcomes across all farmers."
 source_checked_on: '2026-10-27'
 review_note: Research draft; comparison is editorial and does not imply influence or descent.
 relations:
@@ -67,3 +79,15 @@ The article draws on the existing profiles and their access notes; it does not r
 [^atlas-american-lager-context]: [American Lager](../styles/american-lager.md), existing modern style reference.
 [^atlas-chicha-context]: [Chicha de jora](../styles/chicha-de-jora.md), existing primary-research synthesis.
 [^atlas-tesguino-context]: [Tesgüino](../styles/tesguino.md), existing community-narrative profile.
+
+## Edition 1.17: newly sourced connections
+
+The same word **barley** appears in a Scottish-island landrace history and in an Ethiopian industrial malt-barley contracting study. In the Bere review, the authors examine conservation, food and drink markets, and changing local cultivation. In the Arsi economics paper, the focus is contracts, farm outcomes and commercial quality standards. Their questions and study populations are unlike one another.[^v117-bere-review][^v117-contracts-2021]
+
+These are useful comparative readings precisely because no genealogical connection follows from a shared cereal. Bere is not the universal ingredient of every British beer, and an Ethiopian industrial buyer is not the origin of every local fermented grain drink.
+
+Read [Bere as an ingredient](../ingredients/bere-six-row-barley.md) beside [Arsi market relationships](../culture/arsi-malt-barley-farm-contracts.md). Trade, crop diversity, fermentation ecology and cultural identity each need their own evidence and attribution.
+
+[^v117-bere-review]: [Back to the future: Using ancient Bere barley landraces for a sustainable future](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432). Peter Martin and colleagues. Checked 2026-10-28. Access: Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date.
+
+[^v117-contracts-2021]: [Economics of contracts in African food systems: evidence from the malt barley sector in Ethiopia (2021)](https://link.springer.com/article/10.1186/s40100-021-00198-0). Delelegne A. Tefera and Jos Bijman. Checked 2026-10-28. Access: Full open Ethiopia study using cross-sectional survey and statistical adjustment; Arsi contracting results not universal causal outcomes across all farmers.

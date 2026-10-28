@@ -53,6 +53,18 @@ sources:
   author_label: "Florian A. Thesseling and colleagues"
   source_kind: "open-laboratory-protocol-public-index"
   access_scope: "Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations."
+- id: v117-fungal-strains
+  resource: "https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13918"
+  title: "Impacts of pathogen strain and barley cultivar on Fusarium head blight in barley and during malting (2024)"
+  author_label: "Anuradha U. Jayathissa and colleagues"
+  source_kind: "primary-controlled-field-and-malt-trial"
+  access_scope: "Full public open-access study with 2019–2021 field trials of two cultivars and seven F. graminearum isolates plus controls; strain/year/cultivar effects are trial-specific."
+- id: v117-bere-review
+  resource: "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432"
+  title: "Back to the future: Using ancient Bere barley landraces for a sustainable future"
+  author_label: "Peter Martin and colleagues"
+  source_kind: "open-agronomic-and-heritage-review"
+  access_scope: "Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date."
 regions:
 - Asia; comparative
 scope: Comparative interpretation of documented Himalayan and Vietnamese starter samples; direct cultural
@@ -121,3 +133,15 @@ Do not infer consent, a universal microbial composition or a precise formula fro
 [^v116-sumner]: [John Richardson, saccharometry and the pounds-per-barrel extract: the construction of a quantity (2001)](https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/john-richardson-saccharometry-and-the-poundsperbarrel-extract-the-construction-of-a-quantity/75E8354AAEDE78D92127B4F820DCC09A). James Sumner. Checked 2026-10-28. Access: Publisher abstract of a historiographical article on Richardson's brewing extract quantity; paywalled body and archival notes not inspected.
 
 [^v116-lab]: [A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/). Florian A. Thesseling and colleagues. Checked 2026-10-28. Access: Full paper indexed through PubMed Central search output including named laboratory methods; direct open intermittently presented a browser check. Published lab protocols, not validated consumer operations.
+
+## Edition 1.17: newly sourced connections
+
+A laboratory's observation of a crop-pathogenic Fusarium strain is not an account of a community transmitting a brewing starter. Jayathissa and colleagues' trials examined fungal disease in two barley cultivars in controlled field settings. It would be misleading to treat this evidence as a map of organisms chosen by living brewers or a source for community permission.[^v117-fungal-strains]
+
+Martin and colleagues' Bere review discusses how regional crop knowledge, conservation and markets can coexist. Bere cultivation and starter-culture transmission are distinct traditions and practices; there is no supported genealogy connecting a Canadian plant-pathogen experiment to Scottish or other community fermentation accounts.[^v117-bere-review]
+
+The source speaker matters. For comparisons use [field fungi versus intentional starters](../categories/field-fungus-vs-starter-microbes.md) and [Bere farming context](orkney-bere-knowledge-and-revival.md). Neither substitutes for voluntary maker interviews or local-language review.
+
+[^v117-fungal-strains]: [Impacts of pathogen strain and barley cultivar on Fusarium head blight in barley and during malting (2024)](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13918). Anuradha U. Jayathissa and colleagues. Checked 2026-10-28. Access: Full public open-access study with 2019–2021 field trials of two cultivars and seven F. graminearum isolates plus controls; strain/year/cultivar effects are trial-specific.
+
+[^v117-bere-review]: [Back to the future: Using ancient Bere barley landraces for a sustainable future](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432). Peter Martin and colleagues. Checked 2026-10-28. Access: Full accessible open review first published online in 2023, in a 2025 issue; evidence of Scottish-island landrace cultivation and revival, not exact ancient introduction date.
