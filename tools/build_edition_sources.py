@@ -114,7 +114,7 @@ def render(root, edition="1.16", report=None):
               "[Research update](../editorial/research-update-1-16.md) · "
               "[Review queue](../editorial/source-review-queue-1-16.md) · "
               "[Reading trails](../navigation/edition-1-16-reading-trails.md) · "
-              "[JSON source manifest](atlas-source-manifest-1-16.json)."]
+              "Source manifest: references/atlas-source-manifest-1-16.json."]
     return "\n".join(lines).rstrip() + "\n"
 
 
