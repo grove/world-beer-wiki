@@ -1,0 +1,573 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-28T16:57:26+00:00",
+  "book": "The Beer Detective",
+  "validator": "tools/validate_book.py",
+  "passed": true,
+  "totals": {
+    "pass": 48
+  },
+  "artifacts": {
+    "research/manuscript-manifest.json": {
+      "bytes": 6176,
+      "sha256": "a0e1fcea2d5488860b72c011b5fd855f26b784520444778db416a6e210bd5d00"
+    },
+    "research/build-manifest.json": {
+      "bytes": 2320,
+      "sha256": "04e20a87de257188d77d1b33b1a036245987903cc7deafbc48d537c186342e53"
+    },
+    "the-beer-detective.md": {
+      "bytes": 345102,
+      "sha256": "409572ddac4c5249ac4041bcf4dd5b14173bfa3a24b3fd8729b06f824068a8b0"
+    },
+    "design/cover.png": {
+      "bytes": 133022,
+      "sha256": "fdbd3255e6877606977d15ef98fc522e05b6f725093fd9fff393e13a0e0b3e89"
+    },
+    "design/cover.svg": {
+      "bytes": 2457,
+      "sha256": "5d83fcc63e33563237115a2417686b84d73357e6b17ed4bf060ed70b444d1e14"
+    },
+    "design/cover-print.pdf": {
+      "bytes": 28207,
+      "sha256": "76faf4d4329a4157448423c8e1c1e3226645526e9a9abece781643f8837a8baa"
+    },
+    "dist/the-beer-detective.epub": {
+      "bytes": 1067054,
+      "sha256": "15a060aed4ef8eeba931bf5c6f47c7fb2fa4f762ec11cf3e188fe706af8967b8"
+    },
+    "dist/the-beer-detective.pdf": {
+      "bytes": 692258,
+      "sha256": "0bd8a7111bcd52627d252eff3e219689ba1640d6402c17abfa2851dbbd9adcca"
+    }
+  },
+  "checks": [
+    {
+      "id": "file:research/manuscript-manifest.json",
+      "status": "pass",
+      "summary": "Deliverable exists and is readable.",
+      "bytes": 6176,
+      "sha256": "a0e1fcea2d5488860b72c011b5fd855f26b784520444778db416a6e210bd5d00"
+    },
+    {
+      "id": "json:research/manuscript-manifest.json",
+      "status": "pass",
+      "summary": "Manifest parses as a JSON object."
+    },
+    {
+      "id": "file:research/build-manifest.json",
+      "status": "pass",
+      "summary": "Deliverable exists and is readable.",
+      "bytes": 2320,
+      "sha256": "04e20a87de257188d77d1b33b1a036245987903cc7deafbc48d537c186342e53"
+    },
+    {
+      "id": "json:research/build-manifest.json",
+      "status": "pass",
+      "summary": "Manifest parses as a JSON object."
+    },
+    {
+      "id": "file:the-beer-detective.md",
+      "status": "pass",
+      "summary": "Deliverable exists and is readable.",
+      "bytes": 345102,
+      "sha256": "409572ddac4c5249ac4041bcf4dd5b14173bfa3a24b3fd8729b06f824068a8b0"
+    },
+    {
+      "id": "master.unique-anchors",
+      "status": "pass",
+      "summary": "Every explicit Markdown anchor is unique.",
+      "duplicates": []
+    },
+    {
+      "id": "master.24-complete-chapters",
+      "status": "pass",
+      "summary": "There are 24 distinct chapters, numbered and ordered 1–24.",
+      "chapter_ids": [
+        "chapter-01",
+        "chapter-02",
+        "chapter-03",
+        "chapter-04",
+        "chapter-05",
+        "chapter-06",
+        "chapter-07",
+        "chapter-08",
+        "chapter-09",
+        "chapter-10",
+        "chapter-11",
+        "chapter-12",
+        "chapter-13",
+        "chapter-14",
+        "chapter-15",
+        "chapter-16",
+        "chapter-17",
+        "chapter-18",
+        "chapter-19",
+        "chapter-20",
+        "chapter-21",
+        "chapter-22",
+        "chapter-23",
+        "chapter-24"
+      ],
+      "invalid_titles": []
+    },
+    {
+      "id": "master.required-structure",
+      "status": "pass",
+      "summary": "Front matter, three or four parts, afterword, acknowledgments, research note, notes and reading list are present.",
+      "missing": [],
+      "parts": [
+        "part-i",
+        "part-ii",
+        "part-iii",
+        "part-iv"
+      ]
+    },
+    {
+      "id": "master.portable-links",
+      "status": "pass",
+      "summary": "Internal fragments resolve and source links are portable external URLs.",
+      "checked": 643,
+      "errors": []
+    },
+    {
+      "id": "master.no-unresolved-footnotes",
+      "status": "pass",
+      "summary": "No working-copy footnote syntax remains in the release manuscript.",
+      "unresolved": []
+    },
+    {
+      "id": "master.narrative-length",
+      "status": "pass",
+      "summary": "Independent narrative count excludes headings, notes, bibliography and other non-narrative matter.",
+      "narrative_words": 36551,
+      "accepted_range": [
+        35000,
+        50000
+      ],
+      "section_words": {
+        "introduction": 969,
+        "chapter-01": 1426,
+        "chapter-02": 1433,
+        "chapter-03": 1462,
+        "chapter-04": 1413,
+        "chapter-05": 1444,
+        "chapter-06": 1454,
+        "chapter-07": 1464,
+        "chapter-08": 1479,
+        "chapter-09": 1437,
+        "chapter-10": 1500,
+        "chapter-11": 1490,
+        "chapter-12": 1467,
+        "chapter-13": 1434,
+        "chapter-14": 1430,
+        "chapter-15": 1414,
+        "chapter-16": 1453,
+        "chapter-17": 1471,
+        "chapter-18": 1443,
+        "chapter-19": 1413,
+        "chapter-20": 1504,
+        "chapter-21": 1431,
+        "chapter-22": 1428,
+        "chapter-23": 1595,
+        "chapter-24": 1613,
+        "afterword": 484
+      }
+    },
+    {
+      "id": "master.word-count-manifest",
+      "status": "pass",
+      "summary": "Recorded manuscript counts agree with the finished master.",
+      "differences": []
+    },
+    {
+      "id": "master.chapter-local-notes",
+      "status": "pass",
+      "summary": "Every citation resolves to its correctly numbered chapter note, with an individual backlink to every occurrence.",
+      "notes": 160,
+      "calls": 184,
+      "note_groups": 25,
+      "errors": []
+    },
+    {
+      "id": "file:design/cover.png",
+      "status": "pass",
+      "summary": "Deliverable exists and is readable.",
+      "bytes": 133022,
+      "sha256": "fdbd3255e6877606977d15ef98fc522e05b6f725093fd9fff393e13a0e0b3e89"
+    },
+    {
+      "id": "cover.raster",
+      "status": "pass",
+      "summary": "Final cover decodes and measures 1800 × 2700 pixels.",
+      "size": [
+        1800,
+        2700
+      ],
+      "mode": "RGB",
+      "format": "PNG"
+    },
+    {
+      "id": "file:design/cover.svg",
+      "status": "pass",
+      "summary": "Deliverable exists and is readable.",
+      "bytes": 2457,
+      "sha256": "5d83fcc63e33563237115a2417686b84d73357e6b17ed4bf060ed70b444d1e14"
+    },
+    {
+      "id": "cover.editable-vector",
+      "status": "pass",
+      "summary": "The editable source contains vector artwork and editable text.",
+      "text_objects": 6,
+      "view_box": "0 0 600 900"
+    },
+    {
+      "id": "file:design/cover-print.pdf",
+      "status": "pass",
+      "summary": "Deliverable exists and is readable.",
+      "bytes": 28207,
+      "sha256": "76faf4d4329a4157448423c8e1c1e3226645526e9a9abece781643f8837a8baa"
+    },
+    {
+      "id": "cover.print-size",
+      "status": "pass",
+      "summary": "The print front cover is one 6 × 9 inch page.",
+      "points": [
+        432.0,
+        648.0
+      ]
+    },
+    {
+      "id": "file:dist/the-beer-detective.epub",
+      "status": "pass",
+      "summary": "Deliverable exists and is readable.",
+      "bytes": 1067054,
+      "sha256": "15a060aed4ef8eeba931bf5c6f47c7fb2fa4f762ec11cf3e188fe706af8967b8"
+    },
+    {
+      "id": "epub.container-mimetype",
+      "status": "pass",
+      "summary": "EPUB mimetype is the first uncompressed ZIP entry, and package paths are unique."
+    },
+    {
+      "id": "epub.rootfile",
+      "status": "pass",
+      "summary": "The container identifies exactly one existing package document.",
+      "rootfiles": [
+        "EPUB/content.opf"
+      ]
+    },
+    {
+      "id": "epub.manifest-resources",
+      "status": "pass",
+      "summary": "All manifest resources exist with unique IDs and paths.",
+      "resources": 79,
+      "errors": []
+    },
+    {
+      "id": "epub.well-formed-documents",
+      "status": "pass",
+      "summary": "Packaged XHTML, SVG, NCX and OPF parse with unique per-document IDs.",
+      "documents": 70,
+      "errors": []
+    },
+    {
+      "id": "epub.all-local-targets",
+      "status": "pass",
+      "summary": "Every local href/src, image reference and CSS URL resolves, including fragments.",
+      "checked": 689,
+      "errors": []
+    },
+    {
+      "id": "epub.spine",
+      "status": "pass",
+      "summary": "The spine contains readable XHTML and all 24 chapters once, in sequence.",
+      "reading_documents": 67,
+      "errors": []
+    },
+    {
+      "id": "epub.navigation",
+      "status": "pass",
+      "summary": "EPUB navigation reaches every chapter in the actual reading order.",
+      "errors": []
+    },
+    {
+      "id": "epub.metadata-reflow",
+      "status": "pass",
+      "summary": "EPUB 3 metadata identifies the book, language, creator, rights and modification time, without fixed-layout settings.",
+      "metadata": {
+        "title": [
+          "The Beer Detective"
+        ],
+        "creator": [
+          "A World Beer Wiki book project"
+        ],
+        "language": [
+          "en-US"
+        ],
+        "identifier": [
+          "urn:uuid:f9328db8-35a1-51b6-8bb8-65a57d724d0a"
+        ],
+        "rights": [
+          "Original contribution submitted under the repository’s Apache License, Version 2.0. Cited works retain their rights. Fonts under the SIL Open Font License."
+        ],
+        "description": [
+          "Twenty-four investigations into beer’s history, science, living traditions and unfinished stories. Complete AI-assisted review edition, awaiting independent human review."
+        ]
+      },
+      "modified": [
+        "2026-10-28T00:00:00Z"
+      ],
+      "fixed_layout": []
+    },
+    {
+      "id": "epub.cover",
+      "status": "pass",
+      "summary": "The actual 1800 × 2700 final cover is declared and displayed first in the spine.",
+      "path": "EPUB/media/cover.png",
+      "size": [
+        1800,
+        2700
+      ],
+      "format": "PNG",
+      "spine_documents": [
+        "EPUB/text/cover.xhtml"
+      ]
+    },
+    {
+      "id": "epub.embedded-fonts",
+      "status": "pass",
+      "summary": "Body, italic, bold and display font resources are embedded and nonempty.",
+      "fonts": [
+        "EPUB/fonts/Display.ttf",
+        "EPUB/fonts/BodyBold.ttf",
+        "EPUB/fonts/BodyItalic.ttf",
+        "EPUB/fonts/Body.ttf"
+      ]
+    },
+    {
+      "id": "epub.master-anchors",
+      "status": "pass",
+      "summary": "Every master anchor appears exactly once in the EPUB spine.",
+      "errors": []
+    },
+    {
+      "id": "epub.note-links-and-backlinks",
+      "status": "pass",
+      "summary": "Every master note-call and individual return link survives EPUB conversion.",
+      "calls": 184,
+      "backlinks": 184,
+      "missing_calls": [],
+      "unexpected_calls": [],
+      "missing_returns": [],
+      "unexpected_returns": []
+    },
+    {
+      "id": "epub.complete-narrative-and-notes",
+      "status": "pass",
+      "summary": "Every narrative and note paragraph, including its dates and quantities, occurs in spine content after removing citation labels and normalizing punctuation.",
+      "paragraphs": 699,
+      "missing": []
+    },
+    {
+      "id": "epub.external-source-links",
+      "status": "pass",
+      "summary": "All external reference URLs in the master remain clickable in the EPUB.",
+      "expected": 210,
+      "missing": []
+    },
+    {
+      "id": "file:dist/the-beer-detective.pdf",
+      "status": "pass",
+      "summary": "Deliverable exists and is readable.",
+      "bytes": 692258,
+      "sha256": "0bd8a7111bcd52627d252eff3e219689ba1640d6402c17abfa2851dbbd9adcca"
+    },
+    {
+      "id": "pdf.trim-and-pages",
+      "status": "pass",
+      "summary": "Every page has the 6 × 9 inch trim and the actual page count matches the build manifest.",
+      "pages": 137,
+      "errors": []
+    },
+    {
+      "id": "pdf.extractable-text",
+      "status": "pass",
+      "summary": "All interior pages contain extractable text; the vector cover may contain outlined text.",
+      "characters": 313273,
+      "empty_interior_pages": []
+    },
+    {
+      "id": "pdf.metadata",
+      "status": "pass",
+      "summary": "PDF title and project attribution match the manuscript manifest.",
+      "title": "The Beer Detective",
+      "author": "A World Beer Wiki book project"
+    },
+    {
+      "id": "pdf.bookmarks",
+      "status": "pass",
+      "summary": "Bookmarks cover the introduction, all parts and chapters, and the closing material, with valid, correctly recorded pages.",
+      "bookmarks": 34,
+      "errors": []
+    },
+    {
+      "id": "pdf.narrative-and-note-text",
+      "status": "pass",
+      "summary": "At least two of three text windows from each substantial narrative and note paragraph survive PDF extraction; short paragraphs are checked in full.",
+      "paragraphs": 699,
+      "missing": []
+    },
+    {
+      "id": "pdf.actual-used-fonts-embedded",
+      "status": "pass",
+      "summary": "All fonts actually used to show text have embedded font programs, including fonts inside Form XObjects.",
+      "fonts": [
+        {
+          "base_font": "/AAAAAA+BeerDetectiveBody",
+          "subtype": "/TrueType",
+          "embedded": true,
+          "embedding": [
+            {
+              "kind": "/FontFile2",
+              "bytes": 22912
+            }
+          ],
+          "text_operations": 5682,
+          "encoded_characters": 300306,
+          "first_page": 2,
+          "pages_used": 136
+        },
+        {
+          "base_font": "/AAAAAA+BeerDetectiveBodyBold",
+          "subtype": "/TrueType",
+          "embedded": true,
+          "embedding": [
+            {
+              "kind": "/FontFile2",
+              "bytes": 20968
+            }
+          ],
+          "text_operations": 26,
+          "encoded_characters": 282,
+          "first_page": 128,
+          "pages_used": 4
+        },
+        {
+          "base_font": "/AAAAAA+BeerDetectiveBodyItalic",
+          "subtype": "/TrueType",
+          "embedded": true,
+          "embedding": [
+            {
+              "kind": "/FontFile2",
+              "bytes": 20964
+            }
+          ],
+          "text_operations": 190,
+          "encoded_characters": 3300,
+          "first_page": 3,
+          "pages_used": 55
+        },
+        {
+          "base_font": "/AAAAAA+BeerDetectiveDisplay",
+          "subtype": "/TrueType",
+          "embedded": true,
+          "embedding": [
+            {
+              "kind": "/FontFile2",
+              "bytes": 10976
+            }
+          ],
+          "text_operations": 46,
+          "encoded_characters": 819,
+          "first_page": 2,
+          "pages_used": 37
+        },
+        {
+          "base_font": "/AAAAAA+BeerDetectiveSans",
+          "subtype": "/TrueType",
+          "embedded": true,
+          "embedding": [
+            {
+              "kind": "/FontFile2",
+              "bytes": 11024
+            }
+          ],
+          "text_operations": 180,
+          "encoded_characters": 3282,
+          "first_page": 2,
+          "pages_used": 133
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "pdf.all-link-destinations",
+      "status": "pass",
+      "summary": "All PDF link annotations have valid in-document destinations or portable external URLs and usable page rectangles.",
+      "internal": 444,
+      "external_annotations": 327,
+      "errors": []
+    },
+    {
+      "id": "pdf.external-source-links",
+      "status": "pass",
+      "summary": "Every external master reference URL remains clickable in the PDF.",
+      "expected": 210,
+      "missing": []
+    },
+    {
+      "id": "pdf.note-calls-and-backlinks",
+      "status": "pass",
+      "summary": "Citation and return annotations match the master's complete note network, chapter locations and distinct note destinations.",
+      "calls": 184,
+      "backlinks": 184,
+      "backlink_annotation_rectangles": 192,
+      "distinct_note_destinations": 160,
+      "errors": []
+    },
+    {
+      "id": "pdf.table-of-contents-links",
+      "status": "pass",
+      "summary": "The PDF's front table of contents links to every bookmarked main section.",
+      "missing": []
+    },
+    {
+      "id": "pdf.page-labels",
+      "status": "pass",
+      "summary": "PDF page labels distinguish the cover and front matter and begin Arabic page 1 at the introduction.",
+      "first_labels": [
+        "Cover",
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "1",
+        "2",
+        "3"
+      ],
+      "last_label": "132"
+    },
+    {
+      "id": "release.sha-coherence",
+      "status": "pass",
+      "summary": "The actual master and both delivered formats match their hashes, sizes and per-format input-master hashes.",
+      "errors": []
+    },
+    {
+      "id": "release.stable-validation-snapshot",
+      "status": "pass",
+      "summary": "All inspected deliverables and manifests remained unchanged for the duration of validation.",
+      "changed": []
+    }
+  ],
+  "limits": [
+    "This is an artifact-level technical check, not a judgment of historical or scientific truth.",
+    "EPUB standards conformance is checked separately with EPUBCheck; this script checks actual packaged targets and reading order.",
+    "PDF paragraph presence is sampled at the beginning, middle and end of every narrative and note paragraph; it is not a pixel-level proof of rendering.",
+    "PDF font checks inspect fonts used by text-show operators, including Form XObjects, rather than failing unused fallback resources.",
+    "Embedding checks do not substitute for visual inspection of glyph shapes, line breaks, color, typography, margins or cover composition.",
+    "External URLs are checked for preservation in the deliverables, not for continued network availability.",
+    "Recorded build hashes prove consistency of the files and manifests inspected; they do not independently establish build authorship or historical provenance."
+  ]
+}

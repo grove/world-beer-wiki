@@ -17,7 +17,7 @@ from urllib.parse import unquote, urlsplit
 
 import yaml
 
-from validate_wiki import UniqueLoader, links, without_fences
+from validate_wiki import UniqueLoader, is_wiki_path, links, without_fences
 
 SUBJECT_DIRS = (
     'styles', 'ingredients', 'categories', 'culture', 'calendar',
@@ -68,7 +68,7 @@ def load_documents(root):
     documents, errors = {}, []
     for path in sorted(root.rglob('*.md')):
         relative = path.relative_to(root)
-        if any(part.startswith('.') for part in relative.parts):
+        if not is_wiki_path(relative):
             continue
         name = relative.as_posix()
         try:

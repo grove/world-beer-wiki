@@ -13,13 +13,13 @@ import shutil
 from urllib.parse import unquote, urlsplit
 
 import yaml
-from validate_wiki import links, without_fences
+from validate_wiki import NON_WIKI_DIRS, links, without_fences
 
 
 ROOT = Path(__file__).resolve().parents[1]
 IGNORED_DIRS = {
     ".git", ".github", ".build", ".venv", "venv", "site",
-    "node_modules", "__pycache__", "tools", "tests", "website",
+    "node_modules", "__pycache__", "tools", "tests", "website", *NON_WIKI_DIRS,
 }
 CONTENT_SUFFIXES = {
     ".md", ".markdown", ".png", ".jpg", ".jpeg", ".gif",

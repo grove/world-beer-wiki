@@ -1,0 +1,59 @@
+# 13. The Women in the Fine Book
+
+In Exeter in 1317, women who sold ale took down their signs. The price at which they had been ordered to sell was, in their judgment, unacceptable. Removing the signs withdrew the invitation to buy. A business that could be regulated could also refuse to do business.
+
+The episode reaches us through the historian Judith Bennett, whose account of women in English brewing follows records made for purposes very different from celebrating women's work. An earlier case, from Wakefield manor in 1275, records Gillian, wife of Richard Pykard, resisting the officers who inspected ale. Bennett emphasizes that such protests were uncommon. These particular disputes nevertheless interrupt a familiar picture of the medieval brewer: anonymous, compliant, stirring something in the background while history happens elsewhere.[^c13-1]
+
+A sign coming down is a small action. It becomes substantial when one asks what had to exist before it could happen. There was a product to sell, an expected customer, a price, and someone who considered the return insufficient. Brewing was work over which people bargained. The women in these records did not require a modern word for entrepreneurship before they could have interests of their own.
+
+Yet the surviving evidence creates an awkward problem. How much of a working life can be reconstructed from the occasions when that life annoyed an official?
+
+Imagine a history of modern restaurants assembled almost entirely from inspection reports, tax disputes and trading infringements. Even if every entry were accurately transcribed, the resulting book would be peculiar. Its cooks would seldom appear making a good meal. Customers would arrive mainly when they had cause to complain. A proprietor might work successfully for twenty years and receive a paragraph devoted to a disputed weight. The bias would lie less in any single false statement than in the selection of events that had become statements at all.
+
+This is a problem for reading an archive, not a reason to discard it. The irritating official may preserve information that no admirer thought worth writing down. His records can disclose names, prices and repeated appearances in a trade. But the researcher has to keep two questions separate: what was the person doing, and why did the record maker notice?
+
+Ale was well suited to being noticed. The medieval assize linked its permitted sale to the price of grain; a surviving statutory text also prescribes escalating penalties for brewers who persistently infringed the rules. This was a supervised market in a consumable staple, with obligations stated in quantities and money. The law documents what authorities wanted enforced. Its existence does not prove that enforcement was uniform or that every listed punishment occurred whenever someone charged too much.[^c13-2]
+
+Once this distinction is clear, a fine stops being a complete character reference. It is evidence of an encounter within a regulated business. We still need to know the rule, the local practice and the circumstances before treating the brewer as a cheat. And even a genuine act of cheating would describe that act, not establish that the brewer's sex explained it.
+
+Oxford provides a more local way into the difficulty. The Museum of Oxford names Maud London, an unmarried fourteenth-century brewer, among the women visible in the town's records. Its account also points out that poll-tax documentation represents substantial enterprises more readily than the smallest occasional sellers. A name survives; an unknown number of less conspicuous working lives does not.[^c13-3]
+
+Maud's name gives commercial brewing a participant whom an account centered on male proprietors could easily obscure. The surviving description is brief, but it interrupts a history in which women appear only as helpers or exceptions.
+
+The missing sellers complicate counting. Suppose a list contains the heads of taxed households. It cannot automatically tell us how many people carried water, handled malt, brewed, sold, collected debts or kept the household functioning while brewing went on. Those activities could involve different people. A named man does not prove that no woman worked in his enterprise; a named woman does not prove that she worked alone. Before turning a list into a chart of occupations, one must ask what qualified someone for a line on the page.
+
+Bennett's broader argument follows a gradual change between 1300 and 1600: women were prominent in medieval ale production, while male-led, more specialized enterprises became increasingly important. Household work remained central to the story. The relevant unit could include spouses, children, servants and hired labor, not simply one solitary brewer. Her account resists the convenience of a single takeover date.[^c13-4]
+
+That matters because the phrase *domestic brewing* can quietly diminish what it describes. A household selling a product is participating in a market. Its front door does not cancel the transaction. Conversely, calling an establishment commercial tells us little about whether the work was fairly divided or who controlled the proceeds. Location, ownership, labor and authority are separate matters, even when one person appears under the occupational heading.
+
+An investigation of women's brewing therefore needs a better question than whether women were once allowed to make beer. Allowed by whom, in which town, on what terms, and with what prospects of continuing? Selling a little surplus and directing an enterprise large enough to survive changing competition are not interchangeable opportunities. Nor can one assume that a widow's position, a married woman's position and an unmarried woman's position followed identical paths.
+
+A change in the name recorded against a business can therefore conceal several different changes. Perhaps the person directing the work has changed. Perhaps its legal representative has changed while much of the workforce has remained. Perhaps a small operation has become large enough to attract a different kind of record. These possibilities demand different evidence. Following a household across documents is harder than counting names once, but it can reveal whether an apparent disappearance concerns labor, authority or simply visibility. The distinction matters most when the people becoming less visible are the people whose opportunities we are trying to understand.
+
+The temptation is to find one picturesque cause for a slow economic transformation. A new ingredient arrives; men seize the kettles; the story is complete. Such an explanation travels well because its cast is small. It also asks one development to account for ownership, regulation, scale, household organization and reputation all at once. The sources here support a less obliging history, in which changes must be followed locally and over time.
+
+There is another reason to be careful with the pictures. The alewife did not remain safely in the Middle Ages. She reappeared, astonishingly, in the United States Supreme Court.
+
+In December 1948, the Court decided *Goesaert v. Cleary*, a challenge to a Michigan restriction on women working as bartenders. The law permitted an exception for the wife or daughter of a male proprietor. Writing for the majority, Justice Felix Frankfurter invoked the old English alewife as “sprightly and ribald.” The Court upheld the distinction. Justice Wiley Rutledge's dissent pointed to its practical asymmetry: a female owner could not do what a male owner's wife or daughter could.[^c13-5]
+
+The medieval woman in that opinion was a literary recollection, not Maud London traced through a town's records. Her appearance did rhetorical work. A familiar type made an exclusion seem comfortably historical. One can disagree with a judgment on its own legal terms; one can also notice what happened to the history inside it. Centuries of women's labor had been compressed into an attitude.
+
+The distance between Exeter's signs and the Michigan bar is not evidence of an unbroken, identical system. The laws, places and businesses were different. It is evidence that a representation can outlive the setting that supposedly explains it. A caricature may remain available long after the people it caricatured have become hard to retrieve.
+
+This is why recovering a name is only the beginning. Merely swapping a comic alewife for a heroic one leaves the structure of the story unchanged: a representative woman stands in for everybody. The harder task is to restore distinctions. Some brewers had money; some struggled. Some worked occasionally; others made a living from the trade. A person could exercise initiative within severe constraints, and suffer an injustice without being an exemplary business owner.[^c13-6]
+
+Return, then, to the signs. We cannot hear what every Exeter brewster said in 1317, or know how long each household could afford to forgo a sale. Bennett's account preserves the refusal. For a moment, the regulators' record shows people using the terms of a market against those who set them.
+
+The sign had ordinarily announced that ale was available. Taken down, it announced a different fact: the person who made it had a say.
+
+[^c13-1]: Judith M. Bennett, “Gender Rules: Women and the Regulation of Brewing,” in *Ale, Beer, and Brewsters in England: Women's Work in a Changing World, 1300–1600* (Oxford University Press, 1996), [publisher chapter abstract](https://academic.oup.com/book/47408/chapter-abstract/422345728). Indexed publisher abstract accessed on 28 October 2026; the full chapter and original court rolls were not examined. The Wakefield and Exeter episodes are attributed to Bennett, without invented dialogue.
+
+[^c13-2]: *Judicium Pillorie*, reproduced in Owen Ruffhead's *Statutes at Large* (1763), [digitized page and transcription](https://en.wikisource.org/wiki/Page:Ruffhead_-_The_Statutes_at_Large,_1763.djvu/74); and [*Assisa Panis et Cervisie*](https://vlex.co.uk/vid/assisa-panis-et-cervisie-808090549), public statutory preview accessed 28 October 2026. The traditional 1266 dating is not needed for the argument; the text records rules rather than their frequency of enforcement.
+
+[^c13-3]: Elizabeth Kuligowski, Museum of Oxford, [“Alewives in Oxford: A History of Female Brewing”](https://museumofoxford.org/alewives-in-oxford-a-history-of-female-brewing/), full museum article accessed 28 October 2026. Used narrowly for Maud London and the discussion of documentary selection; broader origin stories and speculative motives in that article are not adopted.
+
+[^c13-4]: Bennett, [book description](https://academic.oup.com/book/47408) and [“Working Together: Wives and Husbands in the Brewers' Gild of London”](https://academic.oup.com/book/47408/chapter-abstract/422345715). Publisher descriptions and indexed chapter abstract only; not a full reading of the monograph. They support the attributed argument about a gradual and uneven change in household commercial production.
+
+[^c13-5]: *Goesaert v. Cleary*, 335 U.S. 464 (1948), [United States Reports scan, Library of Congress](https://tile.loc.gov/storage-services/service/ll/usrep/usrep335/usrep335464/usrep335464.pdf), pp. 465–468. Full five-page opinion and dissent accessed as extracted PDF text. This is a historical account of the 1948 decision, not a statement of present law.
+
+[^c13-6]: Research route: World Beer Wiki, [Oxford alewives](https://github.com/grove/world-beer-wiki/blob/3b985c19a9dcccef8d334be54b5405e42093e812/culture/alewives-and-oxford-town-life.md) and [brewsters and change](https://github.com/grove/world-beer-wiki/blob/3b985c19a9dcccef8d334be54b5405e42093e812/history/medieval-england-brewsters-and-change.md). These source-scoped drafts supplied the initial map, not independent verification.

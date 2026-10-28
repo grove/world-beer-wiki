@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-28T16:58:28+00:00",
+  "passed": true,
+  "scope": "Repository boundary, offline wiki integrity, generated directories and documented strict site build; separate from book artifact validation.",
+  "log_directory": "books/the-beer-detective/.build/repository-validation (ignored)",
+  "full_suite": {
+    "invocation": "python -m unittest discover -s tests -v",
+    "execution": "Existing parent-launched run continued after the workspace reconnect. Observed to completion; not relaunched.",
+    "tests": 188,
+    "duration_seconds": 315.549,
+    "passed": true,
+    "terminal_result": "OK",
+    "successful_test_records": 188,
+    "expected_test_methods": 188,
+    "remaining_tests": [],
+    "log": "full-suite.log",
+    "original_log": "../book-repo-tests.log",
+    "log_sha256": "df5eefd99978bd740bfc56d476c0db6b300f32efa3b9d9073268a2b66d713714"
+  },
+  "fresh_focused_tests": 36,
+  "checks": [
+    {
+      "command": "python -m unittest discover -s tests -p test_book_boundary.py -v",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 0.13,
+      "log": "focused-integration.log",
+      "tests": 1
+    },
+    {
+      "command": "python -m unittest discover -s tests -p test_atlas.py -v",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 0.489,
+      "log": "atlas-unit.log",
+      "tests": 32
+    },
+    {
+      "command": "python -m unittest discover -s tests -p test_build_site.py -v",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 0.297,
+      "log": "site-unit.log",
+      "tests": 3
+    },
+    {
+      "command": "python tools/validate_wiki.py --json",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 4.839,
+      "log": "wiki-validator-stable.log",
+      "markdown_files": 884,
+      "reachable_markdown_files": 884,
+      "errors": []
+    },
+    {
+      "command": "python tools/atlas.py check --json",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 3.636,
+      "log": "atlas-validator.log",
+      "subject_articles": 766,
+      "work_items": 124,
+      "errors": []
+    },
+    {
+      "command": "python tools/check_inventory.py --json",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 5.59,
+      "log": "inventory.log",
+      "subject_articles": 766,
+      "errors": []
+    },
+    {
+      "command": "python tools/build_subject_index.py --check",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 3.644,
+      "log": "subject-directory.log",
+      "result": "Committed complete subject index is current; no rewrite requested."
+    },
+    {
+      "command": "python tools/build_names_index.py --check",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 2.68,
+      "log": "name-directory.log",
+      "result": "Committed scoped-name directory is current; no rewrite requested."
+    },
+    {
+      "command": "python tools/build_site.py",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 10.996,
+      "log": "site-stage.log",
+      "pages": 884,
+      "matches_current_wiki_file_set": true,
+      "book_paths": []
+    },
+    {
+      "command": "python -m mkdocs build --strict -f .build/mkdocs.yml",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 17.183,
+      "log": "site-html-build.log",
+      "html_files": 885,
+      "search_documents": 6486,
+      "book_search_entries": 0,
+      "output": ".build/site"
+    }
+  ],
+  "resolved_attempts": [
+    {
+      "check": "wiki-validator",
+      "exit_code": 1,
+      "log": "wiki-validator.log",
+      "reason": "The concurrent unittest run created and removed tmptx54rt3u/index.md beneath the repository while the recursive wiki scan was reading it. The scan reported that missing fixture and its lack of reachability.",
+      "resolution": "After the tests finished and no temporary fixture directories remained, the same validator passed with all 884 Markdown files reachable. Site staging was independently reconciled to the current wiki file set; no fixture or book files were included.",
+      "classification": "Transient concurrency artifact, not a persistent repository failure."
+    },
+    {
+      "check": "site-dependencies",
+      "exit_code": 1,
+      "log": "site-dependencies.log",
+      "reason": "MkDocs and Material were absent, and the initial pip attempt was blocked by the default network restriction.",
+      "resolution": "The approved escalation installed requirements-site.txt into ignored .build/site-validation-deps. The documented strict HTML build then passed.",
+      "success_log": "site-dependencies-escalated.log",
+      "installed_mkdocs": "1.6.1",
+      "installed_material": "9.8.0",
+      "classification": "Resolved environment prerequisite, not a source failure."
+    }
+  ],
+  "persistent_failures": [],
+  "preexisting_failure_assessment": "No persistent failures remained. No baseline checkout or separate baseline test run was performed; no unverified claim of preexisting source failure is made.",
+  "integration_file_sha256": {
+    "tools/validate_wiki.py": "3dc6b4d39f43f048564c5d7263649c233ced0d745cdd54f338fa4b7fcdedb973",
+    "tools/atlas.py": "9faf214ad0ec4e13bb44a363ffef3e6967ecf620c4ae1e05df3dba3937d9241c",
+    "tools/build_site.py": "6abbd043648b46f440c5d995ef1df0c414d1dd4fd060db7c706545dbeccc4a94",
+    "tests/test_book_boundary.py": "282d2ceffba9dd7c97bc3183fd9617f6e68c759c78ff375ea82af6404cacdc90"
+  },
+  "write_scope": "Only this result was written in tracked source. Other outputs are logs, installed site dependencies and generated site files beneath ignored .build directories. No git commands or git mutations were performed.",
+  "limits": [
+    "Offline structure and build checks do not verify historical or scientific claims.",
+    "The completed 188-test run was retained rather than repeated; only the 36 requested focused integration tests were rerun. GitHub CI remains a separate run."
+  ]
+}

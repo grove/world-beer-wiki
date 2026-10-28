@@ -1,0 +1,723 @@
+[
+  {
+    "chapter": 7,
+    "claim": "Isoamyl acetate can be produced by yeast without banana fruit; molecular resemblance does not establish ingredient provenance.",
+    "wiki_paths": [
+      "stories/where-did-the-banana-aroma-come-from.md",
+      "sensory/banana-fruit-vs-yeast-esters.md"
+    ],
+    "sources": [
+      {
+        "title": "Expression Levels of the Yeast Alcohol Acetyltransferase Genes ATF1, Lg-ATF1, and ATF2 Control the Formation of a Broad Range of Volatile Esters",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC194970/",
+        "access": "Full-text page; relevant abstract, strain methods and results consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "2003, Applied and Environmental Microbiology 69, 5228–5237; ATF1/ATF2 deletion and overexpression results"
+      },
+      {
+        "title": "Purification and Some Properties of Alcohol Acetyltransferase from Banana Fruit",
+        "url": "https://doi.org/10.1093/oxfordjournals.pcp.a077002",
+        "access": "Indexed publisher abstract only; direct page failed",
+        "accessed_on": "2026-10-28",
+        "locator": "1985, Plant and Cell Physiology 26, 1067–1074; enzyme substrates and ripening activity in abstract"
+      }
+    ],
+    "uncertainty": "The compound is one contributor to banana-like aroma, not a universal complete description of it."
+  },
+  {
+    "chapter": 7,
+    "claim": "The 1985 banana-pulp study identified alcohol acetyltransferase activity producing isoamyl acetate and increasing during ripening.",
+    "wiki_paths": [
+      "stories/where-did-the-banana-aroma-come-from.md",
+      "sensory/banana-fruit-vs-yeast-esters.md"
+    ],
+    "sources": [
+      {
+        "title": "Purification and Some Properties of Alcohol Acetyltransferase from Banana Fruit",
+        "url": "https://doi.org/10.1093/oxfordjournals.pcp.a077002",
+        "access": "Indexed publisher abstract only; direct page failed",
+        "accessed_on": "2026-10-28",
+        "locator": "1985, Plant and Cell Physiology 26, 1067–1074; enzyme substrates and ripening activity in abstract"
+      }
+    ],
+    "uncertainty": "Abstract-level access; no detailed kinetic or purification claim beyond that record."
+  },
+  {
+    "chapter": 7,
+    "claim": "Deleting both ATF1 and ATF2 eliminated detectable isoamyl acetate in the tested laboratory strain; other esters remained. Brewing-strain gene expression and alleles affected ester output.",
+    "wiki_paths": [
+      "microbiology/ester-producing-yeasts.md"
+    ],
+    "sources": [
+      {
+        "title": "Expression Levels of the Yeast Alcohol Acetyltransferase Genes ATF1, Lg-ATF1, and ATF2 Control the Formation of a Broad Range of Volatile Esters",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC194970/",
+        "access": "Full-text page; relevant abstract, strain methods and results consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "2003, Applied and Environmental Microbiology 69, 5228–5237; ATF1/ATF2 deletion and overexpression results"
+      }
+    ],
+    "uncertainty": "Different experiments used different strain backgrounds; the conclusion is not a rule that every wild isolate has identical regulation."
+  },
+  {
+    "chapter": 7,
+    "claim": "Tonto samples from Ntungamo and Kalungu collected in March 2023 were examined in a 2026 report identifying 38 volatiles and distinct descriptive/acceptability assessments.",
+    "wiki_paths": [
+      "stories/where-did-the-banana-aroma-come-from.md",
+      "sensory/banana-fruit-vs-yeast-esters.md"
+    ],
+    "sources": [
+      {
+        "title": "Characterization of Physicochemical Properties, Volatile Compounds, and Sensory Attributes of Tonto, a Traditional Ugandan Banana-Based Alcoholic Beverage",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13318936/",
+        "access": "Indexed full-text methods, sensory results and conclusions; not a claim to every table",
+        "accessed_on": "2026-10-28",
+        "locator": "2026, Food Science & Nutrition 14, e72071; sampling March 2023, two districts, volatile compounds, separate descriptive and acceptability panels"
+      }
+    ],
+    "uncertainty": "Sample-specific findings; collection year and publication year differ; no representativeness claim for all Uganda."
+  },
+  {
+    "chapter": 7,
+    "claim": "Ferulic-acid transformation can produce clove-associated 4-vinylguaiacol during brewing and fermentation; phenolic strains differed from strains lacking that behavior.",
+    "wiki_paths": [
+      "sensory/clove-aroma-and-4-vinylguaiacol.md"
+    ],
+    "sources": [
+      {
+        "title": "Ferulic Acid Release and 4-Vinylguaiacol Formation during Brewing and Fermentation: Indications for Feruloyl Esterase Activity in Saccharomyces cerevisiae",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14759156/",
+        "access": "Abstract only; publisher full text blocked",
+        "accessed_on": "2026-10-28",
+        "locator": "2004, Journal of Agricultural and Food Chemistry 52, 602–608; cereal composition and POF-positive strain findings"
+      }
+    ],
+    "uncertainty": "Abstract-only; clove description alone cannot identify recipe or one exclusive pathway."
+  },
+  {
+    "chapter": 7,
+    "claim": "A 2014 ATF1 deletion experiment connected yeast volatiles with fly attraction and yeast dispersal.",
+    "wiki_paths": [
+      "microbiology/ester-producing-yeasts.md"
+    ],
+    "sources": [
+      {
+        "title": "The Fungal Aroma Gene ATF1 Promotes Dispersal of Yeast Cells through Insect Vectors",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25310977/",
+        "access": "PubMed abstract opened",
+        "accessed_on": "2026-10-28",
+        "locator": "2014, Cell Reports 9, 425–432; ATF1 deletion, fly sensory response, attraction and dispersal"
+      }
+    ],
+    "uncertainty": "A demonstrated ecological relationship does not establish the sole evolutionary purpose of all esters."
+  },
+  {
+    "chapter": 8,
+    "claim": "Published examples had 47.5/49.9 IBU but 39.9/2.2 ppm iso-alpha acids; the study also found equal-IBU deteriorated-hop beers could differ in perceived intensity.",
+    "wiki_paths": [
+      "stories/two-beers-one-ibu.md",
+      "sensory/bitterness-is-not-one-number.md"
+    ],
+    "sources": [
+      {
+        "title": "Evaluation of Components Contributing to the International Bitterness Unit of Wort and Beer",
+        "url": "https://doi.org/10.1080/03610470.2021.1878684",
+        "access": "Indexed publisher abstract only; full article not accessible",
+        "accessed_on": "2026-10-28",
+        "locator": "Online 2021; Journal of the American Society of Brewing Chemists 80 (2022), 53–61; 47.5/49.9 IBU, 39.9/2.2 ppm iso-alpha acids, deteriorated-hop comparison"
+      }
+    ],
+    "uncertainty": "Exact figures come from the abstract; the full sensory protocol was unavailable. Counterexample, not a universal correction factor."
+  },
+  {
+    "chapter": 8,
+    "claim": "The ASBC BU method estimates bitterness via solvent extraction and 275 nm absorbance and is useful for production consistency.",
+    "wiki_paths": [
+      "processes/bitterness-units-and-hop-chemistry.md"
+    ],
+    "sources": [
+      {
+        "title": "Beer 23: Bitterness Units (BU), Manual Isooctane Extraction",
+        "url": "https://www.asbcnet.org/methods/beer-methods/beer-23-master-method",
+        "access": "Full public method explanation; subscription master method not accessed",
+        "accessed_on": "2026-10-28",
+        "locator": "Method Summary and Science Behind the Method: extraction, 275 nm absorbance, process consistency"
+      }
+    ],
+    "uncertainty": "Public explanation only, not the full licensed method; an optical signal is not a direct taste score."
+  },
+  {
+    "chapter": 8,
+    "claim": "Humulinones and hulupones produced bitterness with different relative intensity from iso-alpha acids in a trained-panel unhopped-lager experiment.",
+    "wiki_paths": [
+      "ingredients/hop-bitter-fractions-and-analytical-signals.md"
+    ],
+    "sources": [
+      {
+        "title": "Bitterness Intensity of Oxidized Hop Acids: Humulinones and Hulupones",
+        "url": "https://doi.org/10.1094/ASBCJ-2016-1130-01",
+        "access": "Publisher abstract only",
+        "accessed_on": "2026-10-28",
+        "locator": "Journal of the American Society of Brewing Chemists 74 (2016), 36–43; purified extracts in unhopped lager, trained sensory comparison; later website date is migration"
+      }
+    ],
+    "uncertainty": "Relative potency is tied to the tested system; no conversion chart for all beer is inferred."
+  },
+  {
+    "chapter": 8,
+    "claim": "Matched-intensity bitter stimuli remained discriminable in a nonalcoholic-beer model, without a significant corresponding liking/ranking difference or clear checklist separation.",
+    "wiki_paths": [
+      "stories/two-beers-one-ibu.md",
+      "sensory/bitterness-is-not-one-number.md"
+    ],
+    "sources": [
+      {
+        "title": "Discrimination of Isointense Bitter Stimuli in a Beer Model System",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7352581/",
+        "access": "Full-text page; experiment design, results and interpretation consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Nutrients 12 (2020), 1560; three experiments, model nonalcoholic beer, discrimination versus liking/ranking and CATA"
+      }
+    ],
+    "uncertainty": "Experimental bitterants are not all ordinary beer constituents; discrimination, vocabulary and preference are separate tasks."
+  },
+  {
+    "chapter": 8,
+    "claim": "A commercial-beer study analyzed 34 lagers and used a ten-beer sensory subset to relate chemical profiles to bitterness character.",
+    "wiki_paths": [
+      "stories/two-beers-one-ibu.md",
+      "sensory/bitterness-is-not-one-number.md"
+    ],
+    "sources": [
+      {
+        "title": "The Impact of Hop Bitter Acid and Polyphenol Profiles on the Perceived Bitterness of Beer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27006233/",
+        "access": "PubMed abstract",
+        "accessed_on": "2026-10-28",
+        "locator": "Food Chemistry 205 (2016), 212–220; 34-lager analytical set and ten-beer sensory subset"
+      }
+    ],
+    "uncertainty": "Observational contrasts across beers do not isolate a single causal ingredient."
+  },
+  {
+    "chapter": 8,
+    "claim": "A three-hop-variety experiment linked aroma to perceived bitterness intensity and character.",
+    "wiki_paths": [
+      "stories/two-beers-one-ibu.md",
+      "sensory/bitterness-is-not-one-number.md"
+    ],
+    "sources": [
+      {
+        "title": "Perceived Bitterness Character of Beer in Relation to Hop Variety and the Impact of Hop Aroma",
+        "url": "https://doi.org/10.1016/j.foodchem.2017.03.031",
+        "access": "Publisher abstract and indexed introduction; full results tables not accessed",
+        "accessed_on": "2026-10-28",
+        "locator": "Food Chemistry 230 (2017), 215–224; three hop varieties, aroma and perceived bitterness"
+      }
+    ],
+    "uncertainty": "Abstract/introduction access; qualitative finding retained without reconstructing inaccessible results tables."
+  },
+  {
+    "chapter": 9,
+    "claim": "The 2001 EPR study investigated short-lived radicals from direct UV photolysis of hop iso-alpha acids in model solvents.",
+    "wiki_paths": [
+      "stories/why-light-makes-some-beer-smell-skunky.md",
+      "sensory/lightstruck-chemistry.md"
+    ],
+    "sources": [
+      {
+        "title": "Mechanism for Formation of the Lightstruck Flavor in Beer Revealed by Time-Resolved Electron Paramagnetic Resonance",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11757646/",
+        "access": "PubMed/publisher abstracts; author names checked in publisher record; direct PubMed sometimes returned verification page",
+        "accessed_on": "2026-10-28",
+        "locator": "Chemistry—A European Journal 7 (2001), 4553–4561; 308 nm direct photolysis in toluene/methylcyclohexane, reactive intermediates"
+      }
+    ],
+    "uncertainty": "308 nm model experiment, not an ordinary finished-beer shelf trial."
+  },
+  {
+    "chapter": 9,
+    "claim": "A 1993 experiment estimated an MBT threshold of 7 ng/L in its beer/test conditions.",
+    "wiki_paths": [
+      "stories/why-light-makes-some-beer-smell-skunky.md",
+      "sensory/lightstruck-chemistry.md"
+    ],
+    "sources": [
+      {
+        "title": "Model Studies and Flavor Threshold Determination of 3-Methyl-2-Butene-1-Thiol in Beer",
+        "url": "https://doi.org/10.1094/ASBCJ-51-0001",
+        "access": "Indexed publisher abstract; direct publisher returned 403",
+        "accessed_on": "2026-10-28",
+        "locator": "Journal of the American Society of Brewing Chemists 51 (1993), 1–3; ascending-limit MBT threshold estimate of 7 ng/L"
+      }
+    ],
+    "uncertainty": "Threshold varies with sample and sensory method; the value is not a universal constant."
+  },
+  {
+    "chapter": 9,
+    "claim": "Light-excited riboflavin can participate in hop-bitterant degradation toward lightstruck precursors; reduced derivatives can behave differently.",
+    "wiki_paths": [
+      "ingredients/riboflavin-and-beer-light.md"
+    ],
+    "sources": [
+      {
+        "title": "Photooxidative Degradation of Beer Bittering Principles: A Key Step on the Route to Lightstruck Flavor Formation in Beer",
+        "url": "https://doi.org/10.1021/jf0486186",
+        "access": "Indexed publisher abstract and EPA HERO abstract record, https://hero.epa.gov/reference/482281/; no full-text inspection",
+        "accessed_on": "2026-10-28",
+        "locator": "Journal of Agricultural and Food Chemistry 53 (2005), 1489–1494; flavin sensitization, radical intermediates, different reduced hop derivatives"
+      }
+    ],
+    "uncertainty": "Abstract-only; resistance to one pathway does not prove immunity to every light-induced flavor change."
+  },
+  {
+    "chapter": 9,
+    "claim": "Visible-light model experiments connected flavin-mediated sulfur-amino-acid photochemistry and hop-derived fragments to MBT formation.",
+    "wiki_paths": [
+      "stories/why-light-makes-some-beer-smell-skunky.md",
+      "sensory/lightstruck-chemistry.md"
+    ],
+    "sources": [
+      {
+        "title": "Flavin-Induced Photodecomposition of Sulfur-Containing Amino Acids Is Decisive in the Formation of Beer Lightstruck Flavor",
+        "url": "https://www.chm.bris.ac.uk/sillymolecules/skunkythiol.pdf",
+        "access": "Original nine-page PDF; introduction, experimental methods and concluding mechanism sections consulted, after initial abstract access",
+        "accessed_on": "2026-10-28",
+        "locator": "Photochemical & Photobiological Sciences 5 (2006), 961–969, DOI 10.1039/B609337J; pp. 961–963 and 968: visible light, flavin model systems, sulfur radicals and MBT formation"
+      }
+    ],
+    "uncertainty": "Model systems and inferred mechanistic intermediates, not a full inventory of every reaction in commercial beer."
+  },
+  {
+    "chapter": 9,
+    "claim": "Visible light can drive the flavin pathway, so ultraviolet blocking alone is insufficient information about package protection.",
+    "wiki_paths": [
+      "objects/beer-bottles-and-light-barriers.md"
+    ],
+    "sources": [
+      {
+        "title": "Flavin-Induced Photodecomposition of Sulfur-Containing Amino Acids Is Decisive in the Formation of Beer Lightstruck Flavor",
+        "url": "https://www.chm.bris.ac.uk/sillymolecules/skunkythiol.pdf",
+        "access": "Original nine-page PDF; introduction, experimental methods and concluding mechanism sections consulted, after initial abstract access",
+        "accessed_on": "2026-10-28",
+        "locator": "Photochemical & Photobiological Sciences 5 (2006), 961–969, DOI 10.1039/B609337J; pp. 961–963 and 968: visible light, flavin model systems, sulfur radicals and MBT formation"
+      },
+      {
+        "title": "Vitamins in Brewing: Effects of Post-Fermentation Treatments and Exposure and Maturation on the Thiamine and Riboflavin Vitamer Content of Beer",
+        "url": "https://doi.org/10.1002/jib.312",
+        "access": "Full-text methods and glass-transmission discussion consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Journal of the Institute of Brewing 122 (2016), 278–288; Figure 3 and accompanying discussion of glass colors and thicknesses"
+      }
+    ],
+    "uncertainty": "The package conclusion is a physical inference from wavelength sensitivity and transmission, not a test of a named commercial UV-filter product."
+  },
+  {
+    "chapter": 9,
+    "claim": "The 2006 lager/model-beer study related riboflavin absorbance loss at 445 nm to lightstruck character, and tested additions reduced rather than completely stopped changes.",
+    "wiki_paths": [
+      "ingredients/riboflavin-and-beer-light.md"
+    ],
+    "sources": [
+      {
+        "title": "Spectrophotometric Method for Exploring 3-Methyl-2-Butene-1-Thiol (MBT) Formation in Lager",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16910696/",
+        "access": "PubMed abstract",
+        "accessed_on": "2026-10-28",
+        "locator": "Journal of Agricultural and Food Chemistry 54 (2006), 6123–6129; mainstream lager/model beer, riboflavin 445 nm absorbance, partial protection"
+      }
+    ],
+    "uncertainty": "Effects depended on tested formulation; no home remedy or universal antioxidant guarantee."
+  },
+  {
+    "chapter": 9,
+    "claim": "Measured glass transmission differed among amber, bright green, dark green and clear samples, and with amber thickness.",
+    "wiki_paths": [
+      "objects/beer-bottles-and-light-barriers.md"
+    ],
+    "sources": [
+      {
+        "title": "Vitamins in Brewing: Effects of Post-Fermentation Treatments and Exposure and Maturation on the Thiamine and Riboflavin Vitamer Content of Beer",
+        "url": "https://doi.org/10.1002/jib.312",
+        "access": "Full-text methods and glass-transmission discussion consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Journal of the Institute of Brewing 122 (2016), 278–288; Figure 3 and accompanying discussion of glass colors and thicknesses"
+      }
+    ],
+    "uncertainty": "Measured samples do not establish identical behavior for all bottles sharing a color name."
+  },
+  {
+    "chapter": 10,
+    "claim": "A 1991 study found trace copper accelerated flavor staling through oxidation-related chemistry.",
+    "wiki_paths": [
+      "stories/why-beer-ages-without-a-single-culprit.md",
+      "sensory/oxidative-aging.md"
+    ],
+    "sources": [
+      {
+        "title": "The Role of Copper, Oxygen, and Polyphenols in Beer Flavor Instability",
+        "url": "https://doi.org/10.1094/ASBCJ-49-0140",
+        "access": "Indexed publisher abstract",
+        "accessed_on": "2026-10-28",
+        "locator": "Journal of the American Society of Brewing Chemists 49 (1991), 140–149; trace copper catalysis and oxidation pathways"
+      }
+    ],
+    "uncertainty": "Abstract-only; no universal metal threshold or dosing instruction."
+  },
+  {
+    "chapter": 10,
+    "claim": "Total package oxygen includes dissolved oxygen and oxygen in the headspace.",
+    "wiki_paths": [
+      "processes/beer-package-oxygen-pathways.md"
+    ],
+    "sources": [
+      {
+        "title": "11.5.1: Total (Dissolved and Headspace) Oxygen in Packaged Beer",
+        "url": "https://brewup.eu/ebc-analytica/packaging-and-packaging-materials/total-dissolved-and-headspace-oxygen-in-packaged-beer/11.5.1",
+        "access": "Full public method scope; subscription procedure not accessed",
+        "accessed_on": "2026-10-28",
+        "locator": "European Brewery Convention, method version 2010; public record posted 24 October 2018; liquid and gas phase oxygen"
+      }
+    ],
+    "uncertainty": "Only the public method scope was accessed; a later oxygen measurement does not reconstruct earlier consumption."
+  },
+  {
+    "chapter": 10,
+    "claim": "A 200 L pilot study found boiling-system differences in carbonyl concentrations, followed by substantial fermentation reductions and similar fresh-beer free concentrations.",
+    "wiki_paths": [
+      "processes/wort-aldehydes-before-packaging.md"
+    ],
+    "sources": [
+      {
+        "title": "Effect of Wort Boiling System and Hopping Regime on Wort and Beer Stale-Flavor Aldehydes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10453677/",
+        "access": "Full-text methods, results and conclusions consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Foods 12 (2023), 3111; 200 L brewing, 15 carbonyls, boiling-system differences, fermentation, untested future stability proposal"
+      }
+    ],
+    "uncertainty": "The authors proposed, but did not establish, downstream stability differences."
+  },
+  {
+    "chapter": 10,
+    "claim": "The specific cysteinylated-aldehyde forms followed in the 2021 study did not explain rising aldehydes during aging, despite a broader role for bound forms.",
+    "wiki_paths": [
+      "sensory/beer-matrix-bound-aldehydes.md"
+    ],
+    "sources": [
+      {
+        "title": "Monitoring the Evolution of Free and Cysteinylated Aldehydes from Malt to Fresh and Forced Aged Beer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33648274/",
+        "access": "PubMed abstract",
+        "accessed_on": "2026-10-28",
+        "locator": "Food Research International 140 (2021), 110049; general bound-state account distinguished from negative cysteinylated-form finding"
+      }
+    ],
+    "uncertainty": "The negative result concerns tested forms and beers, not every possible binding pathway."
+  },
+  {
+    "chapter": 10,
+    "claim": "A freeze-dried/reconstituted three-lager matrix study found differing aldehyde retention and competitive displacement.",
+    "wiki_paths": [
+      "sensory/beer-matrix-bound-aldehydes.md"
+    ],
+    "sources": [
+      {
+        "title": "Binding of Staling Aldehydes to the Beer Matrix: Insights into the Equilibria Through Shelf-Life Which Drive Beer Flavor Instability",
+        "url": "https://doi.org/10.1080/03610470.2025.2585548",
+        "access": "Indexed full-text abstract, experimental design and sample-preparation sections; not complete results-table review",
+        "accessed_on": "2026-10-28",
+        "locator": "Online 12 December 2025; Journal of the American Society of Brewing Chemists 84 (2026), 96–107; freeze-dried/reconstituted three-lager matrices, headspace analysis and displacement"
+      }
+    ],
+    "uncertainty": "Concentrated model matrices; complete identity/range of binding sites unresolved; one unnamed company funded the work."
+  },
+  {
+    "chapter": 10,
+    "claim": "A six-lager study supported both new aldehyde formation and release, with changes related to malt modification and storage.",
+    "wiki_paths": [
+      "sensory/beer-matrix-bound-aldehydes.md",
+      "sensory/oxidative-aging.md"
+    ],
+    "sources": [
+      {
+        "title": "A Comprehensive Evaluation of Flavor Instability of Beer (Part 2): The Influence of De Novo Formation of Aging Aldehydes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8622366/",
+        "access": "Indexed full-text methods and results consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Foods 10 (2021), 2668; six lagers, malt modification, natural/forced aging, aldehyde formation and release"
+      }
+    ],
+    "uncertainty": "An experimental time course is not a universal timetable for every beer; multiple pathways coexist."
+  },
+  {
+    "chapter": 10,
+    "claim": "Storage can change the sensory balance through aroma loss as well as aldehyde appearance; terpenoid and ester trajectories differed in studied hoppy ales.",
+    "wiki_paths": [
+      "stories/why-beer-ages-without-a-single-culprit.md",
+      "sensory/oxidative-aging.md"
+    ],
+    "sources": [
+      {
+        "title": "The Influence of Storage Conditions on the Chemistry and Flavor of Hoppy Ales",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35843079/",
+        "access": "PubMed abstract",
+        "accessed_on": "2026-10-28",
+        "locator": "Food Chemistry 395 (2022), 133616; eleven German commercial hoppy ales and one lager; differing terpenoid/ester stability and sensory effects"
+      }
+    ],
+    "uncertainty": "Eleven commercial hoppy ales and one lager, not a census of all styles or a common expiration clock."
+  },
+  {
+    "chapter": 11,
+    "claim": "The 2019–2021 barley field experiment found no significant association between measured Fusarium graminearum abundance and gushing; inoculated material did not exceed the control in gushing activity.",
+    "wiki_paths": [
+      "categories/grain-contamination-vs-foam-defects.md"
+    ],
+    "sources": [
+      {
+        "title": "Impacts of Pathogen Strain and Barley Cultivar on Fusarium Head Blight in Barley and during Malting",
+        "url": "https://doi.org/10.1111/ppa.13918",
+        "access": "Indexed full-text methods, gushing results and discussion",
+        "accessed_on": "2026-10-28",
+        "locator": "Plant Pathology 73 (2024), 1874–1885; 2019–2021 field seasons, two cultivars, seven isolates and controls; gushing correlations"
+      }
+    ],
+    "uncertainty": "A negative association does not disprove purified-protein mechanisms; other fungi were proposed, not established, as an explanation."
+  },
+  {
+    "chapter": 11,
+    "claim": "Small existing gas pockets can provide nucleation sites; gas quantity and bubble-release behavior are distinct observations.",
+    "wiki_paths": [
+      "stories/beer-foam-not-only-carbonation.md",
+      "sensory/gushing-hydrophobins-and-carbonation.md"
+    ],
+    "sources": [
+      {
+        "title": "How Many CO2 Bubbles in a Glass of Beer?",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8047704/",
+        "access": "Indexed full-text physical analysis and model limitations; direct page intermittently returned verification",
+        "accessed_on": "2026-10-28",
+        "locator": "ACS Omega 6 (2021), 9672–9679; gas-pocket nucleation and assumptions in a lager-glass bubble model"
+      }
+    ],
+    "uncertainty": "The modeled bubble count depended on specified beer, temperature, gas content and assumed site geometry; no universal count."
+  },
+  {
+    "chapter": 11,
+    "claim": "Purified fungal hydrophobins produced via a heterologous host induced gushing at very low concentrations.",
+    "wiki_paths": [
+      "stories/beer-foam-not-only-carbonation.md",
+      "sensory/gushing-hydrophobins-and-carbonation.md"
+    ],
+    "sources": [
+      {
+        "title": "Identification and Characterization of Gushing-Active Hydrophobins from Fusarium graminearum and Related Species",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21780148/",
+        "access": "PubMed abstract and VTT institutional abstract",
+        "accessed_on": "2026-10-28",
+        "locator": "Online 2011; Journal of Basic Microbiology 52 (2012), 184–194; gene identification, heterologous production, purified GzHYD5 and FpHYD5"
+      }
+    ],
+    "uncertainty": "Demonstrated possible mechanism; appearance alone does not diagnose a particular bottle or grain lot."
+  },
+  {
+    "chapter": 11,
+    "claim": "Dynamic light scattering detected approximately 100 nm structures in gushing beer that investigators interpreted as hydrophobin-stabilized nanobubbles; carbonated/still test beverages differed.",
+    "wiki_paths": [
+      "stories/beer-foam-not-only-carbonation.md",
+      "sensory/gushing-hydrophobins-and-carbonation.md"
+    ],
+    "sources": [
+      {
+        "title": "Dynamic Light Scattering (DLS) as a Tool to Detect CO2-Hydrophobin Structures and Study the Primary Gushing Potential of Beer",
+        "url": "https://doi.org/10.1094/ASBCJ-2011-0524-01",
+        "access": "Publisher abstract only",
+        "accessed_on": "2026-10-28",
+        "locator": "Journal of the American Society of Brewing Chemists 69 (2011), 144–149; approximately 100 nm structures, carbonated beverages versus still-water comparison"
+      }
+    ],
+    "uncertainty": "Particle-size inference is not direct photography of every proposed nanobubble; abstract-only access."
+  },
+  {
+    "chapter": 11,
+    "claim": "Fungal abundance, toxin concentration and gushing are different endpoints, so visible foam cannot establish a toxin concentration.",
+    "wiki_paths": [
+      "categories/grain-contamination-vs-foam-defects.md"
+    ],
+    "sources": [
+      {
+        "title": "Impacts of Pathogen Strain and Barley Cultivar on Fusarium Head Blight in Barley and during Malting",
+        "url": "https://doi.org/10.1111/ppa.13918",
+        "access": "Indexed full-text methods, gushing results and discussion",
+        "accessed_on": "2026-10-28",
+        "locator": "Plant Pathology 73 (2024), 1874–1885; 2019–2021 field seasons, two cultivars, seven isolates and controls; gushing correlations"
+      },
+      {
+        "title": "Identification and Characterization of Gushing-Active Hydrophobins from Fusarium graminearum and Related Species",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21780148/",
+        "access": "PubMed abstract and VTT institutional abstract",
+        "accessed_on": "2026-10-28",
+        "locator": "Online 2011; Journal of Basic Microbiology 52 (2012), 184–194; gene identification, heterologous production, purified GzHYD5 and FpHYD5"
+      }
+    ],
+    "uncertainty": "Reasoning from the distinct assays; no food-safety diagnosis or consumption advice from appearance."
+  },
+  {
+    "chapter": 11,
+    "claim": "Humulinone interactions improved measured foamability/stability in a selected protein-Z solution.",
+    "wiki_paths": [
+      "sensory/protein-z-humulinone-foam.md"
+    ],
+    "sources": [
+      {
+        "title": "Interactions between Humulinone Derived from Aged Hops and Protein Z Enhance the Foamability and Foam Stability",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37716140/",
+        "access": "PubMed abstract and indexed selected publisher methods/conclusion; DOI 10.1016/j.foodchem.2023.137449",
+        "accessed_on": "2026-10-28",
+        "locator": "Online 2023; Food Chemistry 434 (2024), 137449; selected protein-solution interaction and foam measurements"
+      }
+    ],
+    "uncertainty": "This is not a complete beer formulation trial and does not recommend aged hops to guarantee foam."
+  },
+  {
+    "chapter": 12,
+    "claim": "Lager yeast is a hybrid with S. cerevisiae and S. eubayanus ancestry; later chromosome changes complicate individual historical reconstruction.",
+    "wiki_paths": [
+      "microbiology/lager-yeast-hybrids.md",
+      "ingredients/brewing-yeast.md"
+    ],
+    "sources": [
+      {
+        "title": "Microbe Domestication and the Identification of the Wild Genetic Stock of Lager-Brewing Yeast",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21873232/",
+        "access": "PubMed abstract; direct PMC full text returned verification page",
+        "accessed_on": "2026-10-28",
+        "locator": "PNAS 108 (2011), 14539–14544; Patagonia, S. eubayanus identification, 99.5% comparison to non-cerevisiae lager genome"
+      },
+      {
+        "title": "Chromosome Level Assembly and Comparative Genome Analysis Confirm Lager-Brewing Yeasts Originated from a Single Hybridization",
+        "url": "https://doi.org/10.1186/s12864-019-6263-3",
+        "access": "Full-text page; abstract, comparative background and assembly approach consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "BMC Genomics 20 (2019), 916; CBS1483 assembly, comparative inference supporting single hybridization followed by divergence"
+      }
+    ],
+    "uncertainty": "Well-supported broad parental relationship; precise event count and ancestral individuals require finer inference."
+  },
+  {
+    "chapter": 12,
+    "claim": "The 2011 Patagonian S. eubayanus report gave approximately 99.5% identity to the compared non-cerevisiae lager-genome component.",
+    "wiki_paths": [
+      "microbiology/lager-yeast-hybrids.md",
+      "ingredients/brewing-yeast.md"
+    ],
+    "sources": [
+      {
+        "title": "Microbe Domestication and the Identification of the Wild Genetic Stock of Lager-Brewing Yeast",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21873232/",
+        "access": "PubMed abstract; direct PMC full text returned verification page",
+        "accessed_on": "2026-10-28",
+        "locator": "PNAS 108 (2011), 14539–14544; Patagonia, S. eubayanus identification, 99.5% comparison to non-cerevisiae lager genome"
+      }
+    ],
+    "uncertainty": "Abstract access; the genetic figure documents a comparison, not a founding voyage from the first discovery site."
+  },
+  {
+    "chapter": 12,
+    "claim": "The 2014 report identified Asian populations and a Tibetan population closer to the tested lager component than the Patagonian comparison.",
+    "wiki_paths": [
+      "microbiology/lager-yeast-hybrids.md",
+      "ingredients/brewing-yeast.md"
+    ],
+    "sources": [
+      {
+        "title": "Evidence for a Far East Asian Origin of Lager Beer Yeast",
+        "url": "https://doi.org/10.1016/j.cub.2014.04.031",
+        "access": "Accessible publisher summary; not entire article",
+        "accessed_on": "2026-10-28",
+        "locator": "Current Biology 24 (2014), R380–R381; Asian populations, Tibetan genomic affinity and attributed origin proposal"
+      }
+    ],
+    "uncertainty": "The Far East origin was the authors’ hypothesis; greater sampled resemblance supplies no documented itinerary."
+  },
+  {
+    "chapter": 12,
+    "claim": "The 2016 population-genomic comparison found different closest sampled wild relatives in different genomic regions.",
+    "wiki_paths": [
+      "microbiology/lager-yeast-hybrids.md",
+      "ingredients/brewing-yeast.md"
+    ],
+    "sources": [
+      {
+        "title": "Complex Ancestries of Lager-Brewing Hybrids Were Shaped by Standing Variation in the Wild Yeast Saccharomyces eubayanus",
+        "url": "https://doi.org/10.1371/journal.pgen.1006155",
+        "access": "Full-text page: abstract, author summary and relevant genomic interpretation consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "PLOS Genetics 12 (2016), e1006155; variable nearest relatives across genomic regions and standing variation"
+      }
+    ],
+    "uncertainty": "Standing variation makes a single living isolate an inadequate proxy for the exact historical ancestor."
+  },
+  {
+    "chapter": 12,
+    "claim": "A 2015 analysis supported multiple origins; a 2019 chromosome-level analysis supported one hybridization followed by divergence.",
+    "wiki_paths": [
+      "microbiology/lager-yeast-hybrids.md",
+      "ingredients/brewing-yeast.md"
+    ],
+    "sources": [
+      {
+        "title": "The Genome Sequence of Saccharomyces eubayanus and the Domestication of Lager-Brewing Yeasts",
+        "url": "https://doi.org/10.1093/molbev/msv168",
+        "access": "Full-text page; abstract and comparative-background sections consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Molecular Biology and Evolution 32 (2015), 2818–2831; argument for multiple domestication/hybrid origins"
+      },
+      {
+        "title": "Chromosome Level Assembly and Comparative Genome Analysis Confirm Lager-Brewing Yeasts Originated from a Single Hybridization",
+        "url": "https://doi.org/10.1186/s12864-019-6263-3",
+        "access": "Full-text page; abstract, comparative background and assembly approach consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "BMC Genomics 20 (2019), 916; CBS1483 assembly, comparative inference supporting single hybridization followed by divergence"
+      }
+    ],
+    "uncertainty": "Historical interpretations are attributed; the text does not imply every present-day researcher gives both accounts equal weight."
+  },
+  {
+    "chapter": 12,
+    "claim": "UCD646 and UCD650 were isolated from Dublin campus soil sampled in September 2021 about 17 m apart and reported in 2022; they established European wild presence.",
+    "wiki_paths": [
+      "microbiology/lager-yeast-hybrids.md",
+      "ingredients/brewing-yeast.md"
+    ],
+    "sources": [
+      {
+        "title": "Identification of European Isolates of the Lager Yeast Parent Saccharomyces eubayanus",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9726447/",
+        "access": "Full-text page plus indexed results and conclusions; later direct opens intermittently returned verification",
+        "accessed_on": "2026-10-28",
+        "locator": "FEMS Yeast Research 22 (2022), foac053; September 2021 Dublin sampling, UCD646/UCD650, approximately 17 m separation, genome comparisons"
+      }
+    ],
+    "uncertainty": "No claim that the Irish isolates founded lager; portions of lager ancestry still match other sampled populations more closely."
+  },
+  {
+    "chapter": 12,
+    "claim": "Hutzler and colleagues proposed a Munich Hofbräuhaus encounter during 1602–1615 and distinguished brewing practice from the modern hybrid’s origin.",
+    "wiki_paths": [
+      "microbiology/lager-yeast-hybrids.md",
+      "ingredients/brewing-yeast.md"
+    ],
+    "sources": [
+      {
+        "title": "A New Hypothesis for the Origin of the Lager Yeast Saccharomyces pastorianus",
+        "url": "https://doi.org/10.1093/femsyr/foad023",
+        "access": "Full article page: historical discussion and concluding synthesis consulted; original archival documents not independently examined",
+        "accessed_on": "2026-10-28",
+        "locator": "FEMS Yeast Research 23 (2023), foad023; proposed Munich Hofbräuhaus encounter between 1602 and 1615; practice versus organism history"
+      }
+    ],
+    "uncertainty": "Archive-based hypothesis, not an observed hybridization; underlying original archives were not independently read."
+  }
+]

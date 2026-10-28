@@ -18,6 +18,14 @@ from urllib.parse import unquote, urlsplit
 
 import yaml
 
+# Standalone publications have their own editorial and build validation.
+NON_WIKI_DIRS = {"books"}
+
+
+def is_wiki_path(relative):
+    return not (any(part.startswith(".") for part in relative.parts)
+                or relative.parts[0] in NON_WIKI_DIRS)
+
 
 class UniqueLoader(yaml.SafeLoader):
     pass
@@ -111,7 +119,7 @@ def anchors(text):
 
 def validate(root):
     root = root.resolve()
-    paths = sorted(p for p in root.rglob("*.md") if not any(x.startswith(".") for x in p.relative_to(root).parts))
+    paths = sorted(p for p in root.rglob("*.md") if is_wiki_path(p.relative_to(root)))
     errors, documents, source_map, graph = [], {}, {}, {}
     counts = Counter(concept_files=0, comparison_relations=0, footnote_citations=0, local_link_occurrences=0)
     def error(path, message): errors.append(f"{path.relative_to(root)}: {message}")

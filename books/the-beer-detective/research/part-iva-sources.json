@@ -1,0 +1,668 @@
+[
+  {
+    "chapter": 19,
+    "claim": "The reproduced 1516 provision authorizes barley, hops and water and provides confiscation as a sanction.",
+    "wiki_paths": [
+      "stories/beer-purity-myth.md",
+      "history/bavarian-purity-law-and-its-afterlife.md"
+    ],
+    "sources": [
+      {
+        "title": "Jenny Gesley, 500 Year Anniversary of the Bavarian Beer Purity Law of 1516, Library of Congress (2016)",
+        "url": "https://blogs.loc.gov/law/2016/04/500-year-anniversary-of-the-bavarian-beer-purity-law-of-1516-reinheitsgebot/",
+        "access": "Drafter recorded full public article and reproduced provision. Independently reopened in the fresh AI review, including original text and court-case section. Original 1893 reported judgment was not examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Original Text and Translation; Ruling of the Imperial Court of Justice. The article’s claim that yeast was not used before 1906 is expressly excluded."
+      }
+    ],
+    "uncertainty": "A legal restriction is not a complete brewing recipe; its omissions do not establish practical ignorance of omitted processes."
+  },
+  {
+    "chapter": 19,
+    "claim": "Rupprecht documents earlier brewing ordinances and a 1489 Bamberg oath permitting yeast.",
+    "wiki_paths": [
+      "stories/beer-purity-myth.md",
+      "history/bavarian-purity-law-and-its-afterlife.md"
+    ],
+    "sources": [
+      {
+        "title": "Klaus Rupprecht, Purity Law, 1516, Historisches Lexikon Bayerns",
+        "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/EN%3APurity_Law%2C_1516",
+        "access": "Drafter recorded full public entry. Independently reopened in the fresh AI review; relevant historical passages and illustrated-document descriptions consulted. Underlying archival volumes not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Term; Older Purity Laws and their Causes; Further Development and Control; 1489 Bamberg oath, 1909 terminology, 1602 wheat-beer monopoly."
+      }
+    ],
+    "uncertainty": "Original oath is reached through a historian’s description and illustration; no claim of an independent archival transcription."
+  },
+  {
+    "chapter": 19,
+    "claim": "The famous ordinance addressed prices and public order as well as permissible materials.",
+    "wiki_paths": [
+      "stories/beer-purity-myth.md",
+      "history/bavarian-purity-law-and-its-afterlife.md"
+    ],
+    "sources": [
+      {
+        "title": "Klaus Rupprecht, Purity Law, 1516, Historisches Lexikon Bayerns",
+        "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/EN%3APurity_Law%2C_1516",
+        "access": "Drafter recorded full public entry. Independently reopened in the fresh AI review; relevant historical passages and illustrated-document descriptions consulted. Underlying archival volumes not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Term; Older Purity Laws and their Causes; Further Development and Control; 1489 Bamberg oath, 1909 terminology, 1602 wheat-beer monopoly."
+      },
+      {
+        "title": "Jenny Gesley, 500 Year Anniversary of the Bavarian Beer Purity Law of 1516, Library of Congress (2016)",
+        "url": "https://blogs.loc.gov/law/2016/04/500-year-anniversary-of-the-bavarian-beer-purity-law-of-1516-reinheitsgebot/",
+        "access": "Drafter recorded full public article and reproduced provision. Independently reopened in the fresh AI review, including original text and court-case section. Original 1893 reported judgment was not examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Original Text and Translation; Ruling of the Imperial Court of Justice. The article’s claim that yeast was not used before 1906 is expressly excluded."
+      }
+    ],
+    "uncertainty": "Historical scope only; motives are not reduced to one grain-protection or public-health explanation."
+  },
+  {
+    "chapter": 19,
+    "claim": "The term Reinheitsgebot appears in the early twentieth century, with Rupprecht identifying a 1909 occurrence.",
+    "wiki_paths": [
+      "stories/beer-purity-myth.md",
+      "history/bavarian-purity-law-and-its-afterlife.md"
+    ],
+    "sources": [
+      {
+        "title": "Klaus Rupprecht, Purity Law, 1516, Historisches Lexikon Bayerns",
+        "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/EN%3APurity_Law%2C_1516",
+        "access": "Drafter recorded full public entry. Independently reopened in the fresh AI review; relevant historical passages and illustrated-document descriptions consulted. Underlying archival volumes not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Term; Older Purity Laws and their Causes; Further Development and Control; 1489 Bamberg oath, 1909 terminology, 1602 wheat-beer monopoly."
+      }
+    ],
+    "uncertainty": "Attributed state of historical knowledge, not a claim to have searched every earlier usage; a later term does not make earlier regulations fictitious."
+  },
+  {
+    "chapter": 19,
+    "claim": "Permissions and wheat-beer privileges changed; after 1602 the ducal wheat-beer enterprise developed from an inherited monopoly.",
+    "wiki_paths": [
+      "stories/beer-purity-myth.md",
+      "history/bavarian-purity-law-and-its-afterlife.md"
+    ],
+    "sources": [
+      {
+        "title": "Klaus Rupprecht, Purity Law, 1516, Historisches Lexikon Bayerns",
+        "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/EN%3APurity_Law%2C_1516",
+        "access": "Drafter recorded full public entry. Independently reopened in the fresh AI review; relevant historical passages and illustrated-document descriptions consulted. Underlying archival volumes not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Term; Older Purity Laws and their Causes; Further Development and Control; 1489 Bamberg oath, 1909 terminology, 1602 wheat-beer monopoly."
+      }
+    ],
+    "uncertainty": "Changes are historical and locally administered, not a summary of current labeling law or every territorial exception."
+  },
+  {
+    "chapter": 19,
+    "claim": "Gesley describes a 1893 acquittal involving cat remains in mash and its reversal by the Reichsgericht.",
+    "wiki_paths": [
+      "stories/beer-purity-myth.md",
+      "history/bavarian-purity-law-and-its-afterlife.md"
+    ],
+    "sources": [
+      {
+        "title": "Jenny Gesley, 500 Year Anniversary of the Bavarian Beer Purity Law of 1516, Library of Congress (2016)",
+        "url": "https://blogs.loc.gov/law/2016/04/500-year-anniversary-of-the-bavarian-beer-purity-law-of-1516-reinheitsgebot/",
+        "access": "Drafter recorded full public article and reproduced provision. Independently reopened in the fresh AI review, including original text and court-case section. Original 1893 reported judgment was not examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Original Text and Translation; Ruling of the Imperial Court of Justice. The article’s claim that yeast was not used before 1906 is expressly excluded."
+      }
+    ],
+    "uncertainty": "Secondary legal account only; original reported judgment not read, no intent or courtroom dialogue invented."
+  },
+  {
+    "chapter": 19,
+    "claim": "The 1987 European judgment distinguished the designation Bier from additive restrictions and examined consumer/public-health justifications.",
+    "wiki_paths": [
+      "stories/beer-purity-myth.md",
+      "history/bavarian-purity-law-and-its-afterlife.md"
+    ],
+    "sources": [
+      {
+        "title": "Court of Justice, Commission v Federal Republic of Germany, Case 178/84, judgment 12 March 1987, ECLI:EU:C:1987:126",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A61984CJ0178",
+        "access": "Drafter’s recorded access: official search-indexed judgment excerpts, including paragraphs 24 and 37–41; direct page and PDF blocked by browser verification. Not independently retrieved by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "Designation Bier, additive restrictions, consumer information and public-health justifications in the historical trade dispute."
+      }
+    ],
+    "uncertainty": "Official indexed excerpts as recorded by the drafter; no present-day legal guidance or claim that the court decided sensory superiority."
+  },
+  {
+    "chapter": 19,
+    "claim": "Compliance with an ingredient rule, sensory quality, product safety and cultural identity answer different questions.",
+    "wiki_paths": [
+      "stories/beer-purity-myth.md",
+      "history/bavarian-purity-law-and-its-afterlife.md"
+    ],
+    "sources": [
+      {
+        "title": "Jenny Gesley, 500 Year Anniversary of the Bavarian Beer Purity Law of 1516, Library of Congress (2016)",
+        "url": "https://blogs.loc.gov/law/2016/04/500-year-anniversary-of-the-bavarian-beer-purity-law-of-1516-reinheitsgebot/",
+        "access": "Drafter recorded full public article and reproduced provision. Independently reopened in the fresh AI review, including original text and court-case section. Original 1893 reported judgment was not examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Original Text and Translation; Ruling of the Imperial Court of Justice. The article’s claim that yeast was not used before 1906 is expressly excluded."
+      },
+      {
+        "title": "Klaus Rupprecht, Purity Law, 1516, Historisches Lexikon Bayerns",
+        "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/EN%3APurity_Law%2C_1516",
+        "access": "Drafter recorded full public entry. Independently reopened in the fresh AI review; relevant historical passages and illustrated-document descriptions consulted. Underlying archival volumes not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Term; Older Purity Laws and their Causes; Further Development and Control; 1489 Bamberg oath, 1909 terminology, 1602 wheat-beer monopoly."
+      },
+      {
+        "title": "Court of Justice, Commission v Federal Republic of Germany, Case 178/84, judgment 12 March 1987, ECLI:EU:C:1987:126",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A61984CJ0178",
+        "access": "Drafter’s recorded access: official search-indexed judgment excerpts, including paragraphs 24 and 37–41; direct page and PDF blocked by browser verification. Not independently retrieved by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "Designation Bier, additive restrictions, consumer information and public-health justifications in the historical trade dispute."
+      }
+    ],
+    "uncertainty": "Original analytical synthesis; does not label other brewing cultures impure or infer safety from a short ingredient list."
+  },
+  {
+    "chapter": 20,
+    "claim": "Accounts agree on disposal of thirty-six barrels in 1838 but differ about whether townspeople or officials initiated the act.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "Géraldine Lysser, Cool beer — all year round, Swiss National Museum (16 April 2026)",
+        "url": "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/",
+        "access": "Drafter’s recorded access: public museum text. Not independently reopened in this cross-review.",
+        "accessed_on": "2026-10-28",
+        "locator": "Opening account of the 1838 Pilsen beer disposal; townspeople’s action compared with the official action described in Rail’s translated anniversary account."
+      },
+      {
+        "title": "Evan Rail, On the Founding of Pilsner Urquell, Brewery History 149 (2012), 20–29",
+        "url": "https://www.breweryhistory.com/journal/archive/149/Rail.pdf",
+        "access": "Drafter recorded complete PDF availability and consultation of historical discussion and translated founding appeal. Independently opened as complete ten-page extracted PDF during the fresh AI review; especially printed pages 20–21. Czech originals not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "1892 anniversary history; appeal of 2 January 1839; 1838 condemned beer; earlier Bohemian bottom fermentation; Václav Mirwald and U Zlatého Orla."
+      }
+    ],
+    "uncertainty": "The dramatic accounts are not combined into a fabricated scene; contemporary direct observation is not claimed."
+  },
+  {
+    "chapter": 20,
+    "claim": "Rail compares the 1892 anniversary narrative with the founding appeal dated 2 January 1839.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "Evan Rail, On the Founding of Pilsner Urquell, Brewery History 149 (2012), 20–29",
+        "url": "https://www.breweryhistory.com/journal/archive/149/Rail.pdf",
+        "access": "Drafter recorded complete PDF availability and consultation of historical discussion and translated founding appeal. Independently opened as complete ten-page extracted PDF during the fresh AI review; especially printed pages 20–21. Czech originals not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "1892 anniversary history; appeal of 2 January 1839; 1838 condemned beer; earlier Bohemian bottom fermentation; Václav Mirwald and U Zlatého Orla."
+      }
+    ],
+    "uncertainty": "Reliance on his translation and analysis; the original Czech documents were not independently examined."
+  },
+  {
+    "chapter": 20,
+    "claim": "The founding problem involved price, competition, production arrangements and income attached to brewing rights.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "Evan Rail, On the Founding of Pilsner Urquell, Brewery History 149 (2012), 20–29",
+        "url": "https://www.breweryhistory.com/journal/archive/149/Rail.pdf",
+        "access": "Drafter recorded complete PDF availability and consultation of historical discussion and translated founding appeal. Independently opened as complete ten-page extracted PDF during the fresh AI review; especially printed pages 20–21. Czech originals not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "1892 anniversary history; appeal of 2 January 1839; 1838 condemned beer; earlier Bohemian bottom fermentation; Václav Mirwald and U Zlatého Orla."
+      }
+    ],
+    "uncertainty": "An economic reading of the surviving appeal, not a complete account of every founder’s motives or all residents’ interests."
+  },
+  {
+    "chapter": 20,
+    "claim": "Innkeeper Václav Mirwald held brewing rights, sold beer and hosted discussion at U Zlatého Orla.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "Evan Rail, On the Founding of Pilsner Urquell, Brewery History 149 (2012), 20–29",
+        "url": "https://www.breweryhistory.com/journal/archive/149/Rail.pdf",
+        "access": "Drafter recorded complete PDF availability and consultation of historical discussion and translated founding appeal. Independently opened as complete ten-page extracted PDF during the fresh AI review; especially printed pages 20–21. Czech originals not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "1892 anniversary history; appeal of 2 January 1839; 1838 condemned beer; earlier Bohemian bottom fermentation; Václav Mirwald and U Zlatého Orla."
+      }
+    ],
+    "uncertainty": "Documented through Rail, particularly p. 21; no dialogue or claim that he alone founded the brewery. His double commercial stake is attributed analysis."
+  },
+  {
+    "chapter": 20,
+    "claim": "Bottom fermentation in Bohemia predated the 1842 Pilsen batch.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "Evan Rail, On the Founding of Pilsner Urquell, Brewery History 149 (2012), 20–29",
+        "url": "https://www.breweryhistory.com/journal/archive/149/Rail.pdf",
+        "access": "Drafter recorded complete PDF availability and consultation of historical discussion and translated founding appeal. Independently opened as complete ten-page extracted PDF during the fresh AI review; especially printed pages 20–21. Czech originals not separately examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "1892 anniversary history; appeal of 2 January 1839; 1838 condemned beer; earlier Bohemian bottom fermentation; Václav Mirwald and U Zlatého Orla."
+      }
+    ],
+    "uncertainty": "The chapter distinguishes a celebrated local product from the first-ever existence of a brewing process; no precise unverified origin date is added."
+  },
+  {
+    "chapter": 20,
+    "claim": "Producer accounts distinguish the first batch on 5 October 1842 from first tapping on 11 November.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "Plzeňský Prazdroj, History",
+        "url": "https://www.prazdroj.cz/en/our-story/history",
+        "access": "Drafter’s recorded access: public producer chronology. Not independently reopened by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "1842 first batch, transport infrastructure and 1898 Pilsner Urquell trademark entry. Claim of unchanged historical flavor not adopted."
+      },
+      {
+        "title": "Plzeňský Prazdroj, Pilsen bishop blesses Easter batch of Pilsner Urquell (2011)",
+        "url": "https://www.prazdroj.cz/en/937-pilsen-bishop-blesses-easter-batch-of-pilsner-urquell",
+        "access": "Drafter’s recorded access: indexed company text only. Not independently reopened by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "Retrospective dates: brewing on 5 October and first service on 11 November 1842."
+      }
+    ],
+    "uncertainty": "Retrospective institutional testimony, not contemporaneous tasting notes or proof of unchanged flavor."
+  },
+  {
+    "chapter": 20,
+    "claim": "The familiar explanation combines a Bavarian brewer with Pilsen institutions and local malt, water and Saaz hops.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "Zuzana Lízcová, No risk, no gain, Goethe-Institut",
+        "url": "https://www.goethe.de/ins/gb/en/kul/past/eur/erb/21259209.html",
+        "access": "Drafter’s recorded access: full public article. Not independently reopened by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "Regional combination of Bavarian brewer, Pilsen institutions and local materials. Sensational older-ingredient claims and purported first-tasting quotations excluded."
+      }
+    ],
+    "uncertainty": "A regional historical account, not a controlled proof that those named ingredients inevitably caused commercial success."
+  },
+  {
+    "chapter": 20,
+    "claim": "The patent office’s retrospective account gives Groll a three-year tenure, after which other Bavarian brewmasters continued.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "German Patent and Trade Mark Office, Beer & IP",
+        "url": "https://www.dpma.de/english/our_office/publications/background/food-drink/beerip/index.html",
+        "access": "Drafter’s recorded access: full public page, historical section. Not independently reopened by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "Groll’s three-year Pilsen tenure and subsequent Bavarian brewmasters. Earliest-recipe, original-name and universal-temperature claims not adopted."
+      }
+    ],
+    "uncertainty": "Drafter-recorded public source; not newly independently verified in the fresh review. Maintenance argument is original interpretation."
+  },
+  {
+    "chapter": 20,
+    "claim": "The producer chronology records transport infrastructure and the 1898 registration of Pilsner Urquell.",
+    "wiki_paths": [
+      "stories/what-was-new-in-1842.md",
+      "history/pilsen-1842-evidence-and-origin-myths.md",
+      "culture/pilsen-burgher-brewing-rights.md"
+    ],
+    "sources": [
+      {
+        "title": "Plzeňský Prazdroj, History",
+        "url": "https://www.prazdroj.cz/en/our-story/history",
+        "access": "Drafter’s recorded access: public producer chronology. Not independently reopened by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "1842 first batch, transport infrastructure and 1898 Pilsner Urquell trademark entry. Claim of unchanged historical flavor not adopted."
+      }
+    ],
+    "uncertainty": "Company historical narrative is not evidence that founders foresaw global distribution or that the trademark settled every naming dispute."
+  },
+  {
+    "chapter": 21,
+    "claim": "The Shawi field study used a portable incubator connected to a car battery for November 2015 microbial testing.",
+    "wiki_paths": [
+      "stories/fermentation-is-not-a-water-treatment.md",
+      "culture/shawi-masato-and-water.md"
+    ],
+    "sources": [
+      {
+        "title": "Alejandra Bussalleu et al., Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage, EcoHealth 17 (2020), 370–380",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/",
+        "access": "Drafter recorded full open text. Independently opened and checked during the fresh AI review, including methods, Tables 1–2, photographic account, discussion and limitations. No source photographs reproduced.",
+        "accessed_on": "2026-10-28",
+        "locator": "November 2015 sampling; 19 household plus 7 outdoor waters; 2/11 masato positives; portable battery-powered incubator; unknown sample fermentation duration; dilution of mash; July 2017 photography and January 2018 validation."
+      }
+    ],
+    "uncertainty": "Recorded methods, not an invented visit; the book conducted no experiment or fieldwork."
+  },
+  {
+    "chapter": 21,
+    "claim": "All 19 household and 7 outdoor-source water samples were coliform-positive; 2 of 11 masato samples were positive.",
+    "wiki_paths": [
+      "stories/fermentation-is-not-a-water-treatment.md",
+      "culture/shawi-masato-and-water.md"
+    ],
+    "sources": [
+      {
+        "title": "Alejandra Bussalleu et al., Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage, EcoHealth 17 (2020), 370–380",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/",
+        "access": "Drafter recorded full open text. Independently opened and checked during the fresh AI review, including methods, Tables 1–2, photographic account, discussion and limitations. No source photographs reproduced.",
+        "accessed_on": "2026-10-28",
+        "locator": "November 2015 sampling; 19 household plus 7 outdoor waters; 2/11 masato positives; portable battery-powered incubator; unknown sample fermentation duration; dilution of mash; July 2017 photography and January 2018 validation."
+      }
+    ],
+    "uncertainty": "The 26 waters are samples, not 26 independent communal sources. Negative culture results are bounded by the method and do not establish absence of all hazards."
+  },
+  {
+    "chapter": 21,
+    "claim": "The researchers could not confirm the fermentation duration of each masato sample.",
+    "wiki_paths": [
+      "stories/fermentation-is-not-a-water-treatment.md",
+      "culture/shawi-masato-and-water.md"
+    ],
+    "sources": [
+      {
+        "title": "Alejandra Bussalleu et al., Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage, EcoHealth 17 (2020), 370–380",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/",
+        "access": "Drafter recorded full open text. Independently opened and checked during the fresh AI review, including methods, Tables 1–2, photographic account, discussion and limitations. No source photographs reproduced.",
+        "accessed_on": "2026-10-28",
+        "locator": "November 2015 sampling; 19 household plus 7 outdoor waters; 2/11 masato positives; portable battery-powered incubator; unknown sample fermentation duration; dilution of mash; July 2017 photography and January 2018 validation."
+      }
+    ],
+    "uncertainty": "This missing process information prevents inference of a validated fermentation-time threshold or a controlled before-and-after treatment effect."
+  },
+  {
+    "chapter": 21,
+    "claim": "The reported preparation dilutes fermented masato mash with water before consumption.",
+    "wiki_paths": [
+      "stories/fermentation-is-not-a-water-treatment.md",
+      "culture/shawi-masato-and-water.md"
+    ],
+    "sources": [
+      {
+        "title": "Alejandra Bussalleu et al., Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage, EcoHealth 17 (2020), 370–380",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/",
+        "access": "Drafter recorded full open text. Independently opened and checked during the fresh AI review, including methods, Tables 1–2, photographic account, discussion and limitations. No source photographs reproduced.",
+        "accessed_on": "2026-10-28",
+        "locator": "November 2015 sampling; 19 household plus 7 outdoor waters; 2/11 masato positives; portable battery-powered incubator; unknown sample fermentation duration; dilution of mash; July 2017 photography and January 2018 validation."
+      }
+    ],
+    "uncertainty": "A documented sequence in the studied setting, not a universal recipe; no unsupported claim about the effect of any particular dilution water."
+  },
+  {
+    "chapter": 21,
+    "claim": "Sampling occurred in 2015, photographic work in July 2017, and community validation workshops in January 2018.",
+    "wiki_paths": [
+      "stories/fermentation-is-not-a-water-treatment.md",
+      "culture/shawi-masato-and-water.md"
+    ],
+    "sources": [
+      {
+        "title": "Alejandra Bussalleu et al., Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage, EcoHealth 17 (2020), 370–380",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/",
+        "access": "Drafter recorded full open text. Independently opened and checked during the fresh AI review, including methods, Tables 1–2, photographic account, discussion and limitations. No source photographs reproduced.",
+        "accessed_on": "2026-10-28",
+        "locator": "November 2015 sampling; 19 household plus 7 outdoor waters; 2/11 masato positives; portable battery-powered incubator; unknown sample fermentation duration; dilution of mash; July 2017 photography and January 2018 validation."
+      }
+    ],
+    "uncertainty": "Community participants helped select themes and images in the original project; this is not community review or endorsement of the book."
+  },
+  {
+    "chapter": 21,
+    "claim": "A 2023 challenge study found condition- and organism-dependent survival and growth in tested low/no-alcohol beer matrices.",
+    "wiki_paths": [
+      "microbiology/nonalcoholic-beer-pathogen-challenge.md"
+    ],
+    "sources": [
+      {
+        "title": "Mario Çobo, Ann Charles-Vegdahl, Kaylyn Kirkpatrick and Randy Worobo, Survival of Foodborne Pathogens in Low and Nonalcoholic Craft Beer, Journal of Food Protection 86 (2023), 100183",
+        "url": "https://doi.org/10.1016/j.jfp.2023.100183",
+        "access": "Drafter recorded publisher/PubMed abstract and highlights. Fresh reviewer independently consulted complete PubMed abstract at https://pubmed.ncbi.nlm.nih.gov/37865164/; neither reviewer examined complete experimental methods or raw data.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract: selected pathogen cocktails, varying alcohol/pH/temperature, differences between survival and growth; no consumer operating limit inferred."
+      }
+    ],
+    "uncertainty": "Abstract-level findings; no extrapolation to masato, all commercial products, a home safety test or a guaranteed operating limit."
+  },
+  {
+    "chapter": 21,
+    "claim": "CDC describes contamination before treatment and within distribution, and the role of disinfectant persistence.",
+    "wiki_paths": [
+      "stories/fermentation-is-not-a-water-treatment.md",
+      "culture/shawi-masato-and-water.md"
+    ],
+    "sources": [
+      {
+        "title": "US Centers for Disease Control and Prevention, About Water Disinfection with Chlorine and Chloramine (14 February 2024)",
+        "url": "https://www.cdc.gov/drinking-water/about/about-water-disinfection-with-chlorine-and-chloramine.html",
+        "access": "Drafter recorded full public page. Independently reopened and read in the fresh AI review.",
+        "accessed_on": "2026-10-28",
+        "locator": "Overview and How It Works: contamination before treatment and during distribution, disinfectant persistence. Used for process-sequence reasoning, not a masato treatment protocol."
+      }
+    ],
+    "uncertainty": "General sequence principle only, not a protocol for adding disinfectants to a fermented beverage."
+  },
+  {
+    "chapter": 21,
+    "claim": "A field comparison of coliform detection does not isolate fermentation’s causal effect or establish health outcomes.",
+    "wiki_paths": [
+      "stories/fermentation-is-not-a-water-treatment.md",
+      "culture/shawi-masato-and-water.md",
+      "microbiology/nonalcoholic-beer-pathogen-challenge.md"
+    ],
+    "sources": [
+      {
+        "title": "Alejandra Bussalleu et al., Cultural Values and the Coliform Bacterial Load of Masato, an Amazon Indigenous Beverage, EcoHealth 17 (2020), 370–380",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/",
+        "access": "Drafter recorded full open text. Independently opened and checked during the fresh AI review, including methods, Tables 1–2, photographic account, discussion and limitations. No source photographs reproduced.",
+        "accessed_on": "2026-10-28",
+        "locator": "November 2015 sampling; 19 household plus 7 outdoor waters; 2/11 masato positives; portable battery-powered incubator; unknown sample fermentation duration; dilution of mash; July 2017 photography and January 2018 validation."
+      },
+      {
+        "title": "Mario Çobo, Ann Charles-Vegdahl, Kaylyn Kirkpatrick and Randy Worobo, Survival of Foodborne Pathogens in Low and Nonalcoholic Craft Beer, Journal of Food Protection 86 (2023), 100183",
+        "url": "https://doi.org/10.1016/j.jfp.2023.100183",
+        "access": "Drafter recorded publisher/PubMed abstract and highlights. Fresh reviewer independently consulted complete PubMed abstract at https://pubmed.ncbi.nlm.nih.gov/37865164/; neither reviewer examined complete experimental methods or raw data.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract: selected pathogen cocktails, varying alcohol/pH/temperature, differences between survival and growth; no consumer operating limit inferred."
+      },
+      {
+        "title": "US Centers for Disease Control and Prevention, About Water Disinfection with Chlorine and Chloramine (14 February 2024)",
+        "url": "https://www.cdc.gov/drinking-water/about/about-water-disinfection-with-chlorine-and-chloramine.html",
+        "access": "Drafter recorded full public page. Independently reopened and read in the fresh AI review.",
+        "accessed_on": "2026-10-28",
+        "locator": "Overview and How It Works: contamination before treatment and during distribution, disinfectant persistence. Used for process-sequence reasoning, not a masato treatment protocol."
+      }
+    ],
+    "uncertainty": "Original methodological reasoning. The source’s unsupported kill-on-contact statement and speculative cross-population disease-rate comparison are excluded."
+  },
+  {
+    "chapter": 22,
+    "claim": "The 2017 Brussels study used two color-adjusted versions of a shared blond-ale base, with 25 preliminary tasters and 136 main-study participants.",
+    "wiki_paths": [
+      "sensory/expectations-and-beer-colour.md",
+      "categories/difference-tests-versus-quality-scores.md"
+    ],
+    "sources": [
+      {
+        "title": "Felipe Reinoso Carvalho, Pieter Moors, Johan Wagemans and Charles Spence, The Influence of Color on the Consumer’s Experience of Beer, Frontiers in Psychology 8 (2017), 2205",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02205/full",
+        "access": "Drafter recorded full open text. Independently reopened during the fresh AI review; stimulus preparation, triangle test, main design and results checked. No figures reproduced and participant-level data not reanalyzed.",
+        "accessed_on": "2026-10-28",
+        "locator": "December 16–18, 2016 Brussels museum; 25 preliminary and 136 main-study participants; both beers adjusted from a shared base; expectations and post-tasting comparisons."
+      }
+    ],
+    "uncertainty": "Both products were color-adjusted; the pale sample is not represented as an untouched base-beer control."
+  },
+  {
+    "chapter": 22,
+    "claim": "The preliminary blinded triangle test did not demonstrate flavor discrimination between the beers.",
+    "wiki_paths": [
+      "sensory/expectations-and-beer-colour.md",
+      "categories/difference-tests-versus-quality-scores.md"
+    ],
+    "sources": [
+      {
+        "title": "Felipe Reinoso Carvalho, Pieter Moors, Johan Wagemans and Charles Spence, The Influence of Color on the Consumer’s Experience of Beer, Frontiers in Psychology 8 (2017), 2205",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02205/full",
+        "access": "Drafter recorded full open text. Independently reopened during the fresh AI review; stimulus preparation, triangle test, main design and results checked. No figures reproduced and participant-level data not reanalyzed.",
+        "accessed_on": "2026-10-28",
+        "locator": "December 16–18, 2016 Brussels museum; 25 preliminary and 136 main-study participants; both beers adjusted from a shared base; expectations and post-tasting comparisons."
+      }
+    ],
+    "uncertainty": "A failure to reject the test hypothesis does not prove chemical identity, sensory equivalence or universal inability to discriminate."
+  },
+  {
+    "chapter": 22,
+    "claim": "Participants expected more bitterness, strength and body from the dark beer, and greater liking for the pale beer.",
+    "wiki_paths": [
+      "sensory/expectations-and-beer-colour.md",
+      "categories/difference-tests-versus-quality-scores.md"
+    ],
+    "sources": [
+      {
+        "title": "Felipe Reinoso Carvalho, Pieter Moors, Johan Wagemans and Charles Spence, The Influence of Color on the Consumer’s Experience of Beer, Frontiers in Psychology 8 (2017), 2205",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02205/full",
+        "access": "Drafter recorded full open text. Independently reopened during the fresh AI review; stimulus preparation, triangle test, main design and results checked. No figures reproduced and participant-level data not reanalyzed.",
+        "accessed_on": "2026-10-28",
+        "locator": "December 16–18, 2016 Brussels museum; 25 preliminary and 136 main-study participants; both beers adjusted from a shared base; expectations and post-tasting comparisons."
+      }
+    ],
+    "uncertainty": "Specified group-level study ratings, not innate color meanings or universal consumer expectations."
+  },
+  {
+    "chapter": 22,
+    "claim": "Those expected gaps narrowed after tasting, with no statistically significant between-beer difference on those post-tasting ratings.",
+    "wiki_paths": [
+      "sensory/expectations-and-beer-colour.md",
+      "categories/difference-tests-versus-quality-scores.md"
+    ],
+    "sources": [
+      {
+        "title": "Felipe Reinoso Carvalho, Pieter Moors, Johan Wagemans and Charles Spence, The Influence of Color on the Consumer’s Experience of Beer, Frontiers in Psychology 8 (2017), 2205",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02205/full",
+        "access": "Drafter recorded full open text. Independently reopened during the fresh AI review; stimulus preparation, triangle test, main design and results checked. No figures reproduced and participant-level data not reanalyzed.",
+        "accessed_on": "2026-10-28",
+        "locator": "December 16–18, 2016 Brussels museum; 25 preliminary and 136 main-study participants; both beers adjusted from a shared base; expectations and post-tasting comparisons."
+      }
+    ],
+    "uncertainty": "The study reports interaction/convergence; no proof of exactly zero effect or claim that every individual revised expectations is inferred."
+  },
+  {
+    "chapter": 22,
+    "claim": "Blackmore and colleagues’ 2021 report links color and sensory descriptions to expectations and perceived beer properties.",
+    "wiki_paths": [
+      "sensory/expectations-and-beer-colour.md",
+      "categories/difference-tests-versus-quality-scores.md"
+    ],
+    "sources": [
+      {
+        "title": "Helena Blackmore, Claire Hidrio and Martin R. Yeomans, A taste of things to come: The effect of extrinsic and intrinsic cues on perceived properties of beer mediated by expectations, Food Quality and Preference 94 (2021), 104326",
+        "url": "https://doi.org/10.1016/j.foodqual.2021.104326",
+        "access": "Drafter’s recorded access: publisher-indexed abstract and highlights; direct full-text retrieval failed. Not independently reopened by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract and highlights concerning beer color, sensory descriptions and expectation-mediated perception; no unexamined effect sizes or subgroup results adopted."
+      }
+    ],
+    "uncertainty": "Drafter-recorded abstract/highlights only; no unexamined effect size, subgroup finding or full-data causal analysis is supplied."
+  },
+  {
+    "chapter": 22,
+    "claim": "The 2022 study of 87 regular beer drinkers varied actual/labeled alcohol, color and sensory descriptors; effects differed by judgment.",
+    "wiki_paths": [
+      "sensory/expectations-and-beer-colour.md",
+      "categories/difference-tests-versus-quality-scores.md"
+    ],
+    "sources": [
+      {
+        "title": "Helena Blackmore, Claire Hidrio and Martin R. Yeomans, How sensory and hedonic expectations shape perceived properties of regular and non-alcoholic beer, Food Quality and Preference 99 (2022), 104562",
+        "url": "https://doi.org/10.1016/j.foodqual.2022.104562",
+        "access": "Drafter recorded publisher abstract, introduction, design and discussion excerpts. Fresh reviewer independently obtained the same classes of publisher-indexed excerpts at https://www.sciencedirect.com/science/article/pii/S0950329322000374; direct DOI fetch failed. Complete methods/data not examined. Funding statement is preserved from drafter’s recorded access, not newly verified by reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "87 regular beer drinkers; actual and labeled alcohol, color and sensory wording; percept-specific effects; liking distinctions. Industry funding and coauthor role disclosed in chapter note."
+      }
+    ],
+    "uncertainty": "Indexed design and result excerpts. Attribute-specific effects are not transferred to liking; modeled mediation is not a universal account of perception."
+  },
+  {
+    "chapter": 22,
+    "claim": "Wolfe’s judging guide discusses presentation and environmental cues, including a bottle-information versus aroma-loss tradeoff.",
+    "wiki_paths": [
+      "sensory/expectations-and-beer-colour.md",
+      "categories/difference-tests-versus-quality-scores.md"
+    ],
+    "sources": [
+      {
+        "title": "Edward W. Wolfe, Beer Evaluation and the Judging Process, Beer Judge Certification Program",
+        "url": "https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/beer-evaluation/",
+        "access": "Drafter’s recorded access: public educational guide, including notice that much material has been superseded. Not independently reopened by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "Tasting environment, bottle disclosure and aroma loss during transfer; professional educational guidance, not randomized experimental evidence or a current exhaustive standard."
+      }
+    ],
+    "uncertainty": "An explicitly partly superseded educational guide, not current exhaustive rules or randomized evidence."
+  },
+  {
+    "chapter": 22,
+    "claim": "Sensory discrimination, conformity to a style description, liking and chemical composition are different questions.",
+    "wiki_paths": [
+      "sensory/expectations-and-beer-colour.md",
+      "categories/difference-tests-versus-quality-scores.md"
+    ],
+    "sources": [
+      {
+        "title": "Felipe Reinoso Carvalho, Pieter Moors, Johan Wagemans and Charles Spence, The Influence of Color on the Consumer’s Experience of Beer, Frontiers in Psychology 8 (2017), 2205",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02205/full",
+        "access": "Drafter recorded full open text. Independently reopened during the fresh AI review; stimulus preparation, triangle test, main design and results checked. No figures reproduced and participant-level data not reanalyzed.",
+        "accessed_on": "2026-10-28",
+        "locator": "December 16–18, 2016 Brussels museum; 25 preliminary and 136 main-study participants; both beers adjusted from a shared base; expectations and post-tasting comparisons."
+      },
+      {
+        "title": "Helena Blackmore, Claire Hidrio and Martin R. Yeomans, How sensory and hedonic expectations shape perceived properties of regular and non-alcoholic beer, Food Quality and Preference 99 (2022), 104562",
+        "url": "https://doi.org/10.1016/j.foodqual.2022.104562",
+        "access": "Drafter recorded publisher abstract, introduction, design and discussion excerpts. Fresh reviewer independently obtained the same classes of publisher-indexed excerpts at https://www.sciencedirect.com/science/article/pii/S0950329322000374; direct DOI fetch failed. Complete methods/data not examined. Funding statement is preserved from drafter’s recorded access, not newly verified by reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "87 regular beer drinkers; actual and labeled alcohol, color and sensory wording; percept-specific effects; liking distinctions. Industry funding and coauthor role disclosed in chapter note."
+      },
+      {
+        "title": "Edward W. Wolfe, Beer Evaluation and the Judging Process, Beer Judge Certification Program",
+        "url": "https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/beer-evaluation/",
+        "access": "Drafter’s recorded access: public educational guide, including notice that much material has been superseded. Not independently reopened by the fresh reviewer.",
+        "accessed_on": "2026-10-28",
+        "locator": "Tasting environment, bottle disclosure and aroma loss during transfer; professional educational guidance, not randomized experimental evidence or a current exhaustive standard."
+      }
+    ],
+    "uncertainty": "Original synthesis; context-sensitive enjoyment is not dismissed as counterfeit, and a sensory report does not prove an ingredient was added."
+  }
+]

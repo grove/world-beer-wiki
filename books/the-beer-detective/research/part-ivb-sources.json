@@ -1,0 +1,433 @@
+[
+  {
+    "chapter": 23,
+    "claim": "Before mechanical refrigeration, brewers could harvest lake or pond ice and store it for later cooling; refrigeration also extended rail transport possibilities.",
+    "wiki_paths": [
+      "stories/from-winter-ice-to-heat-pumps.md",
+      "history/ice-houses-to-mechanical-brewery-cooling.md"
+    ],
+    "sources": [
+      {
+        "title": "Refrigeration — Something’s Brewing, University of Chicago Library",
+        "url": "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/",
+        "access": "Full public institutional exhibition text consulted; the historical patent and cited scholarly book were not independently examined",
+        "accessed_on": "2026-10-28",
+        "locator": "Ice harvesting and storage; Linde refrigeration; refrigerated railway transport"
+      }
+    ],
+    "uncertainty": "Institutional historical synthesis, not an exhaustive chronology of all countries or breweries. Historical technology adoption varied by place and time."
+  },
+  {
+    "chapter": 23,
+    "claim": "Swiss ice harvesting included cutting blocks, carting them to railways and insulating the cargo; Hürlimann installed mechanical refrigeration in 1879.",
+    "wiki_paths": [
+      "stories/from-winter-ice-to-heat-pumps.md",
+      "history/ice-houses-to-mechanical-brewery-cooling.md"
+    ],
+    "sources": [
+      {
+        "title": "Cool Beer—All Year Round — Géraldine Lysser, Swiss National Museum",
+        "url": "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/",
+        "access": "Full public museum article consulted; collection images and underlying archives were not independently researched",
+        "accessed_on": "2026-10-28",
+        "locator": "16 April 2026; ice cutting, carts, rail transport, insulation, Alpine sources and Hürlimann installation in 1879"
+      }
+    ],
+    "uncertainty": "No ranking of the installation as first or third in Europe is adopted. The archival evidence and photographs underlying the museum account were not independently examined."
+  },
+  {
+    "chapter": 23,
+    "claim": "A Norwegian museum researcher connects nineteenth-century beer exports with natural ice, steamships, rail networks, commercial contacts and captains carrying samples.",
+    "wiki_paths": [
+      "stories/from-winter-ice-to-heat-pumps.md",
+      "history/ice-houses-to-mechanical-brewery-cooling.md"
+    ],
+    "sources": [
+      {
+        "title": "Export of Beer from the 1860s—Enabling Technologies — Ingebjørg Eidhammer, Norwegian Museum of Science and Technology",
+        "url": "https://www.tekniskmuseum.no/en/research/export-of-oil-from-the-1860s",
+        "access": "Full public museum research overview consulted; Ringnes and other brewery archives are described by the researcher, not independently inspected for this book",
+        "accessed_on": "2026-10-28",
+        "locator": "Account of nineteenth-century exports, natural ice, transport networks and captains carrying samples; actual page title concerns beer despite the URL"
+      }
+    ],
+    "uncertainty": "The archive is described by its researcher, not claimed as personally inspected. The chapter does not repeat the page’s problematic Hansen 1885 date or mistake the URL wording for the article title."
+  },
+  {
+    "chapter": 23,
+    "claim": "Linde’s ammonia vapor-compression equipment was among successful early refrigeration systems; a refrigeration machine transfers heat rather than manufacturing a substance called cold.",
+    "wiki_paths": [
+      "stories/from-winter-ice-to-heat-pumps.md",
+      "history/ice-houses-to-mechanical-brewery-cooling.md"
+    ],
+    "sources": [
+      {
+        "title": "Refrigeration — Something’s Brewing, University of Chicago Library",
+        "url": "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/refrigeration/",
+        "access": "Full public institutional exhibition text consulted; the historical patent and cited scholarly book were not independently examined",
+        "accessed_on": "2026-10-28",
+        "locator": "Ice harvesting and storage; Linde refrigeration; refrigerated railway transport"
+      },
+      {
+        "title": "How a Heat Pump Works — The Future of Heat Pumps, International Energy Agency",
+        "url": "https://www.iea.org/reports/the-future-of-heat-pumps/how-a-heat-pump-works",
+        "access": "Full public explanatory section consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "2022; source, compressor, refrigerant and heat exchangers; delivered heat includes transferred energy and operating input"
+      }
+    ],
+    "uncertainty": "The text avoids equating the date on the exhibition’s early patent drawing with the ammonia installation chronology. The nineteenth-century original patent was not inspected; the thermodynamic explanation is general background."
+  },
+  {
+    "chapter": 23,
+    "claim": "A heat pump uses a compressor, refrigerant and heat exchangers to transfer heat to a warmer destination, with useful output comprising transferred heat plus operating input.",
+    "wiki_paths": [
+      "stories/from-winter-ice-to-heat-pumps.md",
+      "environment/industrial-heat-pump-model-boundaries.md"
+    ],
+    "sources": [
+      {
+        "title": "How a Heat Pump Works — The Future of Heat Pumps, International Energy Agency",
+        "url": "https://www.iea.org/reports/the-future-of-heat-pumps/how-a-heat-pump-works",
+        "access": "Full public explanatory section consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "2022; source, compressor, refrigerant and heat exchangers; delivered heat includes transferred energy and operating input"
+      }
+    ],
+    "uncertainty": "No household coefficient of performance is assigned to an industrial brewery. The narrative’s source/destination/timing discussion is explanatory reasoning, not a measured performance claim."
+  },
+  {
+    "chapter": 23,
+    "claim": "Padullés and colleagues built a generalized brewery reference and compared three electrification arrangements using pinch analysis, including integrated heat pumps and vapor recompression.",
+    "wiki_paths": [
+      "stories/from-winter-ice-to-heat-pumps.md",
+      "environment/industrial-heat-pump-model-boundaries.md"
+    ],
+    "sources": [
+      {
+        "title": "Generalized Electrification Solutions for Breweries: A Pinch Analysis-Based Approach to Heat Pump Integration and Process Decarbonization",
+        "url": "https://orbit.dtu.dk/en/publications/generalized-electrification-solutions-for-breweries-a-pinch-analy/",
+        "access": "Full DTU repository record and original journal abstract consulted; linked full-paper PDF returned 403; publisher abstract/highlights also checked",
+        "accessed_on": "2026-10-28",
+        "locator": "Roger Padullés et al., Energy Conversion and Management 357 (2026), 121292; doi:10.1016/j.enconman.2026.121292; generalized brewery, three electrification designs and economic comparison"
+      }
+    ],
+    "uncertainty": "Only the repository record and journal abstract/highlights were read; the linked full PDF returned 403. The work is modeling, not measured savings at every brewery. No exact energy, payback or emissions figure is claimed in the narrative."
+  },
+  {
+    "chapter": 23,
+    "claim": "The engineering study compares design performance and investment, making the layout, temperature requirements and integration of heat demands relevant to interpretation.",
+    "wiki_paths": [
+      "stories/from-winter-ice-to-heat-pumps.md",
+      "environment/industrial-heat-pump-model-boundaries.md"
+    ],
+    "sources": [
+      {
+        "title": "Generalized Electrification Solutions for Breweries: A Pinch Analysis-Based Approach to Heat Pump Integration and Process Decarbonization",
+        "url": "https://orbit.dtu.dk/en/publications/generalized-electrification-solutions-for-breweries-a-pinch-analy/",
+        "access": "Full DTU repository record and original journal abstract consulted; linked full-paper PDF returned 403; publisher abstract/highlights also checked",
+        "accessed_on": "2026-10-28",
+        "locator": "Roger Padullés et al., Energy Conversion and Management 357 (2026), 121292; doi:10.1016/j.enconman.2026.121292; generalized brewery, three electrification designs and economic comparison"
+      },
+      {
+        "title": "How a Heat Pump Works — The Future of Heat Pumps, International Energy Agency",
+        "url": "https://www.iea.org/reports/the-future-of-heat-pumps/how-a-heat-pump-works",
+        "access": "Full public explanatory section consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "2022; source, compressor, refrigerant and heat exchangers; delivered heat includes transferred energy and operating input"
+      }
+    ],
+    "uncertainty": "The manuscript does not provide a plant design or assert economic suitability for any particular brewery. Timing/storage examples are the author’s general reasoning, not a report that the abstract tested every such arrangement."
+  },
+  {
+    "chapter": 23,
+    "claim": "Emissions within a brewery are different accounting categories from purchased-energy and other supply-chain emissions.",
+    "wiki_paths": [
+      "stories/from-winter-ice-to-heat-pumps.md",
+      "environment/industrial-heat-pump-model-boundaries.md",
+      "environment/scope-1-2-3-brewing-emissions.md"
+    ],
+    "sources": [
+      {
+        "title": "Calculation Tools FAQ — Greenhouse Gas Protocol",
+        "url": "https://ghgprotocol.org/calculation-tools-faq",
+        "access": "Relevant full public guidance consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Direct/indirect emissions and Scopes 1, 2 and 3; organizational boundary and purchased energy"
+      }
+    ],
+    "uncertainty": "Scope categories do not establish the lifecycle superiority of historical ice harvesting or modern refrigeration. No numerical comparative lifecycle assessment was performed."
+  },
+  {
+    "chapter": 24,
+    "claim": "The 2017 trials produced strongly contrasting results: selected Bere lines tolerated the manganese-limited Burray site better than modern varieties, while modern varieties yielded better under favorable Dundee conditions.",
+    "wiki_paths": [
+      "stories/will-climate-change-the-pint.md",
+      "environment/bere-barley-crop-resilience.md",
+      "culture/orkney-bere-knowledge-and-revival.md"
+    ],
+    "sources": [
+      {
+        "title": "Ancient Barley Landraces Adapted to Marginal Soils Demonstrate Exceptional Tolerance to Manganese Limitation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6526322/",
+        "access": "Open full text and indexed full-text results consulted; relevant introduction, experimental methods, field results and discussion read",
+        "accessed_on": "2026-10-28",
+        "locator": "Sidsel Birkelund Schmidt et al., Annals of Botany 123 (2019), 831–843; first online 15 December 2018; doi:10.1093/aob/mcy215; 2017 Burray and Dundee trials, genotype differences"
+      }
+    ],
+    "uncertainty": "Specific selected genotypes and field conditions, not a universal superiority claim. Modern plants at Burray had largely empty ears and very low yields, not literally no grain. The trial did use fertilizer and crop protection."
+  },
+  {
+    "chapter": 24,
+    "claim": "The manganese advantage varied within Bere: one tested Bere line lacked the performance of several others; manganese availability and photosynthesis were central to the comparison.",
+    "wiki_paths": [
+      "environment/bere-barley-crop-resilience.md",
+      "culture/orkney-bere-knowledge-and-revival.md"
+    ],
+    "sources": [
+      {
+        "title": "Ancient Barley Landraces Adapted to Marginal Soils Demonstrate Exceptional Tolerance to Manganese Limitation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6526322/",
+        "access": "Open full text and indexed full-text results consulted; relevant introduction, experimental methods, field results and discussion read",
+        "accessed_on": "2026-10-28",
+        "locator": "Sidsel Birkelund Schmidt et al., Annals of Botany 123 (2019), 831–843; first online 15 December 2018; doi:10.1093/aob/mcy215; 2017 Burray and Dundee trials, genotype differences"
+      }
+    ],
+    "uncertainty": "The effect concerns a particular nutrient limitation. It does not establish general resistance to heat, drought, floods or every marginal soil, nor does it imply every Bere accession shares the trait."
+  },
+  {
+    "chapter": 24,
+    "claim": "Across five European hop regions, the 2023 study’s historical comparison found declining yields in four regions, relative stability in Žatec and declining alpha-acid content in all five.",
+    "wiki_paths": [
+      "stories/will-climate-change-the-pint.md",
+      "environment/climate-and-hop-crops.md"
+    ],
+    "sources": [
+      {
+        "title": "Climate-Induced Decline in the Quality and Quantity of European Hops Calls for Immediate Adaptation Measures",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/",
+        "access": "Open full-text results, methods and relevant discussion consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Martin Mozny et al., Nature Communications 14 (2023), 6028; doi:10.1038/s41467-023-41474-5; five regions, historical comparisons, RCP4.5 projections and adaptation discussion"
+      }
+    ],
+    "uncertainty": "The body text uses the study’s 1971–1994 and 1995–2018 comparison periods. Regional differences are retained. Alpha-acid concentration is not a complete description of aroma quality or future beer taste."
+  },
+  {
+    "chapter": 24,
+    "claim": "The hop study’s 2021–2050 projections used three climate models and RCP4.5, making them conditional future scenarios distinct from historical measurements.",
+    "wiki_paths": [
+      "stories/will-climate-change-the-pint.md",
+      "environment/climate-and-hop-crops.md"
+    ],
+    "sources": [
+      {
+        "title": "Climate-Induced Decline in the Quality and Quantity of European Hops Calls for Immediate Adaptation Measures",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10564787/",
+        "access": "Open full-text results, methods and relevant discussion consulted",
+        "accessed_on": "2026-10-28",
+        "locator": "Martin Mozny et al., Nature Communications 14 (2023), 6028; doi:10.1038/s41467-023-41474-5; five regions, historical comparisons, RCP4.5 projections and adaptation discussion"
+      }
+    ],
+    "uncertainty": "The reference projection period and assumptions matter. No prediction is presented as a scheduled event or universal global hop outcome; exact percentage ranges are omitted."
+  },
+  {
+    "chapter": 24,
+    "claim": "A 2011–2012 Washington trial of four hop cultivars found that deficit irrigation generally reduced cone yields while acid concentrations changed much less; lost revenue exceeded pumping savings under its local economics.",
+    "wiki_paths": [
+      "stories/will-climate-change-the-pint.md",
+      "environment/climate-and-hop-crops.md"
+    ],
+    "sources": [
+      {
+        "title": "Effect of Deficit Irrigation on Yield Quantity and Quality, Water Productivity and Economic Returns of Four Cultivars of Hops in the Yakima Valley, Washington State",
+        "url": "https://www.usahops.org/img/blog_pdf/87.pdf",
+        "access": "Original 11-page article PDF opened; abstract, experimental-site and treatment methods read; reported conclusions also checked in publisher indexing; not a full raw-data reanalysis",
+        "accessed_on": "2026-10-28",
+        "locator": "Prossie Nakawuka et al., Industrial Crops and Products 98 (2017), 82–92; doi:10.1016/j.indcrop.2017.01.037; 2011–2012 Prosser experiment, four cultivars, irrigation levels, cone yield, acids and local economics"
+      }
+    ],
+    "uncertainty": "Cultivar and treatment differences remain explicit. The finding is not universal irrigation advice and does not cover every aroma compound. The original trial was traced separately because an in-text reference pointer in the later hop paper was mismatched."
+  },
+  {
+    "chapter": 24,
+    "claim": "Xie and colleagues combined climate, crop and economic models to investigate extreme drought/heat impacts on barley and beer, with regionally different scenario outcomes.",
+    "wiki_paths": [
+      "stories/will-climate-change-the-pint.md",
+      "environment/climate-and-barley-supply.md"
+    ],
+    "sources": [
+      {
+        "title": "Decreases in Global Beer Supply Due to Extreme Drought and Heat — final publication record and abstract",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10071229/",
+        "access": "Full institutional record and final published abstract consulted; final abstract cross-checked with publisher indexing and PubMed; publisher final full text unavailable",
+        "accessed_on": "2026-10-28",
+        "locator": "Wei Xie et al., Nature Plants 4 (2018), 964–973; doi:10.1038/s41477-018-0263-1; linked climate/crop/economic models and regionally different scenario outcomes"
+      }
+    ],
+    "uncertainty": "Final abstract only. The text does not report a particular future year’s retail bill or treat crop loss as an identical proportional loss in every barley use."
+  },
+  {
+    "chapter": 24,
+    "claim": "The repository-linked Xie manuscript differs quantitatively from the published abstract and cannot silently substitute for final published results.",
+    "wiki_paths": [
+      "stories/will-climate-change-the-pint.md",
+      "environment/climate-and-barley-supply.md"
+    ],
+    "sources": [
+      {
+        "title": "Decreases in Global Beer Supply Due to Extreme Drought and Heat — final publication record and abstract",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10071229/",
+        "access": "Full institutional record and final published abstract consulted; final abstract cross-checked with publisher indexing and PubMed; publisher final full text unavailable",
+        "accessed_on": "2026-10-28",
+        "locator": "Wei Xie et al., Nature Plants 4 (2018), 964–973; doi:10.1038/s41477-018-0263-1; linked climate/crop/economic models and regionally different scenario outcomes"
+      },
+      {
+        "title": "Decreases in Global Beer Supply Due to Extreme Drought and Heat — repository-linked manuscript",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10071229/1/Decreases%20in%20global%20beer%20supply%20due%20to%20extreme%20drought%20and%20heat.pdf",
+        "access": "PDF opened and opening pages checked for version discrepancy; repository labels it Accepted Version, but the actual document carries a draft/do-not-circulate heading; not used as final published results",
+        "accessed_on": "2026-10-28",
+        "locator": "Opening-page draft results report 3–19% average barley losses while the final abstract reports 3–17%; other quantitative examples also differ"
+      }
+    ],
+    "uncertainty": "Version discrepancy explicitly checked: draft 3–19% versus final abstract 3–17%, with differing regional examples. No draft or final percentage is quoted in the narrative. Repository metadata does not override the document’s actual draft label."
+  },
+  {
+    "chapter": 24,
+    "claim": "Bere comprises geographically and genetically varied six-row barley lines maintained in Scottish-island farming; on-farm cultivation and stored seed conserve different connected resources.",
+    "wiki_paths": [
+      "environment/bere-barley-crop-resilience.md",
+      "culture/orkney-bere-knowledge-and-revival.md",
+      "ingredients/bere-six-row-barley.md"
+    ],
+    "sources": [
+      {
+        "title": "Back to the Future: Using Ancient Bere Barley Landraces for a Sustainable Future",
+        "url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432",
+        "access": "Open review; relevant historical, genetic, phenotyping and conservation sections read; references used to locate original studies",
+        "accessed_on": "2026-10-28",
+        "locator": "Peter Martin et al., Plants, People, Planet 7 (2025), 546–561; first online 7 September 2023; doi:10.1002/ppp3.10432; diversity, regional cultivation, on-farm and ex-situ conservation"
+      }
+    ],
+    "uncertainty": "The review is secondary synthesis and is used as such. No precise ancient arrival date, identical unbroken practice or uniform crop genome is asserted; original experimental and social studies were separately checked."
+  },
+  {
+    "chapter": 24,
+    "claim": "Cope and colleagues used hydroponic phenotyping and genetic association analysis to investigate variation in manganese-use efficiency, identifying candidate regions requiring further validation.",
+    "wiki_paths": [
+      "environment/bere-barley-crop-resilience.md",
+      "culture/orkney-bere-knowledge-and-revival.md"
+    ],
+    "sources": [
+      {
+        "title": "Assessing the Variation in Manganese Use Efficiency Traits in Scottish Barley Landrace Bere (Hordeum vulgare L.)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7380464/",
+        "access": "Indexed full-text abstract, experimental design and discussion consulted; direct PMC access returned verification screens and OUP redirect did not provide the full page",
+        "accessed_on": "2026-10-28",
+        "locator": "J. E. Cope et al., Annals of Botany 126 (2020), 289–300; doi:10.1093/aob/mcaa079; hydroponic phenotyping, genotype variation, association analysis and validation needs"
+      }
+    ],
+    "uncertainty": "Indexed full-text access, not an uninterrupted directly loaded paper. Associated genomic regions are research leads, not proven causal genes, completed breeding products or guaranteed field performance."
+  },
+  {
+    "chapter": 24,
+    "claim": "Interviews studied by Mahon and colleagues identified markets, cultural attachment, local adaptation and low-input cultivation among motives for growing Bere, with different priorities in Orkney and Shetland.",
+    "wiki_paths": [
+      "environment/bere-barley-crop-resilience.md",
+      "culture/orkney-bere-knowledge-and-revival.md"
+    ],
+    "sources": [
+      {
+        "title": "Why Bother with Bere? An Investigation into the Drivers behind the Cultivation of a Landrace Barley",
+        "url": "https://research-portal.uea.ac.uk/en/publications/why-bother-with-bere-an-investigation-into-the-drivers-behind-the/",
+        "access": "Complete institutional research record and abstract consulted; original full article and interview transcripts not inspected",
+        "accessed_on": "2026-10-28",
+        "locator": "Niamh Mahon, Shawn McGuire and Md. Mofakkarul Islam, Journal of Rural Studies 45 (2016), 54–65; doi:10.1016/j.jrurstud.2016.02.017; Orkney/Shetland interviews, four groups of motives and differences between islands"
+      }
+    ],
+    "uncertainty": "Complete original abstract, not full interviews. The book invents no quotation, participant count or universal community viewpoint; its own interpretation credits seed maintainers without speaking for them."
+  },
+  {
+    "chapter": 24,
+    "claim": "Martin and colleagues reported increasing Bere cultivation associated with Orkney milling/malting markets alongside precarious Shetland cultivation and continued mixed-landrace farming in the Outer Hebrides.",
+    "wiki_paths": [
+      "environment/bere-barley-crop-resilience.md",
+      "culture/orkney-bere-knowledge-and-revival.md"
+    ],
+    "sources": [
+      {
+        "title": "Trends, Challenges and Opportunities in the In Situ Conservation of Cereal Landraces in Scottish Islands",
+        "url": "https://pure.uhi.ac.uk/en/publications/trends-challenges-and-opportunities-in-the-in-situ-conservation-o/",
+        "access": "Complete institutional record and abstract consulted; journal DOI did not load and full article was not inspected",
+        "accessed_on": "2026-10-28",
+        "locator": "Peter Martin et al., Genetic Resources 4(7) (2023), 32–45; doi:10.46265/genresj.QGSB7051; recent cultivation trends in Orkney, Shetland and Outer Hebrides"
+      }
+    ],
+    "uncertainty": "Abstract-level historical trends from the 2023 study, not a census updated to October 2026. The chapter omits hectare counts and avoids treating Orkney’s growth as universal success."
+  },
+  {
+    "chapter": 24,
+    "claim": "The evidence supports preserving a range of seed and cultivation knowledge as options for investigation and future use, rather than presenting heritage barley as a guaranteed climate solution.",
+    "wiki_paths": [
+      "stories/will-climate-change-the-pint.md",
+      "environment/bere-barley-crop-resilience.md",
+      "culture/orkney-bere-knowledge-and-revival.md"
+    ],
+    "sources": [
+      {
+        "title": "Ancient Barley Landraces Adapted to Marginal Soils Demonstrate Exceptional Tolerance to Manganese Limitation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6526322/",
+        "access": "Open full text and indexed full-text results consulted; relevant introduction, experimental methods, field results and discussion read",
+        "accessed_on": "2026-10-28",
+        "locator": "Sidsel Birkelund Schmidt et al., Annals of Botany 123 (2019), 831–843; first online 15 December 2018; doi:10.1093/aob/mcy215; 2017 Burray and Dundee trials, genotype differences"
+      },
+      {
+        "title": "Assessing the Variation in Manganese Use Efficiency Traits in Scottish Barley Landrace Bere (Hordeum vulgare L.)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7380464/",
+        "access": "Indexed full-text abstract, experimental design and discussion consulted; direct PMC access returned verification screens and OUP redirect did not provide the full page",
+        "accessed_on": "2026-10-28",
+        "locator": "J. E. Cope et al., Annals of Botany 126 (2020), 289–300; doi:10.1093/aob/mcaa079; hydroponic phenotyping, genotype variation, association analysis and validation needs"
+      },
+      {
+        "title": "Why Bother with Bere? An Investigation into the Drivers behind the Cultivation of a Landrace Barley",
+        "url": "https://research-portal.uea.ac.uk/en/publications/why-bother-with-bere-an-investigation-into-the-drivers-behind-the/",
+        "access": "Complete institutional research record and abstract consulted; original full article and interview transcripts not inspected",
+        "accessed_on": "2026-10-28",
+        "locator": "Niamh Mahon, Shawn McGuire and Md. Mofakkarul Islam, Journal of Rural Studies 45 (2016), 54–65; doi:10.1016/j.jrurstud.2016.02.017; Orkney/Shetland interviews, four groups of motives and differences between islands"
+      },
+      {
+        "title": "Trends, Challenges and Opportunities in the In Situ Conservation of Cereal Landraces in Scottish Islands",
+        "url": "https://pure.uhi.ac.uk/en/publications/trends-challenges-and-opportunities-in-the-in-situ-conservation-o/",
+        "access": "Complete institutional record and abstract consulted; journal DOI did not load and full article was not inspected",
+        "accessed_on": "2026-10-28",
+        "locator": "Peter Martin et al., Genetic Resources 4(7) (2023), 32–45; doi:10.46265/genresj.QGSB7051; recent cultivation trends in Orkney, Shetland and Outer Hebrides"
+      }
+    ],
+    "uncertainty": "This closing connection is the book’s interpretation across distinct studies. No experiment tested the whole proposed future, no community endorsement is claimed and no general climate-resilience trait is inferred from manganese efficiency alone."
+  },
+  {
+    "chapter": 24,
+    "claim": "The Birsay Heritage Trust describes its 1998 foundation as restoring Barony Mill; the mill records Rae Phillips passing milling skills to Alister Harcus and producing beremeal for food use.",
+    "wiki_paths": [
+      "culture/orkney-bere-knowledge-and-revival.md",
+      "environment/bere-barley-crop-resilience.md"
+    ],
+    "sources": [
+      {
+        "title": "Birsay Heritage Trust, About the Trust",
+        "url": "https://birsay.org.uk/about/",
+        "access": "Full public first-party institutional account read during cross-part review",
+        "accessed_on": "2026-10-28",
+        "locator": "About the Trust; foundation in 1998 and restoration of Barony Mill"
+      },
+      {
+        "title": "Barony Mill, History and Millers",
+        "url": "https://baronymill.com/about-barony-mill/",
+        "access": "Full public practitioner history read during cross-part review",
+        "accessed_on": "2026-10-28",
+        "locator": "History and Millers: beremeal, Rae Phillips and Alister Harcus"
+      }
+    ],
+    "uncertainty": "First-party accounts support the institution and skill-transfer example. No fresh interview, visit, independent evaluation of current staffing, or community endorsement was obtained. Unsupported broader antiquity and worldwide-uniqueness claims on the sites are not adopted."
+  }
+]
