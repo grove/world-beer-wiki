@@ -1,0 +1,12 @@
+{
+  "identical": true,
+  "first_build": {
+    "100-things-beer-teaches-us.pdf": "2d1f1594a41a34f50f9e9376c106fadb40af481e99466e422b6dba18606fbaa0",
+    "100-things-beer-teaches-us.epub": "aec8ca4041128a62d7cef4de8b510b95e91dd5f0fa8d282514508615e74e01b7"
+  },
+  "second_build": {
+    "100-things-beer-teaches-us.pdf": "2d1f1594a41a34f50f9e9376c106fadb40af481e99466e422b6dba18606fbaa0",
+    "100-things-beer-teaches-us.epub": "aec8ca4041128a62d7cef4de8b510b95e91dd5f0fa8d282514508615e74e01b7"
+  },
+  "scope": "Two successive builds of the final corrected manuscript with pinned reference dependencies, bundled assets and fixed edition timestamps."
+}

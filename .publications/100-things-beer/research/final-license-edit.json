@@ -1,0 +1,10 @@
+{
+  "changes": [
+    "Preserved literal Apache clause numbers 1\u20139 and subclauses (a)\u2013(d) with Markdown escapes, avoiding automatic list renumbering in both reading editions.",
+    "Restored two punctuation spaces in source note 85."
+  ],
+  "reviewed_without_change": [
+    "Source note 91 heading contains a visible space after its number in the full-page PDF proof."
+  ],
+  "scope": "Typography and legal text fidelity; no lesson claims changed."
+}

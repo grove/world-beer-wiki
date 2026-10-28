@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-28",
+  "scope": "AI-assisted rendered-page review, not human expert approval or exhaustive print proofing.",
+  "pdf_sha256": "2d1f1594a41a34f50f9e9376c106fadb40af481e99466e422b6dba18606fbaa0",
+  "pages": 142,
+  "initial_contact_sheet_coverage": [
+    1,
+    142
+  ],
+  "initial_individual_page_images_opened": 38,
+  "initial_individual_image_resolution": "Most initial proofs were rendered at80 dpi (480×720 pixels); contact review is distinguished from opening individual images.",
+  "final_followup_pages": [
+    135,
+    136,
+    137,
+    139,
+    140,
+    141,
+    142
+  ],
+  "final_followup_resolution_dpi": 100,
+  "root_final_note_check": {
+    "pages": [
+      135,
+      136
+    ],
+    "findings": [],
+    "note": "Source note84 includes all three cited studies with bounded abstract-access wording; note85 punctuation spacing is correct. Both fit within margins and clear the footer."
+  },
+  "reports": [
+    "visual-history.json",
+    "visual-science.json",
+    "visual-culture.json",
+    "visual-culture-final.json"
+  ],
+  "remaining_visual_findings": [],
+  "excluded_from_distribution": "Temporary page PNGs/contact sheets can be regenerated from the delivered PDF; only review records are bundled."
+}

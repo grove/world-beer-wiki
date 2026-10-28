@@ -1,0 +1,38 @@
+{
+  "repository": "https://github.com/grove/world-beer-wiki",
+  "website": "https://grove.github.io/world-beer-wiki/",
+  "edition": "1.19",
+  "commit": "3b985c19a9dcccef8d334be54b5405e42093e812",
+  "retrieved_on": "2026-10-28",
+  "subject_articles": 766,
+  "section_counts": {
+    "styles": 191,
+    "ingredients": 74,
+    "categories": 54,
+    "culture": 74,
+    "calendar": 29,
+    "microbiology": 68,
+    "processes": 65,
+    "objects": 30,
+    "sensory": 42,
+    "stories": 44,
+    "history": 48,
+    "environment": 30,
+    "food": 17
+  },
+  "catalog_relationships": 2303,
+  "source_audit_records": 685,
+  "source_audit_interpretation": "Counts are catalog metadata and source reuse, not distinct publications or independent fact checking.",
+  "source_license": "Apache-2.0",
+  "upstream_notice_file_observed": false,
+  "all_subject_article_statuses": "draft",
+  "tools_run": [
+    "tools/atlas.py catalog",
+    "tools/atlas.py timeline",
+    "tools/atlas.py source-audit",
+    "tools/atlas.py progress",
+    "tools/validate_wiki.py --json",
+    "tools/atlas.py check --json"
+  ],
+  "book_boundary": "Only .publications/100-things-beer is added; canonical wiki articles and tools are unchanged."
+}

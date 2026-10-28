@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "category_guides": 54,
+    "comparison_relations": 2303,
+    "concept_files": 866,
+    "footnote_citations": 3033,
+    "ingredient_profiles": 74,
+    "local_link_occurrences": 12746,
+    "markdown_files": 884,
+    "reachable_markdown_files": 884,
+    "source_records": 732,
+    "style_profiles": 191
+  },
+  "errors": [],
+  "ok": true
+}

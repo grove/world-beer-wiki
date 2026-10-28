@@ -1,0 +1,676 @@
+{
+  "source_master": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/100-things-beer-teaches-us.md",
+  "source_master_sha256": "4f9366bd509784143a7b206525bc7df2fbb68180717fb35a2d0937270a49b82a",
+  "source_scope": "Only numbered Culture lessons 68–100, extracted from the canonical master after root style and cross-reference revisions.",
+  "date": "2026-10-28",
+  "purpose": "Final concise prose polish without new research or source changes.",
+  "count_method": "Whitespace-delimited prose tokens; excludes chapter headings and footnote markers, retaining internal-link visible text only.",
+  "before_words": 8751,
+  "after_words": 8208,
+  "words_removed": 543,
+  "lesson_count": 33,
+  "minimum_lesson_words": 237,
+  "preserved": [
+    "All numbered headings and anchors",
+    "All note references",
+    "All internal-link destinations and their sequence",
+    "Narrative examples, named attribution, dates and sample sizes",
+    "Cultural scope, uncertainty and source-access qualifications"
+  ],
+  "edits_to_master": false,
+  "lessons": [
+    {
+      "number": 68,
+      "before_words": 266,
+      "after_words": 247,
+      "words_removed": 19,
+      "changes": [
+        {
+          "before": "Place the same glass in front of a tax official, a competition judge and the person who made it. You may receive three different answers to the question, “What is this?” Each answer can be useful. Trouble begins when one is made to stand for all the others.",
+          "after": "Place the same glass before a tax official, a competition judge and its maker. You may receive three answers to “What is this?” Each can be useful. Trouble begins when one must stand for all the others."
+        },
+        {
+          "before": "Even a single government can use more than one definition.",
+          "after": "A government can use several definitions."
+        },
+        {
+          "before": "The groupings make a competition manageable; reading them as a family tree would create relationships the organizers never intended.",
+          "after": "Reading these practical groupings as a family tree would create relationships the organizers never intended."
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "before_words": 257,
+      "after_words": 240,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "A star outside a house can be a piece of public information: beer is being served here.",
+          "after": "A star outside a house can announce: beer is served here."
+        },
+        {
+          "before": "The arrangement is a small lesson in the practical workings of a commons.",
+          "after": "The arrangement shows a commons at work."
+        },
+        {
+          "before": "A beverage specification could describe the contents of a glass and miss most of what the star is organizing.",
+          "after": "A beverage specification could describe the glass's contents and miss what the star organizes."
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "before_words": 263,
+      "after_words": 246,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "One subject is bajuréa, an invitation connecting tesgüino and reciprocal work.",
+          "after": "Bajuréa connects tesgüino and reciprocal work."
+        },
+        {
+          "before": "In the narrative, preparing the maize beverage accompanies calling others to help in the fields.",
+          "after": "Preparing the maize beverage accompanies calling others to help in the fields."
+        },
+        {
+          "before": "An invitation belongs among the technologies we recognize. We readily call a plow a tool because it moves soil.",
+          "after": "We call a plow a tool because it moves soil."
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "before_words": 263,
+      "after_words": 246,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "Three geographies meet in this story. There is the geography of crops and production. There is the geography of people moving between rural and urban settings. And there is the less easily mapped geography of recognition: the places in which a person encounters familiar habits while negotiating new relationships.",
+          "after": "Three geographies meet here: crops and production; people moving between rural and urban settings; and the less easily mapped geography of recognition, where a person encounters familiar habits while negotiating new relationships."
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "before_words": 268,
+      "after_words": 255,
+      "words_removed": 13,
+      "changes": [
+        {
+          "before": "Their subjects were managing enterprises: acquiring materials, handling a product and trying to reach a market.",
+          "after": "Their subjects managed enterprises: acquiring materials, handling products and reaching markets."
+        },
+        {
+          "before": "Knowing how to make something does not automatically provide suitable premises, a reliable way to store it or money available at the moment supplies must be bought.",
+          "after": "Knowing how to make something does not provide suitable premises, reliable storage or money when supplies must be bought."
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "before_words": 250,
+      "after_words": 237,
+      "words_removed": 13,
+      "changes": [
+        {
+          "before": "One material thus moves through several relationships: household production, generosity, celebration and commerce.",
+          "after": "One material connects household production, generosity, celebration and commerce."
+        },
+        {
+          "before": "It is easy to imagine technical knowledge as information that can be separated cleanly from its carrier.",
+          "after": "Technical knowledge can seem separable from its carrier."
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "before_words": 262,
+      "after_words": 246,
+      "words_removed": 16,
+      "changes": [
+        {
+          "before": "Instructions can name an action, but an apprentice can ask why it is happening now, what the maker is noticing and how this batch compares with another.",
+          "after": "An apprentice can ask why an action is happening now, what the maker notices and how this batch compares with another."
+        },
+        {
+          "before": "A practical skill includes knowing what deserves attention. Much of that attention is easiest to teach in the presence of the thing itself.",
+          "after": "Knowing what deserves attention is easiest to teach in the presence of the thing itself."
+        },
+        {
+          "before": "A recipe can travel with astonishing speed.",
+          "after": "A recipe can travel quickly."
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "before_words": 265,
+      "after_words": 251,
+      "words_removed": 14,
+      "changes": [
+        {
+          "before": "The researchers could analyze the material they collected and compare the results.",
+          "after": "The researchers could analyze their samples and compare results."
+        },
+        {
+          "before": "Those measurements could not reveal every household's choices, settle the meaning of a ceremony or tell us how the drink's name sounded in every conversation.",
+          "after": "Those measurements could not reveal every household's choices, settle a ceremony's meaning or capture the drink's name in every conversation."
+        },
+        {
+          "before": "This is a matter of scale. Three samples can provide valuable evidence about three preparations.",
+          "after": "Three samples can provide valuable evidence about three preparations."
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "before_words": 267,
+      "after_words": 250,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "Put a bottle in a museum and you can preserve its shape, label and contents. Preserving the knowledge around it is a different undertaking.",
+          "after": "A museum can preserve a bottle's shape, label and contents. Preserving the knowledge around it is a different undertaking."
+        },
+        {
+          "before": "That range is instructive. A university laboratory and a family gathering can both sustain knowledge without teaching the same things.",
+          "after": "A university laboratory and a family gathering can sustain knowledge without teaching the same things."
+        },
+        {
+          "before": "The useful image is a network with many routes. A recipe is one item that can travel through it.",
+          "after": "Imagine a network with many routes. A recipe can travel through it."
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "before_words": 260,
+      "after_words": 242,
+      "words_removed": 18,
+      "changes": [
+        {
+          "before": "We have already met microorganisms sharing the work of fermentation. Human brewers face their own problem of coordination: several people must bring different kinds of attention to the same changing material.",
+          "after": "Microorganisms share fermentation's work. Human brewers face their own coordination problem: bringing different kinds of attention to the same changing material."
+        },
+        {
+          "before": "A list of instructions cannot, by itself, organize that workplace.",
+          "after": "Instructions alone cannot organize that workplace."
+        },
+        {
+          "before": "Expertise has a wider support system than the most accomplished individual's hands.",
+          "after": "Expertise extends beyond the most accomplished individual's hands."
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "before_words": 257,
+      "after_words": 240,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "What does a brewery intend to do with its earnings? The answer may tell us more about an institution than the beer's color ever could.",
+          "after": "What will a brewery do with its earnings? The answer may reveal more about the institution than the beer's color."
+        },
+        {
+          "before": "The relevant question concerns how production is connected to the community.",
+          "after": "What matters is production's connection to the community."
+        },
+        {
+          "before": "This separates two ideas that attractive packaging can easily blur.",
+          "after": "Attractive packaging can blur this distinction."
+        },
+        {
+          "before": "Still, they offer a clear example of purpose written into a commercial identity.",
+          "after": "They nevertheless write purpose into a commercial identity."
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "before_words": 258,
+      "after_words": 243,
+      "words_removed": 15,
+      "changes": [
+        {
+          "before": "These details connect a cup with work, movement, taste and the rhythms of a neighborhood.",
+          "after": "The cup connects work, movement, taste and neighborhood rhythms."
+        },
+        {
+          "before": "A laboratory could investigate the drink's microbes. It could not recover the route of a remembered vendor or the associations carried by a voice in the street. Those questions require other records.",
+          "after": "A laboratory could investigate the microbes, but not recover a remembered vendor's route or the associations carried by a voice in the street."
+        },
+        {
+          "before": "The association's account is one such record:",
+          "after": "The association's account supplies that cultural record:"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "before_words": 263,
+      "after_words": 245,
+      "words_removed": 18,
+      "changes": [
+        {
+          "before": "How old is a festival? The question can have several answers, depending on whether we mean a harvest observance, a public holiday or a particular organized celebration.",
+          "after": "How old is a festival? The answer depends on whether we mean a harvest observance, a public holiday or an organized celebration."
+        },
+        {
+          "before": "The name Dayak itself requires care. It is a collective term encompassing several peoples, including Iban and Bidayuh, rather than the name of one community with a single ceremonial script.",
+          "after": "Dayak is a collective term encompassing several peoples, including Iban and Bidayuh, rather than one community with a single ceremonial script."
+        },
+        {
+          "before": "There is no contradiction in a tradition acquiring a modern birthday.",
+          "after": "A tradition can acquire a modern birthday."
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "before_words": 267,
+      "after_words": 251,
+      "words_removed": 16,
+      "changes": [
+        {
+          "before": "A calendar can tell you that a year has passed. A harvest tells you something else: a crop has reached the point at which people can gather, store seed and prepare for another growing cycle.",
+          "after": "A calendar marks a year's passage. A harvest marks something else: people can gather grain, store seed and prepare for another growing cycle."
+        },
+        {
+          "before": "The distinction opens a broader view of time.",
+          "after": "Time has several rhythms."
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "before_words": 264,
+      "after_words": 246,
+      "words_removed": 18,
+      "changes": [
+        {
+          "before": "That is more interesting than either a romantic portrait of perfect community or a dismissive story about disorder. ",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "before_words": 266,
+      "after_words": 251,
+      "words_removed": 15,
+      "changes": [
+        {
+          "before": "Preservation can sound like placing something carefully beyond the reach of change. For a working craftsperson, it may mean finding enough customers to make teaching the next generation possible.",
+          "after": "Preservation can sound like keeping something beyond change. For a craftsperson, it may mean finding enough customers to make teaching possible."
+        },
+        {
+          "before": "The venture joins two concerns often placed in separate boxes: cultural transmission and earning a living.",
+          "after": "The venture joins cultural transmission with earning a living."
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "before_words": 264,
+      "after_words": 250,
+      "words_removed": 14,
+      "changes": [
+        {
+          "before": "Does a meal have to require chewing? Soup already makes the distinction between eating and drinking uncertain. Fermented foods can make it more uncertain still.",
+          "after": "Must a meal require chewing? Soup blurs the distinction between eating and drinking. Fermented foods can blur it further."
+        },
+        {
+          "before": "These accounts do not establish a shared origin. They show that the categories familiar to one reader may divide the world at different points from those useful to another.",
+          "after": "These accounts do not establish a shared origin. They show that familiar categories may divide the world differently for different readers."
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "before_words": 266,
+      "after_words": 251,
+      "words_removed": 15,
+      "changes": [
+        {
+          "before": "Not every interesting fermentation arrives with a ceremony, a rare bottle or a strong claim to antiquity.",
+          "after": "Not every fermentation involves a ceremony, a rare bottle or a claim to antiquity."
+        },
+        {
+          "before": "The researchers deliberately altered a preparation to investigate the result.",
+          "after": "The researchers deliberately altered the preparation."
+        },
+        {
+          "before": "The distinction matters because everyday foods often become visible to outsiders through laboratory work.",
+          "after": "Everyday foods often become visible to outsiders through laboratory work."
+        },
+        {
+          "before": "There is also a lesson here for the curious traveler—or reader.",
+          "after": "This also matters to travelers and readers."
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "before_words": 263,
+      "after_words": 246,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "An excavated pot can be classified by the curve of its rim. The person who used it might have recognized it first by its job, its history in a household or the occasion for which it was brought out.",
+          "after": "An excavated pot can be classified by its rim's curve. Its user might have recognized it by its job, its household history or the occasion when it was brought out."
+        },
+        {
+          "before": "The study's comparisons offer possibilities for interpretation, not a time machine.",
+          "after": "The comparisons offer possibilities, not a time machine."
+        },
+        {
+          "before": "A fuller history of the vessel combines these ways of seeing.",
+          "after": "A fuller history combines these approaches."
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "before_words": 265,
+      "after_words": 248,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "Where does making a product end? At the factory gate? When it reaches the shop? With cask-conditioned beer, the question follows the vessel into the pub cellar.",
+          "after": "Where does making a product end? At the factory gate? The shop? For cask-conditioned beer, the question continues into the pub cellar."
+        },
+        {
+          "before": "This makes cellaring a useful example of work that disappears behind a finished product's name.",
+          "after": "Cellaring is work that disappears behind a finished product's name."
+        },
+        {
+          "before": "Those claims would require evidence about particular products and places.",
+          "after": "Those claims require evidence about particular products and places."
+        },
+        {
+          "before": "The cultural point survives the qualification. ",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "before_words": 270,
+      "after_words": 255,
+      "words_removed": 15,
+      "changes": [
+        {
+          "before": "That finding makes intuitive sense without reducing taste to whim. ",
+          "after": ""
+        },
+        {
+          "before": "Expertise remains useful. It supplies vocabulary, possibilities and reasons to experiment. Its strongest form makes room for the diner to respond.",
+          "after": "Expertise supplies vocabulary, possibilities and reasons to experiment, while making room for the diner to respond."
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "before_words": 269,
+      "after_words": 254,
+      "words_removed": 15,
+      "changes": [
+        {
+          "before": "The result challenges a shortcut. Judging a drink in isolation does not necessarily tell us how it will work at a table.",
+          "after": "Judging a drink alone does not necessarily predict how it will work at a table."
+        },
+        {
+          "before": "Food can change the experience being evaluated, so a beverage dismissed in one context may deserve another look in a different one.",
+          "after": "Food can change the experience, giving a beverage dismissed alone another chance with dinner."
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "before_words": 270,
+      "after_words": 251,
+      "words_removed": 19,
+      "changes": [
+        {
+          "before": "Two vessels can contain the same liquid and participate in different events. What people say while serving them can make part of the difference.",
+          "after": "Two vessels containing the same liquid can participate in different events. What people say while serving them contributes to the difference."
+        },
+        {
+          "before": "These details turn attention from a beverage's ingredients toward the relationships expressed around it.",
+          "after": "The account shifts attention from ingredients to relationships."
+        },
+        {
+          "before": "That limitation is also a useful guide to curiosity.",
+          "after": "That limitation can guide curiosity."
+        },
+        {
+          "before": "Beer's ability to attract a scientific explanation can sometimes draw all our attention inside the vessel.",
+          "after": "Scientific explanations can draw all our attention inside the vessel."
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "before_words": 265,
+      "after_words": 248,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "An ingredient list says “barley.” It rarely says who set the purchase terms, supplied the seed or decided whether the harvest met a buyer's requirements.",
+          "after": "An ingredient list says “barley.” It rarely identifies who set purchase terms, supplied seed or judged the harvest against a buyer's requirements."
+        },
+        {
+          "before": "These are separate places and studies. Their results cannot be pooled into a claim that all Ethiopian farmers have the same contract or receive the same benefit.",
+          "after": "These separate studies cannot establish that all Ethiopian farmers have the same contract or receive the same benefit."
+        },
+        {
+          "before": "Read together, however, the accounts reveal that a supply chain has an institutional design.",
+          "after": "Together, the accounts reveal a supply chain's institutional design."
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "before_words": 272,
+      "after_words": 258,
+      "words_removed": 14,
+      "changes": [
+        {
+          "before": "A seed collection can keep the possibility of a crop alive. It cannot, by itself, ensure that anyone will grow, mill or buy the next harvest.",
+          "after": "A seed collection can keep the possibility of a crop alive. It cannot ensure anyone will grow, mill or buy the next harvest."
+        },
+        {
+          "before": "That brings difficult choices into view. ",
+          "after": ""
+        },
+        {
+          "before": "These are different reasons to keep growing the same grain, and they can reinforce one another.",
+          "after": "These different reasons to grow the grain can reinforce one another."
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "before_words": 258,
+      "after_words": 243,
+      "words_removed": 15,
+      "changes": [
+        {
+          "before": "Someone must also pay for those activities.",
+          "after": "Someone must pay."
+        },
+        {
+          "before": "The material object depends on an organized route.",
+          "after": "The object needs an organized route."
+        },
+        {
+          "before": "The environmental implications were explored in [lesson 65](#lesson-065). Here, consider the social design.",
+          "after": "[Lesson 65](#lesson-065) explored the environmental implications. Consider the social design."
+        },
+        {
+          "before": "They also help explain why a material cannot carry the entire environmental promise printed on its label.",
+          "after": "A material cannot carry the entire environmental promise on its label."
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "before_words": 272,
+      "after_words": 251,
+      "words_removed": 21,
+      "changes": [
+        {
+          "before": "More important here is the organizational possibility: many breweries could connect their own activity with a shared project, giving a common message numerous local points of visibility.",
+          "after": "Many breweries could connect their activity with a shared project, giving a common message numerous local points of visibility."
+        },
+        {
+          "before": "That is a cultural use of the networks through which beer normally circulates.",
+          "after": "The project uses beer's existing networks."
+        },
+        {
+          "before": "It does show why understanding beer culture requires more than following changes in flavor.",
+          "after": "Beer culture encompasses more than changes in flavor."
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "before_words": 268,
+      "after_words": 251,
+      "words_removed": 17,
+      "changes": [
+        {
+          "before": "Between a household kitchen and a large factory lies more than one possible way to organize production.",
+          "after": "Between household kitchen and large factory lie many ways to organize production."
+        },
+        {
+          "before": "The cooperative is particularly revealing. ",
+          "after": ""
+        },
+        {
+          "before": "Different parts of the work could change scale at different speeds.",
+          "after": "Tasks could change scale at different speeds."
+        },
+        {
+          "before": "A narrative of inevitable progress from kitchen to factory would miss the alternatives.",
+          "after": "Inevitable progress from kitchen to factory is an incomplete story."
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "before_words": 271,
+      "after_words": 256,
+      "words_removed": 15,
+      "changes": [
+        {
+          "before": "Can a cloudy grain beer remain connected to local traditions while moving through an industrial plant? The question only looks impossible if “traditional” and “industrial” have already been defined as opposites.",
+          "after": "Can a cloudy grain beer remain connected to local traditions inside an industrial plant? The question looks impossible only if “traditional” and “industrial” are defined as opposites."
+        },
+        {
+          "before": "The interesting point is that continuity can be selective.",
+          "after": "Continuity can be selective."
+        },
+        {
+          "before": "The same question arises with textiles, bread and music.",
+          "after": "Consider textiles, bread and music."
+        },
+        {
+          "before": "People continue to negotiate its meanings within changing systems.",
+          "after": "People negotiate its meanings within changing systems."
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "before_words": 274,
+      "after_words": 255,
+      "words_removed": 19,
+      "changes": [
+        {
+          "before": "This is where the word “trust” becomes concrete.",
+          "after": "“Trust” becomes concrete."
+        },
+        {
+          "before": "These are questions about adoption, distinct from demonstrating that a reaction or capture method can work.",
+          "after": "Adoption is distinct from demonstrating that a reaction or capture method works."
+        },
+        {
+          "before": "The case reveals an easily overlooked part of environmental change. ",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "before_words": 268,
+      "after_words": 252,
+      "words_removed": 16,
+      "changes": [
+        {
+          "before": "Looking only for a holiday beverage would miss the sequence that made its serving meaningful.",
+          "after": "A holiday beverage's meaning depends on this sequence."
+        },
+        {
+          "before": "The drink belongs to arrangements about who prepares, contributes and welcomes, as much as to a seasonal name.",
+          "after": "The drink involves arrangements about who prepares, contributes and welcomes, beyond a seasonal name."
+        },
+        {
+          "before": "What the account offers is a more intimate kind of calendar: an itinerary through relationships.",
+          "after": "The account offers an intimate calendar: an itinerary through relationships."
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "before_words": 273,
+      "after_words": 257,
+      "words_removed": 16,
+      "changes": [
+        {
+          "before": "Future historians will know only what survives. We can do something about what that includes.",
+          "after": "Future historians will know only what survives. We can help decide what that includes."
+        },
+        {
+          "before": "Their presence matters because a history assembled only from the biggest companies' records would ask different questions and hear different voices.",
+          "after": "A history assembled only from the biggest companies' records would ask different questions and hear different voices."
+        },
+        {
+          "before": "Those features call for careful reading rather than dismissal. They are part of understanding testimony as testimony.",
+          "after": "These features call for careful reading: understanding testimony as testimony."
+        },
+        {
+          "before": "This changes the usual image of an archive as a warehouse of the past.",
+          "after": "An archive is more than a warehouse of the past."
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "before_words": 267,
+      "after_words": 246,
+      "words_removed": 21,
+      "changes": [
+        {
+          "before": "The published project also included microbiological sampling from an earlier stage of the research, in 2015.",
+          "after": "The project also included earlier microbiological sampling, in 2015."
+        },
+        {
+          "before": "Those methods offered different views of the same locally important subject.",
+          "after": "The methods offered different views of the same subject."
+        },
+        {
+          "before": "The participants' involvement helped decide what the cultural account would attend to.",
+          "after": "Participants helped decide what the cultural account would attend to."
+        },
+        {
+          "before": "Across this book, beer and related ferments have led us toward questions that reach well beyond a glass. The final question concerns how we learn.",
+          "after": "Beer and related ferments have led us toward questions beyond a glass—including how we learn."
+        }
+      ]
+    }
+  ],
+  "review": "Removed redundant introductions, repeated explanation and unnecessary connecting phrases. No factual additions or source substitutions."
+}

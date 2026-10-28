@@ -1,0 +1,872 @@
+{
+  "section": "Part I — Beer & History",
+  "source_commit": "3b985c19a9dcccef8d334be54b5405e42093e812",
+  "research_date": "2026-10-28",
+  "status": "AI-researched and AI-edited; not independent specialist or community review",
+  "counts": {
+    "lessons": 34,
+    "prose_words": 9059,
+    "word_counts": {
+      "1": 263,
+      "2": 261,
+      "3": 252,
+      "4": 269,
+      "5": 265,
+      "6": 263,
+      "7": 262,
+      "8": 262,
+      "9": 266,
+      "10": 269,
+      "11": 269,
+      "12": 267,
+      "13": 270,
+      "14": 265,
+      "15": 266,
+      "16": 264,
+      "17": 269,
+      "18": 263,
+      "19": 263,
+      "20": 263,
+      "21": 268,
+      "22": 264,
+      "23": 266,
+      "24": 272,
+      "25": 267,
+      "26": 264,
+      "27": 275,
+      "28": 259,
+      "29": 267,
+      "30": 275,
+      "31": 274,
+      "32": 274,
+      "33": 270,
+      "34": 273
+    },
+    "unique_underlying_sources": 55,
+    "access_categories": {
+      "translated_primary_text": 1,
+      "full_text_sections": 11,
+      "abstract_and_excerpts": 5,
+      "abstract": 11,
+      "institutional_record": 24,
+      "primary_text_sections": 3
+    },
+    "inherited_only_sources": 0
+  },
+  "source_access_definition": "Underlying source reaccess means this writing agent inspected source content, sometimes only its public abstract/indexed excerpts. It does not mean independent human fact-checking, review of original archives, reproduction of laboratory work, or cover-to-cover reading of every full-text work.",
+  "sources": [
+    {
+      "title": "A hymn to Ninkasi (Ninkasi A), Sumerian literary translation",
+      "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.4.23.1",
+      "author": "Electronic Text Corpus of Sumerian Literature, University of Oxford",
+      "book_access_level": "translated_primary_text",
+      "book_access_scope": "Complete short scholarly translation inspected; tablet originals not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        1
+      ]
+    },
+    {
+      "title": "Sumerian Beer: The Origins of Brewing Technology in Ancient Mesopotamia (2012)",
+      "url": "https://cdli.earth/articles/cdlj/2012-2",
+      "author": "Peter Damerow, Cuneiform Digital Library Journal",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Open analytical article retrieved; sections on administrative evidence, terms, bappir and Ninkasi inspected.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        1,
+        6
+      ]
+    },
+    {
+      "title": "Fermented beverage and food storage in 13,000-y-old stone mortars at Raqefet Cave (2018)",
+      "url": "https://doi.org/10.1016/j.jasrep.2018.08.008",
+      "author": "Li Liu and colleagues",
+      "book_access_level": "abstract_and_excerpts",
+      "book_access_scope": "Publisher and University of Haifa/USF abstracts plus publisher introduction/conclusion excerpts independently retrieved via web search.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        2
+      ]
+    },
+    {
+      "title": "Revealing the constituents of Egypt’s oldest beer using infrared and mass spectrometry (2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6838334/",
+      "author": "Authors, Scientific Reports",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Open full article retrieved; abstract, introduction, results/discussion and conclusion passages inspected. No original spectra independently reanalysed.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        3
+      ]
+    },
+    {
+      "title": "Investigation of Ancient Egyptian Baking and Brewing Methods by Correlative Microscopy (1996)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8662535/",
+      "author": "Delwen Samuel",
+      "book_access_level": "abstract",
+      "book_access_scope": "PubMed original-study abstract inspected through indexed search; direct page presented browser check.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        3
+      ]
+    },
+    {
+      "title": "Specialized pottery and alcohol fermentation in Early Neolithic China (2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6600912/",
+      "author": "Archaeological research team",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Open full article retrieved; abstract, regional methods discussion, mastication caveat and conclusions inspected.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        4
+      ]
+    },
+    {
+      "title": "Fermented beverages of pre- and proto-historic China (2004)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC539767/",
+      "author": "Patrick E. McGovern and colleagues",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Open full article retrieved; abstract, methods and results/discussion passages inspected.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        5
+      ]
+    },
+    {
+      "title": "Revisiting Jiahu’s 9000-Year-Old Fermented Beverage: New Microfossil Evidence (2026)",
+      "url": "https://www.mdpi.com/2571-9408/9/8/335",
+      "author": "Li Liu, Yahui He, Jingpu Li, Juzhong Zhang and Wuhong Luo",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Publisher full article retrieved; abstract, introduction and relevant process-interpretation passages inspected; 21 August 2026 publication date verified.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        5
+      ]
+    },
+    {
+      "title": "Beer: Means of Compensation, Ur III tablet collection note (2024)",
+      "url": "https://cdli.earth/cdli-tablet/549",
+      "author": "Cuneiform Digital Library Initiative, Robert K. Englund and contributors",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Complete public artifact description inspected; linked tablet image/transliteration not independently interpreted.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        6
+      ]
+    },
+    {
+      "title": "Abydos Archaeology: Research and the 2022 brewery campaign",
+      "url": "https://abydos.org/about",
+      "author": "Abydos Archaeology / NYU field team",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Field-project history and 2022 brewery campaign report inspected; not a full stratigraphic report.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        7
+      ]
+    },
+    {
+      "title": "Archaeological team identifies ancient high-capacity brewery at Abydos (2021)",
+      "url": "https://www.princeton.edu/news/2021/02/16/archaeological-team-co-led-princetons-vischak-identifies-worlds-oldest-industrial",
+      "author": "Princeton University / North Abydos Project",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Full substantive 2021 report quoting excavators inspected; dimensions distinguished from 2022 update.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        7
+      ]
+    },
+    {
+      "title": "How Beer Made Kings: The Abydos Brewery and the Emergence of Kingship",
+      "url": "https://awardsearch.neh.gov/AwardDetail.aspx?gn=RFW-279510-21",
+      "author": "National Endowment for the Humanities / Matthew D. Adams",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Complete public grant proposal summary inspected; planned residue tests distinguished from completed proof.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        7
+      ]
+    },
+    {
+      "title": "Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru (2005)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1297684/",
+      "author": "Michael E. Moseley and coauthors",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Open article retrieved; brewery findings, destruction sequence, abstract, discussion and conclusion inspected.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        8
+      ]
+    },
+    {
+      "title": "Pre-Hispanic Beer in Coastal Peru: Technology and Social Context of Prehistoric Production (1989)",
+      "url": "https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1989.91.3.02a00090",
+      "author": "Jerry D. Moore",
+      "book_access_level": "abstract",
+      "book_access_scope": "Original publisher abstract retrieved via web search; full excavation paper not accessed.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        9
+      ]
+    },
+    {
+      "title": "Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production (2008)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0278416508000159",
+      "author": "Frances M. Hayashida",
+      "book_access_level": "abstract_and_excerpts",
+      "book_access_scope": "Original publisher abstract and relevant preview passages inspected via web search; full paid text not accessed.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        9
+      ]
+    },
+    {
+      "title": "Alcohol, ancestors, and the house: Exploring ritual use of beer at Kirikongo (2021)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0278416521000866",
+      "author": "Stephen A. Dueppen and Daphne Gallagher",
+      "book_access_level": "abstract_and_excerpts",
+      "book_access_scope": "Original publisher abstract, highlights, introduction and sections explicitly stating absence of direct residues/malt/intact brewery inspected via web search.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        10
+      ]
+    },
+    {
+      "title": "Archaeogenetic Evidence of Ancient Nubian Barley Evolution from Six to Two-Row Indicates Local Adaptation (2009)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2707625/",
+      "author": "Qasr Ibrim ancient-barley genetic researchers",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Open article retrieved; abstract, introductory material and relevant genotype/phenotype discussion inspected. No ancient DNA reanalysis.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        11
+      ]
+    },
+    {
+      "title": "O cauim e as beberagens dos Guarani e Tupinambá: equipamentos, técnicas de preparação e consumo (1998)",
+      "url": "https://revistas.usp.br/revmae/pt_BR/article/view/109531",
+      "author": "Francisco Silva Noelli and José Proenza Brochado",
+      "book_access_level": "abstract",
+      "book_access_scope": "Full public publisher abstract and metadata inspected; original colonial texts and full article not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        12
+      ]
+    },
+    {
+      "title": "Nojo, prazer e persistência: beber fermentado entre os Tupinambá de Olivença (2006)",
+      "url": "https://revistas.usp.br/revhistoria/pt_BR/article/view/19025",
+      "author": "Susana de Matos Viegas",
+      "book_access_level": "abstract",
+      "book_access_scope": "Full public publisher abstract inspected; full ethnography not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        12
+      ]
+    },
+    {
+      "title": "Ale, Beer, and Brewsters in England: Women’s Work in a Changing World, 1300–1600 (1996)",
+      "url": "https://academic.oup.com/book/47408",
+      "author": "Judith M. Bennett",
+      "book_access_level": "abstract",
+      "book_access_scope": "Original publisher book abstract independently retrieved via web search; complete monograph not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        13
+      ]
+    },
+    {
+      "title": "Alewives in Oxford: A History of Female Brewing",
+      "url": "https://museumofoxford.org/alewives-in-oxford-a-history-of-female-brewing/",
+      "author": "Museum of Oxford",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Public museum volunteer historical article inspected for Oxford visibility bias and trade context only; speculative witch/water-safety claims not used.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        13
+      ]
+    },
+    {
+      "title": "Working Together: Wives and Husbands in the Brewers’ Gild of London (1996)",
+      "url": "https://academic.oup.com/book/47408/chapter-abstract/422345715",
+      "author": "Judith M. Bennett",
+      "book_access_level": "abstract",
+      "book_access_scope": "Original publisher book abstract independently retrieved via web search; complete monograph not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        13
+      ]
+    },
+    {
+      "title": "Gender Rules: Women and the Regulation of Brewing (1996)",
+      "url": "https://academic.oup.com/book/47408/chapter-abstract/422345728",
+      "author": "Judith M. Bennett",
+      "book_access_level": "abstract",
+      "book_access_scope": "Original publisher book abstract independently retrieved via web search; complete monograph not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        14
+      ]
+    },
+    {
+      "title": "Consumo de alcohol y hábitos etílicos en el sur peruano, 1780–1845 (2026)",
+      "url": "https://revistadeindias.revistas.csic.es/index.php/revistadeindias/article/download/1888/2299?inline=1",
+      "author": "César Belan",
+      "book_access_level": "abstract_and_excerpts",
+      "book_access_scope": "Publisher Spanish abstract and introductory text independently retrieved via web search; publication 21 August 2026 confirmed; criminal files not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        15
+      ]
+    },
+    {
+      "title": "Producir y fiscalizar el pulque en el suroriente de la Cuenca de México, 1778–1821 (issue 2023; site posted 2025)",
+      "url": "https://revistas.inah.gob.mx/index.php/historias/article/view/22610",
+      "author": "Carlos Roberto Cruz Gómez",
+      "book_access_level": "abstract",
+      "book_access_scope": "Public INAH publisher abstract and metadata inspected; original ledgers/full article not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        16
+      ]
+    },
+    {
+      "title": "Purity Law, 1516",
+      "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/EN%3APurity_Law%2C_1516",
+      "author": "Klaus Rupprecht, Historisches Lexikon Bayerns",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Historical lexicon article retrieved; definition, older regulation, 1516 context and later terminology sections inspected.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        17
+      ]
+    },
+    {
+      "title": "Prohibition and Negotiation: Alcoholic Beverages and Taverns in Seventeenth-Century Ottoman Istanbul (2024)",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/728455",
+      "author": "Sultan Toprak Oker",
+      "book_access_level": "abstract",
+      "book_access_scope": "Original publisher abstract independently retrieved via web search; full article/court records inaccessible.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        18
+      ]
+    },
+    {
+      "title": "Status, scale and secret ingredients: retrospective invention of London porter (2008)",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/07341510801900409",
+      "author": "James Sumner",
+      "book_access_level": "abstract",
+      "book_access_scope": "Original publisher abstract independently retrieved via web search; full article not read. Author-hosted PDF located but not used.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        19
+      ]
+    },
+    {
+      "title": "Porter, the beer that came back from the dead",
+      "url": "https://learn.camra.org.uk/courses/porter-the-beer-that-came-back-from-the-dead",
+      "author": "Martyn Cornell, CAMRA",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Public introduction on porter decline and revival inspected; subscriber-only later sections not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        19
+      ]
+    },
+    {
+      "title": "John Richardson, saccharometry and the pounds-per-barrel extract: the construction of a quantity (2001)",
+      "url": "https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/john-richardson-saccharometry-and-the-poundsperbarrel-extract-the-construction-of-a-quantity/75E8354AAEDE78D92127B4F820DCC09A",
+      "author": "James Sumner",
+      "book_access_level": "abstract",
+      "book_access_scope": "Full public publisher abstract inspected; full scholarly article not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        20
+      ]
+    },
+    {
+      "title": "Tables and directions for using the saccharometer (1784)",
+      "url": "https://wellcomecollection.org/works/xzjap396",
+      "author": "John Richardson; Wellcome Collection catalogue",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Complete short catalogue record inspected; 1784 print not read.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        20
+      ]
+    },
+    {
+      "title": "Improved saccharometer, object 1954-382",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co12693/improved-saccharometer-hydrometer-saccharometer",
+      "author": "Science Museum Group Collection",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Museum object catalogue inspected; Dring and Fage and circa-1830 attribution confirmed; object not physically examined.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        20
+      ]
+    },
+    {
+      "title": "Prazdroj history: birth and spread of Pilsen lager",
+      "url": "https://www.prazdroj.cz/en/our-story/history",
+      "author": "Plzeňský Prazdroj",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Public producer chronology inspected for 1842 first-batch claim and burgher context.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        21
+      ]
+    },
+    {
+      "title": "On the Founding of Pilsner Urquell (2012)",
+      "url": "https://www.breweryhistory.com/journal/archive/149/Rail.pdf",
+      "author": "Evan Rail, Brewery History 149",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Full ten-page PDF retrieved; pages 20–23 inspected including translated 1839 appeal and criticism of 1892 commemorative history.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        21
+      ]
+    },
+    {
+      "title": "500 Years of Oasts and Hop Kilns in England (2024)",
+      "url": "https://historicengland.org.uk/whats-new/research/back-issues/500-years-of-oasts-and-hop-kilns-in-england/",
+      "author": "Patrick Grattan / Historic England",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Historic England article retrieved; kiln forms, stowage, cowls, conversion and preservation sections inspected.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        22
+      ]
+    },
+    {
+      "title": "Malt Kilns and Malthouses (2024)",
+      "url": "https://historicengland.org.uk/whats-new/research/back-issues/malt-kilns-and-malthouses/",
+      "author": "Historic England research programme",
+      "book_access_level": "full_text_sections",
+      "book_access_scope": "Historic England article retrieved; malt-house function and reuse/preservation discussion inspected.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        22
+      ]
+    },
+    {
+      "title": "The Beerhouse Act 1830, chapter 64",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/64/contents/enacted",
+      "author": "United Kingdom National Archives, legislation.gov.uk",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Official statute catalogue and original-as-enacted record inspected; scan not transcribed.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        23
+      ]
+    },
+    {
+      "title": "Sale of Beer Bill, Commons debate, 21 May 1830",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1830/may/21/sale-of-beer-bill",
+      "author": "United Kingdom Parliament, Historic Hansard",
+      "book_access_level": "primary_text_sections",
+      "book_access_scope": "Digitized debate retrieved; relevant competing speeches inspected, not used as proof of economic/health outcomes.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        23
+      ]
+    },
+    {
+      "title": "Beer garden guide: how-to beer garden",
+      "url": "https://www.munich.travel/en/topics/eat-drink/beer-garden-munich-tips",
+      "author": "Munich municipal tourism portal",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Public municipal guide inspected, especially food custom and attributed 1812 explanation; modern commercial tourism source.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        24
+      ]
+    },
+    {
+      "title": "The traditional beer gardens at the Oktoberfest and in Munich",
+      "url": "https://www.oktoberfest.de/en/magazine/eat-and-drink/the-beer-gardens-at-the-wiesn-and-in-munich",
+      "author": "Oktoberfest official city-linked festival information",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Public city-linked festival account inspected for cellars, shade, and decree explanation; no original 1812 decree examined.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        24
+      ]
+    },
+    {
+      "title": "Cool beer — all year round (April 2026)",
+      "url": "https://blog.nationalmuseum.ch/en/2026/04/cool-beer-all-year-round/",
+      "author": "Géraldine Lysser for Swiss National Museum",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Museum historical article retrieved and relevant narrative inspected: ice harvesting, transport, Linde machinery and Hurlimann 1879.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        25
+      ]
+    },
+    {
+      "title": "Export of beer from the 1860s — enabling technologies",
+      "url": "https://www.tekniskmuseum.no/en/research/export-of-oil-from-the-1860s",
+      "author": "Ingebjørg Eidhammer, Norwegian Museum of Science and Technology",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Full substantive public research overview inspected for archive base, shipping samples, ice and period 1860–1900.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        26
+      ]
+    },
+    {
+      "title": "Timeline of the Carlsberg Foundation",
+      "url": "https://www.carlsbergfondet.dk/en/about-the-foundation/our-history/timeline-of-the-foundation-s-history/",
+      "author": "Carlsberg Foundation",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Public timeline entries 1875, 1883, 1909 inspected; institutional attribution retained.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        27,
+        34
+      ]
+    },
+    {
+      "title": "Emil C. Hansen and pure culture brewing",
+      "url": "https://www.carlsberg.com/en-gb/pioneers/emil-c-hansen/",
+      "author": "Carlsberg",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Full substantive company biography inspected; 1883 and November production use attributed.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        27
+      ]
+    },
+    {
+      "title": "US Patent 468,226: Bottle-sealing device (2 February 1892)",
+      "url": "https://patents.google.com/patent/US468226A/en",
+      "author": "William Painter; United States Patent Office",
+      "book_access_level": "primary_text_sections",
+      "book_access_scope": "Patent metadata and substantive specification/claims inspected via web open/search; no independent engineering test.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        28
+      ]
+    },
+    {
+      "title": "Crown Cork & Seal corporate history",
+      "url": "https://www.crowncork.com/about/history",
+      "author": "Crown Holdings Inc.",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Producer chronology inspected for 1892 closure and later machinery/company expansion; production-speed claims not used.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        28
+      ]
+    },
+    {
+      "title": "Crown Cork and Soda Filling Machine, ASME Landmark 174",
+      "url": "https://www.asme.org/about-asme/engineering-history/landmarks/174-crown-cork-and-soda-filling-machine",
+      "author": "American Society of Mechanical Engineers",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Complete substantive engineering-landmark account inspected; no images reproduced.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        28
+      ]
+    },
+    {
+      "title": "American Beer Can with Handle, NMAH nmah_867074",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_867074",
+      "author": "Smithsonian National Museum of American History",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Full substantive object catalogue inspected; donor-note attribution distinguished from museum observation.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        29
+      ]
+    },
+    {
+      "title": "American Beer Brewing Oral History Collection, NMAH.AC.1595",
+      "url": "https://sova.si.edu/record/nmah.ac.1595",
+      "author": "Smithsonian National Museum of American History",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Collection historical orientation and scope/access notes inspected; individual interviews not accessed.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        30
+      ]
+    },
+    {
+      "title": "The Constitution: Amendments 11–27, XVIII and XXI",
+      "url": "https://www.archives.gov/founding-docs/amendments-11-27",
+      "author": "US National Archives",
+      "book_access_level": "primary_text_sections",
+      "book_access_scope": "National Archives constitutional transcript inspected, especially Amendments XVIII/XXI and ratification dates.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        31
+      ]
+    },
+    {
+      "title": "18th Amendment to the US Constitution: Primary Documents in American History",
+      "url": "https://guides.loc.gov/18th-amendment",
+      "author": "Library of Congress",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Full brief public chronology and primary-document guide inspected.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        31
+      ]
+    },
+    {
+      "title": "Prohibition and the Breweries",
+      "url": "https://www.hagley.org/research/digital-exhibits/prohibition-breweries",
+      "author": "Hagley Museum and Library",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Public museum exhibition summary inspected for brewery product adaptation only; erroneous compressed amendment-passage date not used.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        31
+      ]
+    },
+    {
+      "title": "African Americans in Distillery",
+      "url": "https://nmaahc.si.edu/explore/stories/spirits-and-wine-african-americans-distillery",
+      "author": "Smithsonian National Museum of African American History and Culture",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Museum essay Peoples Brewing section inspected, including 1970 purchase, Mack background, 1972 closure and multiple obstacles.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        32
+      ]
+    },
+    {
+      "title": "Back to the future: Using ancient Bere barley landraces for a sustainable future",
+      "url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10432",
+      "author": "Peter Martin and colleagues",
+      "book_access_level": "abstract_and_excerpts",
+      "book_access_scope": "Publisher abstract, early-history and relevant genetics passages independently retrieved via web search; direct Wiley fetch returned 403.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        33
+      ]
+    },
+    {
+      "title": "Carlsberg Research Laboratory: scientific breakthroughs",
+      "url": "https://www.carlsbergfondet.dk/en/about-the-foundation/the-carlsberg-family/carlsberg-research-laboratory/",
+      "author": "Carlsberg Foundation",
+      "book_access_level": "institutional_record",
+      "book_access_scope": "Institutional page retrieved through web open/search; establishment, Kjeldahl, Sorensen and support history inspected. Erroneous Hansen caption not used.",
+      "checked_on": "2026-10-28",
+      "underlying_source_reaccessed": true,
+      "chapters": [
+        34
+      ]
+    }
+  ],
+  "passes": [
+    {
+      "name": "structural",
+      "completed": true,
+      "actions": [
+        "34 different historical questions selected before drafting; 34 archival oral-history topic replaced with laboratory institutions to avoid Culture overlap.",
+        "Brewsters labor, inspectors resistance, fiscal governance, colonial voice and urban chicherias use distinct evidence questions.",
+        "Chapter 29 reframed from unsupported distribution inference to documented hand-soldered labor."
+      ]
+    },
+    {
+      "name": "fact_and_scope",
+      "completed": true,
+      "actions": [
+        "Checked important date/name/geography claims against original papers, publisher abstracts, institutional records and documentary transcripts.",
+        "Pilsen upgraded from inherited excerpt-only access to directly retrieved Rail PDF pages 20–23.",
+        "Abydos 2021/2022 dimensions differentiated; estimated capacity not narrated as actual output.",
+        "Kirikongo absence of direct residue/malting/intact brewery added explicitly.",
+        "Qasr Ibrim correctly located in Egyptian Nubia.",
+        "Direct-source access limits retained separately from wiki research status."
+      ]
+    },
+    {
+      "name": "cultural",
+      "completed": true,
+      "actions": [
+        "Cauim, giroba, chicha and pulque names preserved; pulque explicitly identified as agave-sap ferment, not cereal beer.",
+        "No pan-African ritual or global gender chronology; colonial source perspective distinguished from community voice.",
+        "Peoples labor/ownership distinction maintained without generalizing distillery evidence to beer."
+      ]
+    },
+    {
+      "name": "style",
+      "completed": true,
+      "actions": [
+        "Varied question, object, scene-free observation and puzzle openings.",
+        "Removed ambiguous use of dates as fruit in chapter 3.",
+        "Original explanations and implications accompany short attributed source facts; no reconstructed dialogue or extended quotation."
+      ]
+    },
+    {
+      "name": "reader_experience",
+      "completed": true,
+      "actions": [
+        "Cross-links connect Ninkasi/tablet, ancient crop/Bere and ice/Norway episodes.",
+        "Final laboratory chapter bridges into science while returning to opening hymn.",
+        "Notes average approximately 42 displayed words; complete access details kept in mapping."
+      ]
+    },
+    {
+      "name": "local_structure",
+      "completed": true,
+      "actions": [
+        "Heading/anchor sequence 001–034; one note marker and definition each; matrix titles synchronized.",
+        "Referenced wiki paths checked locally."
+      ]
+    },
+    {
+      "name": "cross_review_response",
+      "completed": true,
+      "actions": [
+        "Science agent read all 34 lessons/notes and identified no high- or medium-severity issue; this is AI cross-review, not outside expert peer review.",
+        "Chapter 22 corrected: malthouses managed steeping, germination and drying, not only post-germination grain.",
+        "Varied concluding transition cues in chapters 7, 9, 19, 22, 24 and 28.",
+        "Revalidated all 34 headings, note markers and definitions; revised prose totals 9059 words, lesson range 252–275."
+      ]
+    }
+  ],
+  "unresolved_verification_issues": [
+    {
+      "chapters": [
+        2,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "issue": "Archaeological process, ritual and adaptation interpretations are source-attributed, not independently replicated or expert-reviewed.",
+      "disposition": "Qualification retained; optional specialist review before claiming independent factual certification."
+    },
+    {
+      "chapters": [
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        33
+      ],
+      "issue": "Several arguments remain abstract/excerpt-based; full scholarly texts and original archives were not all available/read.",
+      "disposition": "Detail limited to accessible evidence; exact access levels in notes and source mapping."
+    },
+    {
+      "chapters": [
+        24
+      ],
+      "issue": "Original 1812 ordinance unexamined; civic explanation relied on.",
+      "disposition": "Explicit institutional attribution; precise original legal wording remains a future research task."
+    },
+    {
+      "chapters": [
+        27,
+        34
+      ],
+      "issue": "Carlsberg histories are institutional retrospectives; original laboratory notebooks/1909 publication not read.",
+      "disposition": "No exclusive global priority or unrecorded motives inferred."
+    },
+    {
+      "chapters": [
+        12,
+        13,
+        15,
+        16,
+        18,
+        32,
+        33
+      ],
+      "issue": "No independent community or subject-specialist review performed.",
+      "disposition": "Do not label section community-approved or independently peer-reviewed."
+    }
+  ],
+  "source_or_wiki_correction_candidates": [
+    {
+      "path": "history/qasr-ibrim-barley-ancient-dna.md",
+      "issue": "Repository geographic metadata reportedly lists Sudan; site is in Egyptian Nubia. Book uses correct location.",
+      "action_taken": "No canonical wiki file changed."
+    },
+    {
+      "source": "https://www.tekniskmuseum.no/en/research/export-of-oil-from-the-1860s",
+      "issue": "Museum overview dates Hansen purification to 1885; specific Carlsberg history dates pure culture/production use to 1883.",
+      "action_taken": "Norway chapter omits Hansen date; chapter 27 uses attributed 1883 record."
+    },
+    {
+      "source": "https://www.hagley.org/research/digital-exhibits/prohibition-breweries",
+      "issue": "Compressed exhibition text says Congress passed Eighteenth Amendment in 1920.",
+      "action_taken": "Use National Archives/Library of Congress chronology, museum only for adaptation."
+    },
+    {
+      "source": "https://www.carlsbergfondet.dk/en/about-the-foundation/the-carlsberg-family/carlsberg-research-laboratory/",
+      "issue": "Image caption gives Hansen directorship as 1842–1909, while page main text correctly gives 1879–1909.",
+      "action_taken": "Caption dates not used."
+    }
+  ],
+  "copyright": "Original prose; no external images, diagrams, or lengthy quotations reproduced. Raw retrieved source caches are scratch research material and must not be distributed with book."
+}

@@ -1,0 +1,234 @@
+{
+  "source": "Canonical manuscript at world-beer-wiki/.publications/100-things-beer/100-things-beer-teaches-us.md; lessons 35–67 only",
+  "date": "2026-10-28",
+  "output": "science-polished.md",
+  "scope": "Final prose concision and three cross-review clarifications; no new research, note changes, canonical edits or other-section edits.",
+  "word_count_method": "Visible prose only: chapter headings, footnote markers and Markdown link destinations excluded; hyphenated words and contractions counted as single tokens.",
+  "before_words": 8708,
+  "after_words": 8191,
+  "words_removed": 517,
+  "after_range": [
+    237,
+    263
+  ],
+  "changes": [
+    "Removed repetitive editorial framing and shortened wordy setup, comparisons and transitions; retained vivid examples and material study boundaries.",
+    "47: expressed titratable acidity as the base required to reach the specified endpoint.",
+    "57: expanded WSET to Wine & Spirit Education Trust.",
+    "67: specified a laboratory reactor; changed the earlier much larger comparison to another example of microbial division of labor, avoiding an unintended physical-scale implication.",
+    "53: expanded BJCP to Beer Judge Certification Program for general readers.",
+    "51 and 56: minor wording clarifications to physical conditions and water pH; no factual claims added."
+  ],
+  "validation": {
+    "canonical_science_unchanged_since_extraction": true,
+    "headings_and_anchors_unchanged": true,
+    "lessons_exactly_35_to_67": true,
+    "footnote_references_unchanged": true,
+    "one_reference_per_lesson": true,
+    "all_link_targets_unchanged": true,
+    "minimum_230_prose_words": true,
+    "trim_450_to_550_prose_words": true
+  },
+  "counts_by_lesson": [
+    {
+      "lesson": 35,
+      "before": 273,
+      "after": 260,
+      "removed": 13
+    },
+    {
+      "lesson": 36,
+      "before": 271,
+      "after": 254,
+      "removed": 17
+    },
+    {
+      "lesson": 37,
+      "before": 266,
+      "after": 253,
+      "removed": 13
+    },
+    {
+      "lesson": 38,
+      "before": 250,
+      "after": 240,
+      "removed": 10
+    },
+    {
+      "lesson": 39,
+      "before": 263,
+      "after": 247,
+      "removed": 16
+    },
+    {
+      "lesson": 40,
+      "before": 264,
+      "after": 252,
+      "removed": 12
+    },
+    {
+      "lesson": 41,
+      "before": 260,
+      "after": 249,
+      "removed": 11
+    },
+    {
+      "lesson": 42,
+      "before": 255,
+      "after": 237,
+      "removed": 18
+    },
+    {
+      "lesson": 43,
+      "before": 258,
+      "after": 242,
+      "removed": 16
+    },
+    {
+      "lesson": 44,
+      "before": 263,
+      "after": 248,
+      "removed": 15
+    },
+    {
+      "lesson": 45,
+      "before": 263,
+      "after": 244,
+      "removed": 19
+    },
+    {
+      "lesson": 46,
+      "before": 252,
+      "after": 237,
+      "removed": 15
+    },
+    {
+      "lesson": 47,
+      "before": 271,
+      "after": 243,
+      "removed": 28
+    },
+    {
+      "lesson": 48,
+      "before": 256,
+      "after": 239,
+      "removed": 17
+    },
+    {
+      "lesson": 49,
+      "before": 265,
+      "after": 253,
+      "removed": 12
+    },
+    {
+      "lesson": 50,
+      "before": 269,
+      "after": 255,
+      "removed": 14
+    },
+    {
+      "lesson": 51,
+      "before": 264,
+      "after": 248,
+      "removed": 16
+    },
+    {
+      "lesson": 52,
+      "before": 256,
+      "after": 242,
+      "removed": 14
+    },
+    {
+      "lesson": 53,
+      "before": 265,
+      "after": 249,
+      "removed": 16
+    },
+    {
+      "lesson": 54,
+      "before": 262,
+      "after": 246,
+      "removed": 16
+    },
+    {
+      "lesson": 55,
+      "before": 274,
+      "after": 260,
+      "removed": 14
+    },
+    {
+      "lesson": 56,
+      "before": 258,
+      "after": 243,
+      "removed": 15
+    },
+    {
+      "lesson": 57,
+      "before": 270,
+      "after": 253,
+      "removed": 17
+    },
+    {
+      "lesson": 58,
+      "before": 275,
+      "after": 251,
+      "removed": 24
+    },
+    {
+      "lesson": 59,
+      "before": 277,
+      "after": 263,
+      "removed": 14
+    },
+    {
+      "lesson": 60,
+      "before": 266,
+      "after": 249,
+      "removed": 17
+    },
+    {
+      "lesson": 61,
+      "before": 264,
+      "after": 247,
+      "removed": 17
+    },
+    {
+      "lesson": 62,
+      "before": 258,
+      "after": 244,
+      "removed": 14
+    },
+    {
+      "lesson": 63,
+      "before": 257,
+      "after": 242,
+      "removed": 15
+    },
+    {
+      "lesson": 64,
+      "before": 267,
+      "after": 251,
+      "removed": 16
+    },
+    {
+      "lesson": 65,
+      "before": 269,
+      "after": 254,
+      "removed": 15
+    },
+    {
+      "lesson": 66,
+      "before": 267,
+      "after": 251,
+      "removed": 16
+    },
+    {
+      "lesson": 67,
+      "before": 260,
+      "after": 245,
+      "removed": 15
+    }
+  ],
+  "source_fragment_sha256": "2fd427576f8f61099e50edf3fab9f7f81c1d3c406d83f1b57a0be57cde20b0ae",
+  "output_sha256": "05a315f3078ff3a7b1c927d43639ff1b10d541965380bcd8500759e084f78873"
+}

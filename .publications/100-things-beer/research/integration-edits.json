@@ -1,0 +1,62 @@
+{
+  "description": "Final book integration edits after section drafting and cross-review; validation.json supplies final counts.",
+  "style_edits": [
+    {
+      "old": "the next lesson follows the microbial route.",
+      "new": "the [next lesson](#lesson-036) follows the microbial route."
+    },
+    {
+      "old": "The broader lesson applies whenever one number stands in for a complicated experience. A measurement becomes more useful when we know exactly what it measures.",
+      "new": "Whenever one number stands in for a complicated experience, ask exactly what it measures."
+    },
+    {
+      "old": "Still, the wider discovery is wonderfully visible. A small quantity",
+      "new": "A small quantity"
+    },
+    {
+      "old": "Still, the change of perspective is striking. Material",
+      "new": "Material"
+    },
+    {
+      "old": "The wider lesson is about the technologies we recognize.",
+      "new": "An invitation belongs among the technologies we recognize."
+    },
+    {
+      "old": "This is a particular field study, not permission to extract every botanical detail as a universal recipe. Its broader interest lies in what circulation preserves.",
+      "new": "The study records these exchanges in particular villages. It also shows what circulation can preserve."
+    },
+    {
+      "old": "The wider relevance extends well beyond monasteries. We can ask",
+      "new": "We can ask"
+    },
+    {
+      "old": "The broader discovery is that seasonal culture need not be confined to a named festival.",
+      "new": "Seasonal culture can take shape far from a named festival."
+    },
+    {
+      "old": "The broader invitation is to ask what a food does before deciding where it belongs.",
+      "new": "Ask what a food does before deciding where it belongs."
+    },
+    {
+      "old": "A drinking vessel consequently teaches a broader archaeological habit: combine ways of seeing.",
+      "new": "A fuller history of the vessel combines these ways of seeing."
+    },
+    {
+      "old": "The broader lesson reaches beyond packaging. Circular systems",
+      "new": "Circular systems"
+    },
+    {
+      "old": "Compare this with the migrating pito bars of the previous lesson.",
+      "new": "Compare this with the migrating pito bars of the [previous lesson](#lesson-071)."
+    },
+    {
+      "old": "Its introduction remains historically uncertain.",
+      "new": "Its introduction remains [historically uncertain](#lesson-033)."
+    },
+    {
+      "old": "This is a useful counterpoint to Cerro Baúl.",
+      "new": "This is a useful counterpoint to [Cerro Baúl](#lesson-008)."
+    }
+  ],
+  "cross_reference_policy": "Existing numbered lesson references are clickable; selected adjacent and cross-part references added."
+}

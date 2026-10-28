@@ -1,0 +1,86 @@
+{
+  "reviewer": "History section agent; AI editorial cross-review, not external scientific peer review",
+  "date": "2026-10-28",
+  "files_read": [
+    "part-2.md",
+    "part-2-notes.md",
+    "science-research.json"
+  ],
+  "coverage": "All 33 Science lessons and all 33 evidence notes read. Access records considered. Focus: unsupported precision, historical/evolutionary inference, laboratory-versus-universal claims, clarity, distinctiveness and reader rhythm. Three underlying public primary/institutional sources independently reopened for spot checks; not all sources rechecked.",
+  "result": "No high- or medium-severity factual issue identified. Two minor precision/clarity edits and one optional acronym clarification recommended. None requires a chapter rewrite.",
+  "structural_validation": {
+    "numbers_35_to_67": true,
+    "anchors_match_numbers": true,
+    "exactly_one_note_reference_per_lesson": true,
+    "note_definitions_match_references": true
+  },
+  "findings": [
+    {
+      "id": "SHIST-01",
+      "lesson": 47,
+      "severity": "minor",
+      "category": "terminology and reader clarity",
+      "current_text": "The result describes the sample's acid-neutralizing demand under those conditions.",
+      "issue": "Acid-neutralizing demand can be momentarily read as capacity to neutralize added acid, the alkalinity concept later explained in lesson 56. The preceding sentence is correct; explicit wording would keep the distinction effortless. This is a wording clarification, not a claim that the passage uses the wrong test.",
+      "suggested_edit": "The result expresses how much base the sample requires to reach that endpoint.",
+      "source_url": "https://www.asbcnet.org/methods/beer-methods/beer-8-master-method",
+      "evidence": "Official ASBC public explanatory page reopened during review: Beer 8 adds a measured amount of sodium hydroxide to the test sample to an endpoint. Do not add operational quantities or procedural instructions to the book."
+    },
+    {
+      "id": "SHIST-02",
+      "lesson": 67,
+      "severity": "minor",
+      "category": "experimental scale",
+      "current_text": "A 2026 investigation by Seyedomid Ahmadinejad and colleagues followed a reactor using real brewery wastewater for 365 days.",
+      "issue": "The current text correctly limits universality but does not identify the physical scale. The opened primary protocol describes a laboratory apparatus with 0.65 L effective working volume, not a year-long whole-brewery installation. One added word prevents a large mental-picture difference.",
+      "suggested_edit": "A 2026 investigation by Seyedomid Ahmadinejad and colleagues followed a laboratory reactor using real brewery wastewater for 365 days.",
+      "source_url": "https://www.jove.com/t/70884/bioelectrochemically-enhanced-anaerobic-digestion-brewery-wastewater",
+      "evidence": "Primary JoVE abstract, feed/inoculum, reactor configuration and experimental-design sections independently inspected during cross-review. They confirm duration, use of real wastewater and a laboratory-scale system. Exact operating values need not enter the narrative."
+    },
+    {
+      "id": "SHIST-03",
+      "lesson": 57,
+      "severity": "low",
+      "category": "undefined acronym",
+      "current_text": "The WSET's malt education uses this progression to explain why gentle kilning and more intense roasting produce different sensory and functional outcomes.",
+      "issue": "WSET appears without expansion in a book assuming no prior brewing knowledge. Naming the educational organization makes the attribution useful to a general reader.",
+      "suggested_edit": "Malt education from the Wine & Spirit Education Trust uses this progression to explain why gentle kilning and more intense roasting produce different sensory and functional outcomes.",
+      "source_url": "https://www.wsetglobal.com/knowledge-centre/blog/2026/how-malt-shapes-beer",
+      "evidence": "Organization expanded for readability; underlying educational source already recorded by the Science author. This review did not reopen that page."
+    }
+  ],
+  "strengths_checked": [
+    "Yeast evolution and domestication distinguish sampled industrial populations, reconstructed ancestry and historical transport routes.",
+    "Lager hybrid ancestry is not made into proof of a transatlantic itinerary or first brewery.",
+    "Sake and tapé are connected by a biochemical problem without collapsing cultural identities or asserting common descent.",
+    "Sesotho batch-replication limits and umqombothi function-prediction limits are explicit and understandable.",
+    "Equal bitterness, titratable acidity, triangle tests, color and label expectations each pose a substantively distinct measurement question.",
+    "Light chemistry, aldehyde availability, haze, bubbles and foam remain distinct mechanisms rather than repeated flavor summaries.",
+    "The LTP1 source spot check supports the bounded heating/structure/foam explanation without a finished-beer guarantee.",
+    "Agricultural projections remain assumptions-dependent, and alpha acids are not confused with all hop aroma.",
+    "Carbon/water accounting, packaging logistics, thermal integration and digestion address different systems questions.",
+    "The manuscript contains no numerical environmental rankings presented without their model boundaries and no unsupported health or food-safety assurance."
+  ],
+  "spot_checked_sources": [
+    {
+      "url": "https://www.asbcnet.org/methods/beer-methods/beer-8-master-method",
+      "access": "Official public explanatory page and indexed freely available method excerpt inspected. No full paid standards access claimed.",
+      "lesson": 47
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40924917/",
+      "access": "Complete original research abstract inspected; heat-induced LTP1 changes and foam scope confirmed.",
+      "lesson": 52
+    },
+    {
+      "url": "https://www.jove.com/t/70884/bioelectrochemically-enhanced-anaerobic-digestion-brewery-wastewater",
+      "access": "Primary abstract and relevant protocol/design sections inspected; laboratory scale and 365-day period confirmed.",
+      "lesson": 67
+    }
+  ],
+  "unresolved_review_limits": [
+    "The Science author’s inherited-only-source and abstract-only access limitations remain; a second AI reading is not independent expert validation.",
+    "No data reanalysis, laboratory replication or exhaustive verification of all cited full texts was performed.",
+    "The above small edits can be applied during master assembly without changing evidence strength or selection."
+  ]
+}

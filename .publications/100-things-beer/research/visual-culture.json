@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-28",
+  "reviewer": "Culture agent, AI-assisted visual inspection using PDF skill",
+  "scope": "Read-only final-render inspection, pages 97–142 of the 142-page PDF; no PDF, canonical source, or build edits made.",
+  "render_directory": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/render-final",
+  "contact_sheets_inspected": [
+    {
+      "file": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/contact/contact-09.png",
+      "pages": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ]
+    },
+    {
+      "file": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/contact/contact-10.png",
+      "pages": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "file": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/contact/contact-11.png",
+      "pages": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132
+      ]
+    },
+    {
+      "file": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/contact/contact-12.png",
+      "pages": [
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ]
+    }
+  ],
+  "full_resolution_pages_inspected": [
+    97,
+    103,
+    114,
+    115,
+    116,
+    118,
+    119,
+    121,
+    133,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142
+  ],
+  "contact_only_pages": [
+    98,
+    99,
+    100,
+    101,
+    102,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    117,
+    120,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    134,
+    135
+  ],
+  "full_page_files": [
+    "page-097.png",
+    "page-103.png",
+    "page-114.png",
+    "page-115.png",
+    "page-116.png",
+    "page-118.png",
+    "page-119.png",
+    "page-121.png",
+    "page-133.png",
+    "page-136.png",
+    "page-137.png",
+    "page-138.png",
+    "page-139.png",
+    "page-140.png",
+    "page-141.png",
+    "page-142.png"
+  ],
+  "inspection_checks": [
+    "Clipping and text overlap",
+    "Broken or missing glyphs",
+    "Headings separated from their text",
+    "Unexpected page spill or blank pages",
+    "Note-link label visibility and contrast",
+    "Section transitions and footer clearance",
+    "Appendix label fidelity after a visual anomaly was observed"
+  ],
+  "overall_status": "One blocking production-fidelity finding in Apache appendix numbering; two minor note-spacing observations. Culture narrative, afterword, methodology and notes show no clipping, overlap, missing glyphs or unintended blank pages in the inspected images.",
+  "findings": [
+    {
+      "id": "VIS-CULT-01",
+      "severity": "blocking",
+      "pages": [
+        140,
+        141,
+        142
+      ],
+      "category": "Appendix source fidelity / numbering",
+      "finding": "Markdown ordered-list rendering changes Apache License 2.0 clause labels. Copyright Grant renders 1 instead of 2; Patent Grant 2 instead of 3; Redistribution 3 instead of 4. Its original (a)–(d) subclauses render 1–4. Submission renders 1 instead of 5; Trademarks 2 instead of 6; Disclaimer 3 instead of 7; Liability 4 instead of 8; Acceptance 5 instead of 9.",
+      "evidence": "Observed in full page PNGs 140–142 and compared with the local repository LICENSE, particularly lines 131–166 for clauses 5–9. Page 139 correctly begins Definitions as 1.",
+      "recommendation": "Render license clause labels literally rather than as auto-numbered Markdown lists; preserve source letters and numbers. Rerender and inspect affected appendix pages before acceptance.",
+      "reported_to_parent": true
+    },
+    {
+      "id": "VIS-CULT-02",
+      "severity": "minor",
+      "pages": [
+        136
+      ],
+      "category": "Spacing",
+      "finding": "Note 85 visually lacks a space after the semicolon before 2015 and after the comma before 2016 in its publication-timing sentence. Text remains legible.",
+      "recommendation": "Normalize the two punctuation spaces if making a final content rebuild.",
+      "reported_to_parent": true
+    },
+    {
+      "id": "VIS-CULT-03",
+      "severity": "minor",
+      "pages": [
+        137
+      ],
+      "category": "Spacing",
+      "finding": "Note 91 heading visually places the numeral punctuation directly against Farmer (91.Farmer). Other note headings have a separating space.",
+      "recommendation": "Add the missing heading space if confirmed in the note source.",
+      "reported_to_parent": true
+    }
+  ],
+  "positive_findings": [
+    "Culture lessons retain consistent heading hierarchy, color, margins and readable body setting; the sampled lesson endings clear the footer.",
+    "Accented text including skagenröra and Villalpando Quiñonez, curly punctuation, superscript note markers, subscript CO₂ and note-return arrows render without missing-glyph boxes in inspected full pages.",
+    "Lesson 100 occupies page 114 cleanly; afterword begins on 115 and continues with full paragraphs on 116.",
+    "Methodology begins on 118 and continues cleanly on 119; bold review-limit statement is legible.",
+    "Notes on 121, 133 and 136–138 have distinct linked headings and readable source labels without clipped lines.",
+    "No empty pages observed on contact sheets 97–142. Partial pages 116, 119 and 138 are ordinary section endings, followed by intentionally new sections."
+  ],
+  "limitations": [
+    "Thirty pages were assessed only at contact-sheet scale; this is not a full-resolution reading of every page.",
+    "Visual link readability was assessed; click-target functionality was not tested in this pass.",
+    "This report covers the supplied render and must be superseded or supplemented after correcting the appendix numbering."
+  ]
+}

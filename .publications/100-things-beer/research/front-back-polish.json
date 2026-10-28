@@ -1,0 +1,37 @@
+{
+  "words_removed": 119,
+  "edits": [
+    {
+      "before": "This book follows a hundred of those roads. Its subject is the wider world that becomes visible when we pay attention to fermentation.",
+      "after": "This book follows a hundred of those roads."
+    },
+    {
+      "before": "The discoveries here are often small enough to hold in your hand. A closure can reveal a changing distribution system. A ration tablet can show what an administrator needed to record. Three tasting glasses can explain why detecting a difference and preferring one sample are separate scientific questions. Sometimes the wider lesson is startling; sometimes it is the pleasure of realizing that an ordinary object has been complicated all along.",
+      "after": "The discoveries here are often small enough to hold. A bottle closure can reveal a distribution system; a ration tablet can show what an administrator needed to record. Three tasting glasses can explain why detecting a difference and preferring a sample are separate scientific questions."
+    },
+    {
+      "before": "There is also pleasure in a good correction. An ancient poem can tell us about brewing without functioning as a recipe. A famous origin story can dissolve into the slower, more interesting history of institutions and equipment. The next analytical method can make an old archaeological sample answer a new question. Uncertainty is part of these stories because discovery depends on it. Researchers have to distinguish what they measured from what they inferred, and what remains beyond the evidence.",
+      "after": "There is pleasure in a good correction. An ancient poem can tell us about brewing without functioning as a recipe. A famous origin story can give way to the slower history of institutions and equipment. A new analytical method can make an old sample answer a new question. Discovery depends on distinguishing what researchers measured, what they inferred, and what remains beyond the evidence."
+    },
+    {
+      "before": "Every lesson has a linked evidence note. These notes identify the relevant wiki articles and the principal underlying sources, including qualifications that would interrupt the narrative if repeated in every sentence. A publisher's abstract is described as an abstract. A museum's account is attributed to the museum. A field study stays attached to the people and places it actually studied. The production files provide a fuller source-to-chapter map for future corrections.",
+      "after": "Every lesson has a linked evidence note identifying wiki articles, underlying sources, and qualifications that would interrupt the narrative if repeated in every sentence. An abstract is described as an abstract; a museum's account is attributed to the museum. Field studies stay attached to their actual people and places. A fuller source-to-chapter map supports future corrections."
+    },
+    {
+      "before": "You need not love beer to enjoy the questions. You do not need to drink it at all.",
+      "after": "You need not love or drink beer to enjoy the questions."
+    },
+    {
+      "before": "For future maintenance, the production bundle includes a machine-readable source-to-chapter map, the frozen source commit, per-source access records, rebuild scripts, and an issue list. Researchers can strengthen a chapter without needing to reconstruct how its evidence was selected. The readable wiki links lead to the evolving site; the frozen commit identifies the evidence corpus used for this edition.",
+      "after": "A source-to-chapter map, access records, rebuild scripts, and an issue list support future maintenance. Wiki links lead to the evolving site; the recorded commit identifies this edition's frozen research corpus. Editors can strengthen a chapter while preserving how its evidence was selected."
+    },
+    {
+      "before": "The original prose, editorial assembly, and cover were prepared with AI assistance. Responsibility for future publication choices, corrections, and licensing remains with the book's publisher and authorized rights holders.",
+      "after": "Future publication choices, corrections, and licensing remain the responsibility of the publisher and authorized rights holders."
+    },
+    {
+      "before": "Those questions travel well. They work in a laboratory and at a dinner table, in an archive and in a field. They can make room for better evidence, a more accurate history, or a voice previously missing from the account.",
+      "after": "Those questions travel between laboratories and dinner tables, archives and fields. They make room for better evidence, more accurate histories, and voices previously missing from the account."
+    }
+  ]
+}
