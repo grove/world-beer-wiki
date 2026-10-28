@@ -1,0 +1,18 @@
+{
+  "lesson": 12,
+  "reason": "Remove a three-line continuation while preserving attribution, colonial-source limitations and the final insight.",
+  "edits": [
+    {
+      "before": "An old description can be vivid, detailed, and deeply misleading about the people it describes. Colonial records require readers to hold all three possibilities at once.",
+      "after": "A colonial description can be vivid, detailed, and deeply misleading about the people it describes."
+    },
+    {
+      "before": "Written descriptions and vessels could illuminate different parts of the same broad subject, without becoming equivalent witnesses.",
+      "after": "Texts and vessels illuminate different aspects without becoming equivalent witnesses."
+    },
+    {
+      "before": "Compare sources carefully: whose voice is present, whose mediated, and whose missing?\n\nHistory becomes more accurate",
+      "after": "Compare sources carefully: whose voice is present, whose mediated, and whose missing? History becomes more accurate"
+    }
+  ]
+}

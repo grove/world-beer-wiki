@@ -1,0 +1,23 @@
+{
+  "counts": {
+    "calendar": 29,
+    "calendar_records": 29,
+    "categories": 54,
+    "culture": 74,
+    "environment": 30,
+    "evidence_bearing_relations": 101,
+    "food": 17,
+    "history": 48,
+    "ingredients": 74,
+    "microbiology": 68,
+    "objects": 30,
+    "processes": 65,
+    "sensory": 42,
+    "stories": 44,
+    "styles": 191,
+    "subject_articles": 766,
+    "work_items": 124
+  },
+  "errors": [],
+  "ok": true
+}

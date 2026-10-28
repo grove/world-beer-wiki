@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-28",
+  "reviewer": "Culture agent, AI-assisted read-only final visual QA",
+  "status": "PASS — all previously reported visual findings resolved in the inspected corrected pages.",
+  "supersedes_findings_in": "book-work/visual-culture.json",
+  "full_resolution_pages_inspected": [
+    139,
+    140,
+    141,
+    142,
+    136,
+    137
+  ],
+  "inspected_images": [
+    {
+      "page": 139,
+      "file": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/render-final/page-139.png",
+      "dpi": 100,
+      "source": "Corrected appendix render supplied by root"
+    },
+    {
+      "page": 140,
+      "file": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/render-final/page-140.png",
+      "dpi": 100,
+      "source": "Corrected appendix render supplied by root"
+    },
+    {
+      "page": 141,
+      "file": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/render-final/page-141.png",
+      "dpi": 100,
+      "source": "Corrected appendix render supplied by root"
+    },
+    {
+      "page": 142,
+      "file": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/.build/render-final/page-142.png",
+      "dpi": 100,
+      "source": "Corrected appendix render supplied by root"
+    },
+    {
+      "page": 136,
+      "file": "/workspace/scratch/f1f4a1517520/book-work/visual-final-notes/page-136.png",
+      "dpi": 100,
+      "source": "Fresh read-only rendering of current PDF; existing render-final note PNGs predated the corrected PDF"
+    },
+    {
+      "page": 137,
+      "file": "/workspace/scratch/f1f4a1517520/book-work/visual-final-notes/page-137.png",
+      "dpi": 100,
+      "source": "Fresh read-only rendering of current PDF; existing render-final note PNGs predated the corrected PDF"
+    }
+  ],
+  "previous_findings": [
+    {
+      "id": "VIS-CULT-01",
+      "status": "resolved",
+      "verification": "Full images show Definitions 1; Copyright Grant 2; Patent Grant 3; Redistribution 4 with literal (a)–(d) labels; Submission 5; Trademarks 6; Disclaimer 7; Liability 8; Acceptance 9.",
+      "page_locations": {
+        "139": [
+          "1"
+        ],
+        "140": [
+          "2",
+          "3",
+          "4",
+          "(a)",
+          "(b)",
+          "(c)"
+        ],
+        "141": [
+          "(d)",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "142": [
+          "9"
+        ]
+      },
+      "layout": "All labels and surrounding paragraphs are legible, within margins, and clear of the footers. Continuations across pages are normal body-text continuations.",
+      "scope_note": "This pass visually checked clause labels and layout. Root separately reports complete license-text equivalence with the source after whitespace and smart-quote normalization."
+    },
+    {
+      "id": "VIS-CULT-02",
+      "status": "resolved",
+      "verification": "Fresh page 136 shows normal spaces in note 85 after the semicolon before 2015 and after the comma before 2016.",
+      "page": 136
+    },
+    {
+      "id": "VIS-CULT-03",
+      "status": "resolved / not present in current rendering",
+      "verification": "Fresh page 137 shows the heading “91. The Farmer Is in the Glass” with a normal visible space after the numeral punctuation.",
+      "page": 137
+    }
+  ],
+  "remaining_visual_findings": [],
+  "clean_checks": [
+    "No clipped or overlapping text on the six corrected/rechecked full pages",
+    "No missing-glyph boxes or malformed clause labels",
+    "Readable note-link labels and return arrows on 136–137",
+    "No orphan section headings",
+    "No unintended blank page or overflow beyond the 142-page structure"
+  ],
+  "limits": [
+    "This follow-up covers the six listed pages; the earlier report documents the wider contact-sheet and full-page sampling.",
+    "Visual readability does not by itself verify link click targets.",
+    "Subsequent production revisions should retain the corrected typography."
+  ],
+  "edits_to_book_files": false,
+  "new_files_written": [
+    "book-work/visual-final-notes/page-136.png",
+    "book-work/visual-final-notes/page-137.png",
+    "book-work/visual-culture-final.json"
+  ]
+}

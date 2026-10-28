@@ -1,0 +1,271 @@
+{
+  "source": "/workspace/scratch/f1f4a1517520/world-beer-wiki/.publications/100-things-beer/100-things-beer-teaches-us.md",
+  "output": "history-polished.md",
+  "scope": "Numbered lessons 1–34 only; excludes part introduction and notes definitions. No source, master or other section files edited.",
+  "word_count_method": "Lesson prose only; headings and note markers excluded; Markdown links counted as visible label text; contractions and hyphenated compounds treated as one word.",
+  "before": 9059,
+  "after": 8523,
+  "removed": 536,
+  "lesson_counts": [
+    {
+      "lesson": 1,
+      "before": 263,
+      "after": 248,
+      "removed": 15,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 2,
+      "before": 261,
+      "after": 243,
+      "removed": 18,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 3,
+      "before": 252,
+      "after": 246,
+      "removed": 6,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 4,
+      "before": 269,
+      "after": 250,
+      "removed": 19,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 5,
+      "before": 265,
+      "after": 249,
+      "removed": 16,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 6,
+      "before": 263,
+      "after": 252,
+      "removed": 11,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 7,
+      "before": 262,
+      "after": 251,
+      "removed": 11,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 8,
+      "before": 262,
+      "after": 247,
+      "removed": 15,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 9,
+      "before": 266,
+      "after": 253,
+      "removed": 13,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 10,
+      "before": 269,
+      "after": 255,
+      "removed": 14,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 11,
+      "before": 269,
+      "after": 246,
+      "removed": 23,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 12,
+      "before": 267,
+      "after": 250,
+      "removed": 17,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 13,
+      "before": 270,
+      "after": 253,
+      "removed": 17,
+      "revised_passages": 1
+    },
+    {
+      "lesson": 14,
+      "before": 265,
+      "after": 253,
+      "removed": 12,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 15,
+      "before": 266,
+      "after": 253,
+      "removed": 13,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 16,
+      "before": 264,
+      "after": 249,
+      "removed": 15,
+      "revised_passages": 1
+    },
+    {
+      "lesson": 17,
+      "before": 269,
+      "after": 244,
+      "removed": 25,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 18,
+      "before": 263,
+      "after": 248,
+      "removed": 15,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 19,
+      "before": 263,
+      "after": 248,
+      "removed": 15,
+      "revised_passages": 1
+    },
+    {
+      "lesson": 20,
+      "before": 263,
+      "after": 252,
+      "removed": 11,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 21,
+      "before": 268,
+      "after": 252,
+      "removed": 16,
+      "revised_passages": 5
+    },
+    {
+      "lesson": 22,
+      "before": 264,
+      "after": 252,
+      "removed": 12,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 23,
+      "before": 266,
+      "after": 253,
+      "removed": 13,
+      "revised_passages": 1
+    },
+    {
+      "lesson": 24,
+      "before": 272,
+      "after": 257,
+      "removed": 15,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 25,
+      "before": 267,
+      "after": 251,
+      "removed": 16,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 26,
+      "before": 264,
+      "after": 252,
+      "removed": 12,
+      "revised_passages": 1
+    },
+    {
+      "lesson": 27,
+      "before": 275,
+      "after": 253,
+      "removed": 22,
+      "revised_passages": 5
+    },
+    {
+      "lesson": 28,
+      "before": 259,
+      "after": 244,
+      "removed": 15,
+      "revised_passages": 2
+    },
+    {
+      "lesson": 29,
+      "before": 267,
+      "after": 256,
+      "removed": 11,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 30,
+      "before": 275,
+      "after": 253,
+      "removed": 22,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 31,
+      "before": 274,
+      "after": 255,
+      "removed": 19,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 32,
+      "before": 274,
+      "after": 250,
+      "removed": 24,
+      "revised_passages": 4
+    },
+    {
+      "lesson": 33,
+      "before": 270,
+      "after": 252,
+      "removed": 18,
+      "revised_passages": 3
+    },
+    {
+      "lesson": 34,
+      "before": 273,
+      "after": 253,
+      "removed": 20,
+      "revised_passages": 2
+    }
+  ],
+  "editorial_changes": [
+    "Compressed repeated transitions and explanations while retaining historical examples, dates and distinct discoveries.",
+    "Preserved all evidence/access qualifications, archaeological-versus-documentary distinctions and geographic/cultural boundaries.",
+    "Retained all titles, anchors, note markers and internal links verbatim.",
+    "Kept narrative openings, occasional humor and concrete closing images.",
+    "A second comparison restored small modal/causal qualifiers where compression could subtly strengthen an interpretation."
+  ],
+  "checks": {
+    "exactly_34_lessons": true,
+    "numbers_1_to_34": true,
+    "titles_and_anchors_unchanged": true,
+    "note_markers_unchanged": true,
+    "internal_links_unchanged": true,
+    "every_lesson_over_230_words": true,
+    "no_part_intro": true,
+    "numeric_date_and_quantity_values_retained": true,
+    "final_comparative_style_read": true
+  },
+  "minimum_lesson_words": 243,
+  "maximum_lesson_words": 257,
+  "input_sha256": "4f9366bd509784143a7b206525bc7df2fbb68180717fb35a2d0937270a49b82a",
+  "output_sha256": "bec76226c9e4c34d853a6d99041257e80625d5b78dff0b943e82ab3accee1962"
+}

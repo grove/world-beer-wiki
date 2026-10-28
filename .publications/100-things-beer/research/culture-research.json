@@ -1,0 +1,770 @@
+{
+  "research_date": "2026-10-28",
+  "source_commit": "3b985c19a9dcccef8d334be54b5405e42093e812",
+  "part": "III",
+  "lesson_range": [
+    68,
+    100
+  ],
+  "lesson_count": 33,
+  "prose_word_counts": {
+    "68": 266,
+    "69": 257,
+    "70": 264,
+    "71": 263,
+    "72": 268,
+    "73": 260,
+    "74": 262,
+    "75": 265,
+    "76": 267,
+    "77": 260,
+    "78": 264,
+    "79": 263,
+    "80": 263,
+    "81": 267,
+    "82": 264,
+    "83": 266,
+    "84": 269,
+    "85": 266,
+    "86": 265,
+    "87": 265,
+    "88": 270,
+    "89": 269,
+    "90": 270,
+    "91": 265,
+    "92": 272,
+    "93": 264,
+    "94": 272,
+    "95": 268,
+    "96": 271,
+    "97": 274,
+    "98": 268,
+    "99": 273,
+    "100": 267
+  },
+  "prose_words": 8787,
+  "used_sources": [
+    {
+      "source_id": "culture-ttb",
+      "title": "Beer and Malt Beverages",
+      "author": "US Alcohol and Tobacco Tax and Trade Bureau",
+      "year": "2026 page update",
+      "url": "https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/beer-and-malt-beverage-definitions",
+      "lessons": [
+        68
+      ],
+      "access_level": "Direct full public HTML",
+      "claims_supported": "Definitions of beer under IRC and malt beverage under FAA Act; not legal advice.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-bjcp",
+      "title": "Introduction to the 2021 Guidelines",
+      "author": "Beer Judge Certification Program",
+      "year": "2021 edition",
+      "url": "https://www.bjcp.org/beer-styles/introduction-to-the-2021-guidelines/",
+      "lessons": [
+        68
+      ],
+      "access_level": "Direct public HTML; introductory classification sections read",
+      "claims_supported": "Purpose and non-genealogical character of judging categories.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-zoigl",
+      "title": "Oberpfälzer Zoiglkultur",
+      "author": "Deutsche UNESCO-Kommission",
+      "year": "2018 national inscription",
+      "url": "https://www.unesco.de/staette/oberpfaelzer-zoiglkultur/",
+      "lessons": [
+        69
+      ],
+      "access_level": "Direct full German institutional HTML; no independent translation review",
+      "claims_supported": "Communal brewhouse finance, household serving rotation, star, calendar, knowledge exchange and digital information.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-tesguino",
+      "title": "El saber colectivo del tesgüino rarámuri: una mirada lingüística a Norogachi",
+      "author": "Jesús Villalpando Quiñonez; Alberta Espino Romero (narration); Regina Espino Moreno (translation and checking)",
+      "year": "2023",
+      "url": "https://revistas-filologicas.unam.mx/tlalocan/index.php/tl/article/download/602/666/1172",
+      "lessons": [
+        70
+      ],
+      "access_level": "Direct journal issue PDF, parsed text; article attribution and pp.195–197 material inspected",
+      "claims_supported": "Named Norogachi narrative, bajuréa, field-work invitation, kórima distinction; no audio or independent community verification.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-pito-bars",
+      "title": "Drinking pito: conviviality, popular culture and changing agricultural production at the rural–urban interface in Brong Ahafo, Ghana",
+      "author": "Isidore Lobnibe",
+      "year": "2018 print; online 2016",
+      "url": "https://doi.org/10.1080/19376812.2016.1253489",
+      "lessons": [
+        71
+      ],
+      "access_level": "Publisher-indexed abstract inspected through web search; direct publisher HTTP 403",
+      "claims_supported": "Two-bar focus, migration and interethnic identity; no extrapolation to all Ghana.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-pito-enterprise",
+      "title": "Modeling the Determinants in Pito Brewing of Small-Scale Enterprising in Ghana",
+      "author": "Aliata Issahaq Mumuni; Musah Dumah; Hawa Awuro Sam",
+      "year": "2023",
+      "url": "https://iiste.org/Journals/index.php/EJBM/article/view/61484",
+      "lessons": [
+        72
+      ],
+      "access_level": "Direct full journal abstract and metadata; article PDF not read",
+      "claims_supported": "Purposive sample of 362 women in 8 Upper West communities; reported finance, packaging, storage challenges; no causal claims.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-epop",
+      "title": "ÉPOP (traditional starter culture): a complex composition of plant resources prepared by the Misings of Assam, Northeast India",
+      "author": "Rajiv Mili; R. C. Sundriyal",
+      "year": "2023",
+      "url": "https://doi.org/10.1186/s42779-023-00214-2",
+      "lessons": [
+        73
+      ],
+      "access_level": "Direct open article; methods, plant inventory and socioeconomic sections inspected",
+      "claims_supported": "15-village survey/two in-depth villages;31-species inventory; starter sharing, festive offering and surplus sales. Health/safety assertions excluded.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-sahti",
+      "title": "Where did it all start? / Lammin Sahti history",
+      "author": "Lammin Sahti",
+      "year": "undated account, accessed 2026",
+      "url": "https://www.sahti.fi/en/historiaa",
+      "lessons": [
+        74
+      ],
+      "access_level": "Direct full producer HTML",
+      "claims_supported": "Late 1960s named apprenticeship, mother-to-son-to-neighbor chain, education and 1985 company; attributed business history.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-assam",
+      "title": "Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in southern Assam, Northeast India",
+      "author": "Hanna Yumnam; Parijat Hazarika; Indu Sharma",
+      "year": "2024",
+      "url": "https://doi.org/10.3389/fmicb.2024.1410098",
+      "lessons": [
+        75
+      ],
+      "access_level": "Direct open article; methods and naming tables inspected",
+      "claims_supported": "15 samples/three per cohort; exact beverage names; Zao/Zou discrepancy retained. No health claims.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-belgium",
+      "title": "Beer culture in Belgium",
+      "author": "UNESCO Intangible Cultural Heritage",
+      "year": "2016 inscription",
+      "url": "https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062",
+      "lessons": [
+        76
+      ],
+      "access_level": "Direct full inscription description",
+      "claims_supported": "Transmission through homes, social circles and education; making/appreciating/food context.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-korea-proposal",
+      "title": "Makgeolli making and sharing to become National Intangible Cultural Heritage",
+      "author": "Cultural Heritage Administration, Republic of Korea",
+      "year": "13 April 2021",
+      "url": "https://www.korea.net/Government/Briefing-Room/Press-Releases/view?articleId=79106&insttCode=A260203&type=N",
+      "lessons": [
+        76
+      ],
+      "access_level": "Government release indexed full text via web search; proposal specifically distinguished from final designation",
+      "claims_supported": "Rationale includes making/sharing and popular heritage without named individual holders; proposal not evidence of final date by itself.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-korea-confirmation",
+      "title": "Korean Heritage, Autumn 2022, volume 58, pp. 24–25: traditional alcoholic beverages and makgeolli heritage",
+      "author": "Cultural Heritage Administration, Republic of Korea",
+      "year": "2022",
+      "url": "https://www.koreanheritage.kr/resource/issue/58/title.pdf?v=13",
+      "lessons": [
+        76
+      ],
+      "access_level": "Institutional magazine indexed excerpt inspected; direct PDF HTTP 503",
+      "claims_supported": "Confirms makgeolli national heritage designation in June 2021 and civic initiative; not UNESCO inscription.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-sake",
+      "title": "Traditional knowledge and skills of sake-making with koji mold in Japan",
+      "author": "UNESCO Intangible Cultural Heritage",
+      "year": "2024 inscription",
+      "url": "https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977",
+      "lessons": [
+        77
+      ],
+      "access_level": "Direct full public inscription description",
+      "claims_supported": "Toji/kurabito roles, apprenticeship, teamwork, unions and wider farming connections.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-trappist",
+      "title": "Criteria for obtaining the ATP label",
+      "author": "International Trappist Association",
+      "year": "current public criteria accessed 2026",
+      "url": "https://www.trappist.be/en/about-ita/atp-label/",
+      "lessons": [
+        78
+      ],
+      "access_level": "Direct full public institutional HTML",
+      "claims_supported": "Place, supervision, purpose of profits and non-beer product scope; no audit of producers.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-boza",
+      "title": "Bozacılar",
+      "author": "İstanbul Esnaf ve Sanatkarlar Odaları Birliği",
+      "year": "2019 account",
+      "url": "https://www.istesob.org.tr/bozacilar/",
+      "lessons": [
+        79
+      ],
+      "access_level": "Direct full Turkish artisan-association text; no independent translation review",
+      "claims_supported": "Cold-season sellers, street calls, cinnamon/leblebi accompaniment; remote origins and Ottoman numerical claims omitted.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-gawai",
+      "title": "Gawai Dayak Festival",
+      "author": "Tourism Malaysia",
+      "year": "7 May 2008",
+      "url": "https://www.tourism.gov.my/media/view/gawai-dayak-festival",
+      "lessons": [
+        80
+      ],
+      "access_level": "Direct full government tourism account",
+      "claims_supported": "1964 gazetting, first official 1965 celebration, collective Dayak term and tuak preparation; no ritual script reproduced.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-paiwan",
+      "title": "Paiwan: customs, millet harvest and Five-Year Ritual",
+      "author": "Taiwan Council of Indigenous Peoples",
+      "year": "public profile accessed 2026",
+      "url": "https://www.cip.gov.tw/en/tribe/grid-list/E8D1B17F6A81D678D0636733C6861689/info.html?cumid=D0636733C6861689",
+      "lessons": [
+        81
+      ],
+      "access_level": "Direct English agency text; agriculture/ritual distinctions inspected",
+      "claims_supported": "Masalut and specific Vuculj Five-Year Ritual separated; no restricted choreography reproduced.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-yaminahua",
+      "title": "Becoming Other, Becoming a Relative: The Masato Feasts among Yaminahua (Peruvian Amazon)",
+      "author": "Laura Pérez Gil; Miguel Carid Naveira",
+      "year": "2013",
+      "url": "https://doi.org/10.5209/rev_REAA.2013.v43.n1.42318",
+      "lessons": [
+        82
+      ],
+      "access_level": "Publisher-indexed abstract inspected; direct page redirect loop",
+      "claims_supported": "Dispersed households, gatherings, joy/generosity and tension; no invented scene or full ethnography claim.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-stieng",
+      "title": "'Can' winemaking, a unique traditional craft of the S’Tieng people",
+      "author": "Vietnam News Agency / VietnamPlus",
+      "year": "3 January 2022",
+      "url": "https://en.vietnamplus.vn/can-winemaking-a-unique-traditional-craft-of-the-stieng-people-post232176.vnp",
+      "lessons": [
+        83
+      ],
+      "access_level": "Direct full news-agency text (gzip decoded); named maker statements inspected",
+      "claims_supported": "Dieu Thi Xia cooperative goals and craft transmission; claims attributed to report, no income audit.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-cauim",
+      "title": "Microbial population present in fermented beverage 'cauim' produced by Brazilian Amerindians",
+      "author": "E. G. Almeida; C. C. T. C. Rachid; R. F. Schwan",
+      "year": "2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17888538/",
+      "lessons": [
+        84
+      ],
+      "access_level": "PubMed/publisher-indexed abstract inspected; direct PubMed browser check",
+      "claims_supported": "Tapirapé Tapi’itãwa cauim as household food; no child feeding, health or safety advice.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-shamita",
+      "title": "Microbiology of the Fermentation of Shamita, a Traditional Ethiopian Fermented Beverage",
+      "author": "Ketema Bacha; Tetemke Mehari; Mogessie Ashenafi",
+      "year": "1999 issue; posted online 2023",
+      "url": "https://ejol.aau.edu.et/index.php/SINET/article/view/6829",
+      "lessons": [
+        84
+      ],
+      "access_level": "Direct journal abstract and indexed abstract inspected",
+      "claims_supported": "Roasted-barley preparation and meal-replacement use; no universal nutritional adequacy claim.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-kunun",
+      "title": "Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun zaki) produced from millet",
+      "author": "Olusegun A. Olaoye; Stella C. Ubbor; Ebere A. Uduma",
+      "year": "2015 online;2016 issue",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/",
+      "lessons": [
+        85
+      ],
+      "access_level": "Direct open article; abstract, introduction and experimental design inspected",
+      "claims_supported": "Everyday seasonal/background context and deliberately fortified tigernut experimental product; medical/infant-feeding claims excluded.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-manyika",
+      "title": "Nyanga pottery and the Manyika ethnohistory: towards a decolonised archaeology of the Nyanga agricultural complex",
+      "author": "Robert T. Nyamushosho",
+      "year": "2021",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8035510/",
+      "lessons": [
+        86
+      ],
+      "access_level": "Publisher/PMC indexed abstract and sections 4.1–4.2 inspected; direct DOI unavailable",
+      "claims_supported": "Pottery lifecycle, hari dzedoro, mhamba/magada distinction; no equation of contemporary use and ancient function.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-camra",
+      "title": "What is cask-conditioned ale?",
+      "author": "CAMRA",
+      "year": "public educational text accessed 2026",
+      "url": "https://members.camra.org.uk/learn-discover/the-basics/what-is-cask-conditioned-ale/",
+      "lessons": [
+        87
+      ],
+      "access_level": "Direct full public consumer-organization text",
+      "claims_supported": "Live yeast, maturation after brewery dispatch and role of handling; advocacy source, no operating instructions.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-expert-pairing",
+      "title": "From expert knowledge and sensory science to a general model of food and beverage pairing with wine and beer",
+      "author": "Study authors",
+      "year": "2019",
+      "url": "https://doi.org/10.1016/j.ijgfs.2019.100144",
+      "lessons": [
+        88
+      ],
+      "access_level": "Publisher-indexed abstract and selected body sections inspected; direct page unavailable",
+      "claims_supported": "10 sommeliers/10 beer experts; explanation interviews. Abstract says 15 principles, body excerpt 18; numerical claim omitted.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-cheese",
+      "title": "An investigation of matches of bottom fermented red beers with cheeses",
+      "author": "G. Donadini; M. D. Fumi; I. R. Newby-Clark",
+      "year": "2015",
+      "url": "https://doi.org/10.1016/j.foodres.2014.11.004",
+      "lessons": [
+        88
+      ],
+      "access_level": "Publisher-indexed abstract and methods/discussion excerpts inspected",
+      "claims_supported": "96 consumers,8 beers,7 cheeses,56 pairings; heterogeneous liking; initials used without inventing expanded names.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-na-pairing",
+      "title": "Paired with responsibility: Non-alcoholic beers are less liked when tasted alone but perform just as well as alcoholic beers in food pairing",
+      "author": "H. Scander; J. Swahn; I. Baptista",
+      "year": "2026",
+      "url": "https://doi.org/10.1016/j.ijgfs.2026.101536",
+      "lessons": [
+        89
+      ],
+      "access_level": "Publisher-indexed abstract and institutional dataset description inspected",
+      "claims_supported": "Three alcoholic/nonalcoholic pairs with one shrimp dish; no significant difference not equivalence; health inferences excluded.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-na-data",
+      "title": "Data for: Paired with responsibility: Non-alcoholic beers are less liked when tasted alone but perform just as well as in food pairing",
+      "author": "Study dataset deposited in Swedish research-data catalogue",
+      "year": "2026",
+      "url": "https://researchdata.se/en/catalogue/dataset/2025-378",
+      "lessons": [
+        89
+      ],
+      "access_level": "Primary dataset record indexed description inspected; numerical raw data not reanalyzed",
+      "claims_supported": "66 participants, November 2025 Grythyttan collection, tasted alone then with skagenröra.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-aludi",
+      "title": "Georgian Aludi",
+      "author": "Georgian National Tourism Administration / Georgia Travel",
+      "year": "public cultural account accessed 2026",
+      "url": "https://georgia.travel/georgian-beer-aludi",
+      "lessons": [
+        90
+      ],
+      "access_level": "Direct full English institutional account",
+      "claims_supported": "Highland aludi, elder prayer, festive/mourning contexts; not generalized to all Georgian homes.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-arsi",
+      "title": "Economics of contracts in African food systems: evidence from the malt barley sector in Ethiopia",
+      "author": "Delelegne A. Tefera; Jos Bijman",
+      "year": "2021",
+      "url": "https://doi.org/10.1186/s40100-021-00198-0",
+      "lessons": [
+        91
+      ],
+      "access_level": "Direct open article; abstract, setting and analytical scope inspected",
+      "claims_supported": "Arsi cross-sectional contracting study; adjusted associations, no universal causality.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-estie",
+      "title": "Value chain analysis of malt barley in North western part of Ethiopia",
+      "author": "Metadel Kassaw; Akalu Teshome; Essa Chanie; Yonnas Addis",
+      "year": "2021",
+      "url": "https://doi.org/10.1080/23311886.2021.1980260",
+      "lessons": [
+        91
+      ],
+      "access_level": "Publisher-indexed full-text sections and PDF excerpt inspected; direct HTTP 403",
+      "claims_supported": "Estie cooperative/malt factory chain, unwritten trust coordination and farmer bargaining position; source economics not independently recalculated.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-bere",
+      "title": "Back to the future: Using ancient Bere barley landraces for a sustainable future",
+      "author": "Peter Martin and colleagues",
+      "year": "2025 issue; online 2023",
+      "url": "https://doi.org/10.1002/ppp3.10432",
+      "lessons": [
+        92
+      ],
+      "access_level": "Publisher-indexed review abstract and sections 3.1–3.1.2 inspected; institutional repository metadata inspected; direct publisher 403",
+      "claims_supported": "Orkney revival, food/beverage markets, lower yield/higher price, supply chains; ancient introduction left uncertain.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-reuse-law",
+      "title": "Regulation (EU) 2025/40 on packaging and packaging waste",
+      "author": "European Parliament and Council",
+      "year": "2025",
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng",
+      "lessons": [
+        93
+      ],
+      "access_level": "Official EUR-Lex indexed text including Article 51 and official summary inspected; direct 202 empty response",
+      "claims_supported": "Reuse as an organized system and distinction from recycling; no operator-specific compliance guidance or future target claim.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-baskerville",
+      "title": "Baskerville, Marcus: oral-history catalog record",
+      "author": "Smithsonian National Museum of American History",
+      "year": "interview 22 June 2021",
+      "url": "https://www.si.edu/object/archives/components/sova-nmah-ac-1595-ref8",
+      "lessons": [
+        94
+      ],
+      "access_level": "Direct full archival catalog description; recording/transcript not accessed",
+      "claims_supported": "Weathered Souls, racial underrepresentation topic, social-media links and Black Is Beautiful; no invented quote, current count or financial audit.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-vietnam",
+      "title": "Traditional alcohol production and use in three provinces in Vietnam: an ethnographic exploration of health benefits and risks",
+      "author": "Bich Ngoc Luu; Thi Thieng Nguyen; Ian M. Newman",
+      "year": "2014",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4223524/",
+      "lessons": [
+        95
+      ],
+      "access_level": "Direct open article; methods and distribution/economic sections inspected",
+      "claims_supported": "Four distribution arrangements, Quang Binh cooperative pooling/refining/bottling; perceived health beliefs excluded.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-chibuku",
+      "title": "Process improvement of opaque beer (chibuku) based on multivariate cumulative sum control chart",
+      "author": "Mawonike and colleagues",
+      "year": "2018 issue; online 2017",
+      "url": "https://doi.org/10.1002/jib.466",
+      "lessons": [
+        96
+      ],
+      "access_level": "Publisher-indexed abstract, introduction and conclusion inspected; direct 403",
+      "claims_supported": "Industrial opaque beer with staged control; no commercial origin/production-volume claims or rural authenticity test.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-co2",
+      "title": "Valorisation of Carbon Dioxide from Fermentation in Craft Brewing: Potential Technologies, Brewer Interviews, and Implication for a ‘Three-Level Valorisation System’",
+      "author": "Théo Grand; David Jenkins; Dawn Maskell; Shiwen Zhuang",
+      "year": "2025 issue; online 2024",
+      "url": "https://doi.org/10.1080/03610470.2024.2417133",
+      "lessons": [
+        97
+      ],
+      "access_level": "Publisher-indexed methods, interviews, proposal and conclusion inspected; direct 403",
+      "claims_supported": "15 contacted/5 respondents in Rhône-Alpes; adoption concerns, conceptual shared network; no installed system or net-zero inference.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-norway",
+      "title": "Julefeiring i det gamle bondesamfunnet",
+      "author": "Anne Kristin Moe, Norsk Folkemuseum",
+      "year": "museum interpretation accessed 2026",
+      "url": "https://norskfolkemuseum.no/julefeiring-i-det-gamle-bondesamfunnt",
+      "lessons": [
+        98
+      ],
+      "access_level": "Direct full Norwegian museum essay; no independent translation review",
+      "claims_supported": "Shared bowl, Christmas Day visiting prohibition, second-day visits and varied gathering economics; historical regional customs.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-norway-origins",
+      "title": "Den norske julefeiringens opprinnelse",
+      "author": "Anne Kristin Moe, Norsk Folkemuseum",
+      "year": "museum interpretation accessed 2026",
+      "url": "https://norskfolkemuseum.no/den-norske-julefeiringens-opprinnelse",
+      "lessons": [
+        98
+      ],
+      "access_level": "Direct Norwegian museum essay consulted for source limits",
+      "claims_supported": "Sparse early evidence and changing Christmas practices; no continuous ancient recipe.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-oral",
+      "title": "American Beer Brewing Oral History Collection,2017–2023",
+      "author": "Smithsonian National Museum of American History",
+      "year": "2017–2023 collection",
+      "url": "https://sova.si.edu/record/nmah.ac.1595",
+      "lessons": [
+        99
+      ],
+      "access_level": "Direct full finding aid; collection scope/70 interviews/topics/rights inspected; recordings not accessed",
+      "claims_supported": "Archive creation, selected voices and collection extent; not demographic census or transcript quotations.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-shawi",
+      "title": "Cultural Values and the Coliform Bacterial Load of “Masato,” an Amazon Indigenous Beverage",
+      "author": "Alejandra Bussalleu and colleagues, with participating Shawi community",
+      "year": "2020",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719114/",
+      "lessons": [
+        100
+      ],
+      "access_level": "Direct open article; participatory methods, timing, results/context inspected",
+      "claims_supported": "2015 sampling, 2017 photographs, community priorities and 2018 validation; one community; no photographs reproduced or safety claim.",
+      "accessed_on": "2026-10-28",
+      "new_external_inspection": true
+    },
+    {
+      "source_id": "culture-cauim-yeasts",
+      "title": "Yeast diversity in rice–cassava fermentations produced by the indigenous Tapirapé people of Brazil",
+      "author": "Rosane F. Schwan; Euziclei G. Almeida; Maria Aparecida G. Souza-Dias; Lene Jespersen",
+      "year": "2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17697080/",
+      "access_level": "PubMed indexed abstract inspected during final source-coverage review; no full-text or underlying-data review claimed",
+      "claims_supported": "Tapi’itãwa Tapirapé setting, rice/cassava study preparation and reported staple-food context; no nutritional or safety endorsement.",
+      "new_external_inspection": true,
+      "accessed_on": "2026-10-28",
+      "lessons": [
+        84
+      ]
+    }
+  ],
+  "source_access_note": "New external inspection means this authoring pass accessed public original or institutional material separately from wiki prose. It does not mean independent human fact-checking, peer review, field verification, or full-document access where a record says indexed excerpt. Raw fetched materials are scratch research only and must not be bundled with deliverables.",
+  "unresolved_issues": [
+    {
+      "id": "C-PAIR-01",
+      "lessons": [
+        88
+      ],
+      "status": "source inconsistency quarantined from prose",
+      "issue": "Expert-pairing paper abstract reports 15 principles; indexed body section reports 18. No count used in manuscript. Full PDF/supplement comparison required to resolve.",
+      "source": "https://doi.org/10.1016/j.ijgfs.2019.100144"
+    },
+    {
+      "id": "C-NAME-01",
+      "lessons": [
+        75
+      ],
+      "status": "explicitly preserved",
+      "issue": "2024 Assam source alternates Zao and Zou. Book does not resolve spelling; community/local-language review needed.",
+      "source": "https://doi.org/10.3389/fmicb.2024.1410098"
+    },
+    {
+      "id": "C-TRANS-01",
+      "lessons": [
+        69,
+        70,
+        79,
+        98
+      ],
+      "status": "independent review not performed",
+      "issue": "German, Spanish and Norwegian/Turkish material was interpreted by AI; no independent language or community review."
+    },
+    {
+      "id": "C-ACCESS-01",
+      "lessons": [
+        71,
+        82,
+        84,
+        88,
+        89,
+        91,
+        92,
+        93,
+        96,
+        97
+      ],
+      "status": "access bounded in notes and source records",
+      "issue": "Some publisher material inspected only as indexed abstracts/excerpts, not complete paper PDFs. No full-document review claimed."
+    },
+    {
+      "id": "C-HERITAGE-01",
+      "lessons": [
+        76
+      ],
+      "status": "corroborated with explicit chronology",
+      "issue": "Original wiki June 2021 government URL redirect loop; independently inspected April proposal and 2022 institutional magazine indexed confirmation. Full PDF access to magazine returned 503."
+    },
+    {
+      "id": "C-REVIEW-01",
+      "lessons": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "status": "outstanding",
+      "issue": "No independent community, native-language, historian, economic-methods or scientific specialist approval. Book is not described as independently reviewed."
+    }
+  ],
+  "revision_passes": [
+    {
+      "pass": "structural",
+      "status": "completed AI editorial pass",
+      "detail": "33 distinct social mechanisms; overlap agreed with history/science agents; cross-links to36 and65."
+    },
+    {
+      "pass": "fact checking",
+      "status": "completed bounded AI source pass",
+      "detail": "Checked exact source titles, dates, names, samples and main claims within recorded access. Corrected initially overexpanded cheese-study author names to source initials before delivery. No numerical outcome extrapolations."
+    },
+    {
+      "pass": "cultural sensitivity",
+      "status": "completed AI editorial pass; community review outstanding",
+      "detail": "Maintained named peoples, narrator/translator roles, national versus UNESCO distinction, spirit and food-drink identities, one-community scopes, consent limits. No ritual instructions, photos or medical claims."
+    },
+    {
+      "pass": "style",
+      "status": "completed AI self-edit",
+      "detail": "Varied openings; original prose; no fabricated scenes or quotes. Formal caveats concentrated in notes where possible."
+    },
+    {
+      "pass": "reader experience",
+      "status": "completed AI self-edit",
+      "detail": "From naming/social institutions through craft, seasons, meals, markets and voice; participatory research closes section."
+    },
+    {
+      "pass": "structural production",
+      "status": "completed section check; parent owns whole-book production",
+      "detail": "Numbers68–100 sequential; one note reference and one definition each; source links and wiki paths checked locally; no PDF/EPUB validation claimed by section author."
+    }
+  ],
+  "final_source_coverage_resolution": {
+    "lesson": 84,
+    "issue": "Second 2007 cauim study named in prose was absent from note and source map.",
+    "resolution": "Root and section researchers inspected Schwan et al.’s original indexed abstract and added its citation, mapped source and explicit abstract-only access record. Lesson prose unchanged."
+  }
+}

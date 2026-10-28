@@ -1,0 +1,65 @@
+{
+  "reviewer": "science section agent; AI editorial cross-review, not external expert review",
+  "date": "2026-10-28",
+  "files_read": [
+    "part-1.md",
+    "part-1-notes.md"
+  ],
+  "coverage": "All 34 lessons and all 34 notes read. Focus: scientific mechanisms, causal language, historical versus reconstructed evidence, dates and source attribution, repeated structure. Existing evidence access records were considered; the reviewer did not independently reopen every historical source.",
+  "result": "No high- or medium-severity factual issue identified. One minor technical clarification and one optional section-wide style revision recommended.",
+  "structural_validation": {
+    "numbers_1_to_34": true,
+    "exactly_one_note_reference_per_lesson": true,
+    "note_definitions_match_references": true
+  },
+  "findings": [
+    {
+      "id": "HSCI-01",
+      "lesson": 22,
+      "severity": "minor",
+      "category": "scientific precision",
+      "issue": "The sentence about malthouses describes only the post-germination handling of grain. A malthouse also housed steeping and germination; the narrower post-germination description belongs to its kiln. This wording appears inherited from the wiki comparison and should be sharpened.",
+      "current_text": "Malthouses make a useful comparison. They handled grain after germination, rather than freshly harvested hop cones.",
+      "suggested_edit": "Malthouses make a useful comparison. They managed grain through steeping, germination and drying, rather than processing freshly harvested hop cones.",
+      "evidence": "Amber Patrick, Historic England, Malt Kilns and Malthouses (24 May 2024), independently opened during this cross-review. How Malt is made and Malthouses and kilns from the 18th century onwards describe steeping cisterns, germination floors, kilns and storage.",
+      "source_url": "https://historicengland.org.uk/whats-new/research/back-issues/malt-kilns-and-malthouses/"
+    },
+    {
+      "id": "HSCI-02",
+      "lesson": 28,
+      "related_lessons": [
+        7,
+        9,
+        19,
+        20,
+        22,
+        24,
+        29
+      ],
+      "severity": "low",
+      "category": "style and reader rhythm",
+      "issue": "Several lessons announce their concluding generalization with the broader lesson/discovery, wider lesson/insight, or The lesson is not. The underlying insights are distinct, but the repeated editorial cue makes the section feel more formulaic. Vary a few transitions; retain the necessary source-specific qualifications.",
+      "current_text": "The broader lesson is useful whenever a technology is assigned one birthday. We should distinguish the legal record, the working design, manufacturing, and adoption. An exact date is valuable only when we are exact about what it dates.",
+      "suggested_edit": "A technology can have several birthdays: the legal record, the working design, manufacturing, and adoption. An exact date is valuable only when we are exact about what it dates.",
+      "additional_example": {
+        "lesson": 24,
+        "current_text": "The lesson is not that every outdoor drinking place shares Munich's origin. It is that customs often have institutional biographies.",
+        "suggested_edit": "Other outdoor drinking places have different histories. Customs have institutional biographies, and Munich's is especially visible in its picnic baskets."
+      }
+    }
+  ],
+  "strengths_checked": [
+    "Archaeological residue, reconstruction and historical taste are consistently distinguished.",
+    "Jiahu reanalysis does not become a settled universal recipe or lineage claim.",
+    "Qasr Ibrim genotype and observed morphology remain distinct; crop evidence is not presented as direct brewing evidence.",
+    "Industrial changes are not assigned universal instant adoption dates.",
+    "Mechanical cooling is framed as changing environmental dependence rather than eliminating energy or resource constraints.",
+    "Hansen pure cultures do not imply that earlier brewers lacked knowledge or that mixed fermentation is inferior.",
+    "Kjeldahl and pH contributions are placed in a broader scientific history without priority overclaim.",
+    "Prohibition, ownership and gender histories preserve multicausal and geographical limits."
+  ],
+  "unresolved_review_limits": [
+    "The history author's recorded access limitations still apply: abstracts and modern institutional accounts do not substitute for full monographs, original archival records or community review.",
+    "This cross-review found no reason to strengthen any claim beyond the qualifications already present. It is not a claim of independent historical peer review."
+  ]
+}

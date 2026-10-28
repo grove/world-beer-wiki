@@ -1,0 +1,550 @@
+{
+  "section": "Part II — Beer & Science",
+  "lessons": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67
+  ],
+  "research_date": "2026-10-28",
+  "repository_commit": "3b985c19a9dcccef8d334be54b5405e42093e812",
+  "review_status": "AI-authored and source-checked synthesis; not independently reviewed by a scientist or community representative.",
+  "sources": [
+    {
+      "id": "acid",
+      "title": "ASBC, “Beer 8: Total Acidity as Titratable Acidity,” public method explanation",
+      "url": "https://www.asbcnet.org/methods/beer-methods/beer-8-master-method",
+      "access": "Official public page opened; titration, weak acids and acid-equivalent reporting sections inspected. Full proprietary method not accessed.",
+      "claims_supported": "Titratable acidity and reporting equivalents; not identification of a single acid.",
+      "chapters": [
+        47
+      ]
+    },
+    {
+      "id": "aldehydes",
+      "title": "Maia and Cook, “Binding of Staling Aldehydes to the Beer Matrix” (online 2025; issue 2026)",
+      "url": "https://doi.org/10.1080/03610470.2025.2585548",
+      "access": "Publisher abstract/introduction and University of Nottingham research record independently inspected.",
+      "claims_supported": "Three concentrated freeze-dried/reconstituted lager matrices; unresolved binding sites; not a bottle shelf-life trial.",
+      "chapters": [
+        49
+      ]
+    },
+    {
+      "id": "aromas",
+      "title": "“The molecular biology of fruity and floral aromas in beer” (2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30445501/",
+      "access": "Complete primary abstract and indexed full introduction independently inspected through PubMed and PMC search results.",
+      "claims_supported": "Distinct routes to fruity/floral descriptors; aroma words do not uniquely identify ingredients.",
+      "chapters": [
+        44
+      ]
+    },
+    {
+      "id": "bitter",
+      "title": "Higgins and Hayes, “Discrimination of Isointense Bitter Stimuli in a Beer Model System” (2020)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32471227/",
+      "access": "Complete indexed primary abstract independently inspected, including design, samples, sensory outcomes and no detected preference differences.",
+      "claims_supported": "Intensity matching, discrimination and preference are distinct outcomes in a nonalcoholic beer model.",
+      "chapters": [
+        46
+      ]
+    },
+    {
+      "id": "bubbles",
+      "title": "Liger-Belair and Cilindre, “How Many CO2 Bubbles in a Glass of Beer?” (2021)",
+      "url": "https://doi.org/10.1021/acsomega.1c00256",
+      "access": "Publisher primary abstract and bibliographic record independently inspected.",
+      "claims_supported": "One commercial lager plus nucleation model; glass and gas conditions govern estimates.",
+      "chapters": [
+        51
+      ]
+    },
+    {
+      "id": "climate",
+      "title": "“Climate-induced decline in the quality and quantity of European hops calls for immediate adaptation measures” (2023)",
+      "url": "https://www.nature.com/articles/s41467-023-41474-5",
+      "access": "Publisher-indexed abstract and substantial results/discussion inspected, including region-specific differences and projection assumptions.",
+      "claims_supported": "European observed phenology/yield/alpha chemistry and bounded projections.",
+      "chapters": [
+        61
+      ]
+    },
+    {
+      "id": "color",
+      "title": "BJCP, “Color Guide: Technical Background”",
+      "url": "https://www.bjcp.org/education-training/education-resources/color-guide/",
+      "access": "Official HTML retrieved and technical background independently inspected through search; 430 nm and visual/path-length qualifications checked.",
+      "claims_supported": "Standardized SRM measurement compared with viewing conditions.",
+      "chapters": [
+        53
+      ]
+    },
+    {
+      "id": "crabtree",
+      "title": "Goddard and Greig, “Saccharomyces cerevisiae: a nomadic yeast with no niche?” (2015)",
+      "url": "https://academic.oup.com/femsyr/article/15/3/fov009/545611",
+      "access": "Publisher-indexed full Crabtree-effect section inspected. Evolutionary advantages treated as hypotheses.",
+      "claims_supported": "Sugar-rich aerobic ethanol production; energy/competition trade-offs and proposed adaptations.",
+      "chapters": [
+        37
+      ]
+    },
+    {
+      "id": "culture1977",
+      "title": "Cronk et al., “Indonesian Tapé Ketan Fermentation” (1977)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC170828/",
+      "access": "Primary paper abstract independently retrieved through web search; full scanned paper not inspected.",
+      "claims_supported": "Selected mold/yeast model, steamed rice substrate and measured biochemical changes; not a field census.",
+      "chapters": [
+        36
+      ]
+    },
+    {
+      "id": "digester",
+      "title": "Ahmadinejad et al., “Bioelectrochemically Enhanced Anaerobic Digestion of Brewery Wastewater at Ambient Temperature” (2026)",
+      "url": "https://doi.org/10.3791/70884",
+      "access": "Publisher abstract, introduction and discussion excerpts independently inspected.",
+      "claims_supported": "365-day real-wastewater reactor and studied outcomes; no discharge certification or universal economic claim.",
+      "chapters": [
+        67
+      ]
+    },
+    {
+      "id": "disulfide",
+      "title": "Kishimoto et al., “Presence of Disulfide-Bonded Thiols in Malt and Hops as the Precursors of Thiols in Beer” (2022)",
+      "url": "https://doi.org/10.1021/acs.jafc.2c06099",
+      "access": "Publisher and National Research Institute of Brewing abstracts independently inspected.",
+      "claims_supported": "Bound thiol reservoirs, analytical reduction and fermentation comparisons in tested material.",
+      "chapters": [
+        45
+      ]
+    },
+    {
+      "id": "domestic",
+      "title": "Gallone et al., “Domestication and Divergence of Saccharomyces cerevisiae Beer Yeasts” (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5018251/",
+      "access": "Indexed full abstract, introduction, results and discussion inspected; original data not reanalyzed.",
+      "claims_supported": "157 industrial strains, selection patterns and context-dependent domestication trade-offs.",
+      "chapters": [
+        38
+      ]
+    },
+    {
+      "id": "enzymes",
+      "title": "Cai et al., “Enzyme Activities Shape Malting Quality Standards” (2025)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11717045/",
+      "access": "Indexed abstract and selected full-text passages independently retrieved through web search; no experiment replicated.",
+      "claims_supported": "Enzyme development and reserve mobilization during germination.",
+      "chapters": [
+        35,
+        57,
+        62
+      ]
+    },
+    {
+      "id": "esters",
+      "title": "“Mechanisms of production and control of acetate esters in yeasts” (2023)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37607842/",
+      "access": "Primary review abstract independently retrieved and inspected.",
+      "claims_supported": "Acetate ester synthesis from acetyl-CoA and alcohol, enzyme regulation and precursor context.",
+      "chapters": [
+        44
+      ]
+    },
+    {
+      "id": "expect",
+      "title": "Blackmore, Hidrio and Yeomans, “How sensory and hedonic expectations shape perceived properties of regular and non-alcoholic beer” (2022)",
+      "url": "https://doi.org/10.1016/j.foodqual.2022.104562",
+      "access": "Publisher abstract, highlights and indexed design/discussion/competing-interest passages inspected.",
+      "claims_supported": "87 regular beer drinkers; manipulated cues, specific sensory/liking outcomes and statistical mediation.",
+      "chapters": [
+        55
+      ]
+    },
+    {
+      "id": "floc",
+      "title": "Vidgren and Londesborough, “125th Anniversary Review: Yeast Flocculation and Sedimentation in Brewing” (2011)",
+      "url": "https://doi.org/10.1002/j.2050-0416.2011.tb00495.x",
+      "access": "Author names and 2011 publication verified against journal PDF and professional institution indexed abstract. Full abstract independently inspected.",
+      "claims_supported": "Strain/environment factors, aggregate settling and handling-history effects.",
+      "chapters": [
+        60
+      ]
+    },
+    {
+      "id": "foam",
+      "title": "“Heat-Induced Changes in the Chemical Structure, Hydrophobicity, and Size Distribution of Free/Bound Lipid Transfer Protein 1 and Their Effects on Beer Foam” (2025)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40924917/",
+      "access": "Complete indexed primary abstract independently inspected.",
+      "claims_supported": "Heated LTP1 fractions, molecular changes and measured foam; not all finished-beer behavior.",
+      "chapters": [
+        52
+      ]
+    },
+    {
+      "id": "ghg",
+      "title": "Greenhouse Gas Protocol, “Calculation Tools FAQ”",
+      "url": "https://ghgprotocol.org/calculation-tools-faq",
+      "access": "Official page opened and scope definitions inspected.",
+      "claims_supported": "Corporate scope definitions and organizational boundary distinction; not a product LCA itself.",
+      "chapters": [
+        63
+      ]
+    },
+    {
+      "id": "haze",
+      "title": "“Haze in Beer: Its Formation and Alleviating Strategies, from a Protein–Polyphenol Complex Angle” (2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8702196/",
+      "access": "Indexed full abstract and selected mechanistic sections independently inspected, including reversible chill versus permanent haze.",
+      "claims_supported": "Protein/polyphenol aggregation, scattering and source focus on unwanted haze in clear beer.",
+      "chapters": [
+        50
+      ]
+    },
+    {
+      "id": "heat",
+      "title": "“Generalized electrification solutions for breweries: A Pinch Analysis-based approach to Heat Pump integration and process decarbonization” (2026)",
+      "url": "https://doi.org/10.1016/j.enconman.2026.121292",
+      "access": "Publisher abstract/highlights independently inspected; generalized-layout and modeled status checked.",
+      "claims_supported": "Heating/cooling integration, heat-pump configurations and investment trade-offs; no universal savings.",
+      "chapters": [
+        66
+      ]
+    },
+    {
+      "id": "heatfield",
+      "title": "Huang et al., “Field test and evaluation of improving alternatives in brewing thermal process: A case study of a large-scale brewery in China” (2025)",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2025.127686",
+      "access": "Publisher abstract, highlights and indexed introduction inspected; full method not accessed.",
+      "claims_supported": "Measured site thermal balance plus proposed improvements; not all retrofit benefits measured.",
+      "chapters": [
+        66
+      ]
+    },
+    {
+      "id": "hopcreep",
+      "title": "Kirkpatrick and Shellhammer, “Evidence of Dextrin Hydrolyzing Enzymes in Cascade Hops” (2018)",
+      "url": "https://doi.org/10.1021/acs.jafc.8b03563",
+      "access": "Full publisher and PubMed primary abstracts independently inspected.",
+      "claims_supported": "Cascade hop additions with yeast in tested lager; time-, temperature- and dose-dependent results.",
+      "chapters": [
+        58
+      ]
+    },
+    {
+      "id": "hopres",
+      "title": "Behr, Gänzle and Vogel, “Characterization of a Highly Hop-Resistant Lactobacillus brevis Strain Lacking Hop Transport” (2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17021196/",
+      "access": "Full indexed primary abstract and selected PMC results independently inspected.",
+      "claims_supported": "TMW 1.465 adaptation and lack of expressed/functional HorA as explanation; multiple mechanisms.",
+      "chapters": [
+        43
+      ]
+    },
+    {
+      "id": "horA",
+      "title": "Sakamoto et al., “Hop resistance in Lactobacillus brevis mediated by the ATP-binding cassette multidrug transporter HorA” (2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11514522/",
+      "access": "Complete primary PubMed abstract and bibliographic record independently inspected, including the heterologous Lactococcus lactis experiment.",
+      "claims_supported": "Transporter-associated resistance in a different experimental system; no universal marker claim.",
+      "chapters": [
+        43
+      ]
+    },
+    {
+      "id": "hybrid",
+      "title": "Libkind et al., “Microbe domestication and the identification of the wild genetic stock of lager-brewing yeast” (2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21873232/",
+      "access": "Primary abstract and selected PMC/publisher-indexed passages independently retrieved. Direct PubMed shell request encountered challenge.",
+      "claims_supported": "S. eubayanus and S. cerevisiae ancestry of lager yeast; genetic match does not establish a transport itinerary.",
+      "chapters": [
+        39
+      ]
+    },
+    {
+      "id": "ibu",
+      "title": "ASBC, “Beer 23: Bitterness Units,” public method summary",
+      "url": "https://www.asbcnet.org/methods/beer-methods/beer-23-master-method",
+      "access": "Official method summary and explanation independently retrieved through web search; extraction and absorbance limitations inspected. Full proprietary method not accessed.",
+      "claims_supported": "Conventional extraction/absorbance assay differs from sensory bitterness.",
+      "chapters": [
+        46
+      ]
+    },
+    {
+      "id": "iso",
+      "title": "ISO 4120:2021, “Sensory analysis — Methodology — Triangle test”",
+      "url": "https://www.iso.org/standard/76666.html",
+      "access": "Official scope/abstract independently retrieved. Full copyrighted standard not accessed; no complete protocol claimed.",
+      "claims_supported": "Forced-choice difference/similarity test does not provide magnitude, cause, direction or preference.",
+      "chapters": [
+        54
+      ]
+    },
+    {
+      "id": "kinetics",
+      "title": "Samia et al., “A time-course assessment of polyfunctional thiol release and yeast gene expression in dry-hopped beers” (online 30 July 2026)",
+      "url": "https://doi.org/10.1016/j.fochms.2026.100445",
+      "access": "Primary PubMed and publisher abstracts independently inspected; online publication date checked against later issue date.",
+      "claims_supported": "Two commercial yeast strains, pilot fermentations and transcript abundance insufficient to explain thiol release.",
+      "chapters": [
+        45
+      ]
+    },
+    {
+      "id": "koji",
+      "title": "Japan Sake and Shochu Makers Association, “Sake Brewing Processes and Flavor”",
+      "url": "https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/",
+      "access": "Official technical page opened; relevant koji and parallel starch/alcohol sections inspected.",
+      "claims_supported": "Koji enzyme role, yeast role and parallel transformations in sake.",
+      "chapters": [
+        36
+      ]
+    },
+    {
+      "id": "kveik",
+      "title": "Preiss et al., “Traditional Norwegian Kveik Are a Genetically Distinct Group of Domesticated Saccharomyces cerevisiae Brewing Yeasts” (2018)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6145013/",
+      "access": "PMC page opened successfully for abstract/introduction and sampling statement; later deeper open hit browser challenge. Indexed primary abstract also checked.",
+      "claims_supported": "Nine source cultures, studied phenotype/genotype variation; no all-kveik guarantee.",
+      "chapters": [
+        40
+      ]
+    },
+    {
+      "id": "lab",
+      "title": "Thesseling et al., “A Hands-On Guide to Brewing and Analyzing Beer in the Laboratory” (2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286407/",
+      "access": "Indexed abstract and selected full-text passages retrieved; published protocols not reproduced.",
+      "claims_supported": "Enzyme roles and yeast conversion of fermentable sugars to ethanol and carbon dioxide.",
+      "chapters": [
+        37
+      ]
+    },
+    {
+      "id": "light",
+      "title": "Huvaere, Andersen and De Keukeleire, “Photooxidative Degradation of Beer Bittering Principles” (2005)",
+      "url": "https://doi.org/10.1021/jf0486186",
+      "access": "Publisher abstract independently inspected, including excited riboflavin and radical precursors.",
+      "claims_supported": "A mechanistic experiment; no universal container exposure limit.",
+      "chapters": [
+        48
+      ]
+    },
+    {
+      "id": "light2006",
+      "title": "“Spectrophotometric method for exploring 3-methyl-2-butene-1-thiol formation in lager” (2006)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16910696/",
+      "access": "Wiki article and source record inspected; original paper not independently reopened.",
+      "claims_supported": "Complementary model/lager chemistry; no glass-color guarantee.",
+      "chapters": [
+        48
+      ]
+    },
+    {
+      "id": "malt",
+      "title": "WSET, “How malt shapes beer” (2026)",
+      "url": "https://www.wsetglobal.com/knowledge-centre/blog/2026/how-malt-shapes-beer",
+      "access": "Official educational page independently retrieved through web search, including heat, enzymes, Maillard and caramelization sections.",
+      "claims_supported": "Malting stages, heat-related flavor development and enzyme trade-offs.",
+      "chapters": [
+        57
+      ]
+    },
+    {
+      "id": "nolo",
+      "title": "D’Andrea et al., “Non-Alcoholic and Low-Alcohol Beer: Regulatory Complexity, Market Expansion and Technical Bottlenecks” (2026)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42650516/",
+      "access": "Full indexed review abstract independently inspected. Market and health statements not used.",
+      "claims_supported": "Biological alcohol limitation versus thermal/membrane separation; volatile-flavor trade-offs.",
+      "chapters": [
+        59
+      ]
+    },
+    {
+      "id": "noloaroma",
+      "title": "Piornos et al., “Alcohol-free and low-alcohol beers: Aroma chemistry and sensory characteristics” (online 2022; issue 2023)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36398756/",
+      "access": "Complete primary PubMed abstract and publisher-indexed introduction/conclusion inspected; health/market claims not used. Online 2022 and issue 2023 dates distinguished.",
+      "claims_supported": "Ethanol and mixture effects, aroma changes and technical trade-offs.",
+      "chapters": [
+        59
+      ]
+    },
+    {
+      "id": "packaging",
+      "title": "Morgan, Styles and Lane, “Packaging choice and coordinated distribution logistics to reduce the environmental footprint of small-scale beer value chains” (2022)",
+      "url": "https://doi.org/10.1016/j.jenvman.2022.114591",
+      "access": "Publisher abstract and indexed goal/scope methodology independently inspected; sections 2.7–2.8 also checked for single-use aluminum cans versus reusable bottles.",
+      "claims_supported": "Seven breweries; transport, functional unit and assumed reuse cycles; no universal package ranking.",
+      "chapters": [
+        65
+      ]
+    },
+    {
+      "id": "ph",
+      "title": "ASBC, “Beer 9: pH,” public method explanation",
+      "url": "https://www.asbcnet.org/methods/beer-methods/beer-9-master-method",
+      "access": "Official method-explanation page opened; method summary and electrode discussion inspected. Full proprietary method not accessed.",
+      "claims_supported": "pH as a distinct measurement requiring defined sample and calibration.",
+      "chapters": [
+        47
+      ]
+    },
+    {
+      "id": "protein",
+      "title": "Kerr, Caboche and Schulz, “Posttranslational Modifications Drive Protein Stability to Control the Dynamic Beer Brewing Proteome” (2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31186289/",
+      "access": "Complete indexed primary abstract independently inspected.",
+      "claims_supported": "Measured protein abundance/modifications during a small-scale pale ale mash; conditions affect retained proteins.",
+      "chapters": [
+        52
+      ]
+    },
+    {
+      "id": "reuse",
+      "title": "Espinoza-Orias and Lundquist, “Life cycle assessment of reusable food and beverage packaging systems: A proposal of good practice” (2025)",
+      "url": "https://doi.org/10.1016/j.jclepro.2025.145207",
+      "access": "Publisher abstract, highlights and selected findings independently inspected.",
+      "claims_supported": "Methodological review highlights food losses and need for operational validation; not a brewery field trial.",
+      "chapters": [
+        63,
+        65
+      ]
+    },
+    {
+      "id": "schlenkerla",
+      "title": "Schlenkerla, “Malting and brewing process of Schlenkerla Smoked Beer”",
+      "url": "https://www.schlenkerla.de/rauchbier/prozess/prozesse.html",
+      "access": "Official producer page opened; steeping, germination, kilning, mashing and wort separation inspected. Exclusivity and universal historical claims not adopted.",
+      "claims_supported": "Concrete producer documentation of malt stages and starch conversion.",
+      "chapters": [
+        35
+      ]
+    },
+    {
+      "id": "sesotho",
+      "title": "Cason et al., “Bacterial and Fungal Dynamics During the Fermentation Process of Sesotho” (2020)",
+      "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01451/full",
+      "access": "Publisher full-text page opened and independent HTML retrieval succeeded; abstract and detailed sampling paragraphs inspected.",
+      "claims_supported": "Five breweries and five stages in Lesotho; no within-brewery biological batch replication.",
+      "chapters": [
+        41
+      ]
+    },
+    {
+      "id": "sprout",
+      "title": "“A critical review of pre-harvest sprouting in barley” (2026)",
+      "url": "https://doi.org/10.1002/agj2.70475",
+      "access": "Publisher abstract, plain-language summary and selected introduction independently inspected; publication date verified.",
+      "claims_supported": "Dormancy, weather and malting trade-offs; barley-specific uncertainties retained.",
+      "chapters": [
+        62
+      ]
+    },
+    {
+      "id": "umqombothi",
+      "title": "Hlangwani et al., “Analysis of the bacterial and fungal populations in South African sorghum beer (umqombothi)” (2023)",
+      "url": "https://link.springer.com/article/10.1007/s11274-023-03764-4",
+      "access": "Publisher article opened; abstract, introduction and beginning of experimental methods inspected.",
+      "claims_supported": "16S/ITS markers, computational predicted functions and experimental brew comparison; not a household census.",
+      "chapters": [
+        42
+      ]
+    },
+    {
+      "id": "water",
+      "title": "BJCP, “Water” (revised 2017)",
+      "url": "https://www.bjcp.org/exam-certification/program/studying/beer-exam-study-guide/water/",
+      "access": "Official page opened; chemistry and ion sections inspected. Operational recommendations and unsupported deterministic city histories not adopted.",
+      "claims_supported": "pH, hardness, alkalinity and ion interactions.",
+      "chapters": [
+        56
+      ]
+    },
+    {
+      "id": "waterpalmer",
+      "title": "John Palmer, “Adjusting Brewing Water for Style”",
+      "url": "https://cdn.homebrewersassociation.org/wp-content/uploads/2022/09/20162325/CollabHour_BrewingWaterAdjustment_Presentation.pdf",
+      "access": "Wiki article and source record inspected; PDF not separately reopened in book session.",
+      "claims_supported": "Source-water treatment and composition vary; geographical name does not identify actual brewing water.",
+      "chapters": [
+        56
+      ]
+    },
+    {
+      "id": "wfn",
+      "title": "Water Footprint Network, “Water Footprint Calculator for SMEs”",
+      "url": "https://tools.waterfootprint.org/sme-calculator/en/",
+      "access": "Official calculator text independently retrieved; no values entered or numerical scenario generated.",
+      "claims_supported": "Direct/indirect and green/blue/grey categories; 2015 tool designed for European context.",
+      "chapters": [
+        64
+      ]
+    }
+  ],
+  "unresolved_verification_issues": [
+    "No independent specialist review, experimental replication or reanalysis of source data.",
+    "Several auxiliary sources retain clearly labeled wiki-inherited access; they are not claimed as newly verified.",
+    "Full ISO standards and full proprietary ASBC methods were not accessed; only public scopes/explanations support these lessons.",
+    "Selected original papers were accessed as abstracts and indexed excerpts, not complete papers or supplementary data.",
+    "Species-level identification and functional predictions in umqombothi study not independently revalidated.",
+    "Future climate and engineering model outcomes remain conditional; case-study footprints were not recalculated."
+  ],
+  "revision_record": [
+    {
+      "pass": "structural",
+      "result": "Exactly 33 distinct focal discoveries, numbers 35–67; boundaries coordinated with history and culture agents."
+    },
+    {
+      "pass": "fact-checking",
+      "result": "Core named studies, dates, designs, mechanisms and claims checked against primary abstracts, selected full text or institutional explanations as individually logged. Quantitative operating settings and sweeping claims omitted."
+    },
+    {
+      "pass": "cultural-sensitivity",
+      "result": "Sake and tapé retain identities; experimental systems not promoted to universal traditions; kveik isolates distinguished from maintained cultures; no European standard used to grade other traditions."
+    },
+    {
+      "pass": "style",
+      "result": "Varied openings, concrete comparisons, defined terminology; repeated broader-lesson signposting removed; no quotations."
+    },
+    {
+      "pass": "reader-experience",
+      "result": "Progression from grain to metabolism, evolution/ecology, chemistry, perception, materials and environmental systems; selective internal callbacks."
+    },
+    {
+      "pass": "production",
+      "result": "Headings, numbering, one note per lesson and complete note definitions checked locally; final EPUB/PDF validation belongs to root production pass."
+    }
+  ]
+}

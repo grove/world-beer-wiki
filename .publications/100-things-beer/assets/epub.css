@@ -1,0 +1,23 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+@font-face { font-family: "Source Serif"; font-style: normal; font-weight: normal; src: url("../fonts/SourceSerif4-Regular.ttf"); }
+@font-face { font-family: "Source Serif"; font-style: italic; font-weight: normal; src: url("../fonts/SourceSerif4-It.ttf"); }
+@font-face { font-family: "Source Serif"; font-style: normal; font-weight: bold; src: url("../fonts/SourceSerif4-Semibold.ttf"); }
+@font-face { font-family: "Source Serif"; font-style: italic; font-weight: bold; src: url("../fonts/SourceSerif4-SemiboldIt.ttf"); }
+html { margin: 0; padding: 0; }
+body { font-family: "Source Serif", Georgia, serif; line-height: 1.48; margin: 5%; text-align: left; }
+p { margin: 0 0 0.85em; orphans: 2; widows: 2; }
+h1, h2, h3 { line-height: 1.15; text-align: left; font-weight: bold; break-after: avoid; }
+h1 { font-size: 1.9em; margin: 1.8em 0 1em; }
+h2 { font-size: 1.55em; margin: 1.4em 0 1em; }
+h3 { font-size: 1.15em; margin-top: 1.4em; }
+a { text-decoration: underline; }
+sup { line-height: 0; }
+ul, ol { padding-left: 1.4em; }
+li { margin-bottom: 0.35em; }
+section.footnotes, aside[epub|type="footnote"] { font-size: 0.87em; }
+.footnotes { border-top: 1px solid; margin-top: 2em; padding-top: 0.8em; }
+.titlepage { text-align: center; }
+.titlepage h1, .titlepage h2 { text-align: center; }
+img { max-width: 100%; height: auto; }
+nav li { margin-bottom: 0.45em; }
+blockquote { margin: 1em 0.7em; }
