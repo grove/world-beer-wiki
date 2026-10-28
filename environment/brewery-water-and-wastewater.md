@@ -38,6 +38,18 @@ sources:
   source_kind: primary-pilot-treatment-study-abstract
   access_scope: ScienceDirect abstract of four tested technologies and a 1000 L demonstration beer at
     a Portuguese facility; monitored pilot conditions, not general safety approval.
+- id: v115-wfn
+  resource: "https://tools.waterfootprint.org/sme-calculator/en/"
+  title: "Water Footprint Calculator for SMEs"
+  author_label: "Water Footprint Network"
+  source_kind: "water-accounting-method-tool"
+  access_scope: "Public framework for direct/indirect and green/blue/grey water; no brewery data entered."
+- id: v115-baWater
+  resource: "https://www.brewersassociation.org/educational-publications/water-wastewater-sustainability-manual/"
+  title: "Water & Wastewater Sustainability Manual (2026), public description"
+  author_label: "Brewers Association"
+  source_kind: "industry-guidance-landing-page"
+  access_scope: "Public description only; member-only manual details and precise benchmarks not accessed."
 scope: Industrial Greek brewery case study on water use, treatment and reuse, not a universal benchmark.
 evidence_basis:
 - industrial-case-study
@@ -88,3 +100,15 @@ See the [case-study reading](mexican-microbrewery-footprint-case.md) and [compar
 [^v113-italy-water-2026]: [Industrial water reclamation in southern Italy: life-cycle assessment of a brewery (2026)](https://www.sciencedirect.com/science/article/pii/S0959652626005093). Giulia Casarano, Francesco Sardella and Pasquale Giungato. Consulted 2026-10-28. Access: ScienceDirect open indexed abstract/highlights; water reuse benefits accompanied by modeled ultrafiltration burdens; functional unit and site assumptions need full method review.
 
 [^v113-portugal-water-2025]: [Pilot-scale advanced wastewater treatment for direct potable reuse for beer (2025)](https://www.sciencedirect.com/science/article/pii/S1383586625020167). B-WaterSmart pilot research team. Consulted 2026-10-28. Access: ScienceDirect abstract of four tested technologies and a 1000 L demonstration beer at a Portuguese facility; monitored pilot conditions, not general safety approval.
+
+## Edition 1.15: newly sourced connections
+
+The Greek case study's on-site water-per-beer figure should not be conflated with a product water footprint. Water Footprint Network's public calculator draws a distinction between direct operations and indirect supply chains and distinguishes types of water use and pollution. A figure derived from barley agriculture can dominate one life-cycle assessment without contradicting a separate brewery-floor water ratio.[^v115-wfn]
+
+The Brewers Association's public manual description treats brewery conservation and wastewater management as management domains, but does not disclose the member-only detailed practices or authorize a numeric universal efficiency benchmark. A scientifically comparable report must specify withdrawals, consumption, discharge, upstream coverage, region and reporting period.[^v115-baWater]
+
+Read [water-use ratio versus footprint](brewery-water-ratio-versus-water-footprint.md) and [direct/indirect supply-chain water](direct-and-indirect-water-in-brewing.md). Water treatment, reuse eligibility and basin impacts require independent technical assessment.
+
+[^v115-wfn]: [Water Footprint Calculator for SMEs](https://tools.waterfootprint.org/sme-calculator/en/). Water Footprint Network. Consulted 2026-10-28. Access: Public framework for direct/indirect and green/blue/grey water; no brewery data entered.
+
+[^v115-baWater]: [Water & Wastewater Sustainability Manual (2026), public description](https://www.brewersassociation.org/educational-publications/water-wastewater-sustainability-manual/). Brewers Association. Consulted 2026-10-28. Access: Public description only; member-only manual details and precise benchmarks not accessed.

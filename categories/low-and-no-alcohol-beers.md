@@ -82,6 +82,24 @@ sources:
   source_kind: technical-safety-review-abstract
   access_scope: 2026 PubMed abstract describing biological and physical methods, flavor losses and
     safety uncertainties; regulatory thresholds vary by jurisdiction; economic projections not adopted.
+- id: v115-alcohol
+  resource: "https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-alcohol-content"
+  title: "Malt Beverage Labeling: Alcohol Content"
+  author_label: "Alcohol and Tobacco Tax and Trade Bureau"
+  source_kind: "official-us-regulatory-guidance"
+  access_scope: "Full public TTB 2023 guidance on 27 CFR 7.65; US malt-beverage labeling only and subject to state rules."
+- id: v115-uk
+  resource: "https://www.gov.uk/government/consultations/updating-labelling-guidance-for-no-and-low-alcohol-alternatives/updating-labelling-guidance-for-no-and-low-alcohol-alternatives-consultation"
+  title: "Updating labelling guidance for no and low-alcohol alternatives: consultation (2023)"
+  author_label: "UK Department of Health and Social Care"
+  source_kind: "government-consultation"
+  access_scope: "Archived 2023 proposal and commentary, not verification that any proposed amendment became law."
+- id: v115-circular
+  resource: "https://www.ttb.gov/public-information/industry-circulars/archives/1991/91-10"
+  title: "Industry Circular 91-10: Non-Alcoholic Malt Beverage Marketing (20 August 1991)"
+  author_label: "Bureau of Alcohol, Tobacco and Firearms, archived by TTB"
+  source_kind: "primary-historical-regulatory-document"
+  access_scope: "Archived 1991 primary administrative circular about marketing, not evidence of social reception or later rulemaking."
 aliases:
 - NoLo beers
 - NABLAB
@@ -176,3 +194,17 @@ The new [microbial reference](../microbiology/maltose-negative-yeast-and-low-alc
 [^v110-nab-hurdle]: [Survival of Foodborne Pathogens in Low and Nonalcoholic Craft Beer (2023)](https://pubmed.ncbi.nlm.nih.gov/37865164/). Mario Çobo and colleagues, Cornell AgriTech and Brewers Association. Consulted 2026-10-28. Access: PubMed abstract describing inoculated model nonalcoholic/low alcohol matrices, pH, temperature, and 63-day trials; not a consumer safety assessment.
 
 [^v110-nab-review]: [Non-Alcoholic and Low-Alcohol Beer: Regulatory Complexity, Market Expansion and Technical Bottlenecks (2026)](https://pubmed.ncbi.nlm.nih.gov/42650516/). Review authors. Consulted 2026-10-28. Access: 2026 PubMed abstract describing biological and physical methods, flavor losses and safety uncertainties; regulatory thresholds vary by jurisdiction; economic projections not adopted.
+
+## Edition 1.15: newly sourced connections
+
+A cross-border catalog should never encode the phrase “non-alcoholic beer” as one universal numeric class. The US TTB's public guidance requires a statement of less than 0.5% ABV immediately next to “non-alcoholic” for covered malt beverages and reserves “alcohol free” for no-alcohol products. Even where the numeric boundary appears familiar, the required label words and product coverage are jurisdiction-dependent.[^v115-alcohol]
+
+A 2023 UK governmental consultation considered revisions to UK descriptor advice. This **consultation** is not a subsequent government decision and cannot support a claim about the final 2026 UK compliance rule. A historical US Industry Circular from **20 August 1991** likewise establishes a dated agency marketing position without proving that all language persisted unchanged into present rules.[^v115-uk][^v115-circular]
+
+Follow the [jurisdiction guide](no-low-alcohol-descriptors-across-borders.md), [1991 event](../calendar/atf-nonalcoholic-marketing-circular-1991.md), and [microbiological evidence boundaries](../microbiology/nolo-hurdles-are-not-label-rules.md). Strength labels do not certify product safety.
+
+[^v115-alcohol]: [Malt Beverage Labeling: Alcohol Content](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-alcohol-content). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-28. Access: Full public TTB 2023 guidance on 27 CFR 7.65; US malt-beverage labeling only and subject to state rules.
+
+[^v115-uk]: [Updating labelling guidance for no and low-alcohol alternatives: consultation (2023)](https://www.gov.uk/government/consultations/updating-labelling-guidance-for-no-and-low-alcohol-alternatives/updating-labelling-guidance-for-no-and-low-alcohol-alternatives-consultation). UK Department of Health and Social Care. Consulted 2026-10-28. Access: Archived 2023 proposal and commentary, not verification that any proposed amendment became law.
+
+[^v115-circular]: [Industry Circular 91-10: Non-Alcoholic Malt Beverage Marketing (20 August 1991)](https://www.ttb.gov/public-information/industry-circulars/archives/1991/91-10). Bureau of Alcohol, Tobacco and Firearms, archived by TTB. Consulted 2026-10-28. Access: Archived 1991 primary administrative circular about marketing, not evidence of social reception or later rulemaking.

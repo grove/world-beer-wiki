@@ -18,6 +18,18 @@ sources:
   source_kind: official-style-guideline
   access_scope: style description
   author_label: Beer Judge Certification Program
+- id: v115-clas
+  resource: "https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-class-and-type"
+  title: "Malt Beverage Labeling: Class and Type Designation"
+  author_label: "Alcohol and Tobacco Tax and Trade Bureau"
+  source_kind: "official-us-regulatory-guidance"
+  access_scope: "Full public TTB 2023 designation guidance, including under-0.5% malt beverages, not global style terminology."
+- id: v115-alcohol
+  resource: "https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-alcohol-content"
+  title: "Malt Beverage Labeling: Alcohol Content"
+  author_label: "Alcohol and Tobacco Tax and Trade Bureau"
+  source_kind: "official-us-regulatory-guidance"
+  access_scope: "Full public TTB 2023 guidance on 27 CFR 7.65; US malt-beverage labeling only and subject to state rules."
 aliases:
 - Light American lager
 regions:
@@ -73,3 +85,15 @@ Comparison links are not claims of direct ancestry.
 ## Source notes
 
 [^bjcp-2021-1a]: [BJCP 2021: American Light Lager](https://styles.bjcp.org/bjcp-2021-beer/1/1a-american-light-lager). Beer Judge Certification Program. Consulted 2026-10-27. Evidence used: style description.
+
+## Edition 1.15: newly sourced connections
+
+The name “light” is not interchangeable with “alcohol free.” US TTB class-and-type guidance deals with how federally covered malt beverages can be described and makes separate distinctions for products containing below 0.5% alcohol. The modern sensory term *American Light Lager* answers a judging or market-style question; it does not by itself establish that the product qualifies for a federally regulated low- or no-alcohol designation.[^v115-clas]
+
+TTB distinguishes “non-alcoholic,” “alcohol free” and “low alcohol” under different conditions and strength thresholds. A reader who sees a lower-calorie, lighter-bodied or session-oriented beer should not infer zero ethanol from the style name. The alcohol figure and market-specific label require their own product evidence.[^v115-alcohol]
+
+Compare [legal versus judging categories](../categories/jurisdictional-beer-names-vs-styles.md) and [alcohol descriptors across borders](../categories/no-low-alcohol-descriptors-across-borders.md).
+
+[^v115-clas]: [Malt Beverage Labeling: Class and Type Designation](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-class-and-type). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-28. Access: Full public TTB 2023 designation guidance, including under-0.5% malt beverages, not global style terminology.
+
+[^v115-alcohol]: [Malt Beverage Labeling: Alcohol Content](https://www.ttb.gov/regulated-commodities/beverage-alcohol/beer/labeling/malt-beverage-alcohol-content). Alcohol and Tobacco Tax and Trade Bureau. Consulted 2026-10-28. Access: Full public TTB 2023 guidance on 27 CFR 7.65; US malt-beverage labeling only and subject to state rules.

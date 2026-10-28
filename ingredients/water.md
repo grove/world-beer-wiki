@@ -44,6 +44,18 @@ sources:
   source_kind: open-technical-review
   access_scope: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels
     are reported ranges, not regulatory limits.
+- id: v115-wfn
+  resource: "https://tools.waterfootprint.org/sme-calculator/en/"
+  title: "Water Footprint Calculator for SMEs"
+  author_label: "Water Footprint Network"
+  source_kind: "water-accounting-method-tool"
+  access_scope: "Public framework for direct/indirect and green/blue/grey water; no brewery data entered."
+- id: v115-baWater
+  resource: "https://www.brewersassociation.org/educational-publications/water-wastewater-sustainability-manual/"
+  title: "Water & Wastewater Sustainability Manual (2026), public description"
+  author_label: "Brewers Association"
+  source_kind: "industry-guidance-landing-page"
+  access_scope: "Public description only; member-only manual details and precise benchmarks not accessed."
 aliases:
 - Brewing liquor
 regions:
@@ -115,3 +127,15 @@ Consult [trace metals in brewing](transition-metals-in-brewing.md) and [package 
 
 [^v14-water]: [Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)](https://www.mdpi.com/2073-4441/17/8/1179). Greek brewery case-study research team. Consulted 2026-10-27. Access: Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide average.
 [^v111-metals]: [Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Tuur Mertens, Thomas Kunz and Brian R. Gibson. Consulted 2026-10-28. Access: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels are reported ranges, not regulatory limits.
+
+## Edition 1.15: newly sourced connections
+
+Brewing liquor in a recipe and water counted in an environmental impact assessment answer different questions. Water Footprint Network's public SME tool separates direct operational flows from **indirect** supply-chain water and subdivides water footprints by accounting type. Those distinctions caution against equating a measured factory water-to-beer ratio with the water footprint of barley growing, packaging or a product's broader life cycle.[^v115-wfn]
+
+The Brewers Association's 2026 Water & Wastewater sustainability manual landing page describes operational water and wastewater management, but the full content is member-access controlled. Neither a tool interface nor a member-only manual's description establishes a numeric performance target for any named brewery.[^v115-baWater]
+
+Read [site ratios versus footprints](../environment/brewery-water-ratio-versus-water-footprint.md) and [direct/indirect accounting](../environment/direct-and-indirect-water-in-brewing.md). The concepts do not replace site-specific sampling, local rules or water-quality verification.
+
+[^v115-wfn]: [Water Footprint Calculator for SMEs](https://tools.waterfootprint.org/sme-calculator/en/). Water Footprint Network. Consulted 2026-10-28. Access: Public framework for direct/indirect and green/blue/grey water; no brewery data entered.
+
+[^v115-baWater]: [Water & Wastewater Sustainability Manual (2026), public description](https://www.brewersassociation.org/educational-publications/water-wastewater-sustainability-manual/). Brewers Association. Consulted 2026-10-28. Access: Public description only; member-only manual details and precise benchmarks not accessed.
