@@ -39,7 +39,7 @@ ASBC's laboratory proficiency-method list concerns comparability of **beer-sampl
 
 ## Source provenance and engineering work
 
-[Edition source manifest](../references/atlas-source-manifest-1-16.json) contains all **19 bibliographic records** with explicit access scopes. The new [source-register generator](../tools/build_edition_sources.py) builds [94 actual backlinks](../references/atlas-sources-1-16.md) and fails on an inconsistent reused source ID, an undeclared work or a source with no recorded use. Local reference-index tools, CI, tests and all thirteen section directories are updated. [Eight guided reading trails](../navigation/edition-1-16-reading-trails.md) connect the content.
+[Edition source manifest](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-16/references/atlas-source-manifest-1-16.json) contains all **19 bibliographic records** with explicit access scopes. The new [source-register generator](../tools/build_edition_sources.py) builds [94 actual backlinks](../references/atlas-sources-1-16.md) and fails on an inconsistent reused source ID, an undeclared work or a source with no recorded use. Local reference-index tools, CI, tests and all thirteen section directories are updated. [Eight guided reading trails](../navigation/edition-1-16-reading-trails.md) connect the content.
 
 The [source-review queue](source-review-queue-1-16.md) keeps expert checking, access to full standards, historical documents, community terminology and scientific replication **unperformed**. ATLAS-012 remains planned. These are AI-authored research drafts, not legal, regulatory, medical, dietary, laboratory-accreditation or food-safety recommendations.
 

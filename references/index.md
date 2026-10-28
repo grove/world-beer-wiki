@@ -55,4 +55,4 @@ Source records, independent publications and independent confirmations are diffe
 
 ## Research edition 1.16 — reproducible sources
 
-[Generated source register with 94 actual backlinks](atlas-sources-1-16.md) · [Machine-readable 19-work source manifest](atlas-source-manifest-1-16.json) · [Source consistency auditor](../tools/build_edition_sources.py). The register is generated from actual article use; an abstract or standard landing page is not the same as full-text review or independent verification.
+[Generated source register with 94 actual backlinks](atlas-sources-1-16.md) · [Machine-readable 19-work source manifest](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-16/references/atlas-source-manifest-1-16.json) · [Source consistency auditor](../tools/build_edition_sources.py). The register is generated from actual article use; an abstract or standard landing page is not the same as full-text review or independent verification.
