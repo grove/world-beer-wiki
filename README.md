@@ -43,20 +43,20 @@ The GitHub Actions workflow builds and validates pull requests, then publishes m
 | Section | Entries | Purpose |
 |---|---:|---|
 | [Beer and tradition profiles](styles/index.md) | 191 | Named styles, local traditions, specialty categories, historical accounts and related ferments. |
-| [Ingredients and cultures](ingredients/index.md) | 72 | Materials, processing forms, enzymes and fermentation organisms. |
-| [Category guides](categories/index.md) | 51 | Explanations and comparisons across families and classification axes. |
-| [Culture](culture/index.md) | 72 | Situated institutions, work, exchange and knowledge. |
-| [Calendar](calendar/index.md) | 28 | Seasons and edition-specific events. |
-| [Microbiology](microbiology/index.md) | 67 | Organisms, cultures and ecological evidence. |
-| [Processes](processes/index.md) | 62 | Transformations and production comparisons. |
-| [Objects and service](objects/index.md) | 27 | Equipment and ways of presenting drinks. |
-| [Sensory](sensory/index.md) | 41 | Flavor reasoning and evidence boundaries. |
-| [Stories](stories/index.md) | 41 | Evidence-based narrative reading routes. |
-| [History and archaeology](history/index.md) | 46 | Historical policies, industrialization and ancient material evidence. |
-| [Environment](environment/index.md) | 26 | Climate, cultivation, energy, water and materials. |
-| [Beer with food](food/index.md) | 16 | Evidence-based pairing context and consumer study designs. |
+| [Ingredients and cultures](ingredients/index.md) | 74 | Materials, processing forms, enzymes and fermentation organisms. |
+| [Category guides](categories/index.md) | 54 | Explanations and comparisons across families and classification axes. |
+| [Culture](culture/index.md) | 74 | Situated institutions, work, exchange and knowledge. |
+| [Calendar](calendar/index.md) | 29 | Seasons and edition-specific events. |
+| [Microbiology](microbiology/index.md) | 68 | Organisms, cultures and ecological evidence. |
+| [Processes](processes/index.md) | 65 | Transformations and production comparisons. |
+| [Objects and service](objects/index.md) | 30 | Equipment and ways of presenting drinks. |
+| [Sensory](sensory/index.md) | 42 | Flavor reasoning and evidence boundaries. |
+| [Stories](stories/index.md) | 44 | Evidence-based narrative reading routes. |
+| [History and archaeology](history/index.md) | 48 | Historical policies, industrialization and ancient material evidence. |
+| [Environment](environment/index.md) | 30 | Climate, cultivation, energy, water and materials. |
+| [Beer with food](food/index.md) | 17 | Evidence-based pairing context and consumer study designs. |
 
-That is **740 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.18 research update](editorial/research-update-1-18.md) document delivered and remaining scope.
+That is **766 subject articles**, not 240 standardized beer styles. The [atlas specification](editorial/atlas-specification.md), [progress ledger](editorial/atlas-progress.md) and [1.19 research update](editorial/research-update-1-19.md) document delivered and remaining scope.
 
 The [navigation directory](navigation/index.md) offers names, regions, families, ingredients and historical scope. The [editorial directory](editorial/index.md) explains evidence handling and known gaps. The [reference directory](references/index.md) links to the [source register](references/source-register.md), which documents the 1.1 baseline. The [atlas source supplement](references/atlas-sources.md) traces the new layers and explicitly identifies inherited corpus evidence.
 
@@ -90,7 +90,7 @@ python tools/atlas.py source-audit > atlas-source-audit.json
 python tools/build_subject_index.py --check
 ```
 
-If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [current validation report](editorial/validation-report-1-18.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
+If needed, install its single dependency with `python -m pip install PyYAML`. No dependency is needed to read the wiki. The [current validation report](editorial/validation-report-1-19.md) records checks actually run; earlier reports are retained as historical records. The validation workflow attaches a portable tracked-file snapshot and JSON results to pull-request runs.
 
 ## Sources and rights
 
@@ -160,8 +160,14 @@ The wiki now contains **662 subject articles across thirteen sections**, with 19
 
 Source citations do not establish independent scientific verification, consent from farmers or brewing communities, safe grain-processing advice, or compliance with food regulations. Historical edition counts remain archival snapshots.
 
-## Current research edition 1.18
+## Research edition 1.18 (historical)
 
 The wiki now contains **740 canonical subject articles across 13 reference sections**, including 27 newly sourced packaging-related studies and 15 substantive revisions. Begin with [nine question-led reading trails](navigation/edition-1-18-reading-trails.md), [the 22-work annotated source register](references/atlas-sources-1-18.md), [the research report](editorial/research-update-1-18.md), [unperformed independent-review tasks](editorial/source-review-queue-1-18.md) and [reproduction and validation instructions](editorial/validation-report-1-18.md). The [machine-readable source manifest](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-18/references/atlas-source-manifest-1-18.json) remains a repository JSON document, not a staged website page.
 
 These are AI-researched drafts, not independently approved cultural histories, brewing operating guidance, food-contact product certifications, pressure-safety protocols or universal low-carbon packaging rankings. Earlier research reports retain their original dated counts.
+
+## Current research edition 1.19
+
+The wiki comprises **766 canonical subject articles in thirteen reference sections**, including 26 new source-scoped research articles and 21 substantive sourced revisions. Follow [nine question-led trails](navigation/edition-1-19-reading-trails.md), the [edition research report](editorial/research-update-1-19.md), [21-work source register with 109 article uses](references/atlas-sources-1-19.md), [outstanding specialist and community review](editorial/source-review-queue-1-19.md) and [validation instructions](editorial/validation-report-1-19.md). The [JSON source manifest is available in the repository](https://github.com/grove/world-beer-wiki/blob/research/world-beer-atlas-1-19/references/atlas-source-manifest-1-19.json), not published as a standalone HTML page.
+
+These source-scoped, AI-researched drafts are **not** tested brewhouse retrofit proposals, validated microbiological treatments, beverage-grade CO₂ certification, historical consensus, or a whole-product carbon-neutral claim. Historical release counts and independent-review status remain attributed to their actual editions.
