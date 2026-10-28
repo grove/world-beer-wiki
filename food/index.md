@@ -21,3 +21,7 @@ New evidence-based references (all retain draft status):
 ## Added in research edition 1.9
 
 - [Bring your own food: a Munich beer-garden custom](brotzeit-and-the-munich-beer-garden.md) — Food and Serving Culture.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Tapai between fermented rice food and drink](tapai-as-food-and-beverage.md) — How edible fermented glutinous rice illustrates overlapping food and beverage functions.

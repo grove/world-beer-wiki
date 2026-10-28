@@ -17,8 +17,8 @@ sources:
   title: Flaked Torrefied Rice
   author_label: Crisp Malt
   source_kind: producer-technical-documentation
-  access_scope: product description of cooking, gelatinisation and brewing role; health and gluten marketing
-    claims not used
+  access_scope: product description of cooking, gelatinisation and brewing role; health and gluten
+    marketing claims not used
 - id: ing-jssa-process
   resource: https://japansake.or.jp/sake/en/professional/sake-brewing-processes-flavor/
   title: Sake Brewing Processes and Flavor
@@ -30,7 +30,8 @@ sources:
   title: The Crisp Guide to Mashing
   author_label: Crisp Malt
   source_kind: producer-technical-documentation
-  access_scope: retrieved rice, maize and oats sections; no universal temperatures or addition limits adopted
+  access_scope: retrieved rice, maize and oats sections; no universal temperatures or addition limits
+    adopted
 - id: bjcp-2021-27f
   resource: https://styles.bjcp.org/bjcp-2021-beer/27/27f-pre-prohibition-lager
   title: 'BJCP 2021: Pre-Prohibition Lager'
@@ -57,6 +58,13 @@ sources:
   source_kind: scientific-review
   access_scope: Open indexed review with process description and microbiome survey synthesis; production
     methods and species vary among locales.
+- id: v110-ragi-genetics
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/
+  title: Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)
+  author_label: Study authors, Journal of Microbiology
+  source_kind: primary-molecular-survey-excerpts
+  access_scope: Indexed full-text introduction and study description; Java ragi tapai isolates, not
+    global starter taxonomy; full methods not independently inspected.
 aliases:
 - Brewing rice
 regions:
@@ -68,8 +76,8 @@ evidence_basis:
 - producer-association-technical-documentation
 - producer-technical-documentation
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist, historian
-  or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a brewer, scientist,
+  historian or community representative.
 relations:
 - relation: compare_with
   target: styles/pre-prohibition-lager
@@ -116,6 +124,13 @@ These sources illustrate different roles, not every rice variety or regional pra
 
 The 2022 Huangjiu microbiome review describes multiple ways grain rice can become an alcoholic fermented drink: steaming the substrate, using wheat *qu* or related starters for enzymatic conversion, then managing a mixed fermentation. The grain itself does not explain the full resulting drink or its cultural name. Compare [Huangjiu](../styles/huangjiu-chinese-cereal-wine.md), [wheat qu](wheat-qu-and-huangjiu.md), [makgeolli](../styles/makgeolli.md) and [rượu cần](../styles/ruou-can-vietnamese-jar-ferment.md). Similar starch chemistry does not make these the same national tradition or a single standardized beer category.[^v19-huangjiu-review]
 
+## Edition 1.10: newly sourced connections
+
+Rice can be a fermentation substrate, an adjunct, a carrier for mixed dry starters, or an edible fermented food. A Java study describes ragi tapai as a dry inoculum containing organisms with amylolytic and fermentative roles. That is an additional use of rice, not evidence that an adjunct rice lager has the same brewing method as tapai.[^v110-ragi-genetics]
+
+Compare the new [ragi tapai ingredient entry](ragi-tapai.md) and [tapai ketan](../styles/tapai-ketan.md). Grain identity alone does not establish a fermented product's local name, food-versus-drink status, or social role.
+
+
 ## Source notes
 
 [^ing-crisp-rice]: [Flaked Torrefied Rice](https://crispmalt.com/malts/flaked-torrefied-rice/). Crisp Malt. Consulted 2026-10-27. Evidence used: product description of cooking, gelatinisation and brewing role; health and gluten marketing claims not used.
@@ -126,3 +141,5 @@ The 2022 Huangjiu microbiome review describes multiple ways grain rice can becom
 [^ing-briess-products]: [Brewing products: flakes, roasted barley and rice hulls](https://brewingwithbriess.com/products/). Briess Malt & Ingredients. Consulted 2026-10-27. Evidence used: retrieved product descriptions; specifications apply to the named products.
 
 [^v19-huangjiu-review]: [The microbiome of Chinese rice wine (Huangjiu) (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844729/). Chinese rice-wine microbiome review authors. Checked 2026-10-28. Access: Open indexed review with process description and microbiome survey synthesis; production methods and species vary among locales.
+
+[^v110-ragi-genetics]: [Genetic Diversity of Amylomyces rouxii from Ragi tapai in Java Island (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9067998/). Study authors, Journal of Microbiology. Consulted 2026-10-28. Access: Indexed full-text introduction and study description; Java ragi tapai isolates, not global starter taxonomy; full methods not independently inspected.

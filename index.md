@@ -6,18 +6,18 @@ okf_version: "0.2"
 
 ## Beer styles, living traditions, ingredients and brewing categories
 
-**Research edition 1.9 · 28 October 2026 · 488 subject articles across thirteen reference layers**
+**Research edition 1.10 · 28 October 2026 · 515 subject articles across thirteen reference layers**
 
 An English-language, source-referenced Markdown knowledge base for readers and LLM retrieval. Start with a named beer, explore its ingredients, then compare the traditions and processes around it. Articles distinguish current judging descriptions, local practice, related ferments and historical evidence.
 
-The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.9](editorial/research-update-1-9.md).
+The [Atlas specification](editorial/atlas-specification.md) defines the scope and acceptance criteria. The [progress ledger](editorial/atlas-progress.md) separates implemented work from review and research still needed. Read [what changed in 1.10](editorial/research-update-1-10.md) and [seven evidence trails](navigation/edition-1-10-reading-trails.md).
 
 ## Choose a route
 
 | Start here | What you will find |
 |---|---|
 | [How beer categories work](categories/beer-classification.md) | Separate style, fermentation, ingredient, region, period and serving method. |
-| [All beer and tradition profiles](styles/index.md) | 175 named beer/tradition, specialty and related-ferment profiles, distinguished by type and scope. |
+| [All beer and tradition profiles](styles/index.md) | 177 named beer/tradition, specialty and related-ferment profiles, distinguished by type and scope. |
 | [Category guides](categories/index.md) | 30 comparative category guides, not mutually exclusive styles. |
 | [Ingredients and cultures](ingredients/index.md) | 48 sources, botanicals, additions and cultures with named roles. |
 | [Complete atlas subject index](navigation/all-atlas-subjects.md) | All 488 entries across thirteen reference layers, regenerated from article metadata. |
@@ -84,3 +84,7 @@ A new set of [seven connected research trails](navigation/edition-1-8-reading-tr
 ## Research edition 1.9 — grain, law, ritual and microbial evidence
 
 New [eight research trails](navigation/edition-1-9-reading-trails.md) connect a [Vietnamese communal jar ferment](styles/ruou-can-vietnamese-jar-ferment.md), [Huangjiu](styles/huangjiu-chinese-cereal-wine.md), [Bhutanese phab](microbiology/phab-dry-starter-research.md), [Ur III beer allocations](history/ur-iii-beer-ration-tablet.md), [Munich’s beer-garden history](history/munich-beer-garden-1812.md) and [ancient Nubian barley DNA](history/qasr-ibrim-barley-ancient-dna.md). The edition’s [research report](editorial/research-update-1-9.md), [source access ledger](references/atlas-sources-1-9.md) and [review queue](editorial/source-review-queue-1-9.md) explain the limits.
+
+## Research edition 1.10 — new questions to explore
+
+Start with [Yaminahua masateadas](culture/yaminahua-masateadas-and-kinship.md), [Cusco chicherías](culture/cusco-chicherias-maize-and-gendered-work.md), [ragi tapai](ingredients/ragi-tapai.md), [the gluten-free ingredient trap](categories/gluten-free-beer-and-process-boundaries.md), [low-alcohol microbiological hurdles](microbiology/nonalcoholic-beer-pathogen-challenge.md), or [why light changes hop-derived bitterness](sensory/lightstruck-chemistry.md). See [the release report](editorial/research-update-1-10.md), [source access](references/atlas-sources-1-10.md), and [review queue](editorial/source-review-queue-1-10.md).

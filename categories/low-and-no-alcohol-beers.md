@@ -23,8 +23,8 @@ sources:
   author_label: Elia Myncke and colleagues
 - id: modern-ro-ramsey
   resource: https://doi.org/10.1016/j.fochx.2021.100121
-  title: Assessing the sensory and physicochemical impact of reverse osmosis membrane technology to dealcoholize
-    two different beer styles
+  title: Assessing the sensory and physicochemical impact of reverse osmosis membrane technology
+    to dealcoholize two different beer styles
   author: team:ramsey-et-al
   source_kind: primary-research
   access_scope: abstract and University of Nottingham publication record; pilot-scale lager and stout
@@ -32,8 +32,8 @@ sources:
   author_label: Imogen Ramsey, Qian Yang, Ian Fisk, Charfedinne Ayed and Rebecca Ford
 - id: modern-nolo-basu
   resource: https://pubmed.ncbi.nlm.nih.gov/41722979/
-  title: Control of residual maltose in low-alcohol beer produced by non-Saccharomyces yeast with enzymatic
-    treatment
+  title: Control of residual maltose in low-alcohol beer produced by non-Saccharomyces yeast with
+    enzymatic treatment
   author: team:basu-et-al
   source_kind: primary-research
   access_scope: indexed PubMed abstract and bibliographic record; 2026 paper, not full text
@@ -50,23 +50,38 @@ sources:
   title: 'Non-alcoholic Beers with Food: Consumer Pairing Experiment (2026)'
   author_label: Gastronomy consumer research team
   source_kind: consumer-experiment-abstract
-  access_scope: 'Open publisher abstract: three beer styles with one Swedish shrimp dish; results not
-    generalizable to all foods.'
+  access_scope: 'Open publisher abstract: three beer styles with one Swedish shrimp dish; results
+    not generalizable to all foods.'
 - id: v16-nolo-review
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13236638/
   title: Application of unconventional microorganisms for production of non-alcoholic beer (2026)
   author_label: Review authors
   source_kind: open-technical-review
-  access_scope: Open review sections on maltose-negative organisms, process/strain-dependent aroma, ABV
-    and microbiological constraints; commercial performance not generalized.
+  access_scope: Open review sections on maltose-negative organisms, process/strain-dependent aroma,
+    ABV and microbiological constraints; commercial performance not generalized.
 - id: v16-nolo-primary
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC13000620/
-  title: High-Gravity Brewing, Yeast Strain Selection, and Glucose Oxidase Effects on Quality of Nonalcoholic
-    Beer (2026)
+  title: High-Gravity Brewing, Yeast Strain Selection, and Glucose Oxidase Effects on Quality of
+    Nonalcoholic Beer (2026)
   author_label: Study authors
   source_kind: primary-brewing-experiment
   access_scope: Open study excerpts on selected yeasts, sensory and process variables; limited controlled
     trials, not legal labeling or universal safety.
+- id: v110-nab-hurdle
+  resource: https://pubmed.ncbi.nlm.nih.gov/37865164/
+  title: Survival of Foodborne Pathogens in Low and Nonalcoholic Craft Beer (2023)
+  author_label: Mario Çobo and colleagues, Cornell AgriTech and Brewers Association
+  source_kind: primary-microbial-challenge-abstract
+  access_scope: PubMed abstract describing inoculated model nonalcoholic/low alcohol matrices, pH,
+    temperature, and 63-day trials; not a consumer safety assessment.
+- id: v110-nab-review
+  resource: https://pubmed.ncbi.nlm.nih.gov/42650516/
+  title: 'Non-Alcoholic and Low-Alcohol Beer: Regulatory Complexity, Market Expansion and Technical
+    Bottlenecks (2026)'
+  author_label: Review authors
+  source_kind: technical-safety-review-abstract
+  access_scope: 2026 PubMed abstract describing biological and physical methods, flavor losses and
+    safety uncertainties; regulatory thresholds vary by jurisdiction; economic projections not adopted.
 aliases:
 - NoLo beers
 - NABLAB
@@ -80,8 +95,8 @@ scope: Cross-cutting alcohol-content category; technical examples and one explic
 evidence_basis: official definitions and attributed primary accounts; editorial comparisons identified
   in the text
 source_checked_on: '2026-10-28'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or
-  community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer,
+  or community representative.
 relations:
 - relation: compare_with
   target: styles/session-ipa
@@ -130,6 +145,13 @@ The technical discussion uses research abstracts and verified bibliographic reco
 
 A 2026 study tested three beer styles, alcoholic and non-alcoholic, with one Swedish shrimp dish. Its result—that the non-alcoholic versions performed similarly in that pairing—does not show that all alcohol-free products fit every food. Read [the study guide](../food/alcohol-free-beer-with-food.md).[^v14-food-na]
 
+## Edition 1.10: newly sourced connections
+
+A 2023 laboratory challenge study examined selected inoculated low- and nonalcoholic craft-beer matrices across pH, ethanol and storage conditions. Some pathogen populations grew in tested no-alcohol matrices under the warmer study condition. The experiment concerns intrinsic hurdles and selected challenge samples, not a claim that any particular retail beer contained these pathogens.[^v110-nab-hurdle]
+
+A 2026 review divides processes between biological ethanol limitation and physical removal, and notes different legal labeling thresholds. For practical classification, compare [process and safety categories](nonalcoholic-beer-methods-and-safety.md) and [dealcoholisation methods](../processes/thermal-and-membrane-dealcoholisation.md) rather than assuming a worldwide fixed ABV label or automatic microbial safety.[^v110-nab-review]
+
+
 ## Source notes
 
 [^modern-nolo-myncke]: [Navigating yeast selection for NABLAB production: Comparative study of commercial maltose- and maltotriose-negative strains](https://pubmed.ncbi.nlm.nih.gov/40043607/). Elia Myncke and colleagues. Consulted 2026-10-27. Evidence used: PubMed abstract and bibliographic record; nine commercial yeasts, 2025.
@@ -150,3 +172,7 @@ The new [microbial reference](../microbiology/maltose-negative-yeast-and-low-alc
 
 [^v16-nolo-review]: [Application of unconventional microorganisms for production of non-alcoholic beer (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13236638/). Review authors. Consulted 2026-10-28. Access: Open review sections on maltose-negative organisms, process/strain-dependent aroma, ABV and microbiological constraints; commercial performance not generalized.
 [^v16-nolo-primary]: [High-Gravity Brewing, Yeast Strain Selection, and Glucose Oxidase Effects on Quality of Nonalcoholic Beer (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13000620/). Study authors. Consulted 2026-10-28. Access: Open study excerpts on selected yeasts, sensory and process variables; limited controlled trials, not legal labeling or universal safety.
+
+[^v110-nab-hurdle]: [Survival of Foodborne Pathogens in Low and Nonalcoholic Craft Beer (2023)](https://pubmed.ncbi.nlm.nih.gov/37865164/). Mario Çobo and colleagues, Cornell AgriTech and Brewers Association. Consulted 2026-10-28. Access: PubMed abstract describing inoculated model nonalcoholic/low alcohol matrices, pH, temperature, and 63-day trials; not a consumer safety assessment.
+
+[^v110-nab-review]: [Non-Alcoholic and Low-Alcohol Beer: Regulatory Complexity, Market Expansion and Technical Bottlenecks (2026)](https://pubmed.ncbi.nlm.nih.gov/42650516/). Review authors. Consulted 2026-10-28. Access: 2026 PubMed abstract describing biological and physical methods, flavor losses and safety uncertainties; regulatory thresholds vary by jurisdiction; economic projections not adopted.

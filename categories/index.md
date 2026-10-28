@@ -60,3 +60,9 @@ New evidence-based references (all retain draft status):
 
 - [Beer laws, public houses and communal drinking places](beer-laws-and-public-space.md) — Historical Comparison Guide.
 - [Rice wine, grain beer and distilled liquor: different questions](rice-wine-beer-and-distillation-boundaries.md) — Classification and Comparison Guide.
+
+## Edition 1.10 — evidence-based expansion
+
+- [Gluten-free beer: ingredients, process and evidence](gluten-free-beer-and-process-boundaries.md) — Cereal alternatives, starch-conversion constraints and the difference between an adjunct experiment and verified gluten-free product.
+- [Non-alcoholic beer: method, aroma and microbial hurdles](nonalcoholic-beer-methods-and-safety.md) — Process classifications for non-alcoholic beer, with jurisdictional labels and laboratory-safety limits.
+- [When fermented food is compared with beer](fermented-food-and-beer-boundaries.md) — Comparing tapai, khao mak, tapuy and malt beer without erasing local beverage/food names.

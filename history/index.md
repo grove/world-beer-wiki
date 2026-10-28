@@ -51,3 +51,8 @@ New evidence-based references (all retain draft status):
 - [Munich’s 1812 beer-garden ordinance in later civic memory](munich-beer-garden-1812.md) — Institutional Legal History.
 - [Qasr Ibrim barley: ancient DNA and grain diversity](qasr-ibrim-barley-ancient-dna.md) — Archaeobotanical Research Case.
 - [Sumerian beer words are not modern style labels](sumerian-beer-terms-and-uncertainty.md) — Historical Evidence Method.
+
+## Edition 1.10 — evidence-based expansion
+
+- [1972 tapé experiment: what a two-microbe starter demonstrates](tape-fermentation-laboratory-model-1972.md) — 1972 laboratory isolation and controlled reconstitution of Indonesian ragi-related rice tapé.
+- [Cerro Baúl dregs and the question of domestic Wari brewing](cerro-baul-dregs-and-state-brewing.md) — 2024 abstract on state-sponsored specialization versus domestic chicha production in Wari Moquegua.

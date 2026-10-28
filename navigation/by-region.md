@@ -351,3 +351,7 @@ These are the geographical focus labels supplied by each beer or tradition profi
 [Shangshan fermented-grain beverage](../styles/shangshan-beer.md)
 
 [All profiles](../styles/index.md) · [Home](../index.md)
+
+## Edition 1.10: related ferments and new situated cases
+
+Peru: [Yaminahua masateadas](../culture/yaminahua-masateadas-and-kinship.md), [Cusco chicherías](../culture/cusco-chicherias-maize-and-gendered-work.md), [North-coast production](../culture/north-peru-chicha-labor-and-scale.md). Indonesia: [Tapai ketan](../styles/tapai-ketan.md). Thailand: [Khao mak](../styles/khao-mak-thai-fermented-rice.md). These are additional situated references, not new national coverage counts.

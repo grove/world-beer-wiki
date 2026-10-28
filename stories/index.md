@@ -53,3 +53,8 @@ New evidence-based references (all retain draft status):
 
 - [The tablet was not the recipe](the-tablet-was-not-the-recipe.md) — Evidence-Based Beer Story.
 - [Why the beer garden became a place to bring dinner](why-beer-gardens-became-picnic-tables.md) — Evidence-Based Beer Story.
+
+## Edition 1.10 — evidence-based expansion
+
+- [The light, not the skunk: a beer aroma mystery](why-light-makes-some-beer-smell-skunky.md) — How experiments distinguish photochemical light-struck notes from ordinary hopping character.
+- [When brewery contaminant yeasts became brewing candidates](when-contaminant-yeast-became-a-low-alcohol-candidate.md) — How a 2021 isolate-screening project turned a contamination question into a selected low-alcohol fermentation hypothesis.

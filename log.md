@@ -47,3 +47,7 @@ Add 29 source-bounded subjects, 14 existing-article research extensions and 7 ne
 ## 2026-10-28 — Research edition 1.9
 
 Add 31 source-scoped subject articles, 18 source-cited updates, eight cross-category trails, an annotated source/backlink register and independent-review queue. Distinguish community accounts, archival transactions, published law debates, original bacterial isolates, grain archaeology and observational flavor associations. Extend offline QA and preserve all original URLs. [Research update](editorial/research-update-1-9.md) · [Validation](editorial/validation-report-1-9.md).
+
+## 2026-10-28 — Research edition 1.10
+
+27 evidence-bounded new subjects, 15 existing-article sourced extensions, 19 annotated source works and seven question-led trails. Adds Yaminahua and Cusco cultural cases, a specific Wari specialization hypothesis, Indonesian/Thai rice ferments, brewing alternative-grain constraints, low-alcohol microbial challenges, and lightstruck chemistry. Previous canonical paths and older review status retained; independent community and expert review remains open. See [release research update](editorial/research-update-1-10.md), [source records](references/atlas-sources-1-10.md) and [validation](editorial/validation-report-1-10.md).
