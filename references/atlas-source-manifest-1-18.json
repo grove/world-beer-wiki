@@ -1,0 +1,183 @@
+{
+  "edition": "1.18",
+  "checked_on": "2026-10-28",
+  "editorial_scope": "Beer packaging from chemistry to the consumer: quality, storage, pressure, history, material contact, regulatory dates and lifecycle boundaries. Research drafts only.",
+  "sources": [
+    {
+      "id": "v118-lca22",
+      "title": "Packaging choice and coordinated distribution logistics to reduce the environmental footprint of small-scale beer value chains (2022)",
+      "author_label": "Dyfed Rhys Morgan, David Styles and Eifiona Thomas Lane",
+      "resource": "https://pubmed.ncbi.nlm.nih.gov/35104702/",
+      "source_kind": "primary-seven-brewery-life-cycle-assessment-abstract",
+      "access_scope": "Full PubMed abstract from a seven-microbrewery LCA comparing reusable glass, aluminum cans, PET and steel kegs and distribution. The complete modeling inventory was not independently re-calculated; case and transport boundaries govern findings."
+    },
+    {
+      "id": "v118-lca24",
+      "title": "Identifying the most sustainable beer packaging through a Life Cycle Assessment (2024)",
+      "author_label": "Luca Marrucci, Tiberio Daddi and Fabio Iraldo",
+      "resource": "https://pubmed.ncbi.nlm.nih.gov/39053560/",
+      "source_kind": "primary-beer-life-cycle-assessment-abstract",
+      "access_scope": "PubMed indexed abstract of beer packaged in PET kegs, glass bottles and cans, with transport and recycled-content sensitivity analyses. Publisher full text was blocked; its favorable PET-keg result is case-specific."
+    },
+    {
+      "id": "v118-lca-reuse25",
+      "title": "Life cycle assessment of reusable food and beverage packaging systems: A proposal of good practice (2025)",
+      "author_label": "Namy Espinoza-Orias and Lars Lundquist",
+      "resource": "https://www.sciencedirect.com/science/article/abs/pii/S0959652625005578",
+      "source_kind": "reusable-packaging-lca-method-review-abstract",
+      "access_scope": "Public publisher abstract and highlights describing methodological boundary choices, food losses and the need to recheck modeled reusable systems with real operating data; not a beer-specific field measurement."
+    },
+    {
+      "id": "v118-lca-czech25",
+      "title": "Insight into environmental impacts of beer: the role of economy of scale and glass bottle challenge in international trade (2025)",
+      "author_label": "Czech brewery and malt-house life-cycle researchers",
+      "resource": "https://www.sciencedirect.com/science/article/pii/S2666784325001093",
+      "source_kind": "primary-czech-brewery-lca-abstract",
+      "access_scope": "Open published abstract/highlights on Czech brewery scales, packaging and export trade; study-specific primary data, not a universal bottle-versus-can ranking."
+    },
+    {
+      "id": "v118-ppwr25",
+      "title": "Regulation (EU) 2025/40 on packaging and packaging waste",
+      "author_label": "European Parliament and Council of the European Union",
+      "resource": "https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng",
+      "source_kind": "official-eu-primary-law",
+      "access_scope": "Official EUR-Lex act and European Commission summaries; applicable from 12 August 2026 with differing later targets, exceptions and product conditions. Full clause-by-clause compliance analysis not performed."
+    },
+    {
+      "id": "v118-ppwr-guidance26",
+      "title": "Commission Notice C/2026/3084 interpreting Regulation (EU) 2025/40 (10 June 2026)",
+      "author_label": "European Commission",
+      "resource": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026XC03084",
+      "source_kind": "official-eu-interpretive-guidance",
+      "access_scope": "Public indexed Commission guidance dated 10 June 2026 including distinction between HORECA kegs sold to venues and consumer sales packaging; detailed applicability to any actual operator not independently assessed."
+    },
+    {
+      "id": "v118-ppwr-news26",
+      "title": "New packaging rules for less waste and easier recycling (12 August 2026)",
+      "author_label": "European Commission, Directorate-General for Communication",
+      "resource": "https://commission.europa.eu/news-and-media/news/new-packaging-rules-less-waste-and-easier-recycling-2026-08-12_en",
+      "source_kind": "official-dated-government-announcement",
+      "access_scope": "Full Commission announcement of 12 August 2026 application, future recycling/reuse objectives and exclusions; a dated rule application, not evidence of an annual public festival or immediate full 2030 compliance."
+    },
+    {
+      "id": "v118-ppwr-facts",
+      "title": "Facts about the new EU rules on packaging and packaging waste",
+      "author_label": "European Commission, Directorate-General for Environment",
+      "resource": "https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste/facts-about-new-eu-rules-packaging-and-packaging-waste_en",
+      "source_kind": "official-public-policy-explainer",
+      "access_scope": "Full public Commission Q&A with packaging lifecycle, recycling, reuse, deposit and hygiene context; explanatory rather than independent legal advice or evidence a specific beer package complies."
+    },
+    {
+      "id": "v118-bpa-law",
+      "title": "Commission Regulation (EU) 2024/3190 concerning BPA and other bisphenols in food-contact articles",
+      "author_label": "European Commission",
+      "resource": "https://eur-lex.europa.eu/eli/reg/2024/3190/oj/eng",
+      "source_kind": "official-eu-food-contact-primary-law",
+      "access_scope": "Full official primary legal text, corrected and consolidated in February 2026. Some coatings and packages have transitional or derogation conditions; not a global beer-can safety judgment."
+    },
+    {
+      "id": "v118-bpa-explainer",
+      "title": "Food-contact materials: EU legislation and 2026 BPA correction",
+      "author_label": "European Commission, Directorate-General for Health and Food Safety",
+      "resource": "https://food.ec.europa.eu/food-safety/chemical-safety/food-contact-materials/legislation_en",
+      "source_kind": "official-food-contact-legislation-overview",
+      "access_scope": "Full public Commission legislation index identifying Regulation 2024/3190 and correction Regulation 2026/250; not evidence that every can has BPA or that every alternative coating is approved."
+    },
+    {
+      "id": "v118-storage25",
+      "title": "Influence of Selected Technological Conditions on the Flavour Stability of Unpasteurised Top-Fermented Craft Beer (2025)",
+      "author_label": "Giovanni De Francesco, Valeria Sileoni and Ombretta Marconi",
+      "resource": "https://link.springer.com/article/10.1007/s11947-025-03830-9",
+      "source_kind": "primary-controlled-craft-beer-storage-experiment",
+      "access_scope": "Full open paper: studied a particular unpasteurized top-fermented beer under filtration, temperature and yeast-addition conditions, with instrumental and trained-panel results. Its outcomes are not a universally valid process or storage prescription."
+    },
+    {
+      "id": "v118-aging24",
+      "title": "Factors Affecting Beer Quality During Storage – A Review (2024)",
+      "author_label": "Krystian Klimczak, Monika Cioch-Skoneczny and Aleksander Poreda",
+      "resource": "https://reference-global.com/article/10.2478/aucft-2024-0001",
+      "source_kind": "peer-reviewed-beer-aging-review-abstract",
+      "access_scope": "Public scholarly abstract summarizing beer-dependent staling chemistry, aldehydes, ester/terpene changes, storage and time; no new universal shelf-life trial."
+    },
+    {
+      "id": "v118-aldehyde25",
+      "title": "Technological strategies for controlling aldehyde formation in beer: a review of brewing-related flavour instability (2025)",
+      "author_label": "Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen",
+      "resource": "https://brewingscience.de/index.php/brewingscience/article/view/517",
+      "source_kind": "peer-reviewed-brewing-review-public-abstract",
+      "access_scope": "Full publisher page, abstract and bibliographic record (PDF linked but not independently analyzed) discussing multiple aldehyde pathways, oxidation, heat, yeast, packaging and light; not one experimental recipe."
+    },
+    {
+      "id": "v118-pulse23",
+      "title": "Effect of UV Filters during the Application of Pulsed Light to Reduce Lactobacillus brevis Contamination and 3-Methylbut-2-ene-1-thiol Formation (2023)",
+      "author_label": "Experimental pulsed-light beer research authors",
+      "resource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9955924/",
+      "source_kind": "primary-controlled-light-microbiology-experiment-indexed",
+      "access_scope": "PMC indexed abstract and selected sections covering two beer matrices, L. brevis reductions, lightstruck thiol and UV filters; direct full page blocked verification. No industrial disinfection or home sterilization protocol."
+    },
+    {
+      "id": "v118-photochem05",
+      "title": "Photooxidative degradation of beer bittering principles: a key step on the route to lightstruck flavor formation in beer (2005)",
+      "author_label": "K. Huvaere and colleagues",
+      "resource": "https://hero.epa.gov/reference/482281/",
+      "source_kind": "primary-mechanistic-chemistry-abstract",
+      "access_scope": "EPA HERO bibliographic record and abstract of radical-spin-trapping study of hop-derived bittering compounds and excited riboflavin; no finished-beer packaging performance or sensory panel examined."
+    },
+    {
+      "id": "v118-ba-fresh24",
+      "title": "Beer Freshness Series (2024)",
+      "author_label": "Brewers Association Quality Subcommittee",
+      "resource": "https://www.brewersassociation.org/playlist/beer-freshness-series/",
+      "source_kind": "industry-quality-guidance-landing-page",
+      "access_scope": "Full public resource description introducing oxygen sensors and freshness across brewing, cellaring and packaging; detailed articles require member login, so operating targets are not inferred."
+    },
+    {
+      "id": "v118-ebc-tpo",
+      "title": "EBC 11.5.1: Total dissolved and headspace oxygen in packaged beer",
+      "author_label": "Analytica EBC / Brewers of Europe",
+      "resource": "https://dev.brewup.brewersofeurope.eu/ebc-analytica/packaging-and-packaging-materials/total-dissolved-and-headspace-oxygen-in-packaged-beer/11.5.1",
+      "source_kind": "official-method-index-entry",
+      "access_scope": "Search-indexed method summary (direct site returned 503) listing both dissolved and headspace phases for bottle, can, keg and cask. Complete normative method unavailable; no universal oxygen specification claimed."
+    },
+    {
+      "id": "v118-ba-pressure26",
+      "title": "Preventing Package Over-Pressurization (1 February 2026)",
+      "author_label": "Brewers Association",
+      "resource": "https://www.brewersassociation.org/educational-publications/preventing-package-over-pressurization/",
+      "source_kind": "industry-safety-guidance-overview",
+      "access_scope": "Full public BA description of hazards from unintended package refermentation and producer responsibility; detailed linked download not examined, no pressure or priming instructions given."
+    },
+    {
+      "id": "v118-patent1892",
+      "title": "US Patent 468,226: Bottle-sealing device (2 February 1892)",
+      "author_label": "William Painter; United States Patent Office",
+      "resource": "https://patents.google.com/patent/US468226A/en",
+      "source_kind": "primary-dated-patent-text",
+      "access_scope": "Public US patent bibliographic record and original specification for a crimped metallic crown and compressible liner; grant date is an archival date, not the first beer-bottling date or yearly festival."
+    },
+    {
+      "id": "v118-crown-history",
+      "title": "Crown Cork & Seal corporate history",
+      "author_label": "Crown Holdings Inc.",
+      "resource": "https://www.crowncork.com/about/history",
+      "source_kind": "producer-corporate-chronology",
+      "access_scope": "Full public manufacturer-authored chronology of Painter's 1892 cap, 1898 automation and company development; producer history is not independent proof of every industry's practices."
+    },
+    {
+      "id": "v118-smithsonian-can",
+      "title": "American Beer Can with Handle, NMAH nmah_867074",
+      "author_label": "Smithsonian National Museum of American History",
+      "resource": "https://americanhistory.si.edu/collections/object/nmah_867074",
+      "source_kind": "museum-object-and-archival-context",
+      "access_scope": "Public museum object catalogue: American Brewery, Inc., Baltimore; Continental Can; handle and Walter Voigt collection, historical business context. Museum images carry rights conditions; no image copied."
+    },
+    {
+      "id": "v118-asme-crown",
+      "title": "Crown Cork and Soda Filling Machine, ASME Landmark 174",
+      "author_label": "American Society of Mechanical Engineers",
+      "resource": "https://www.asme.org/about-asme/engineering-history/landmarks/174-crown-cork-and-soda-filling-machine",
+      "source_kind": "engineering-heritage-summary",
+      "access_scope": "Public ASME engineering landmark record linking Painter's 2 February 1892 cap patent to later machines; industrial heritage source, not independent sensory tests."
+    }
+  ]
+}
