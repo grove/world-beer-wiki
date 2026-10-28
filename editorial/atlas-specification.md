@@ -9,14 +9,14 @@ tags:
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.15
+  by: world-beer-wiki/1.16
   at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.10'
-implementation_status: research-edition-1.15
+specification_version: '1.11'
+implementation_status: research-edition-1.16
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -910,11 +910,64 @@ work_items:
   - tests/test_research_quality_v115.py
   delivered_scope: Nineteen new scoped subjects, thirteen sourced revisions, sixteen distinct works and seventy-six article-source placements, with independent review explicitly unperformed.
 
+- id: ATLAS-105
+  title: Standardized color, bitterness, malt and hop analytical interpretation
+  state: implemented
+  paths:
+  - categories/beer-metrics-versus-beverage-identity.md
+  - ingredients/hop-bitter-fractions-and-analytical-signals.md
+  - processes/beer-colour-measurement.md
+  - processes/bitterness-units-and-hop-chemistry.md
+  - stories/two-beers-one-ibu.md
+  delivered_scope: Distinguish analytical methods, sensory outcomes, predicted and measured quantities without treating IBUs or SRM as universal taste or cultural rankings.
+- id: ATLAS-106
+  title: Gravity, acidity, microbiological inference and sample-stage distinctions
+  state: implemented
+  paths:
+  - objects/hydrometers-and-reading-conditions.md
+  - processes/gravity-extract-and-estimated-alcohol.md
+  - processes/ph-versus-titratable-acidity.md
+  - microbiology/fermentation-timepoints-and-inference.md
+  - categories/acidity-ph-ta-and-sourness.md
+  delivered_scope: Clarify instrument stage, pH versus acidity, apparent extract versus alcohol and why process curves do not identify organisms or certify safety.
+- id: ATLAS-107
+  title: Richardson-era extract measurement, instruments and culturally situated authority
+  state: implemented
+  paths:
+  - history/richardson-saccharometry-and-extract.md
+  - objects/saccharometer-in-the-museum.md
+  - culture/brewing-numbers-and-institutional-authority.md
+  - history/from-lovibond-comparisons-to-srm.md
+  delivered_scope: Use historical academic abstract, 1784 publication catalogue and circa-1830 museum object without inventing chronology, community consensus or an exact festival date.
+- id: ATLAS-108
+  title: Sensory discrimination, consumer preferences, appearance, environment and food
+  state: implemented
+  paths:
+  - sensory/triangle-tests-for-beer.md
+  - sensory/beer-colour-in-a-glass.md
+  - categories/difference-tests-versus-quality-scores.md
+  - food/difference-tests-do-not-rank-pairings.md
+  - environment/analytical-consistency-is-not-a-life-cycle-footprint.md
+  delivered_scope: Separate blinded detectability, colour expectation, quality scores, pairing preference and life-cycle functional units.
+- id: ATLAS-109
+  title: Edition 1.16 integration, source manifest consistency and reproducible release
+  state: implemented
+  paths:
+  - references/atlas-source-manifest-1-16.json
+  - references/atlas-sources-1-16.md
+  - navigation/edition-1-16-reading-trails.md
+  - editorial/research-update-1-16.md
+  - editorial/validation-report-1-16.md
+  - editorial/source-review-queue-1-16.md
+  - tools/build_edition_sources.py
+  - tests/test_research_quality_v116.py
+  delivered_scope: Twenty-three new references, sixteen sourced canonical revisions, nineteen audited external works and ninety-four article-to-source placements with regression and continuous integration checks.
+
 ---
 
 # World Beer Atlas expansion specification
 
-**Specification 1.10 · research deliverables tracked through edition 1.15 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.11 · research deliverables tracked through edition 1.16 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
 
 The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
@@ -1153,3 +1206,9 @@ The 2025 industrial yeast experiment tests particular production-scale factor ra
 **19 new source-scoped subjects and 13 cited revisions** extend the atlas to 662 articles, tracked by ATLAS-101–104. This release compares TTB federal legal classes with independent BJCP judging terminology, archives a 20 August 1991 ATF marketing circular as an exact non-recurring historical event, and treats England's 2023 policy consultation as a proposal rather than present law. It separates package CO2 and a one-lager bubble model from glassware service cues, and distinguishes site water-use ratios from water-footprint accounting and product safety evidence.
 
 The [release report](research-update-1-15.md), [16-work source register](../references/atlas-sources-1-15.md), [open review queue](source-review-queue-1-15.md), [seven trails](../navigation/edition-1-15-reading-trails.md) and [validation record](validation-report-1-15.md) describe the actual deliverables. **ATLAS-012 remains planned**, with external cultural, regulatory, brewing, historical and microbiological review not performed. Media and live event discovery remain deferred.
+
+## 21. Edition 1.16 — evidence for what beer measurements can mean
+
+**23 new articles and 16 source-backed revisions** extend the atlas to 685 subjects across 13 sections. ATLAS-105–109 track only finite research and tooling deliverables. These are not five new universal claims about brewing cultures or a count of officially defined beer styles. Modern ASBC colour/bitterness/pH/TA method summaries, indexed laboratory protocols and academic chemistry reviews are unlike a tasting-panel preference or a historical community description. A published IBU result is not a sensory score; a laboratory pH does not certify product safety; an SRM sample is not the entire glass appearance.
+
+The 1784 Richardson source is a bibliographic year, the museum object is dated approximately 1825–1835, and the full historical article was not accessed. Neither record becomes a fabricated annual calendar event or local endorsement. ISO 4120:2021's public abstract, confirmed current in 2026, explains a forced-choice method but is not the complete paywalled normative procedure. Source limits and unperformed independent review remain explicit in the [source manifest](../references/atlas-sources-1-16.md), [review queue](source-review-queue-1-16.md), [research update](research-update-1-16.md) and [eight reading trails](../navigation/edition-1-16-reading-trails.md). ATLAS-012 is **planned**; media and live discovery remain **deferred**.
