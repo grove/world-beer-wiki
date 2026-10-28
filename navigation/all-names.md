@@ -5,8 +5,8 @@ description: Every canonical subject title and explicitly declared alias across 
 tags: [wiki-documentation, navigation, aliases]
 status: draft
 generated:
-  by: world-beer-wiki/1.14
-  at: '2026-10-28T09:30:00Z'
+  by: world-beer-wiki/1.15
+  at: '2026-10-28T12:00:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -24,6 +24,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 |---|---|---|---|
 | 1516 Bavarian brewing rules and the later Reinheitsgebot identity | [1516 Bavarian brewing rules and the later Reinheitsgebot identity](../history/bavarian-purity-law-and-its-afterlife.md) | Historical Policy Case Study | canonical title |
 | 1972 tapé experiment: what a two-microbe starter demonstrates | [1972 tapé experiment: what a two-microbe starter demonstrates](../history/tape-fermentation-laboratory-model-1972.md) | History of Fermentation Science | canonical title |
+| 20 August 1991: ATF circular on non-alcoholic malt beverage marketing | [20 August 1991: ATF circular on non-alcoholic malt beverage marketing](../calendar/atf-nonalcoholic-marketing-circular-1991.md) | Dated Historical Brewing Event | canonical title |
 | 5 October 1842: first batch at the Pilsen Burghers Brewery | [5 October 1842: first batch at the Pilsen Burghers Brewery](../calendar/first-pilsen-batch-1842.md) | Dated Historical Brewing Event | canonical title |
 | 60-shilling ale | [Scottish Light](../styles/scottish-light.md) | Beer Style | article-scoped alias |
 | 60/- | [Scottish Light](../styles/scottish-light.md) | Beer Style | article-scoped alias |
@@ -31,13 +32,18 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | 70/- | [Scottish Heavy](../styles/scottish-heavy.md) | Beer Style | article-scoped alias |
 | 80-shilling ale | [Scottish Export](../styles/scottish-export.md) | Beer Style | article-scoped alias |
 | 80/- | [Scottish Export](../styles/scottish-export.md) | Beer Style | article-scoped alias |
+| A 1991 US marketing circular and the limits of regulatory continuity | [A 1991 US marketing circular and the limits of regulatory continuity](../history/from-1991-atf-circular-to-current-guidance.md) | Historical Source Interpretation | canonical title |
 | A bacterium can be welcome in one beer and spoil another | [A bacterium can be welcome in one beer and spoil another](../stories/when-a-bacterium-is-welcome-and-when-it-is-not.md) | Evidence-Based Beer Story | canonical title |
 | A beer can change between brewery and glass | [A beer can change between brewery and glass](../sensory/draught-service-vs-brewery-flavor.md) | Sensory Service Context | canonical title |
+| A brewery water-use ratio is not a product water footprint | [A brewery water-use ratio is not a product water footprint](../environment/brewery-water-ratio-versus-water-footprint.md) | Environment and Water Accounting Reference | canonical title |
 | A closed-loop brewery claim is not a universal LCA result | [A closed-loop brewery claim is not a universal LCA result](../environment/brewery-closed-loop-case-vs-general-rule.md) | Industrial Environmental Case Interpretation | canonical title |
+| A declared ABV does not reveal how a beer was made | [A declared ABV does not reveal how a beer was made](../processes/abv-labels-do-not-describe-process.md) | Brewing Process and Classification Guide | canonical title |
 | A family yeast is not one genome | [A family yeast is not one genome](../stories/the-family-culture-is-not-a-single-genome.md) | Evidence-Based Beer Story | canonical title |
 | A fruity beer does not identify its hop | [A fruity beer does not identify its hop](../stories/why-fruity-beer-does-not-identify-the-hop.md) | Evidence-Based Brewing Story | canonical title |
+| A regulated beer name is not a judging style | [A regulated beer name is not a judging style](../categories/jurisdictional-beer-names-vs-styles.md) | Beer Category Guide | canonical title |
 | A sampled ferment is not a population of brewers | [A sampled ferment is not a population of brewers](../categories/study-sample-vs-living-tradition.md) | Research Method Category Guide | canonical title |
 | A starter cake is not a strain catalogue | [A starter cake is not a strain catalogue](../stories/a-cake-is-a-community-not-a-strain.md) | Research Story | canonical title |
+| A stream of beer bubbles can have two different explanations | [A stream of beer bubbles can have two different explanations](../stories/two-causes-of-bubbles-in-glass.md) | Evidence-Based Beer Story | canonical title |
 | A Taiwanese millet ferment: 147 lactic-acid-bacterial isolates | [A Taiwanese millet ferment: 147 lactic-acid-bacterial isolates](../microbiology/taiwan-millet-starter-lab-study.md) | Microbiology Research Reference | canonical title |
 | Abydos vats, fire legs and stoke holes | [Abydos vats, fire legs and stoke holes](../objects/abydos-vats-and-fire-legs.md) | Archaeological Brewing Object | canonical title |
 | Acetic acid bacteria in a brewing ecosystem | [Acetic acid bacteria in a brewing ecosystem](../microbiology/acetic-acid-bacteria.md) | Microorganism Group Reference | canonical title |
@@ -106,6 +112,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Beer antioxidant compounds: chemical stability versus health claims | [Beer antioxidant compounds: chemical stability versus health claims](../ingredients/beer-antioxidants-versus-health-claims.md) | Brewing Chemistry Ingredient Research Case | canonical title |
 | Beer as intangible cultural heritage, not just a style | [Beer as intangible cultural heritage, not just a style](../categories/beer-as-intangible-heritage.md) | Category Guide | canonical title |
 | Beer bottles as light barriers and flavor environments | [Beer bottles as light barriers and flavor environments](../objects/beer-bottles-and-light-barriers.md) | Material Culture and Brewing Object | canonical title |
+| Beer bubble counts: a model is not a universal sensory score | [Beer bubble counts: a model is not a universal sensory score](../sensory/beer-bubbles-and-model-boundaries.md) | Sensory and Physical Chemistry Reference | canonical title |
 | Beer culture in Belgium as living heritage | [Beer culture in Belgium as living heritage](../culture/belgian-beer-as-living-heritage.md) | Cultural Heritage Case | canonical title |
 | Beer engine: a hand pump and its social setting | [Beer engine: a hand pump and its social setting](../objects/beer-engine.md) | Brewing Object Reference | canonical title |
 | Beer haze: intentional appearance or instability? | [Beer haze: intentional appearance or instability?](../sensory/beer-haze-and-clarity.md) | Sensory Reference | canonical title |
@@ -117,6 +124,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Beer, agriculture and environmental trade-offs | [Beer, agriculture and environmental trade-offs](../categories/beer-environment-and-agriculture.md) | Categories Reference | canonical title |
 | Beer, food and sensory context | [Beer, food and sensory context](../categories/beer-food-and-sensory-context.md) | Categories Reference | canonical title |
 | Beer, work, markets, monasteries and the pub | [Beer, work, markets, monasteries and the pub](../categories/beer-and-social-institutions.md) | Category Guide | canonical title |
+| Beer-clean glassware: residue, foam and service | [Beer-clean glassware: residue, foam and service](../objects/beer-clean-glassware.md) | Serving Object and Quality Reference | canonical title |
 | Belgian beer heritage and how skills travel | [Belgian beer heritage and how skills travel](../culture/belgian-beer-learning-networks.md) | Cultural Heritage Learning Case | canonical title |
 | Belgian beer heritage inscription: a dated institutional milestone | [Belgian beer heritage inscription: a dated institutional milestone](../history/beer-cultural-heritage-2016.md) | Historical Heritage Event | canonical title |
 | Belgian Blond Ale | [Belgian Blond Ale](../styles/belgian-blond-ale.md) | Beer Style | canonical title |
@@ -258,6 +266,8 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Did brewing come before farming? A question from Raqefet Cave | [Did brewing come before farming? A question from Raqefet Cave](../stories/was-beer-before-farming.md) | Evidence-based Archaeology Story | canonical title |
 | Did one brewer invent porter in a single afternoon? | [Did one brewer invent porter in a single afternoon?](../stories/the-porter-invention-story.md) | Evidence-based Beer Story | canonical title |
 | DIPA | [Double IPA](../styles/double-ipa.md) | Beer Style | article-scoped alias |
+| Direct and indirect water in brewing supply chains | [Direct and indirect water in brewing supply chains](../environment/direct-and-indirect-water-in-brewing.md) | Environment and Supply-Chain Research Guide | canonical title |
+| Dissolved carbon dioxide: gas, ingredient and serving condition | [Dissolved carbon dioxide: gas, ingredient and serving condition](../ingredients/dissolved-carbon-dioxide-in-beer.md) | Ingredient and Physical Chemistry Reference | canonical title |
 | DMS and cooked-cereal aroma: precursor, process and perception | [DMS and cooked-cereal aroma: precursor, process and perception](../sensory/dms-and-cooked-cereal.md) | Sensory Reference | canonical title |
 | Dolo | [Dolo](../styles/dolo.md) | Beer Tradition | canonical title |
 | Dolo and women's brewing livelihoods | [Dolo and women's brewing livelihoods](../culture/dolo-and-womens-livelihoods.md) | Cultural Economy | canonical title |
@@ -323,6 +333,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Flavor detective — aroma is not an ingredient | [Flavor detective — aroma is not an ingredient](../sensory/aroma-is-not-an-ingredient.md) | Sensory Reasoning Guide | canonical title |
 | Flemish brown ale | [Oud Bruin](../styles/oud-bruin.md) | Beer Style | article-scoped alias |
 | Flemish red ale | [Flanders Red Ale](../styles/flanders-red-ale.md) | Beer Style | article-scoped alias |
+| Foam lacing, glass residue and competing explanations | [Foam lacing, glass residue and competing explanations](../sensory/foam-lacing-and-residues.md) | Sensory and Service Quality Guide | canonical title |
 | Foam, aging and aroma: interpreting beer sensory evidence | [Foam, aging and aroma: interpreting beer sensory evidence](../categories/beer-foam-aging-and-aroma-misconceptions.md) | Beer Category Guide | canonical title |
 | Footprint estimates from surveyed Mexican microbreweries | [Footprint estimates from surveyed Mexican microbreweries](../environment/mexican-microbrewery-footprint-case.md) | Environmental Case Study | canonical title |
 | Foreign Extra Stout | [Foreign Extra Stout](../styles/foreign-extra-stout.md) | Beer Style | canonical title |
@@ -333,6 +344,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | From botanical starter to shared jar: rượu cần stages | [From botanical starter to shared jar: rượu cần stages](../processes/ruou-can-starter-jar-and-service.md) | Situated Brewing Process Explanation | canonical title |
 | From field to glass: five distinct evidence layers | [From field to glass: five distinct evidence layers](../categories/from-field-to-glass-evidence-chain.md) | Cross-domain Evidence Navigation Guide | canonical title |
 | From keg to glass: draught-system quality | [From keg to glass: draught-system quality](../processes/draught-quality-from-keg-to-glass.md) | Draught Service Process Reference | canonical title |
+| From packaged CO2 to bubbles in a glass | [From packaged CO2 to bubbles in a glass](../processes/carbonation-from-bottle-to-glass.md) | Brewing and Service Process Research | canonical title |
 | Fruit | [Fruit](../ingredients/fruit.md) | Ingredient Reference | canonical title |
 | Fruit beer | [Fruit beer](../styles/fruit-beer.md) | Specialty Beer Category | canonical title |
 | Fruit Lambic | [Fruit Lambic](../styles/fruit-lambic.md) | Beer Style | canonical title |
@@ -504,6 +516,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Low-alcohol beer | [Low- and no-alcohol beers](../categories/low-and-no-alcohol-beers.md) | Beer Category Guide | article-scoped alias |
 | Low-alcohol beer: energy, water and processing boundaries | [Low-alcohol beer: energy, water and processing boundaries](../environment/low-alcohol-beer-processing-tradeoffs.md) | Environmental Comparative Research Guide | canonical title |
 | Low-alcohol cereal ferments: boza, kvass, mahewu and beer | [Low-alcohol cereal ferments: boza, kvass, mahewu and beer](../categories/low-alcohol-cereal-ferment-boundaries.md) | Comparative Category Guide | canonical title |
+| Low-alcohol microbiological hurdles are not labeling thresholds | [Low-alcohol microbiological hurdles are not labeling thresholds](../microbiology/nolo-hurdles-are-not-label-rules.md) | Microbiology and Evidence Research Reference | canonical title |
 | Ma rượu cần in Lam Dong: jars, straws and occasions | [Ma rượu cần in Lam Dong: jars, straws and occasions](../culture/ma-ruou-can-in-lam-dong.md) | Institutional Cultural Case | canonical title |
 | Maerzen | [Märzen](../styles/marzen.md) | Beer Style | article-scoped alias |
 | Mahewu (amahewu) | [Mahewu (amahewu)](../styles/mahewu.md) | Related Ferment Profile | canonical title |
@@ -536,6 +549,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Merissa — Sudanese sorghum brewing | [Merissa — Sudanese sorghum brewing](../styles/merissa.md) | Beer Tradition | canonical title |
 | Mesopotamian beer as an administered resource | [Mesopotamian beer as an administered resource](../culture/mesopotamian-beer-and-administration.md) | Archival Social History | canonical title |
 | Microbial succession and the limits of a species list | [Microbial succession and the limits of a species list](../microbiology/microbial-succession.md) | Fermentation Ecology Reference | canonical title |
+| Microscopic nucleation sites in a beer glass | [Microscopic nucleation sites in a beer glass](../objects/glass-surface-nucleation-sites.md) | Serving Object and Physical Chemistry Reference | canonical title |
 | Mijiaya beer | [Mijiaya fermented-grain beverage](../styles/mijiaya-beer.md) | Archaeological Brewing Evidence | article-scoped alias |
 | Mijiaya fermented-grain beverage | [Mijiaya fermented-grain beverage](../styles/mijiaya-beer.md) | Archaeological Brewing Evidence | canonical title |
 | Mild ale | [Dark Mild](../styles/dark-mild.md) | Beer Style | article-scoped alias |
@@ -572,6 +586,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Nihonshu | [Sake](../styles/sake.md) | Related Fermented-Grain Tradition | article-scoped alias |
 | Nitrogenated beer, foam and visual perception | [Nitrogenated beer, foam and visual perception](../sensory/nitrogen-and-foam.md) | Sensory Reference | canonical title |
 | Nitrogenated draught beer and bubble cascades | [Nitrogenated draught beer and bubble cascades](../objects/nitrogenated-draught-and-bubbles.md) | Objects Reference | canonical title |
+| No- and low-alcohol descriptors across borders | [No- and low-alcohol descriptors across borders](../categories/no-low-alcohol-descriptors-across-borders.md) | Beer Category Guide | canonical title |
 | NoLo beers | [Low- and no-alcohol beers](../categories/low-and-no-alcohol-beers.md) | Beer Category Guide | article-scoped alias |
 | Non-alcoholic beer | [Low- and no-alcohol beers](../categories/low-and-no-alcohol-beers.md) | Beer Category Guide | article-scoped alias |
 | Non-alcoholic beer: method, aroma and microbial hurdles | [Non-alcoholic beer: method, aroma and microbial hurdles](../categories/nonalcoholic-beer-methods-and-safety.md) | Cross-Cutting Beer Category Guide | canonical title |
@@ -643,6 +658,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Raqefet Cave and the possibility of Natufian feast beer | [Raqefet Cave and the possibility of Natufian feast beer](../history/raqefet-cave-brewing-evidence.md) | Archaeological Case Study | canonical title |
 | Rauchbier | [Rauchbier](../styles/rauchbier.md) | Beer Style | canonical title |
 | Raw ale and unboiled wort | [Raw ale and unboiled wort](../processes/raw-ale.md) | Brewing Process Reference | canonical title |
+| Reading alcohol descriptors on a beer menu | [Reading alcohol descriptors on a beer menu](../food/alcohol-descriptors-on-a-menu.md) | Food, Hospitality and Label Research Guide | canonical title |
 | Reading the 2024 southern Assam rice-ferment microbiome survey | [Reading the 2024 southern Assam rice-ferment microbiome survey](../microbiology/assam-rice-ferment-sampling.md) | Microbial Study Interpretation | canonical title |
 | Red IPA | [Red IPA](../styles/red-ipa.md) | Beer Style | canonical title |
 | Removing alcohol: thermal and membrane methods | [Removing alcohol: thermal and membrane methods](../processes/thermal-and-membrane-dealcoholisation.md) | Brewing Process Reference | canonical title |
@@ -792,6 +808,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Tupinambá of Olivença and fermented cassava food | [Tupinambá of Olivença and fermented cassava food](../culture/tupinamba-olivenca-and-fermented-food.md) | Cultural and Community Research Case | canonical title |
 | Two approaches to starch conversion in Early Neolithic China | [Two approaches to starch conversion in Early Neolithic China](../history/early-neolithic-malts-and-starters.md) | History Reference | canonical title |
 | Two current judging frameworks, not one world beer taxonomy | [Two current judging frameworks, not one world beer taxonomy](../categories/bjcp-2021-versus-ba-2026.md) | Comparative Category Guide | canonical title |
+| Two federal US definitions: beer and malt beverage | [Two federal US definitions: beer and malt beverage](../history/us-beer-vs-malt-beverage-definitions.md) | Historical and Regulatory Research Reference | canonical title |
 | Two routes to banana aroma: fruit and fermentation esters | [Two routes to banana aroma: fruit and fermentation esters](../sensory/banana-fruit-vs-yeast-esters.md) | Sensory Comparison Reference | canonical title |
 | Two-row and six-row barley: a trait is not an origin story | [Two-row and six-row barley: a trait is not an origin story](../ingredients/barley-row-type-and-brewing-assumptions.md) | Agricultural Ingredient Reference | canonical title |
 | U.S. Prohibition and the reshaping of beer production | [U.S. Prohibition and the reshaping of beer production](../history/us-prohibition-and-brewing-change.md) | Historical Policy Case Study | canonical title |
@@ -843,7 +860,9 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | When hop kilns became heritage buildings | [When hop kilns became heritage buildings](../history/from-oast-to-preserved-building.md) | Industrial Building Heritage History | canonical title |
 | Where mahewu microorganisms came from in a 2019 study | [Where mahewu microorganisms came from in a 2019 study](../microbiology/mahewu-malt-origin.md) | Fermentation Microbiology Research Case | canonical title |
 | White IPA | [White IPA](../styles/white-ipa.md) | Beer Style | canonical title |
+| Who gets to define beer? Institutions and situated vocabularies | [Who gets to define beer? Institutions and situated vocabularies](../culture/institutional-vocabularies-of-beer.md) | Culture and Institutions Reference | canonical title |
 | Who is missing from brewing archives? | [Who is missing from brewing archives?](../history/beer-records-and-archival-silence.md) | Historical Research | canonical title |
+| Why 0.0 on a beer label needs a jurisdiction | [Why 0.0 on a beer label needs a jurisdiction](../stories/zero-zero-is-not-a-global-definition.md) | Evidence-Based Beer Story | canonical title |
 | Why a fermented drink is not a water-safety certificate | [Why a fermented drink is not a water-safety certificate](../stories/fermentation-is-not-a-water-treatment.md) | Evidence-Based Research Story | canonical title |
 | Why a scientific sample is not a universal tasting profile | [Why a scientific sample is not a universal tasting profile](../sensory/research-samples-are-not-a-style-taste.md) | Sensory Research Guide | canonical title |
 | Why beer ages without a single culprit | [Why beer ages without a single culprit](../stories/why-beer-ages-without-a-single-culprit.md) | Science Story | canonical title |
@@ -882,4 +901,4 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | 日本酒 | [Sake](../styles/sake.md) | Related Fermented-Grain Tradition | article-scoped alias |
 | 막걸리 | [Makgeolli](../styles/makgeolli.md) | Related Fermented-Grain Tradition | article-scoped alias |
 
-**859 name records** across 13 reference sections. [All atlas subjects](all-atlas-subjects.md) · [Research method](../editorial/methodology.md).
+**878 name records** across 13 reference sections. [All atlas subjects](all-atlas-subjects.md) · [Research method](../editorial/methodology.md).

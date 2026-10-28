@@ -5,8 +5,8 @@ description: Automatically maintained index of all named subject articles in eve
 tags: [wiki-navigation, subjects]
 status: draft
 generated:
-  by: world-beer-wiki/1.14
-  at: '2026-10-28T08:00:00Z'
+  by: world-beer-wiki/1.15
+  at: '2026-10-28T12:00:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -24,7 +24,7 @@ in this list.
 Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 
 
-**643 canonical subject articles · 13 reference sections · research edition 1.14.**
+**662 canonical subject articles · 13 reference sections · research edition 1.15.**
 
 
 ## Styles (191)
@@ -224,7 +224,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Zu — Hmar rice-based ferment in southern Assam](../styles/zu-hmar.md) | Local Fermented Beverage Profile | Assam, India |
 | [Zutho](../styles/zutho.md) | Beer Tradition | South Asia, India |
 
-## Ingredients (64)
+## Ingredients (65)
 
 
 | Subject | Kind | Region / scope hint |
@@ -246,6 +246,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Cassava](../ingredients/cassava.md) | Ingredient Reference | Cross-regional |
 | [Citrus peel and citrus-like aroma](../ingredients/citrus-peel.md) | Ingredient Reference | — |
 | [Coriander seed in spiced beer](../ingredients/coriander.md) | Ingredient Reference | — |
+| [Dissolved carbon dioxide: gas, ingredient and serving condition](../ingredients/dissolved-carbon-dioxide-in-beer.md) | Ingredient and Physical Chemistry Reference | Cross-regional |
 | [Dried hops: crop form, moisture and brewing identity](../ingredients/dried-hops-and-harvest-form.md) | Ingredient Handling and Material Reference | England |
 | [Ferulic acid in wort and phenolic brewing aromas](../ingredients/ferulic-acid-in-wort.md) | Ingredient Chemistry Reference | Cross-regional |
 | [Finger millet in mbege and kodo ko jaanr](../ingredients/finger-millet-in-traditional-ferments.md) | Ingredient Reference | Tanzania, India |
@@ -294,11 +295,12 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Wheat qu in Chinese Huangjiu](../ingredients/wheat-qu-and-huangjiu.md) | Fermentation Starter Ingredient Reference | China |
 | [Yarrow and the uncertainty of historical herb blends](../ingredients/yarrow.md) | Ingredient Reference | Europe |
 
-## Categories (40)
+## Categories (42)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
+| [A regulated beer name is not a judging style](../categories/jurisdictional-beer-names-vs-styles.md) | Beer Category Guide | Cross-regional |
 | [A sampled ferment is not a population of brewers](../categories/study-sample-vs-living-tradition.md) | Research Method Category Guide | Cross-regional |
 | [Agave, cassava and cereal ferments: distinct knowledge systems](../categories/agave-cassava-and-cereal-ferments.md) | Category Guide | Cross-regional |
 | [An intangible-heritage inscription is not a beer style](../categories/heritage-inscription-is-not-a-style.md) | Beer Classification and Heritage Guide | Cross-regional |
@@ -325,6 +327,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Lagers and cold-conditioned beers](../categories/lagers-and-cold-conditioning.md) | Beer Category Guide | — |
 | [Low- and no-alcohol beers](../categories/low-and-no-alcohol-beers.md) | Beer Category Guide | International |
 | [Low-alcohol cereal ferments: boza, kvass, mahewu and beer](../categories/low-alcohol-cereal-ferment-boundaries.md) | Comparative Category Guide | Cross-regional |
+| [No- and low-alcohol descriptors across borders](../categories/no-low-alcohol-descriptors-across-borders.md) | Beer Category Guide | Cross-regional |
 | [Non-alcoholic beer: method, aroma and microbial hurdles](../categories/nonalcoholic-beer-methods-and-safety.md) | Cross-Cutting Beer Category Guide | Cross-regional |
 | [Opaque cereal beers and fermented cereal food-drinks](../categories/cereal-beer-versus-fermented-cereal-drink.md) | Comparative Category Guide | East Africa, West Africa |
 | [Porter and stout](../categories/porter-and-stout.md) | Beer Category Guide | — |
@@ -340,7 +343,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [When fermentation surveys disagree about the yeast](../categories/yeast-survey-method-disagreements.md) | Microbiology Evidence Comparison Guide | Benin, Côte d'Ivoire |
 | [When fermented food is compared with beer](../categories/fermented-food-and-beer-boundaries.md) | Cross-Cutting Fermentation Classification Guide | Cross-regional |
 
-## Culture (64)
+## Culture (65)
 
 
 | Subject | Kind | Region / scope hint |
@@ -405,16 +408,18 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Tupinambá of Olivença and fermented cassava food](../culture/tupinamba-olivenca-and-fermented-food.md) | Cultural and Community Research Case | Brazil, Bahia |
 | [Umqombothi, ancestors and shared work](../culture/umqombothi-and-shared-social-work.md) | Cultural and Community Research Case | South Africa |
 | [Wari brewing, feasts and unequal access](../culture/wari-brewing-and-state-hospitality.md) | Cultural Case Study | Andes, Peru |
+| [Who gets to define beer? Institutions and situated vocabularies](../culture/institutional-vocabularies-of-beer.md) | Culture and Institutions Reference | United States, Cross-regional |
 | [Women brewing pito: an Upper West Ghana survey](../culture/ghana-pito-women-enterprise-survey.md) | Brewing Livelihood Research | Ghana, Upper West Region |
 | [Yaminahua masateadas: hospitality, connection and tension](../culture/yaminahua-masateadas-and-kinship.md) | Situated Ethnographic Culture Case | Peru |
 | [Zoigl communal brewing and rotating hospitality](../culture/zoigl-communal-brewing.md) | Cultural Practice | Europe, Germany |
 | [ÉPOP and Mising starter knowledge](../culture/mising-starter-knowledge.md) | Cultural Practice | South Asia, India |
 
-## Calendar (24)
+## Calendar (25)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
+| [20 August 1991: ATF circular on non-alcoholic malt beverage marketing](../calendar/atf-nonalcoholic-marketing-circular-1991.md) | Dated Historical Brewing Event | United States |
 | [5 October 1842: first batch at the Pilsen Burghers Brewery](../calendar/first-pilsen-batch-1842.md) | Dated Historical Brewing Event | Czechia, Pilsen |
 | [Ali-Aye-Ligang and the Mising agricultural calendar](../calendar/ali-aye-ligang.md) | Recurring Festival Reference | South Asia, India |
 | [Aludi and Georgian mountain summer gatherings](../calendar/aludi-summer-gatherings.md) | Seasonal Brewing Practice | Georgia, Georgian highlands |
@@ -440,7 +445,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Sahti occasions: weddings and funerals, not a fixed festival date](../calendar/sahti-occasions-without-a-fixed-date.md) | Occasion and Calendar Interpretation | Finland |
 | [Toer de Geuze and collaborative lambic culture](../calendar/toer-de-geuze.md) | Festival Reference | Europe, Belgium |
 
-## Microbiology (59)
+## Microbiology (60)
 
 
 | Subject | Kind | Region / scope hint |
@@ -470,6 +475,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Lactobacillus brevis: a strain-specific beer-spoilage example](../microbiology/lactobacillus-brevis-beer.md) | Microorganism Mechanism | Cross-regional |
 | [Lager yeast and hybrid ancestry](../microbiology/lager-yeast-hybrids.md) | Microorganism Reference | — |
 | [Lager yeast viability in a large-tank experiment](../microbiology/industrial-lager-yeast-viability.md) | Industrial Microbiology Experiment | Poland, Industrial brewing |
+| [Low-alcohol microbiological hurdles are not labeling thresholds](../microbiology/nolo-hurdles-are-not-label-rules.md) | Microbiology and Evidence Research Reference | Cross-regional |
 | [Mahewu starter cultures in a 2026 controlled study](../microbiology/mahewu-starter-cultures-2026.md) | Fermentation Microbiology Research Case | Zimbabwe, Experimental laboratory |
 | [Makgeolli microbes change as fermentation proceeds](../microbiology/makgeolli-time-course-not-one-snapshot.md) | Microbial Fermentation Study | South Korea |
 | [Maltose-negative yeasts in low-alcohol brewing](../microbiology/maltose-negative-yeast-and-low-alcohol.md) | Microorganism Reference | Cross-regional |
@@ -505,11 +511,12 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Yeast flocculation and sedimentation](../microbiology/yeast-flocculation.md) | Microbiology Reference | — |
 | [Yeast immobilization on Muratina fruit fibre](../microbiology/muratina-yeast-immobilization.md) | Fermentation Microbiology Research Case | Kenya, University of Nairobi study |
 
-## Processes (50)
+## Processes (52)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
+| [A declared ABV does not reveal how a beer was made](../processes/abv-labels-do-not-describe-process.md) | Brewing Process and Classification Guide | Cross-regional |
 | [Backslopping, maintained cultures and microbial succession](../processes/microbial-backslopping-and-persistence.md) | Fermentation Process Reference | Cross-regional |
 | [Baked mash in keptinis](../processes/baked-mash.md) | Brewing Process Reference | — |
 | [Blending and bottle conditioning are different operations](../processes/blending-and-bottle-conditioning.md) | Brewing Process Reference | — |
@@ -526,6 +533,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [From aguamiel to a maintained pulque ferment](../processes/aguamiel-to-pulque.md) | Brewing Process Reference | Mexico |
 | [From botanical starter to shared jar: rượu cần stages](../processes/ruou-can-starter-jar-and-service.md) | Situated Brewing Process Explanation | Vietnam |
 | [From keg to glass: draught-system quality](../processes/draught-quality-from-keg-to-glass.md) | Draught Service Process Reference | Cross-regional |
+| [From packaged CO2 to bubbles in a glass](../processes/carbonation-from-bottle-to-glass.md) | Brewing and Service Process Research | Cross-regional |
 | [Gravity dispense and the changing architecture of pubs](../processes/cellar-and-gravity-dispense.md) | Serving Process Reference | United Kingdom |
 | [Hop alpha-acid isomerization during wort heating](../processes/alpha-acid-isomerization.md) | Processes Reference | — |
 | [Hop drying: a three-stage historical supply process](../processes/hop-drying-cooling-and-packing.md) | Agricultural Brewing Process Reference | England |
@@ -561,7 +569,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [When archaeological brewing experiments help—and when they do not](../processes/archaeological-brewing-reconstruction.md) | Brewing Process Reference | Andes, Peru |
 | [Wort boiling, precursors and dimethyl sulfide](../processes/wort-boiling-and-dms.md) | Processes Reference | — |
 
-## Objects (19)
+## Objects (21)
 
 
 | Subject | Kind | Region / scope hint |
@@ -571,12 +579,14 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Beer bottles as light barriers and flavor environments](../objects/beer-bottles-and-light-barriers.md) | Material Culture and Brewing Object | Cross-regional |
 | [Beer engine: a hand pump and its social setting](../objects/beer-engine.md) | Brewing Object Reference | British Isles, United Kingdom |
 | [Beer in clay: a tablet as a working document](../objects/ur-iii-beer-tablet-as-object.md) | Historical Material Culture Reference | Ancient Mesopotamia |
+| [Beer-clean glassware: residue, foam and service](../objects/beer-clean-glassware.md) | Serving Object and Quality Reference | Cross-regional |
 | [Coolship — a vessel within a fermentation system](../objects/coolship.md) | Brewing Object Reference | — |
 | [Czech foam pours in Pilsner Urquell's presentation](../objects/czech-foam-pours.md) | Serving Practice Reference | — |
 | [Draught lines, taps and dispensing gas](../objects/draught-lines-and-gas-balance.md) | Beer Service Equipment Reference | Cross-regional |
 | [Earthen pots and covers in southern Assam rice-fermentation accounts](../objects/assam-earthen-pots-and-covers.md) | Material Culture Reference | Assam, India |
 | [English hop oasts: stowage, kiln and cowl](../objects/english-hop-oast.md) | Historic Brewing Supply Equipment | England, Kent |
 | [Jiahu pottery: when the vessel becomes a laboratory sample](../objects/jiahu-pottery-residue-sampling.md) | Archaeological Object and Method Research Case | China, Jiahu |
+| [Microscopic nucleation sites in a beer glass](../objects/glass-surface-nucleation-sites.md) | Serving Object and Physical Chemistry Reference | Cross-regional |
 | [Muratina fruit-fibre fermentation carriers](../objects/muratina-fibrous-starter-carriers.md) | Brewing Object Research Case | Kenya |
 | [Nitrogenated draught beer and bubble cascades](../objects/nitrogenated-draught-and-bubbles.md) | Objects Reference | — |
 | [The cask and the cellar: vessel, environment and care](../objects/cask-and-cellar.md) | Brewing Object Reference | United Kingdom |
@@ -586,7 +596,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Wari brewing vats and kero drinking cups](../objects/wari-brewing-vats-and-kero-cups.md) | Material Culture Reference | Peru |
 | [Yeast rings, logs and storage containers](../objects/yeast-storage-tools.md) | Brewing Object Reference | — |
 
-## Stories (33)
+## Stories (35)
 
 
 | Subject | Kind | Region / scope hint |
@@ -595,6 +605,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [A family yeast is not one genome](../stories/the-family-culture-is-not-a-single-genome.md) | Evidence-Based Beer Story | Norway, Northern Europe |
 | [A fruity beer does not identify its hop](../stories/why-fruity-beer-does-not-identify-the-hop.md) | Evidence-Based Brewing Story | Cross-regional |
 | [A starter cake is not a strain catalogue](../stories/a-cake-is-a-community-not-a-strain.md) | Research Story | Cross-regional |
+| [A stream of beer bubbles can have two different explanations](../stories/two-causes-of-bubbles-in-glass.md) | Evidence-Based Beer Story | Cross-regional |
 | [Can a changing climate change your beer?](../stories/will-climate-change-the-pint.md) | Stories Reference | — |
 | [Did brewing come before farming? A question from Raqefet Cave](../stories/was-beer-before-farming.md) | Evidence-based Archaeology Story | Near East |
 | [Did one brewer invent porter in a single afternoon?](../stories/the-porter-invention-story.md) | Evidence-based Beer Story | Europe, England |
@@ -620,18 +631,20 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [What ancient beer cannot tell us](../stories/what-ancient-beer-cannot-tell-us.md) | Archaeological Reasoning Story | — |
 | [When brewery contaminant yeasts became brewing candidates](../stories/when-contaminant-yeast-became-a-low-alcohol-candidate.md) | Evidence-Based Beer Story | Cross-regional |
 | [When fermentation enters a colonial archive](../stories/when-fermentation-enters-a-colonial-archive.md) | Historical Story | Mexico |
+| [Why 0.0 on a beer label needs a jurisdiction](../stories/zero-zero-is-not-a-global-definition.md) | Evidence-Based Beer Story | Cross-regional |
 | [Why a fermented drink is not a water-safety certificate](../stories/fermentation-is-not-a-water-treatment.md) | Evidence-Based Research Story | Peru, Amazonia |
 | [Why beer ages without a single culprit](../stories/why-beer-ages-without-a-single-culprit.md) | Science Story | Cross-regional |
 | [Why should a beer encyclopedia care about an oast house?](../stories/why-a-hop-kiln-belongs-in-a-beer-wiki.md) | Material Culture Story | England |
 | [Why the beer garden became a place to bring dinner](../stories/why-beer-gardens-became-picnic-tables.md) | Evidence-Based Beer Story | Germany, Munich |
 
-## Sensory (31)
+## Sensory (33)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
 | [A beer can change between brewery and glass](../sensory/draught-service-vs-brewery-flavor.md) | Sensory Service Context | Cross-regional |
 | [Beer aging and aldehydes: several pathways, not one clock](../sensory/beer-staling-and-aldehydes.md) | Sensory and Storage Research Guide | Cross-regional |
+| [Beer bubble counts: a model is not a universal sensory score](../sensory/beer-bubbles-and-model-boundaries.md) | Sensory and Physical Chemistry Reference | Cross-regional |
 | [Beer haze: intentional appearance or instability?](../sensory/beer-haze-and-clarity.md) | Sensory Reference | — |
 | [Bitterness: a measured stimulus is not a universal taste](../sensory/bitterness-is-not-one-number.md) | Sensory Research Guide | Cross-regional |
 | [Boza: sweet, sour and the limits of sensory guessing](../sensory/boza-sweet-sour-not-an-abv-reading.md) | Sensory Research Reference | Türkiye, Balkans |
@@ -641,6 +654,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [DMS and cooked-cereal aroma: precursor, process and perception](../sensory/dms-and-cooked-cereal.md) | Sensory Reference | Cross-regional |
 | [Dry-hop contact time and measured aging](../sensory/dry-hop-contact-and-aging.md) | Sensory Research Reference | Cross-regional |
 | [Flavor detective — aroma is not an ingredient](../sensory/aroma-is-not-an-ingredient.md) | Sensory Reasoning Guide | — |
+| [Foam lacing, glass residue and competing explanations](../sensory/foam-lacing-and-residues.md) | Sensory and Service Quality Guide | Cross-regional |
 | [Free, bound and released aldehydes during beer aging](../sensory/beer-matrix-bound-aldehydes.md) | Sensory and Analytical Research Case | Cross-regional, Brewing chemistry laboratory |
 | [Heating can alter LTP1 and foam behavior](../sensory/heat-ltp1-and-beer-foam.md) | Sensory Chemistry Research Case | Cross-regional |
 | [Hop polyphenols, lingering bitterness and dryness](../sensory/hop-polyphenols-and-astringency.md) | Sensory Research Guide | Cross-regional |
@@ -662,13 +676,14 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Why thiol aromas are not simply hop-variety labels](../sensory/polyfunctional-thiols-and-aroma.md) | Sensory Chemistry Reference | Cross-regional |
 | [Yeast esters and phenols: why fruit and spice can appear without additions](../sensory/yeast-esters-and-phenols.md) | Sensory Reference | Cross-regional |
 
-## History (39)
+## History (41)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
 | [1516 Bavarian brewing rules and the later Reinheitsgebot identity](../history/bavarian-purity-law-and-its-afterlife.md) | Historical Policy Case Study | Europe, Germany |
 | [1972 tapé experiment: what a two-microbe starter demonstrates](../history/tape-fermentation-laboratory-model-1972.md) | History of Fermentation Science | Cross-regional |
+| [A 1991 US marketing circular and the limits of regulatory continuity](../history/from-1991-atf-circular-to-current-guidance.md) | Historical Source Interpretation | United States |
 | [Alcohol prohibitions and negotiation in seventeenth-century Istanbul](../history/ottoman-drink-restrictions-and-negotiation.md) | Historical Research Reference | Türkiye, Ottoman Istanbul |
 | [Aletasters, price controls and brewsters’ resistance](../history/ale-tasters-and-brewster-protests.md) | Documentary Brewing History | England, Exeter |
 | [American beer: domestic labor, immigration and the rise of industry](../history/american-beer-households-immigration-and-industry.md) | Museum Finding-Aid History | United States, North America |
@@ -702,16 +717,18 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [The Hymn to Ninkasi as literary beer evidence](../history/hymn-to-ninkasi-and-beer.md) | History Reference | — |
 | [The limits of fermentation evidence in prehistoric Japan and Korea](../history/fermented-food-evidence-in-japan-and-korea.md) | History Reference | — |
 | [Two approaches to starch conversion in Early Neolithic China](../history/early-neolithic-malts-and-starters.md) | History Reference | — |
+| [Two federal US definitions: beer and malt beverage](../history/us-beer-vs-malt-beverage-definitions.md) | Historical and Regulatory Research Reference | United States |
 | [U.S. Prohibition and the reshaping of beer production](../history/us-prohibition-and-brewing-change.md) | Historical Policy Case Study | North America, United States |
 | [What historical brewing artifacts could tell us about yeast](../history/historical-yeast-artifacts-research-questions.md) | Historical Research Method | Norway, Northern Europe |
 | [When hop kilns became heritage buildings](../history/from-oast-to-preserved-building.md) | Industrial Building Heritage History | England |
 | [Who is missing from brewing archives?](../history/beer-records-and-archival-silence.md) | Historical Research | England; United States |
 
-## Environment (18)
+## Environment (20)
 
 
 | Subject | Kind | Region / scope hint |
 |---|---|---|
+| [A brewery water-use ratio is not a product water footprint](../environment/brewery-water-ratio-versus-water-footprint.md) | Environment and Water Accounting Reference | Cross-regional |
 | [A closed-loop brewery claim is not a universal LCA result](../environment/brewery-closed-loop-case-vs-general-rule.md) | Industrial Environmental Case Interpretation | China, Industrial brewing |
 | [Brewers’ spent grain and circular resource use](../environment/spent-grain-and-circular-use.md) | Environment Reference | — |
 | [Brewery water reuse: contrasting Italian LCA and Portuguese pilot evidence](../environment/brewery-water-reuse-italy-portugal.md) | Environmental and Engineering Research Case | Italy, Portugal |
@@ -719,6 +736,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Brewing scale, irrigation and land use at Cerro Baúl](../environment/large-breweries-and-land-use-at-cerro-baul.md) | Environment Research | Peru |
 | [Climate change, hop harvests and alpha-acid content](../environment/climate-and-hop-crops.md) | Environment Reference | — |
 | [Czech brewery scale, packaging and export: an LCA case](../environment/czech-brewery-scale-and-packaging-lca.md) | Environmental Life-Cycle Research Case | Czech Republic, Export logistics |
+| [Direct and indirect water in brewing supply chains](../environment/direct-and-indirect-water-in-brewing.md) | Environment and Supply-Chain Research Guide | Cross-regional |
 | [Extreme weather and the barley-to-beer supply chain](../environment/climate-and-barley-supply.md) | Environment Reference | — |
 | [Footprint estimates from surveyed Mexican microbreweries](../environment/mexican-microbrewery-footprint-case.md) | Environmental Case Study | Mexico |
 | [Hot trub and spent yeast: what reuse studies actually establish](../environment/hot-trub-and-spent-yeast-valorization.md) | By-product Environmental Evidence Review | Cross-regional |
@@ -731,7 +749,7 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Spent grain: circular value and handling constraints](../environment/spent-grain-food-safety-and-circularity.md) | Environmental and Materials Research | Cross-regional |
 | [Thermal energy and refrigeration in brewing](../environment/brewery-heat-and-refrigeration.md) | Environment Reference | — |
 
-## Food (11)
+## Food (12)
 
 
 | Subject | Kind | Region / scope hint |
@@ -746,4 +764,5 @@ Regenerate/check with `python tools/build_subject_index.py` or `--check`.
 | [Can alcohol-free beer work with food?](../food/alcohol-free-beer-with-food.md) | Food Reference | — |
 | [Cheese and beer pairing: preference is not a fixed rule](../food/cheese-beer-preference-is-not-a-rule.md) | Food and Consumer Research Case | Cross-regional |
 | [Fermented cassava as food, drink and social practice](../food/fermented-cassava-as-food-and-drink.md) | Food and Beverage Research Reference | Brazil, Amazonia |
+| [Reading alcohol descriptors on a beer menu](../food/alcohol-descriptors-on-a-menu.md) | Food, Hospitality and Label Research Guide | Cross-regional |
 | [Tapai between fermented rice food and drink](../food/tapai-as-food-and-beverage.md) | Food and Fermentation Culture Reference | Cross-regional |
