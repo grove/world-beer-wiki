@@ -85,7 +85,7 @@ def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('root',nargs='?',type=Path,default=Path(__file__).resolve().parents[1])
     p.add_argument('--json',action='store_true')
-    p.add_argument('--edition',choices=['1.6','1.7','1.8','1.9','1.10','1.11','1.12','1.13','1.14','1.15','1.16'],default='1.6',help='research release to audit; older reports remain checkable')
+    p.add_argument('--edition',choices=['1.6','1.7','1.8','1.9','1.10','1.11','1.12','1.13','1.14','1.15','1.16','1.17'],default='1.6',help='research release to audit; older reports remain checkable')
     a=p.parse_args()
     report=validate(a.root,edition=a.edition)
     if a.json:print(json.dumps(report,ensure_ascii=False,indent=2,sort_keys=True))
