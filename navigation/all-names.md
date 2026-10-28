@@ -5,7 +5,7 @@ description: Every canonical subject title and explicitly declared alias across 
 tags: [wiki-documentation, navigation, aliases]
 status: draft
 generated:
-  by: world-beer-wiki/1.17
+  by: world-beer-wiki/1.18
   at: '2026-10-28T12:00:00Z'
 sources:
 - id: atlas-spec
@@ -22,8 +22,10 @@ similar names, open their linked articles and examine the `scope` and evidence n
 
 | Name | Canonical subject | Kind | Name role |
 |---|---|---|---|
+| 12 August 2026: EU packaging regulation begins applying | [12 August 2026: EU packaging regulation begins applying](../calendar/eu-ppwr-application-2026.md) | Dated Packaging Policy Event | canonical title |
 | 1516 Bavarian brewing rules and the later Reinheitsgebot identity | [1516 Bavarian brewing rules and the later Reinheitsgebot identity](../history/bavarian-purity-law-and-its-afterlife.md) | Historical Policy Case Study | canonical title |
 | 1972 tapé experiment: what a two-microbe starter demonstrates | [1972 tapé experiment: what a two-microbe starter demonstrates](../history/tape-fermentation-laboratory-model-1972.md) | History of Fermentation Science | canonical title |
+| 2 February 1892: William Painter's crown-cork patent | [2 February 1892: William Painter's crown-cork patent](../calendar/crown-cork-patent-1892.md) | Dated Historical Packaging Event | canonical title |
 | 20 August 1991: ATF circular on non-alcoholic malt beverage marketing | [20 August 1991: ATF circular on non-alcoholic malt beverage marketing](../calendar/atf-nonalcoholic-marketing-circular-1991.md) | Dated Historical Brewing Event | canonical title |
 | 5 October 1842: first batch at the Pilsen Burghers Brewery | [5 October 1842: first batch at the Pilsen Burghers Brewery](../calendar/first-pilsen-batch-1842.md) | Dated Historical Brewing Event | canonical title |
 | 60-shilling ale | [Scottish Light](../styles/scottish-light.md) | Beer Style | article-scoped alias |
@@ -33,18 +35,25 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | 80-shilling ale | [Scottish Export](../styles/scottish-export.md) | Beer Style | article-scoped alias |
 | 80/- | [Scottish Export](../styles/scottish-export.md) | Beer Style | article-scoped alias |
 | A 1991 US marketing circular and the limits of regulatory continuity | [A 1991 US marketing circular and the limits of regulatory continuity](../history/from-1991-atf-circular-to-current-guidance.md) | Historical Source Interpretation | canonical title |
+| A 2025 unpasteurized ale experiment separates filtration and storage effects | [A 2025 unpasteurized ale experiment separates filtration and storage effects](../sensory/unpasteurized-ale-storage-case-2025.md) | Primary Craft Beer Sensory Case Interpretation | canonical title |
 | A bacterium can be welcome in one beer and spoil another | [A bacterium can be welcome in one beer and spoil another](../stories/when-a-bacterium-is-welcome-and-when-it-is-not.md) | Evidence-Based Beer Story | canonical title |
 | A beer can change between brewery and glass | [A beer can change between brewery and glass](../sensory/draught-service-vs-brewery-flavor.md) | Sensory Service Context | canonical title |
+| A beer can's food-contact layer needs evidence separate from taste | [A beer can's food-contact layer needs evidence separate from taste](../food/can-liners-and-food-contact-evidence.md) | Food Contact and Beverage Packaging Guide | canonical title |
+| A beer's package material does not determine its shelf life | [A beer's package material does not determine its shelf life](../categories/packaging-material-is-not-shelf-life.md) | Beer Quality and Classification Guide | canonical title |
 | A blinded difference test cannot tell you which beer pairs best with food | [A blinded difference test cannot tell you which beer pairs best with food](../food/difference-tests-do-not-rank-pairings.md) | Food and Sensory Study Interpretation | canonical title |
 | A brewery water-use ratio is not a product water footprint | [A brewery water-use ratio is not a product water footprint](../environment/brewery-water-ratio-versus-water-footprint.md) | Environment and Water Accounting Reference | canonical title |
 | A closed-loop brewery claim is not a universal LCA result | [A closed-loop brewery claim is not a universal LCA result](../environment/brewery-closed-loop-case-vs-general-rule.md) | Industrial Environmental Case Interpretation | canonical title |
+| A cold-stored unpasteurized ale experiment cannot define every beer's expiry | [A cold-stored unpasteurized ale experiment cannot define every beer's expiry](../processes/cold-chain-experiment-is-not-a-universal-expiry.md) | Brewing Stability and Storage Research | canonical title |
 | A consistent beer test is not a comparable environmental footprint | [A consistent beer test is not a comparable environmental footprint](../environment/analytical-consistency-is-not-a-life-cycle-footprint.md) | Environment and Evidence Comparability Guide | canonical title |
 | A declared ABV does not reveal how a beer was made | [A declared ABV does not reveal how a beer was made](../processes/abv-labels-do-not-describe-process.md) | Brewing Process and Classification Guide | canonical title |
 | A falling gravity reading does not identify a microorganism | [A falling gravity reading does not identify a microorganism](../microbiology/fermentation-endpoints-are-not-identities.md) | Fermentation Microbiology Evidence Guide | canonical title |
 | A family yeast is not one genome | [A family yeast is not one genome](../stories/the-family-culture-is-not-a-single-genome.md) | Evidence-Based Beer Story | canonical title |
 | A fruity beer does not identify its hop | [A fruity beer does not identify its hop](../stories/why-fruity-beer-does-not-identify-the-hop.md) | Evidence-Based Brewing Story | canonical title |
 | A fungus in barley is not necessarily the fermenter of the beer | [A fungus in barley is not necessarily the fermenter of the beer](../stories/the-fungus-was-not-the-fermenter.md) | Evidence-Based Grain Microbiology Story | canonical title |
+| A green bottle alone cannot tell you whether beer has gone stale | [A green bottle alone cannot tell you whether beer has gone stale](../stories/green-bottle-cannot-tell-you-its-age.md) | Evidence-Based Beer Chemistry Story | canonical title |
+| A metal beer can is not just bare aluminium or steel | [A metal beer can is not just bare aluminium or steel](../objects/metal-can-linings-and-food-contact.md) | Food Contact Object and Packaging Reference | canonical title |
 | A nineteenth-century saccharometer as a material object | [A nineteenth-century saccharometer as a material object](../objects/saccharometer-in-the-museum.md) | Historical Brewing Instrument Object Reference | canonical title |
+| A pulsed-light Lactobacillus study found a microbial and flavor tradeoff | [A pulsed-light Lactobacillus study found a microbial and flavor tradeoff](../microbiology/lactobacillus-pulsed-light-case.md) | Microbial Processing Experiment Reference | canonical title |
 | A regulated beer name is not a judging style | [A regulated beer name is not a judging style](../categories/jurisdictional-beer-names-vs-styles.md) | Beer Category Guide | canonical title |
 | A sampled ferment is not a population of brewers | [A sampled ferment is not a population of brewers](../categories/study-sample-vs-living-tradition.md) | Research Method Category Guide | canonical title |
 | A starter cake is not a strain catalogue | [A starter cake is not a strain catalogue](../stories/a-cake-is-a-community-not-a-strain.md) | Research Story | canonical title |
@@ -88,6 +97,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | American Wheat Beer | [American Wheat Beer](../styles/american-wheat-beer.md) | Beer Style | canonical title |
 | American-style stout | [American Stout](../styles/american-stout.md) | Beer Style | article-scoped alias |
 | Amylomyces rouxii in ragi tapai research | [Amylomyces rouxii in ragi tapai research](../microbiology/amylomyces-and-ragi-tapai.md) | Fermentation Microbiology Research Case | canonical title |
+| An American handled beer can shows packaging and distribution history | [An American handled beer can shows packaging and distribution history](../history/beer-cans-and-home-distribution.md) | Museum-Based Beer Distribution History | canonical title |
 | An intangible-heritage inscription is not a beer style | [An intangible-heritage inscription is not a beer style](../categories/heritage-inscription-is-not-a-style.md) | Beer Classification and Heritage Guide | canonical title |
 | An overfoaming beer can involve grain history, not only carbonation | [An overfoaming beer can involve grain history, not only carbonation](../categories/grain-contamination-vs-foam-defects.md) | Beer Quality and Causality Category Guide | canonical title |
 | An Ur III tablet records beer for messengers | [An Ur III tablet records beer for messengers](../history/ur-iii-beer-ration-tablet.md) | Archival Artifact Interpretation | canonical title |
@@ -117,6 +127,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Barley wine | [English Barleywine](../styles/english-barleywine.md) | Beer Style | article-scoped alias |
 | Batáli | [Tesgüino — Rarámuri tradition](../styles/tesguino.md) | Beer Tradition | article-scoped alias |
 | Beer aging and aldehydes: several pathways, not one clock | [Beer aging and aldehydes: several pathways, not one clock](../sensory/beer-staling-and-aldehydes.md) | Sensory and Storage Research Guide | canonical title |
+| Beer aldehyde aging cannot be attributed only to package oxygen | [Beer aldehyde aging cannot be attributed only to package oxygen](../sensory/aldehyde-aging-begins-before-the-package.md) | Sensory and Chemical Stability Reference | canonical title |
 | Beer and cheese: variable sensory matches | [Beer and cheese: variable sensory matches](../food/beer-and-cheese.md) | Food Reference | canonical title |
 | Beer and food pairing as a testable hypothesis | [Beer and food pairing as a testable hypothesis](../food/beer-food-pairing-as-a-hypothesis.md) | Food Reference | canonical title |
 | Beer antioxidant compounds: chemical stability versus health claims | [Beer antioxidant compounds: chemical stability versus health claims](../ingredients/beer-antioxidants-versus-health-claims.md) | Brewing Chemistry Ingredient Research Case | canonical title |
@@ -276,6 +287,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Dark international lager | [International Dark Lager](../styles/international-dark-lager.md) | Beer Style | article-scoped alias |
 | Dark Mild | [Dark Mild](../styles/dark-mild.md) | Beer Style | canonical title |
 | Decoction and the distinction between mash and wort | [Decoction and the distinction between mash and wort](../processes/decoction.md) | Brewing Process Reference | canonical title |
+| Deposit and return systems are institutions, not just reusable objects | [Deposit and return systems are institutions, not just reusable objects](../culture/deposit-and-return-as-beer-institutions.md) | Beer Distribution and Policy Culture Reference | canonical title |
 | Dessert stout | [Pastry stout](../styles/pastry-stout.md) | Beer Style Family | article-scoped alias |
 | Detecting a difference is not rating beer quality or liking | [Detecting a difference is not rating beer quality or liking](../categories/difference-tests-versus-quality-scores.md) | Sensory Research and Evaluation Guide | canonical title |
 | Diacetyl and other VDKs are moving fermentation targets | [Diacetyl and other VDKs are moving fermentation targets](../sensory/vicinal-diketones-as-moving-target.md) | Sensory Chemistry Explanation | canonical title |
@@ -334,6 +346,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Estonian home beer | [Koduõlu](../styles/koduolu.md) | Beer Tradition | article-scoped alias |
 | Ethiopian malt barley contracts and household outcomes need separate evidence | [Ethiopian malt barley contracts and household outcomes need separate evidence](../culture/malt-barley-and-household-food-security.md) | Cultural Economy and Household Survey Reference | canonical title |
 | Ethiopian tella: household vessels, grain work and hospitality | [Ethiopian tella: household vessels, grain work and hospitality](../culture/tella-household-vessels-and-hospitality.md) | Review-Scoped Household Cultural Case | canonical title |
+| EU packaging rules from August 2026 are not immediate 2030 reuse results | [EU packaging rules from August 2026 are not immediate 2030 reuse results](../environment/eu-packaging-reuse-law-scope.md) | Environment and Regulatory Scope Guide | canonical title |
 | European hop ripening and changing seasonal timing | [European hop ripening and changing seasonal timing](../calendar/hop-harvest-and-changing-ripening.md) | Calendar Reference | canonical title |
 | Export stout | [Foreign Extra Stout](../styles/foreign-extra-stout.md) | Beer Style | article-scoped alias |
 | Extra stout | [Irish Extra Stout](../styles/irish-extra-stout.md) | Beer Style | article-scoped alias |
@@ -358,6 +371,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Flemish red ale | [Flanders Red Ale](../styles/flanders-red-ale.md) | Beer Style | article-scoped alias |
 | Foam lacing, glass residue and competing explanations | [Foam lacing, glass residue and competing explanations](../sensory/foam-lacing-and-residues.md) | Sensory and Service Quality Guide | canonical title |
 | Foam, aging and aroma: interpreting beer sensory evidence | [Foam, aging and aroma: interpreting beer sensory evidence](../categories/beer-foam-aging-and-aroma-misconceptions.md) | Beer Category Guide | canonical title |
+| Food-contact compliance is not a beer flavor description | [Food-contact compliance is not a beer flavor description](../categories/food-contact-law-is-not-beer-flavor.md) | Legal Material and Sensory Classification Guide | canonical title |
 | Footprint estimates from surveyed Mexican microbreweries | [Footprint estimates from surveyed Mexican microbreweries](../environment/mexican-microbrewery-footprint-case.md) | Environmental Case Study | canonical title |
 | Foreign Extra Stout | [Foreign Extra Stout](../styles/foreign-extra-stout.md) | Beer Style | canonical title |
 | Foreign stout | [Foreign Extra Stout](../styles/foreign-extra-stout.md) | Beer Style | article-scoped alias |
@@ -440,6 +454,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | How archaeologists infer beer without finding a recipe | [How archaeologists infer beer without finding a recipe](../history/how-archaeologists-identify-beer.md) | Historical Method Guide | canonical title |
 | How beer categories work | [How beer categories work](../categories/beer-classification.md) | Beer Category Guide | canonical title |
 | How beer foam forms and why it falls | [How beer foam forms and why it falls](../processes/foam-formation-and-retention.md) | Brewing and Serving Process Reference | canonical title |
+| How can two beer packaging studies prefer different kegs? | [How can two beer packaging studies prefer different kegs?](../stories/two-studies-two-keg-answers.md) | Evidence-Based Beer Environment Story | canonical title |
 | How oxygen enters and remains in packaged beer | [How oxygen enters and remains in packaged beer](../processes/beer-package-oxygen-pathways.md) | Brewing Process Reference | canonical title |
 | How pH and titratable acidity answer different questions | [How pH and titratable acidity answer different questions](../processes/ph-versus-titratable-acidity.md) | Brewing Chemistry Measurement Reference | canonical title |
 | How starter cultures carry technical and social knowledge | [How starter cultures carry technical and social knowledge](../culture/starter-transmission-and-community-knowledge.md) | Cultural Case Study | canonical title |
@@ -541,6 +556,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Lichtenhainer | [Lichtenhainer](../styles/lichtenhainer.md) | Beer Style | canonical title |
 | Lichtenhainer beer | [Lichtenhainer](../styles/lichtenhainer.md) | Beer Style | article-scoped alias |
 | Light American lager | [American Light Lager](../styles/american-light-lager.md) | Beer Style | article-scoped alias |
+| Lightstruck sulfur aroma and oxidative aging are distinct pathways | [Lightstruck sulfur aroma and oxidative aging are distinct pathways](../sensory/lightstruck-vs-oxidative-staling.md) | Sensory Chemistry and Storage Evidence Guide | canonical title |
 | Limiting alcohol through yeast sugar utilization | [Limiting alcohol through yeast sugar utilization](../processes/low-alcohol-by-limited-fermentation.md) | Brewing Process Reference | canonical title |
 | Lithuanian baked-mash beer | [Keptinis](../styles/keptinis.md) | Beer Tradition | article-scoped alias |
 | London Brown Ale | [London Brown Ale](../styles/london-brown-ale.md) | Beer Style | canonical title |
@@ -650,6 +666,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Oshikundu | [Oshikundu](../styles/oshikundu.md) | Related Fermented-Grain Tradition | canonical title |
 | Oud Bruin | [Oud Bruin](../styles/oud-bruin.md) | Beer Style | canonical title |
 | Oxford alewives: gender, trade and town regulation | [Oxford alewives: gender, trade and town regulation](../culture/alewives-and-oxford-town-life.md) | Cultural Case Study | canonical title |
+| Packaged beer changed where people encountered brewing | [Packaged beer changed where people encountered brewing](../culture/packaged-beer-and-home-markets.md) | Beer Industry and Material Culture Reference | canonical title |
 | Packaging protection versus environmental footprint | [Packaging protection versus environmental footprint](../environment/packaging-chemistry-and-life-cycle.md) | Environmental Research Reference | canonical title |
 | Packaging, oxygen, light and beer aging | [Packaging, oxygen, light and beer aging](../processes/packaging-and-aging.md) | Processes Reference | canonical title |
 | Packaging, transport distance and beer life-cycle comparisons | [Packaging, transport distance and beer life-cycle comparisons](../environment/beer-packaging-transport-and-return-loops.md) | Environmental Comparative Study | canonical title |
@@ -691,6 +708,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Protein–polyphenol haze and intentional cloudiness | [Protein–polyphenol haze and intentional cloudiness](../sensory/haze-and-protein-polyphenol-bonds.md) | Sensory Research Reference | canonical title |
 | Pulque | [Pulque](../styles/pulque.md) | Related Ferment Profile | canonical title |
 | Pulque microbial succession in a five-stage metagenomic study | [Pulque microbial succession in a five-stage metagenomic study](../microbiology/pulque-five-stage-metagenomics.md) | Microbiology Research Reference | canonical title |
+| Pulsed-light microbial experiments also change beer photochemistry | [Pulsed-light microbial experiments also change beer photochemistry](../processes/pulsed-light-has-a-flavor-tradeoff.md) | Experimental Beverage Processing and Evidence Guide | canonical title |
 | Qasr Ibrim barley: ancient DNA and grain diversity | [Qasr Ibrim barley: ancient DNA and grain diversity](../history/qasr-ibrim-barley-ancient-dna.md) | Archaeobotanical Research Case | canonical title |
 | Quad (partial overlap) | [Belgian Dark Strong Ale](../styles/belgian-dark-strong-ale.md) | Beer Style | article-scoped alias |
 | Quadrupel (partial overlap) | [Belgian Dark Strong Ale](../styles/belgian-dark-strong-ale.md) | Beer Style | article-scoped alias |
@@ -705,9 +723,11 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Reading the 2024 southern Assam rice-ferment microbiome survey | [Reading the 2024 southern Assam rice-ferment microbiome survey](../microbiology/assam-rice-ferment-sampling.md) | Microbial Study Interpretation | canonical title |
 | Red IPA | [Red IPA](../styles/red-ipa.md) | Beer Style | canonical title |
 | Removing alcohol: thermal and membrane methods | [Removing alcohol: thermal and membrane methods](../processes/thermal-and-membrane-dealcoholisation.md) | Brewing Process Reference | canonical title |
+| Returnable bottles need actual reuse cycles, washing and loss data | [Returnable bottles need actual reuse cycles, washing and loss data](../environment/returnable-bottles-and-system-losses.md) | Beer Packaging and Circularity Evidence Reference | canonical title |
 | Reusing a fibrous culture carrier in Muratina fermentation | [Reusing a fibrous culture carrier in Muratina fermentation](../processes/muratina-sponge-reuse.md) | Brewing Process Research Case | canonical title |
 | Rhynchosia roots as a starch-conversion ingredient in munkoyo | [Rhynchosia roots as a starch-conversion ingredient in munkoyo](../ingredients/rhynchosia-root-for-munkoyo.md) | Ingredient Reference | canonical title |
 | Riboflavin and the photochemistry of beer | [Riboflavin and the photochemistry of beer](../ingredients/riboflavin-and-beer-light.md) | Focused Ingredient Chemistry Reference | canonical title |
+| Riboflavin, hop iso-alpha acids and light are a reaction system | [Riboflavin, hop iso-alpha acids and light are a reaction system](../ingredients/riboflavin-hop-acids-light-reaction.md) | Ingredient and Beer Photochemistry Reference | canonical title |
 | Rice | [Rice](../ingredients/rice.md) | Ingredient Reference | canonical title |
 | Rice Lager | [Rice Lager](../styles/rice-lager.md) | Beer Style | canonical title |
 | Rice lager beer | [Rice Lager](../styles/rice-lager.md) | Beer Style | article-scoped alias |
@@ -744,6 +764,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Sesotho beer between everyday commerce and gatherings | [Sesotho beer between everyday commerce and gatherings](../culture/sesotho-social-occasions.md) | Cultural Practice | canonical title |
 | Session India Pale Ale | [Session IPA](../styles/session-ipa.md) | Beer Style | article-scoped alias |
 | Session IPA | [Session IPA](../styles/session-ipa.md) | Beer Style | canonical title |
+| Seven microbreweries and a PET-keg LCA: different transport assumptions | [Seven microbreweries and a PET-keg LCA: different transport assumptions](../environment/seven-breweries-versus-pet-keg-case.md) | Comparative Beer Packaging LCA Reference | canonical title |
 | Shamita between beverage and meal | [Shamita between beverage and meal](../culture/shamita-as-food-drink.md) | Cultural Food and Fermentation Reference | canonical title |
 | Shamita fermentation in Bacha, Mehari and Ashenafi’s study | [Shamita fermentation in Bacha, Mehari and Ashenafi’s study](../microbiology/shamita-overnight-fermentation.md) | Microbial Ecology Research Case | canonical title |
 | Shamita: roasted-barley fermented food-drink | [Shamita: roasted-barley fermented food-drink](../styles/shamita-ethiopian-fermented-barley.md) | Related Fermented-Grain Tradition | canonical title |
@@ -810,6 +831,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Tesgüino | [Tesgüino — Rarámuri tradition](../styles/tesguino.md) | Beer Tradition | article-scoped alias |
 | Tesgüino — Rarámuri tradition | [Tesgüino — Rarámuri tradition](../styles/tesguino.md) | Beer Tradition | canonical title |
 | Tesgüino, invitation and reciprocal work in Norogachi | [Tesgüino, invitation and reciprocal work in Norogachi](../culture/tesguino-and-reciprocity.md) | Cultural Practice | canonical title |
+| The 1892 crown-cork patent is not the invention of bottled beer | [The 1892 crown-cork patent is not the invention of bottled beer](../history/crown-cork-patent-vs-invention-myth.md) | Historical Packaging and Patent Interpretation | canonical title |
 | The Abydos brewery and Egypt’s early kings | [The Abydos brewery and Egypt’s early kings](../history/abydos-early-royal-brewery.md) | Archaeological Case Study | canonical title |
 | The banana that was never added | [The banana that was never added](../stories/where-did-the-banana-aroma-come-from.md) | Evidence-Based Beer Story | canonical title |
 | The beer that begins as two different porridges | [The beer that begins as two different porridges](../stories/the-beer-with-two-porridges.md) | Evidence-Based Beer Story | canonical title |
@@ -819,6 +841,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | The British pub and cask-beer stewardship | [The British pub and cask-beer stewardship](../culture/cask-beer-pub-community.md) | Serving and Community Practice | canonical title |
 | The cask and the cellar: vessel, environment and care | [The cask and the cellar: vessel, environment and care](../objects/cask-and-cellar.md) | Brewing Object Reference | canonical title |
 | The communal jar and bamboo straws in rượu cần service | [The communal jar and bamboo straws in rượu cần service](../objects/vietnamese-communal-jar-and-straws.md) | Serving and Material Culture Reference | canonical title |
+| The crown cork is a crimped closure plus a sealing liner | [The crown cork is a crimped closure plus a sealing liner](../objects/crown-cork-and-sealing-liner.md) | Historical Packaging Object and Mechanism Reference | canonical title |
 | The culture that contained more than thirty yeasts | [The culture that contained more than thirty yeasts](../stories/a-starter-is-more-than-a-strain.md) | Evidence-based Science Story | canonical title |
 | The festival changed | [The festival changed](../stories/the-festival-changed.md) | Evidence-Based Beer Story | canonical title |
 | The Hymn to Ninkasi as literary beer evidence | [The Hymn to Ninkasi as literary beer evidence](../history/hymn-to-ninkasi-and-beer.md) | History Reference | canonical title |
@@ -828,6 +851,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | The malt that brought the microbes | [The malt that brought the microbes](../stories/the-malt-that-brought-the-microbes.md) | Evidence-Based Beer Story | canonical title |
 | The reusable sponge that changes a Kenyan fermentation | [The reusable sponge that changes a Kenyan fermentation](../stories/what-a-brewing-sponge-can-carry.md) | Evidence-Based Beer Story | canonical title |
 | The saccharometer made an extract number—not a recipe | [The saccharometer made an extract number—not a recipe](../stories/the-number-was-not-a-recipe.md) | Evidence-Based History Story | canonical title |
+| The Smithsonian's handled Baltimore beer can is an industrial object | [The Smithsonian's handled Baltimore beer can is an industrial object](../objects/baltimore-handled-beer-can.md) | Historical Beer Packaging Material Culture Reference | canonical title |
 | The tablet was not the recipe | [The tablet was not the recipe](../stories/the-tablet-was-not-the-recipe.md) | Evidence-Based Beer Story | canonical title |
 | The white flag outside a Piura chichería | [The white flag outside a Piura chichería](../objects/piura-chicha-white-flags.md) | Serving and Commercial Object | canonical title |
 | The yeast is not the beer | [The yeast is not the beer](../stories/the-yeast-is-not-the-beer.md) | Evidence-Based Beer Story | canonical title |
@@ -841,6 +865,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Tongba — vessel, extraction and serving practice | [Tongba — vessel, extraction and serving practice](../objects/tongba-service.md) | Serving Practice Reference | canonical title |
 | Tonto — fermented banana drink in Uganda | [Tonto — fermented banana drink in Uganda](../styles/tonto.md) | Local Fermented Beverage Profile | canonical title |
 | Toongbaa (vessel) | [Kodo ko jaanr](../styles/kodo-ko-jaanr.md) | Beer Tradition | article-scoped alias |
+| Total package oxygen includes both beer and headspace | [Total package oxygen includes both beer and headspace](../processes/total-package-oxygen-has-two-phases.md) | Brewing Analytical Process and Packaging Guide | canonical title |
 | Traditional and Indigenous brewing | [Traditional and Indigenous brewing](../categories/traditional-and-indigenous-beers.md) | Beer Category Guide | canonical title |
 | Traditional bock | [Dunkles Bock](../styles/dunkles-bock.md) | Beer Style | article-scoped alias |
 | Trappist single (style context) | [Belgian Single](../styles/belgian-single.md) | Beer Style | article-scoped alias |
@@ -863,6 +888,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Umqombothi: amplicons, predicted functions and actual fermentation | [Umqombothi: amplicons, predicted functions and actual fermentation](../microbiology/umqombothi-amplicons-and-predicted-function.md) | Microbial Study Interpretation | canonical title |
 | Umqomboti | [Umqombothi](../styles/umqombothi.md) | Beer Tradition | article-scoped alias |
 | Unblended lambic | [Lambic](../styles/lambic.md) | Beer Style | article-scoped alias |
+| Unintended package refermentation is not ordinary beer maturation | [Unintended package refermentation is not ordinary beer maturation](../microbiology/package-refermentation-pressure-vs-quality.md) | Microbiology, Packaging and Safety Evidence Guide | canonical title |
 | Urugwa — banana and sorghum fermented beverage in Rwanda | [Urugwa — banana and sorghum fermented beverage in Rwanda](../styles/urugwa.md) | Local Fermented Beverage Profile | canonical title |
 | Vienna Lager | [Vienna Lager](../styles/vienna-lager.md) | Beer Style | canonical title |
 | Volatile thiols: tropical notes without a tropical fruit addition | [Volatile thiols: tropical notes without a tropical fruit addition](../sensory/thiols-and-fruit-aromas.md) | Sensory Reference | canonical title |
@@ -927,6 +953,7 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | Why Tchoukoutou yeast surveys identify different organisms | [Why Tchoukoutou yeast surveys identify different organisms](../microbiology/tchoukoutou-yeast-surveys-in-disagreement.md) | Fermentation Microbiology Research Case | canonical title |
 | Why the beer garden became a place to bring dinner | [Why the beer garden became a place to bring dinner](../stories/why-beer-gardens-became-picnic-tables.md) | Evidence-Based Beer Story | canonical title |
 | Why thiol aromas are not simply hop-variety labels | [Why thiol aromas are not simply hop-variety labels](../sensory/polyfunctional-thiols-and-aroma.md) | Sensory Chemistry Reference | canonical title |
+| Why two beer packaging life-cycle studies rank keg options differently | [Why two beer packaging life-cycle studies rank keg options differently](../categories/why-packaging-lca-rankings-disagree.md) | Beer Environmental Evidence Comparison | canonical title |
 | Wiener Lager | [Vienna Lager](../styles/vienna-lager.md) | Beer Style | article-scoped alias |
 | Wild specialty beer | [Wild specialty beer](../styles/wild-specialty-beer.md) | Specialty Beer Category | canonical title |
 | Witbier | [Witbier](../styles/witbier.md) | Beer Style | canonical title |
@@ -952,4 +979,4 @@ similar names, open their linked articles and examine the `scope` and evidence n
 | 日本酒 | [Sake](../styles/sake.md) | Related Fermented-Grain Tradition | article-scoped alias |
 | 막걸리 | [Makgeolli](../styles/makgeolli.md) | Related Fermented-Grain Tradition | article-scoped alias |
 
-**929 name records** across 13 reference sections. [All atlas subjects](all-atlas-subjects.md) · [Research method](../editorial/methodology.md).
+**956 name records** across 13 reference sections. [All atlas subjects](all-atlas-subjects.md) · [Research method](../editorial/methodology.md).
