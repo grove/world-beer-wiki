@@ -1,0 +1,816 @@
+[
+  {
+    "chapter": 13,
+    "claim": "Bennett reports Exeter brewsters withdrawing signs in 1317 and Gillian resisting ale inspectors at Wakefield manor in 1275.",
+    "wiki_paths": [
+      "history/ale-tasters-and-brewster-protests.md"
+    ],
+    "sources": [
+      {
+        "title": "Judith M. Bennett, Gender Rules: Women and the Regulation of Brewing (1996)",
+        "url": "https://academic.oup.com/book/47408/chapter-abstract/422345728",
+        "access": "Indexed publisher chapter abstract only; direct publisher requests failed; full chapter and medieval court rolls not read.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract: Wakefield manor 1275 Gillian wife of Richard Pykard; Exeter 1317 signs withdrawn."
+      }
+    ],
+    "uncertainty": "Attributed to a historian’s abstract; neither original court-roll wording nor individual motives reconstructed."
+  },
+  {
+    "chapter": 13,
+    "claim": "Statutory regulation related ale prices to grain and described escalating sanctions.",
+    "wiki_paths": [
+      "history/ale-tasters-and-brewster-protests.md"
+    ],
+    "sources": [
+      {
+        "title": "Judicium Pillorie, in Owen Ruffhead, The Statutes at Large (1763), p. 28",
+        "url": "https://en.wikisource.org/wiki/Page:Ruffhead_-_The_Statutes_at_Large,_1763.djvu/74",
+        "access": "Validated transcription of a digitized public-domain statutory page; surrounding volume not read.",
+        "accessed_on": "2026-10-28",
+        "locator": "Punishment of a baker or brewer offending; escalating amercements/corporal sanctions."
+      },
+      {
+        "title": "Assisa Panis et Cervisie, historical statutory text",
+        "url": "https://vlex.co.uk/vid/assisa-panis-et-cervisie-808090549",
+        "access": "Public preview of statutory transcription, not complete subscription document.",
+        "accessed_on": "2026-10-28",
+        "locator": "Opening heading ties prices of bread and ale to grain prices."
+      }
+    ],
+    "uncertainty": "Normative rules do not demonstrate consistent enforcement; traditional dating is not asserted as independently established."
+  },
+  {
+    "chapter": 13,
+    "claim": "Maud London appears in Oxford’s fourteenth-century brewing history, while documentary thresholds can hide small sellers.",
+    "wiki_paths": [
+      "culture/alewives-and-oxford-town-life.md"
+    ],
+    "sources": [
+      {
+        "title": "Elizabeth Kuligowski, Alewives in Oxford: A History of Female Brewing, Museum of Oxford",
+        "url": "https://museumofoxford.org/alewives-in-oxford-a-history-of-female-brewing/",
+        "access": "Full public museum article. Used narrowly; its speculative witch imagery and broad causal story were excluded.",
+        "accessed_on": "2026-10-28",
+        "locator": "Maud London and documentary visibility in poll-tax records."
+      }
+    ],
+    "uncertainty": "Museum interpretation is not an independent archival audit or population count."
+  },
+  {
+    "chapter": 13,
+    "claim": "Bennett interprets gradual change over 1300–1600 in a household-based trade toward more male-led specialized enterprises.",
+    "wiki_paths": [
+      "history/medieval-england-brewsters-and-change.md",
+      "history/brewsters-household-labor-in-medieval-england.md"
+    ],
+    "sources": [
+      {
+        "title": "Judith M. Bennett, Working Together: Wives and Husbands in the Brewers’ Gild of London (1996)",
+        "url": "https://academic.oup.com/book/47408/chapter-abstract/422345715",
+        "access": "Indexed publisher chapter abstract only.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract: household labor and changing organization from 1300 to 1600."
+      },
+      {
+        "title": "Judith M. Bennett, Ale, Beer, and Brewsters in England (1996)",
+        "url": "https://academic.oup.com/book/47408",
+        "access": "Indexed publisher book description; full monograph not accessed.",
+        "accessed_on": "2026-10-28",
+        "locator": "Description of women’s work and gradual change over 1300–1600."
+      }
+    ],
+    "uncertainty": "Not a claim of uniform transition or a single technological cause; full monograph not examined."
+  },
+  {
+    "chapter": 13,
+    "claim": "The 1948 Goesaert majority invoked an English alewife stereotype while upholding Michigan’s gendered bartender exception.",
+    "wiki_paths": [
+      "culture/alewives-and-oxford-town-life.md"
+    ],
+    "sources": [
+      {
+        "title": "Goesaert v. Cleary, 335 U.S. 464 (1948)",
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep335/usrep335464/usrep335464.pdf",
+        "access": "Full five-page United States Reports PDF, extracted text, majority and dissent.",
+        "accessed_on": "2026-10-28",
+        "locator": "Pages 465–468: Michigan exception, Frankfurter’s alewife reference, Rutledge dissent."
+      }
+    ],
+    "uncertainty": "Historical legal episode only; no inference about present law or continuous medieval-to-modern institutions."
+  },
+  {
+    "chapter": 13,
+    "claim": "Occupational visibility, actual labor and authority are distinct; a record’s purpose shapes who becomes visible.",
+    "wiki_paths": [
+      "culture/alewives-and-oxford-town-life.md",
+      "history/brewsters-household-labor-in-medieval-england.md"
+    ],
+    "sources": [
+      {
+        "title": "Elizabeth Kuligowski, Alewives in Oxford: A History of Female Brewing, Museum of Oxford",
+        "url": "https://museumofoxford.org/alewives-in-oxford-a-history-of-female-brewing/",
+        "access": "Full public museum article. Used narrowly; its speculative witch imagery and broad causal story were excluded.",
+        "accessed_on": "2026-10-28",
+        "locator": "Maud London and documentary visibility in poll-tax records."
+      },
+      {
+        "title": "Judith M. Bennett, Working Together: Wives and Husbands in the Brewers’ Gild of London (1996)",
+        "url": "https://academic.oup.com/book/47408/chapter-abstract/422345715",
+        "access": "Indexed publisher chapter abstract only.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract: household labor and changing organization from 1300 to 1600."
+      },
+      {
+        "title": "Judicium Pillorie, in Owen Ruffhead, The Statutes at Large (1763), p. 28",
+        "url": "https://en.wikisource.org/wiki/Page:Ruffhead_-_The_Statutes_at_Large,_1763.djvu/74",
+        "access": "Validated transcription of a digitized public-domain statutory page; surrounding volume not read.",
+        "accessed_on": "2026-10-28",
+        "locator": "Punishment of a baker or brewer offending; escalating amercements/corporal sanctions."
+      }
+    ],
+    "uncertainty": "Original analytical inference, illustrated by an explicitly hypothetical restaurant-inspection archive; not a quantified archival finding."
+  },
+  {
+    "chapter": 14,
+    "claim": "Practitioners describe communal wort production followed by household fermentation and maturation.",
+    "wiki_paths": [
+      "culture/zoigl-communal-brewing.md"
+    ],
+    "sources": [
+      {
+        "title": "Echter Zoigl vom Kommunbrauer, An Introduction to the Tradition of Zoigl Beer",
+        "url": "https://zoiglbier.de/an-introduction-to-the-tradition-of-zoigl-beer/",
+        "access": "Full practitioners’ association HTML. Historical-date discrepancies and dated establishment counts were not adopted.",
+        "accessed_on": "2026-10-28",
+        "locator": "Brewing and household fermentation; ownership types, Kesselgeld, property rights, shared emblem requirements."
+      }
+    ],
+    "uncertainty": "The detailed practitioner sequence resolves shorthand in heritage descriptions; no claim all details are identical in every town."
+  },
+  {
+    "chapter": 14,
+    "claim": "The star and service calendar tell customers where and when household service is available.",
+    "wiki_paths": [
+      "culture/zoigl-communal-brewing.md"
+    ],
+    "sources": [
+      {
+        "title": "Stadt Windischeschenbach, Freizeit / Tourismus",
+        "url": "https://windischeschenbach.de/freizeit-tourismus/",
+        "access": "Full municipal HTML; no current opening hours or establishment count used.",
+        "accessed_on": "2026-10-28",
+        "locator": "Zoigl section: star, calendar, property-register brewing rights."
+      },
+      {
+        "title": "Echter Zoigl vom Kommunbrauer, Der Zoigl",
+        "url": "https://zoiglbier.de/der-zoigl/",
+        "access": "Full practitioners’ association German HTML.",
+        "accessed_on": "2026-10-28",
+        "locator": "Current explanation of emblem conditions and variations; symbolism treated as association account, not dated origin proof."
+      }
+    ],
+    "uncertainty": "Symbol’s present documented use does not establish the historical origin of each point’s symbolism; no live schedule supplied."
+  },
+  {
+    "chapter": 14,
+    "claim": "Upper Palatinate Zoigl culture entered Germany’s national inventory in 2018.",
+    "wiki_paths": [
+      "culture/zoigl-communal-brewing.md"
+    ],
+    "sources": [
+      {
+        "title": "Deutsche UNESCO-Kommission, Oberpfälzer Zoiglkultur",
+        "url": "https://www.unesco.de/staette/oberpfaelzer-zoiglkultur/",
+        "access": "Full German national intangible-heritage inventory entry.",
+        "accessed_on": "2026-10-28",
+        "locator": "2018 national inclusion; five towns; cooperative maintenance, transmission and social service."
+      }
+    ],
+    "uncertainty": "National inventory is distinct from UNESCO international inscription; recognition is not a census of participants."
+  },
+  {
+    "chapter": 14,
+    "claim": "Shared brewhouses have differing ownership arrangements, maintenance contributions and property-linked access rights.",
+    "wiki_paths": [
+      "culture/zoigl-communal-brewing.md"
+    ],
+    "sources": [
+      {
+        "title": "Echter Zoigl vom Kommunbrauer, An Introduction to the Tradition of Zoigl Beer",
+        "url": "https://zoiglbier.de/an-introduction-to-the-tradition-of-zoigl-beer/",
+        "access": "Full practitioners’ association HTML. Historical-date discrepancies and dated establishment counts were not adopted.",
+        "accessed_on": "2026-10-28",
+        "locator": "Brewing and household fermentation; ownership types, Kesselgeld, property rights, shared emblem requirements."
+      },
+      {
+        "title": "Stadt Windischeschenbach, Freizeit / Tourismus",
+        "url": "https://windischeschenbach.de/freizeit-tourismus/",
+        "access": "Full municipal HTML; no current opening hours or establishment count used.",
+        "accessed_on": "2026-10-28",
+        "locator": "Zoigl section: star, calendar, property-register brewing rights."
+      }
+    ],
+    "uncertainty": "Communal facilities do not imply unrestricted access or equal power; current property-right advice is outside scope."
+  },
+  {
+    "chapter": 14,
+    "claim": "The shared emblem’s stated conditions link communal production with service in the same town.",
+    "wiki_paths": [
+      "culture/zoigl-communal-brewing.md"
+    ],
+    "sources": [
+      {
+        "title": "Echter Zoigl vom Kommunbrauer, Der Zoigl",
+        "url": "https://zoiglbier.de/der-zoigl/",
+        "access": "Full practitioners’ association German HTML.",
+        "accessed_on": "2026-10-28",
+        "locator": "Current explanation of emblem conditions and variations; symbolism treated as association account, not dated origin proof."
+      },
+      {
+        "title": "Echter Zoigl vom Kommunbrauer, An Introduction to the Tradition of Zoigl Beer",
+        "url": "https://zoiglbier.de/an-introduction-to-the-tradition-of-zoigl-beer/",
+        "access": "Full practitioners’ association HTML. Historical-date discrepancies and dated establishment counts were not adopted.",
+        "accessed_on": "2026-10-28",
+        "locator": "Brewing and household fermentation; ownership types, Kesselgeld, property rights, shared emblem requirements."
+      }
+    ],
+    "uncertainty": "Association criteria are not claimed to be universal statutory beer-style rules."
+  },
+  {
+    "chapter": 14,
+    "claim": "A shared institution can preserve a local production relationship while allowing household flavor variation.",
+    "wiki_paths": [
+      "culture/zoigl-communal-brewing.md"
+    ],
+    "sources": [
+      {
+        "title": "Echter Zoigl vom Kommunbrauer, An Introduction to the Tradition of Zoigl Beer",
+        "url": "https://zoiglbier.de/an-introduction-to-the-tradition-of-zoigl-beer/",
+        "access": "Full practitioners’ association HTML. Historical-date discrepancies and dated establishment counts were not adopted.",
+        "accessed_on": "2026-10-28",
+        "locator": "Brewing and household fermentation; ownership types, Kesselgeld, property rights, shared emblem requirements."
+      },
+      {
+        "title": "Deutsche UNESCO-Kommission, Oberpfälzer Zoiglkultur",
+        "url": "https://www.unesco.de/staette/oberpfaelzer-zoiglkultur/",
+        "access": "Full German national intangible-heritage inventory entry.",
+        "accessed_on": "2026-10-28",
+        "locator": "2018 national inclusion; five towns; cooperative maintenance, transmission and social service."
+      }
+    ],
+    "uncertainty": "Variation claim follows practitioners; distant perfect imitation is an explicitly marked thought experiment, not a reported case."
+  },
+  {
+    "chapter": 15,
+    "claim": "A 29-year-old Nagbo pito brewer reported fewer possible weekly batches when water was scarce.",
+    "wiki_paths": [
+      "culture/pito-enterprises-in-wa.md",
+      "culture/ghana-pito-women-enterprise-survey.md"
+    ],
+    "sources": [
+      {
+        "title": "Joseph Alhassan et al., Incidence of water scarcity: understanding the triggers and implications for women’s non-agricultural livelihoods in Northern Ghana (2024)",
+        "url": "https://doi.org/10.1080/23311886.2024.2433691",
+        "access": "Publisher-indexed methods and results excerpts; direct HTML/PDF blocked. Full article, recordings and dataset not examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods: East/West Mamprusi; section 4.5: 29-year-old Nagbo pito brewer and seasonal production frequency."
+      }
+    ],
+    "uncertainty": "Participant testimony accessed in article excerpts, not independent observation; exact household economics not established."
+  },
+  {
+    "chapter": 15,
+    "claim": "The 2023 enterprise study’s methods specify Wa and non-probability contact; reported constraints include finance, packaging and storage.",
+    "wiki_paths": [
+      "culture/ghana-pito-women-enterprise-survey.md"
+    ],
+    "sources": [
+      {
+        "title": "Aliata Issahaq Mumuni, Musah Dumah and Hawa Awuro Sam, Modeling the Determinants in Pito Brewing of Small-Scale Enterprising in Ghana (2023)",
+        "url": "https://iiste.org/Journals/index.php/EJBM/article/download/61484/63474",
+        "access": "Full nine-page PDF text, including methods and tables.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods narrow abstract’s Upper West framing to Wa; purposive/convenience sampling, 362 returned questionnaires; constraints tables."
+      }
+    ],
+    "uncertainty": "Abstract geography is broader than methods; table inconsistencies prevent reliance on percentages or causal regression estimates."
+  },
+  {
+    "chapter": 15,
+    "claim": "The 2024 Wa abstract addresses enterprise contributions but should not be counted as an independently confirmed sample.",
+    "wiki_paths": [
+      "culture/pito-enterprises-in-wa.md"
+    ],
+    "sources": [
+      {
+        "title": "Aliata Issahaq Mumuni, Seidu Khalida and Kennedy Afenyo Biaku, Assessing the Contribution of Pito Brewing to the Growth and Development of Small-Scale Enterprising in Wa Municipality (2024)",
+        "url": "https://iiste.org/Journals/index.php/JEDS/article/view/62498",
+        "access": "Publisher abstract only.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract: livelihood/enterprise contribution, sample and constraints. No income amount adopted."
+      },
+      {
+        "title": "Aliata Issahaq Mumuni, Musah Dumah and Hawa Awuro Sam, Modeling the Determinants in Pito Brewing of Small-Scale Enterprising in Ghana (2023)",
+        "url": "https://iiste.org/Journals/index.php/EJBM/article/download/61484/63474",
+        "access": "Full nine-page PDF text, including methods and tables.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods narrow abstract’s Upper West framing to Wa; purposive/convenience sampling, 362 returned questionnaires; constraints tables."
+      }
+    ],
+    "uncertainty": "Shared author/sample size does not establish either identity or independence; no earnings estimate adopted."
+  },
+  {
+    "chapter": 15,
+    "claim": "Mamprusi respondents link seasonal work opportunities and water scarcity.",
+    "wiki_paths": [
+      "culture/pito-enterprises-in-wa.md"
+    ],
+    "sources": [
+      {
+        "title": "Joseph Alhassan et al., Incidence of water scarcity: understanding the triggers and implications for women’s non-agricultural livelihoods in Northern Ghana (2024)",
+        "url": "https://doi.org/10.1080/23311886.2024.2433691",
+        "access": "Publisher-indexed methods and results excerpts; direct HTML/PDF blocked. Full article, recordings and dataset not examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods: East/West Mamprusi; section 4.5: 29-year-old Nagbo pito brewer and seasonal production frequency."
+      }
+    ],
+    "uncertainty": "Wa and Mamprusi are distinct sites and are not pooled; testimony is not representative of every northern Ghanaian household."
+  },
+  {
+    "chapter": 15,
+    "claim": "Lobnibe studies pito bars in relation to migration, agriculture and identity in Brong Ahafo.",
+    "wiki_paths": [
+      "culture/ghana-pito-bars-migration-and-identity.md"
+    ],
+    "sources": [
+      {
+        "title": "Isidore Lobnibe, Drinking pito: conviviality, popular culture and changing agricultural production at the rural–urban interface in Brong Ahafo, Ghana (online 2016; volume 2018)",
+        "url": "https://doi.org/10.1080/19376812.2016.1253489",
+        "access": "Indexed publisher abstract only; full article inaccessible.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract: northern migration, Brong Ahafo, two bars and agricultural change."
+      }
+    ],
+    "uncertainty": "Abstract-level framing only, with no invented customer scenes or demographic composition."
+  },
+  {
+    "chapter": 15,
+    "claim": "Dolo provides a neighboring comparison of women’s enterprise and grain, malt, fuel, transport and by-product connections.",
+    "wiki_paths": [
+      "culture/dolo-and-womens-livelihoods.md"
+    ],
+    "sources": [
+      {
+        "title": "Hagrétou Sawadogo-Lingani et al., Sustainable Production of African Traditional Beers With Focus on Dolo, a West African Sorghum-Based Alcoholic Beverage (2021)",
+        "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.672410/full",
+        "access": "Full open review HTML; economic, production, by-products and fuel sections consulted. This is a review, not primary fieldwork.",
+        "accessed_on": "2026-10-28",
+        "locator": "Socio-Cultural and Economic Importance; production chain; valorization of by-products. Outdated numerical estimates and medical/safety generalizations excluded."
+      }
+    ],
+    "uncertainty": "Explicitly a review-based comparison, not primary fieldwork, national census or claim of interchangeable pito/dolo institutions."
+  },
+  {
+    "chapter": 15,
+    "claim": "A hypothetical water charge may omit labor time; inputs constrain the conversion of knowledge into income.",
+    "wiki_paths": [
+      "culture/pito-enterprises-in-wa.md",
+      "culture/dolo-and-womens-livelihoods.md"
+    ],
+    "sources": [
+      {
+        "title": "Joseph Alhassan et al., Incidence of water scarcity: understanding the triggers and implications for women’s non-agricultural livelihoods in Northern Ghana (2024)",
+        "url": "https://doi.org/10.1080/23311886.2024.2433691",
+        "access": "Publisher-indexed methods and results excerpts; direct HTML/PDF blocked. Full article, recordings and dataset not examined.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods: East/West Mamprusi; section 4.5: 29-year-old Nagbo pito brewer and seasonal production frequency."
+      },
+      {
+        "title": "Aliata Issahaq Mumuni, Musah Dumah and Hawa Awuro Sam, Modeling the Determinants in Pito Brewing of Small-Scale Enterprising in Ghana (2023)",
+        "url": "https://iiste.org/Journals/index.php/EJBM/article/download/61484/63474",
+        "access": "Full nine-page PDF text, including methods and tables.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods narrow abstract’s Upper West framing to Wa; purposive/convenience sampling, 362 returned questionnaires; constraints tables."
+      },
+      {
+        "title": "Hagrétou Sawadogo-Lingani et al., Sustainable Production of African Traditional Beers With Focus on Dolo, a West African Sorghum-Based Alcoholic Beverage (2021)",
+        "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.672410/full",
+        "access": "Full open review HTML; economic, production, by-products and fuel sections consulted. This is a review, not primary fieldwork.",
+        "accessed_on": "2026-10-28",
+        "locator": "Socio-Cultural and Economic Importance; production chain; valorization of by-products. Outdated numerical estimates and medical/safety generalizations excluded."
+      }
+    ],
+    "uncertainty": "Original economic reasoning, with technology tradeoffs explicitly hypothetical; no calculated profit or prescription."
+  },
+  {
+    "chapter": 16,
+    "claim": "White flags in Piura and red markers in Huarocondo belong to distinct documented local settings.",
+    "wiki_paths": [
+      "objects/piura-chicha-white-flags.md",
+      "culture/cusco-chicherias-maize-and-gendered-work.md"
+    ],
+    "sources": [
+      {
+        "title": "Frances M. Hayashida, Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production in two regions of the North Coast of Peru (2008)",
+        "url": "https://doi.org/10.1016/j.jaa.2008.03.003",
+        "access": "Publisher abstract plus detailed indexed methods and Piura excerpts; full paper inaccessible. Indigenous CHIRAPAQ catalogue consulted for metadata, not a community endorsement.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods and Piura: ten women/chicherías; white flags; La Loba/La Cartola schedules; pachucho and crudo mill purchases."
+      },
+      {
+        "title": "Felipe Vargas Faulbaum, Chicha de jora: cauim de milho germinado nos Andes peruanos (2019)",
+        "url": "https://periodicos.ufrn.br/equatorial/article/download/16400/12190/61014",
+        "access": "Full 25-page Portuguese-language article as extracted PDF text; photographs not visually inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "Pages 4–5 Engracia Surco Escobedo and Huarocondo red markers; pages 14–15 electric milling and vessels; maize preparation sections."
+      },
+      {
+        "title": "Ministerio de Cultura del Perú, Resolución Viceministerial N.º 159-2015-VMPCIC-MC (4 November 2015; published 19 November)",
+        "url": "https://busquedas.elperuano.pe/dispositivo/NL/1313016-3",
+        "access": "Full official extracted Spanish text; some accented characters corrupted. Adjacent Cusco and Tumbes texts separated from Piura resolution.",
+        "accessed_on": "2026-10-28",
+        "locator": "Piura rationale and Article 1; distinctions between chicherías/picanterías; white flag; differentiated regional declarations."
+      }
+    ],
+    "uncertainty": "No claim of universal Peruvian sign color or current service schedule."
+  },
+  {
+    "chapter": 16,
+    "claim": "Hayashida’s north-coast study records ten women’s chicherías, known sales days and off-site purchases of malted/ordinary maize flour.",
+    "wiki_paths": [
+      "culture/piura-chicheras-and-household-sales.md"
+    ],
+    "sources": [
+      {
+        "title": "Frances M. Hayashida, Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production in two regions of the North Coast of Peru (2008)",
+        "url": "https://doi.org/10.1016/j.jaa.2008.03.003",
+        "access": "Publisher abstract plus detailed indexed methods and Piura excerpts; full paper inaccessible. Indigenous CHIRAPAQ catalogue consulted for metadata, not a community endorsement.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods and Piura: ten women/chicherías; white flags; La Loba/La Cartola schedules; pachucho and crudo mill purchases."
+      }
+    ],
+    "uncertainty": "Indexed excerpts, not full paper; the limited sample is not a census and purchases need not characterize every producer."
+  },
+  {
+    "chapter": 16,
+    "claim": "Living production observations suggest testable archaeological analogies but are not unchanged survivals of ancient practice.",
+    "wiki_paths": [
+      "culture/piura-chicheras-and-household-sales.md"
+    ],
+    "sources": [
+      {
+        "title": "Frances M. Hayashida, Ancient beer and modern brewers: Ethnoarchaeological observations of chicha production in two regions of the North Coast of Peru (2008)",
+        "url": "https://doi.org/10.1016/j.jaa.2008.03.003",
+        "access": "Publisher abstract plus detailed indexed methods and Piura excerpts; full paper inaccessible. Indigenous CHIRAPAQ catalogue consulted for metadata, not a community endorsement.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods and Piura: ten women/chicherías; white flags; La Loba/La Cartola schedules; pachucho and crudo mill purchases."
+      }
+    ],
+    "uncertainty": "Absence-of-mill and vanished-sign examples are explicitly analytical possibilities, not conclusions about an excavated site."
+  },
+  {
+    "chapter": 16,
+    "claim": "Vargas Faulbaum names Engracia Surco Escobedo and describes electric milling in the Cusco-region research.",
+    "wiki_paths": [
+      "culture/cusco-chicherias-maize-and-gendered-work.md"
+    ],
+    "sources": [
+      {
+        "title": "Felipe Vargas Faulbaum, Chicha de jora: cauim de milho germinado nos Andes peruanos (2019)",
+        "url": "https://periodicos.ufrn.br/equatorial/article/download/16400/12190/61014",
+        "access": "Full 25-page Portuguese-language article as extracted PDF text; photographs not visually inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "Pages 4–5 Engracia Surco Escobedo and Huarocondo red markers; pages 14–15 electric milling and vessels; maize preparation sections."
+      }
+    ],
+    "uncertainty": "No inferred interior thoughts, direct interview by this book or claim machinery destroys continuity."
+  },
+  {
+    "chapter": 16,
+    "claim": "The 2015 Piura resolution distinguishes chichería/picantería functions and uses differentiated regional recognition.",
+    "wiki_paths": [
+      "culture/piura-chicheras-and-household-sales.md"
+    ],
+    "sources": [
+      {
+        "title": "Ministerio de Cultura del Perú, Resolución Viceministerial N.º 159-2015-VMPCIC-MC (4 November 2015; published 19 November)",
+        "url": "https://busquedas.elperuano.pe/dispositivo/NL/1313016-3",
+        "access": "Full official extracted Spanish text; some accented characters corrupted. Adjacent Cusco and Tumbes texts separated from Piura resolution.",
+        "accessed_on": "2026-10-28",
+        "locator": "Piura rationale and Article 1; distinctions between chicherías/picanterías; white flag; differentiated regional declarations."
+      }
+    ],
+    "uncertainty": "Official recognition does not determine all actual practices, business incomes or future continuity; adjacent resolutions kept separate."
+  },
+  {
+    "chapter": 16,
+    "claim": "The Ministry’s dated announcement names women representing Lambayeque and Piura at the recognition ceremony.",
+    "wiki_paths": [
+      "culture/piura-chicheras-and-household-sales.md"
+    ],
+    "sources": [
+      {
+        "title": "Ministerio de Cultura del Perú, announcement recognizing regional picanterías and chicherías (23 November 2015)",
+        "url": "https://www.gob.pe/institucion/cultura/noticias/47537-declaran-las-picanterias-ychicherias-de-las-regiones-lambayeque-la-libertad-cusco-piura-y-tumbes-como-patrimonio-cultural-de-la-nacion",
+        "access": "Indexed official announcement; direct retrieval blocked.",
+        "accessed_on": "2026-10-28",
+        "locator": "Recognition ceremony representatives: Susana Victoria Yovera Siesquen (Lambayeque), Ingly Quiroga Flores (Piura)."
+      }
+    ],
+    "uncertainty": "Public ceremony fact only, with no invented biographies or claimed endorsement by representatives."
+  },
+  {
+    "chapter": 17,
+    "claim": "Song et al. recovered S. cerevisiae from eighteen of forty-two nuruk samples and A. oryzae from thirteen.",
+    "wiki_paths": [
+      "microbiology/nuruk-42-sample-survey.md"
+    ],
+    "sources": [
+      {
+        "title": "Sang Hoon Song et al., Analysis of Microflora Profile in Korean Traditional Nuruk (2013)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23314366/",
+        "access": "Complete PubMed abstract and metadata; full article not accessed.",
+        "accessed_on": "2026-10-28",
+        "locator": "42 samples; S. cerevisiae recovered from 18, A. oryzae from 13."
+      }
+    ],
+    "uncertainty": "Isolation failure is not organism absence; sample proportions are not universal prevalence."
+  },
+  {
+    "chapter": 17,
+    "claim": "Chai et al.’s makgeolli time course used commercial yeast in addition to commercial nuruk.",
+    "wiki_paths": [
+      "microbiology/makgeolli-time-course-not-one-snapshot.md"
+    ],
+    "sources": [
+      {
+        "title": "Changhoon Chai, Goo-Sang Lim, Yun-Ji Kim and Se-Wook Oh, Microbial Community Changes in Makgeolli during Brewing (2015)",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jib.227",
+        "access": "Full publisher HTML, especially preparation methods and time-course results.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods explicitly add commercial yeast starter alongside commercial nuruk; changing bacterial/fungal communities and physicochemical measures."
+      }
+    ],
+    "uncertainty": "Its Saccharomyces dominance cannot demonstrate unaided nuruk succession or directly contradict the 2013 dry-starter survey."
+  },
+  {
+    "chapter": 17,
+    "claim": "Starch-active S. fibuligera isolates show that yeast functions are not limited to ethanol production.",
+    "wiki_paths": [
+      "microbiology/saccharomycopsis-fibuligera-in-starters.md"
+    ],
+    "sources": [
+      {
+        "title": "Jin Ho Choo et al., Whole-genome de novo sequencing, combined with RNA-Seq analysis, reveals unique genome and physiological features of the amylolytic yeast Saccharomycopsis fibuligera and its interspecies hybrid (2016)",
+        "url": "https://link.springer.com/article/10.1186/s13068-016-0653-4",
+        "access": "Full publisher HTML; Background, isolation/growth results and functional conclusions consulted.",
+        "accessed_on": "2026-10-28",
+        "locator": "KJJ81 from Jeju and KPH12 from Pohang wheat nuruk; selected high-saccharification isolates."
+      }
+    ],
+    "uncertainty": "Selected isolates, not all starter composition; wiki-linked 2023 FEMS article is a review, so an original 2016 study is used."
+  },
+  {
+    "chapter": 17,
+    "claim": "Pradhan and Tamang’s study distinguishes named dry starters and obtains 201 bacterial isolates from thirty-five samples.",
+    "wiki_paths": [
+      "microbiology/himalayan-dry-starter-diversity.md",
+      "culture/marcha-and-himalayan-starter-knowledge.md"
+    ],
+    "sources": [
+      {
+        "title": "Pooja Pradhan and Jyoti Prakash Tamang, Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)",
+        "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full",
+        "access": "Full publisher HTML; sample collection, preparation, methods and results consulted.",
+        "accessed_on": "2026-10-28",
+        "locator": "35 dry starters; 201 bacterial isolates; 68 representatives genetically identified. Sample names/places kept distinct; backslopping described."
+      }
+    ],
+    "uncertainty": "Culture-dependent bacteria only; sixty-eight representatives typed; no whole-microbiome census or universal Himalayan starter recipe."
+  },
+  {
+    "chapter": 17,
+    "claim": "Prior starter material helps propagate new cakes, connecting biological transfer with repeated preparation.",
+    "wiki_paths": [
+      "culture/starter-transmission-and-community-knowledge.md"
+    ],
+    "sources": [
+      {
+        "title": "Pooja Pradhan and Jyoti Prakash Tamang, Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)",
+        "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full",
+        "access": "Full publisher HTML; sample collection, preparation, methods and results consulted.",
+        "accessed_on": "2026-10-28",
+        "locator": "35 dry starters; 201 bacterial isolates; 68 representatives genetically identified. Sample names/places kept distinct; backslopping described."
+      }
+    ],
+    "uncertainty": "Continuity without fixed microbial proportions is analytical reasoning, not a longitudinal measurement of inherited community composition."
+  },
+  {
+    "chapter": 17,
+    "claim": "Korea’s 2021 national heritage designation addresses makgeolli making and sharing.",
+    "wiki_paths": [
+      "culture/starter-transmission-and-community-knowledge.md"
+    ],
+    "sources": [
+      {
+        "title": "Cultural Heritage Administration of Korea, Makgeolli Making and Sharing Designated as National Intangible Cultural Heritage (2021)",
+        "url": "https://ichlinks.com/archive/materials/publicationsV.do?ichDataUid=13850887026214845194",
+        "access": "Full institutional description archived by ichLinks; not a maker interview.",
+        "accessed_on": "2026-10-28",
+        "locator": "National designation encompasses production and sharing; historical origin claims not adopted."
+      }
+    ],
+    "uncertainty": "An institutional account, not universal maker agreement, a nuruk microbial specification or international UNESCO inscription."
+  },
+  {
+    "chapter": 17,
+    "claim": "Preserving an isolate, a written recipe or a practice preserves different aspects of a starter.",
+    "wiki_paths": [
+      "stories/a-cake-is-a-community-not-a-strain.md",
+      "culture/starter-transmission-and-community-knowledge.md"
+    ],
+    "sources": [
+      {
+        "title": "Sang Hoon Song et al., Analysis of Microflora Profile in Korean Traditional Nuruk (2013)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23314366/",
+        "access": "Complete PubMed abstract and metadata; full article not accessed.",
+        "accessed_on": "2026-10-28",
+        "locator": "42 samples; S. cerevisiae recovered from 18, A. oryzae from 13."
+      },
+      {
+        "title": "Jin Ho Choo et al., Whole-genome de novo sequencing, combined with RNA-Seq analysis, reveals unique genome and physiological features of the amylolytic yeast Saccharomycopsis fibuligera and its interspecies hybrid (2016)",
+        "url": "https://link.springer.com/article/10.1186/s13068-016-0653-4",
+        "access": "Full publisher HTML; Background, isolation/growth results and functional conclusions consulted.",
+        "accessed_on": "2026-10-28",
+        "locator": "KJJ81 from Jeju and KPH12 from Pohang wheat nuruk; selected high-saccharification isolates."
+      },
+      {
+        "title": "Pooja Pradhan and Jyoti Prakash Tamang, Phenotypic and Genotypic Identification of Bacteria Isolated From Traditionally Prepared Dry Starters of the Eastern Himalayas (2019)",
+        "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.02526/full",
+        "access": "Full publisher HTML; sample collection, preparation, methods and results consulted.",
+        "accessed_on": "2026-10-28",
+        "locator": "35 dry starters; 201 bacterial isolates; 68 representatives genetically identified. Sample names/places kept distinct; backslopping described."
+      },
+      {
+        "title": "Cultural Heritage Administration of Korea, Makgeolli Making and Sharing Designated as National Intangible Cultural Heritage (2021)",
+        "url": "https://ichlinks.com/archive/materials/publicationsV.do?ichDataUid=13850887026214845194",
+        "access": "Full institutional description archived by ichLinks; not a maker interview.",
+        "accessed_on": "2026-10-28",
+        "locator": "National designation encompasses production and sharing; historical origin claims not adopted."
+      }
+    ],
+    "uncertainty": "Explicitly hypothetical conservation reasoning; no actual conservation project or consultation is claimed."
+  },
+  {
+    "chapter": 18,
+    "claim": "Kubo and Kilasara observed separately prepared nyalu and mso being combined, including reserved warm liquid and controlled heating for mso.",
+    "wiki_paths": [
+      "stories/the-beer-with-two-porridges.md",
+      "processes/mbege-nyalu-and-mso.md"
+    ],
+    "sources": [
+      {
+        "title": "Ryosuke Kubo and Method Kilasara, Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)",
+        "url": "https://doi.org/10.3390/beverages2030021",
+        "access": "Publisher-indexed excerpts followed by complete ten-page open-access article as extracted PDF text from Semantic Scholar copy. Direct publisher/PDF origin fetch failed.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods 2.1–2.4; results 3.2 two preparations, warm liquid, heat management; 3.3 bark comparison. PDF: https://pdfs.semanticscholar.org/e26b/08d322fa209747b8cb16152bf6919c42fd6c.pdf"
+      }
+    ],
+    "uncertainty": "Kilema kaskazini, 2015–2016; no region-wide uniformity or recipe protocol; functional yeast role is author inference, not a newly sequenced microbial census."
+  },
+  {
+    "chapter": 18,
+    "claim": "Finger-millet malt-extract enzyme activities respond differently to germination and heating.",
+    "wiki_paths": [
+      "ingredients/finger-millet-in-traditional-ferments.md"
+    ],
+    "sources": [
+      {
+        "title": "Dorothy Machunda Gimbi and Naofumi Kitabatake, Changes in alpha-and beta-amylase activities during seed germination of African finger millet (2002)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12590743/",
+        "access": "Complete indexed PubMed and publisher abstracts; full article unavailable.",
+        "accessed_on": "2026-10-28",
+        "locator": "Germination conditions and malt-extract thermal stability; beta-amylase inactivation at 70 C after 10 minutes."
+      }
+    ],
+    "uncertainty": "Abstract-level experimental results; laboratory extract kinetics are not universal mso operating settings."
+  },
+  {
+    "chapter": 18,
+    "claim": "Comparative tests and Bupigu fieldwork connect finger millet’s usefulness to high amylase activity while acknowledging sorghum.",
+    "wiki_paths": [
+      "ingredients/finger-millet-in-traditional-ferments.md"
+    ],
+    "sources": [
+      {
+        "title": "Ryosuke Kubo, The reason for the preferential use of finger millet (Eleusine coracana) in eastern African brewing (2016)",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jib.309",
+        "access": "Full publisher HTML, field/laboratory methods, results and discussion.",
+        "accessed_on": "2026-10-28",
+        "locator": "Bupigu field survey; comparative alpha-amylase assay; high activity in finger millet and sorghum. Medical speculation not adopted."
+      }
+    ],
+    "uncertainty": "Selected cereals/conditions; field preferences have more determinants than one biochemical measurement; medical speculation excluded."
+  },
+  {
+    "chapter": 18,
+    "claim": "Bupigu research reports separately prepared nyambo and kikonde for locally named drinks, offering a process comparison.",
+    "wiki_paths": [
+      "processes/mbege-nyalu-and-mso.md"
+    ],
+    "sources": [
+      {
+        "title": "Ryosuke Kubo, Production of indigenous alcoholic beverages in a rural village of Tanzania (2014)",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jib.127",
+        "access": "Full publisher HTML, methods and process descriptions.",
+        "accessed_on": "2026-10-28",
+        "locator": "Bupigu: komoni, kimpumu, kiambule; nyambo and kikonde; separate fermented/sweet preparations and temperature management."
+      }
+    ],
+    "uncertainty": "The names do not replace nyalu/mso, and process similarity proves no transmission route or universal safety property."
+  },
+  {
+    "chapter": 18,
+    "claim": "The on-site msesewe comparison supports an observed fermentation effect but leaves mechanism and general dosing unresolved.",
+    "wiki_paths": [
+      "ingredients/msesewe-stem-bark-in-mbege.md"
+    ],
+    "sources": [
+      {
+        "title": "Ryosuke Kubo and Method Kilasara, Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)",
+        "url": "https://doi.org/10.3390/beverages2030021",
+        "access": "Publisher-indexed excerpts followed by complete ten-page open-access article as extracted PDF text from Semantic Scholar copy. Direct publisher/PDF origin fetch failed.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods 2.1–2.4; results 3.2 two preparations, warm liquid, heat management; 3.3 bark comparison. PDF: https://pdfs.semanticscholar.org/e26b/08d322fa209747b8cb16152bf6919c42fd6c.pdf"
+      }
+    ],
+    "uncertainty": "Rauvolfia caffra stem bark; field measurements used a diluted-sample saliva ethanol kit. No ingestion recommendation, universal concentration or microbiome mechanism asserted."
+  },
+  {
+    "chapter": 18,
+    "claim": "Hemp describes layered, diverse coffee-banana homegardens and pressures on them.",
+    "wiki_paths": [
+      "culture/mbege-as-regional-knowledge.md"
+    ],
+    "sources": [
+      {
+        "title": "Andreas Hemp, The Banana Forests of Kilimanjaro: Biodiversity and Conservation of the Chagga Homegardens (2006)",
+        "url": "https://link.springer.com/article/10.1007/s10531-004-8230-8",
+        "access": "Publisher abstract and bibliographic record only; subscription full text not read.",
+        "accessed_on": "2026-10-28",
+        "locator": "62 coffee-banana plantations; layered vegetation, diversity and pressures associated with wood demand and coffee changes."
+      }
+    ],
+    "uncertainty": "Abstract-only regional context; not the supply chain or ingredient provenance of the Kilema brewer."
+  },
+  {
+    "chapter": 18,
+    "claim": "Myhre’s Rombo study addresses showing through substances including millet and beer.",
+    "wiki_paths": [
+      "culture/chagga-ritual-beer-in-rombo.md"
+    ],
+    "sources": [
+      {
+        "title": "Knut Christian Myhre, What the beer shows: Exploring ritual and ontology in Kilimanjaro (2015)",
+        "url": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/amet.12119",
+        "access": "Publisher abstract and reference list; full article not read.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract’s concept of showing among Chagga-speaking people in Rombo District; millet and beer among named substances."
+      }
+    ],
+    "uncertainty": "Abstract only; detailed ceremonies not reconstructed and Rombo not collapsed into Kilema."
+  },
+  {
+    "chapter": 18,
+    "claim": "Separate preparation clocks and reserved warm liquid expose coordination hidden by an ingredient list.",
+    "wiki_paths": [
+      "stories/the-beer-with-two-porridges.md"
+    ],
+    "sources": [
+      {
+        "title": "Ryosuke Kubo and Method Kilasara, Brewing Technique of Mbege, a Banana Beer Produced in Northeastern Tanzania (2016)",
+        "url": "https://doi.org/10.3390/beverages2030021",
+        "access": "Publisher-indexed excerpts followed by complete ten-page open-access article as extracted PDF text from Semantic Scholar copy. Direct publisher/PDF origin fetch failed.",
+        "accessed_on": "2026-10-28",
+        "locator": "Methods 2.1–2.4; results 3.2 two preparations, warm liquid, heat management; 3.3 bark comparison. PDF: https://pdfs.semanticscholar.org/e26b/08d322fa209747b8cb16152bf6919c42fd6c.pdf"
+      },
+      {
+        "title": "Dorothy Machunda Gimbi and Naofumi Kitabatake, Changes in alpha-and beta-amylase activities during seed germination of African finger millet (2002)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12590743/",
+        "access": "Complete indexed PubMed and publisher abstracts; full article unavailable.",
+        "accessed_on": "2026-10-28",
+        "locator": "Germination conditions and malt-extract thermal stability; beta-amylase inactivation at 70 C after 10 minutes."
+      },
+      {
+        "title": "Ryosuke Kubo, Production of indigenous alcoholic beverages in a rural village of Tanzania (2014)",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jib.127",
+        "access": "Full publisher HTML, methods and process descriptions.",
+        "accessed_on": "2026-10-28",
+        "locator": "Bupigu: komoni, kimpumu, kiambule; nyambo and kikonde; separate fermented/sweet preparations and temperature management."
+      }
+    ],
+    "uncertainty": "Original explanatory reasoning; it does not invent a maker’s thoughts, observed household labor allocation or complete production schedule."
+  }
+]

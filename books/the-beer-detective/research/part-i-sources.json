@@ -1,0 +1,793 @@
+[
+  {
+    "chapter": 1,
+    "claim": "Three Raqefet mortars produced a proposed cereal-brewing interpretation around 13,000 years ago.",
+    "wiki_paths": [
+      "stories/was-beer-before-farming.md",
+      "history/raqefet-cave-brewing-evidence.md"
+    ],
+    "sources": [
+      {
+        "title": "Liu et al. (2018), Fermented beverage and food storage in 13,000-y-old stone mortars at Raqefet Cave",
+        "url": "https://doi.org/10.1016/j.jasrep.2018.08.008",
+        "access": "Abstract plus substantial publisher-indexed introduction, methods and results excerpts; direct full-text/PDF retrieval unsuccessful.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract; mortar functions; starch analysis and experimental comparisons."
+      }
+    ],
+    "uncertainty": "Interpretation of residue, wear and experimental comparison, not surviving liquid; chronology alone does not establish motive for cultivation."
+  },
+  {
+    "chapter": 1,
+    "claim": "Malting and starch conversion help explain why grain possession alone does not establish brewing.",
+    "wiki_paths": [
+      "stories/was-beer-before-farming.md",
+      "history/raqefet-cave-brewing-evidence.md"
+    ],
+    "sources": [
+      {
+        "title": "Damerow (2012), Sumerian Beer: The Origins of Brewing Technology in Ancient Mesopotamia",
+        "url": "https://cdli.earth/articles/cdlj/2012-2",
+        "access": "Full open HTML analytical article.",
+        "accessed_on": "2026-10-28",
+        "locator": "§1.1 brewing definition; §§5.17–5.22 barley equivalents; §§6.4–6.9 interpretation of Ninkasi."
+      }
+    ],
+    "uncertainty": "General mechanism is explanatory background, not an ancient operating recipe; no modern temperature schedule is projected backward."
+  },
+  {
+    "chapter": 1,
+    "claim": "Published objections and a 2019 response concern starch morphology, mortar use and brewing reconstruction.",
+    "wiki_paths": [
+      "stories/was-beer-before-farming.md",
+      "history/raqefet-cave-brewing-evidence.md"
+    ],
+    "sources": [
+      {
+        "title": "Liu et al. (2019), Response to comments on archaeological reconstruction of 13,000-y old Natufian beer making",
+        "url": "https://doi.org/10.1016/j.jasrep.2019.101914",
+        "access": "Publisher abstract, introduction and indexed section excerpts; not a complete reading. Eitam's original commentary was not accessed.",
+        "accessed_on": "2026-10-28",
+        "locator": "Response sections on mortar function, starch damage, vessel volume and heating."
+      }
+    ],
+    "uncertainty": "Critic's position encountered through responding authors, not the complete original critique; dispute remains unresolved in this chapter."
+  },
+  {
+    "chapter": 1,
+    "claim": "A separate Raqefet study interprets flowering-plant impressions as grave linings.",
+    "wiki_paths": [
+      "stories/was-beer-before-farming.md",
+      "history/raqefet-cave-brewing-evidence.md"
+    ],
+    "sources": [
+      {
+        "title": "Nadel et al. (2013), Earliest floral grave lining from 13,700–11,700-y-old Natufian burials",
+        "url": "https://doi.org/10.1073/pnas.1302277110",
+        "access": "Abstract and indexed methods/results text; direct PMC browser challenge.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract and results concerning plant impressions in four graves."
+      }
+    ],
+    "uncertainty": "Burial preparation supports context, not independent proof of brewing or a recoverable ceremony."
+  },
+  {
+    "chapter": 1,
+    "claim": "Cultivation and the gradual appearance of domesticated wheat traits need not coincide.",
+    "wiki_paths": [
+      "stories/was-beer-before-farming.md",
+      "history/raqefet-cave-brewing-evidence.md"
+    ],
+    "sources": [
+      {
+        "title": "Tanno and Willcox (2006), How fast was wild wheat domesticated?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16574859/",
+        "access": "PubMed abstract only.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract on gradual non-shattering domestication traits and persistence of wild forms."
+      }
+    ],
+    "uncertainty": "Abstract-only scope; study does not identify alcohol as a cause of agriculture."
+  },
+  {
+    "chapter": 1,
+    "claim": "Shubayqa 1 preserves bread-like plant foods around 14,400 years ago.",
+    "wiki_paths": [
+      "stories/was-beer-before-farming.md",
+      "history/raqefet-cave-brewing-evidence.md"
+    ],
+    "sources": [
+      {
+        "title": "Arranz-Otaegui et al. (2018), Archaeobotanical evidence reveals the origins of bread 14,400 years ago in northeastern Jordan",
+        "url": "https://doi.org/10.1073/pnas.1801071115",
+        "access": "Open full-text XML successfully retrieved from Europe PMC, alongside indexed publisher text.",
+        "accessed_on": "2026-10-28",
+        "locator": "Shubayqa 1 dates, charred food remains, wild cereals and other plant materials; XML https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6077754/fullTextXML."
+      }
+    ],
+    "uncertainty": "Earliest surviving evidence is not an invention date; no direct competition between beer and bread is inferred."
+  },
+  {
+    "chapter": 2,
+    "claim": "The translated hymn names concrete brewing operations within praise and marked textual gaps.",
+    "wiki_paths": [
+      "stories/ninkasi-is-not-a-recipe.md",
+      "history/hymn-to-ninkasi-and-beer.md",
+      "history/sumerian-beer-terms-and-uncertainty.md"
+    ],
+    "sources": [
+      {
+        "title": "Oxford ETCSL, A hymn to Ninkasi (Ninkasi A)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.4.23.1",
+        "access": "Full English translation; no independent Sumerian translation performed.",
+        "accessed_on": "2026-10-28",
+        "locator": "Lines 1–48, including technical terms, repetition, gaps and final river comparison."
+      }
+    ],
+    "uncertainty": "English scholarly translation is the access layer; no independent Sumerian reading or complete modern recipe is claimed."
+  },
+  {
+    "chapter": 2,
+    "claim": "Civil's edition compares textual witnesses and reports ancient variant readings.",
+    "wiki_paths": [
+      "stories/ninkasi-is-not-a-recipe.md",
+      "history/hymn-to-ninkasi-and-beer.md",
+      "history/sumerian-beer-terms-and-uncertainty.md"
+    ],
+    "sources": [
+      {
+        "title": "Civil (1964), A Hymn to the Beer Goddess and a Drinking Song",
+        "url": "https://isac.uchicago.edu/publications/studies-presented-leo-oppenheim-june-7-1964",
+        "access": "Complete open volume PDF downloaded; Civil chapter and relevant textual commentary inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "Article pp. 67–89; especially pp. 67–69, 72–76 on witnesses, genre, translations and bappir."
+      }
+    ],
+    "uncertainty": "A fluent English text conceals editorial reconstruction; chapter does not reconstruct lost originals."
+  },
+  {
+    "chapter": 2,
+    "claim": "Surviving Ninkasi textual witnesses belong broadly to the Old Babylonian period.",
+    "wiki_paths": [
+      "stories/ninkasi-is-not-a-recipe.md",
+      "history/hymn-to-ninkasi-and-beer.md",
+      "history/sumerian-beer-terms-and-uncertainty.md"
+    ],
+    "sources": [
+      {
+        "title": "CDLI, Beer: Hymn to Ninkasi",
+        "url": "https://cdli.earth/cdli-tablet/552",
+        "access": "Public collection description accessed.",
+        "accessed_on": "2026-10-28",
+        "locator": "Old Babylonian dating and collection description; recipe label attributed to catalog."
+      },
+      {
+        "title": "Oxford ETCSL, bibliography and cuneiform sources for Ninkasi A",
+        "url": "https://etcsl.orinst.ox.ac.uk/section4/b4231.htm",
+        "access": "Full public source list.",
+        "accessed_on": "2026-10-28",
+        "locator": "Civil edition and listed textual witnesses."
+      }
+    ],
+    "uncertainty": "Copy date, composition date and origin of a technique are distinguished."
+  },
+  {
+    "chapter": 2,
+    "claim": "Bappir and the relationship between intermediate products remain interpretive problems.",
+    "wiki_paths": [
+      "stories/ninkasi-is-not-a-recipe.md",
+      "history/hymn-to-ninkasi-and-beer.md",
+      "history/sumerian-beer-terms-and-uncertainty.md"
+    ],
+    "sources": [
+      {
+        "title": "Civil (1964), A Hymn to the Beer Goddess and a Drinking Song",
+        "url": "https://isac.uchicago.edu/publications/studies-presented-leo-oppenheim-june-7-1964",
+        "access": "Complete open volume PDF downloaded; Civil chapter and relevant textual commentary inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "Article pp. 67–89; especially pp. 67–69, 72–76 on witnesses, genre, translations and bappir."
+      },
+      {
+        "title": "Damerow (2012), Sumerian Beer: The Origins of Brewing Technology in Ancient Mesopotamia",
+        "url": "https://cdli.earth/articles/cdlj/2012-2",
+        "access": "Full open HTML analytical article.",
+        "accessed_on": "2026-10-28",
+        "locator": "§1.1 brewing definition; §§5.17–5.22 barley equivalents; §§6.4–6.9 interpretation of Ninkasi."
+      }
+    ],
+    "uncertainty": "Bread-like translations do not specify composition, texture, exact role or timing."
+  },
+  {
+    "chapter": 2,
+    "claim": "Modern brewing expectations can become circular premises in interpreting technical terms.",
+    "wiki_paths": [
+      "stories/ninkasi-is-not-a-recipe.md",
+      "history/hymn-to-ninkasi-and-beer.md",
+      "history/sumerian-beer-terms-and-uncertainty.md"
+    ],
+    "sources": [
+      {
+        "title": "Damerow (2012), Sumerian Beer: The Origins of Brewing Technology in Ancient Mesopotamia",
+        "url": "https://cdli.earth/articles/cdlj/2012-2",
+        "access": "Full open HTML analytical article.",
+        "accessed_on": "2026-10-28",
+        "locator": "§1.1 brewing definition; §§5.17–5.22 barley equivalents; §§6.4–6.9 interpretation of Ninkasi."
+      }
+    ],
+    "uncertainty": "Methodological objection is attributed, not a categorical claim that all earlier translations are false."
+  },
+  {
+    "chapter": 2,
+    "claim": "Paulette's experimental collaboration explored possible ancient practices with replicas and craft collaborators.",
+    "wiki_paths": [
+      "stories/ninkasi-is-not-a-recipe.md",
+      "history/hymn-to-ninkasi-and-beer.md",
+      "history/sumerian-beer-terms-and-uncertainty.md"
+    ],
+    "sources": [
+      {
+        "title": "Paulette (2022), Bringing the Beers of Ancient Mesopotamia Back to Life",
+        "url": "https://peoplingthepast.com/2022/02/18/blog-post-49-tate-paulette/",
+        "access": "Full firsthand public account.",
+        "accessed_on": "2026-10-28",
+        "locator": "Experimental brewing and Public engagement sections; replica vessels, collaborators, exploratory scope."
+      }
+    ],
+    "uncertainty": "Exploratory work is not a controlled proof of a unique reconstruction; modern beers do not reproduce a verified ancient taste."
+  },
+  {
+    "chapter": 3,
+    "claim": "Met object 1985.180.2 records messenger provisions and is dated to Ibbi-Sin year 1, month 2, day 20.",
+    "wiki_paths": [
+      "stories/the-tablet-was-not-the-recipe.md",
+      "history/ur-iii-beer-ration-tablet.md"
+    ],
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Cuneiform tablet: record of rations of beer, bread, oil, and onions for messengers",
+        "url": "https://www.metmuseum.org/art/collection/search/327069",
+        "access": "Full public collection record.",
+        "accessed_on": "2026-10-28",
+        "locator": "Object 1985.180.2: date, dimensions, Umma attribution, interpretation and 1985 gift credit."
+      }
+    ],
+    "uncertainty": "Museum reading and modern approximate BCE date are reported; no independent cuneiform decipherment."
+  },
+  {
+    "chapter": 3,
+    "claim": "Valdosta tablet P273413 names three messengers and distinguishes two forms of beer.",
+    "wiki_paths": [
+      "stories/the-tablet-was-not-the-recipe.md",
+      "history/ur-iii-beer-ration-tablet.md"
+    ],
+    "sources": [
+      {
+        "title": "CDLI, Beer: Means of Compensation",
+        "url": "https://cdli.earth/cdli-tablet/549",
+        "access": "Full public collection description.",
+        "accessed_on": "2026-10-28",
+        "locator": "Tablet P273413; Agu'a, Ikalla and Dugamu; irregular messenger compensation; two beer forms."
+      }
+    ],
+    "uncertainty": "Irregular provisions are not extrapolated to universal daily beer wages; speculative pasteurization gloss omitted."
+  },
+  {
+    "chapter": 3,
+    "claim": "Maxwell MMA 67.134.3 differentiates beer and bread allocations among named recipients.",
+    "wiki_paths": [
+      "stories/the-tablet-was-not-the-recipe.md",
+      "history/ur-iii-beer-ration-tablet.md"
+    ],
+    "sources": [
+      {
+        "title": "Maxwell Museum, Object Monday: Cuneiform Tablet Messenger Text",
+        "url": "https://maxwellmuseum.unm.edu/maxwell-at-home/objects/object-monday-cuneiform-tablet-messenger-text",
+        "access": "Full public entry with transliteration and Andrea Seri's translation.",
+        "accessed_on": "2026-10-28",
+        "locator": "Tablet MMA 67.134.3; Shu-Sin dating; differentiated provisions; donation and exhibition history."
+      }
+    ],
+    "uncertainty": "Translated quality category does not establish taste, alcohol percentage or a modern style."
+  },
+  {
+    "chapter": 3,
+    "claim": "Some Sumerian barley equivalents express accounting value rather than a physical brewing input.",
+    "wiki_paths": [
+      "stories/the-tablet-was-not-the-recipe.md",
+      "history/ur-iii-beer-ration-tablet.md"
+    ],
+    "sources": [
+      {
+        "title": "Damerow (2012), Sumerian Beer: The Origins of Brewing Technology in Ancient Mesopotamia",
+        "url": "https://cdli.earth/articles/cdlj/2012-2",
+        "access": "Full open HTML analytical article.",
+        "accessed_on": "2026-10-28",
+        "locator": "§1.1 brewing definition; §§5.17–5.22 barley equivalents; §§6.4–6.9 interpretation of Ninkasi."
+      }
+    ],
+    "uncertainty": "The equivalence must be interpreted in its own accounting context; no ingredient ratio inferred solely from valuation."
+  },
+  {
+    "chapter": 3,
+    "claim": "Met catalog entry 45 presents a different Umma messenger tablet in a modern tabular translation.",
+    "wiki_paths": [
+      "stories/the-tablet-was-not-the-recipe.md",
+      "history/ur-iii-beer-ration-tablet.md"
+    ],
+    "sources": [
+      {
+        "title": "Spar, ed. (1988), Cuneiform Texts in The Metropolitan Museum of Art, volume I",
+        "url": "https://www.metmuseum.org/met-publications/cuneiform-texts-in-the-metropolitan-museum-of-art-volume-i-tablets-cones-and-bricks-of-the-third",
+        "access": "Full publication page plus indexed specific PDF entry; full volume not read.",
+        "accessed_on": "2026-10-28",
+        "locator": "Entry 45, p. 60, MMA 57.16.6; traveler provisions, totals, modern table presentation."
+      }
+    ],
+    "uncertainty": "Only the relevant indexed entry was examined; it is not the opening tablet and the modern grid is not the original layout."
+  },
+  {
+    "chapter": 3,
+    "claim": "British Museum object 1989,0130.4 predates the Ur III messenger records by approximately a millennium.",
+    "wiki_paths": [
+      "stories/the-tablet-was-not-the-recipe.md",
+      "history/ur-iii-beer-ration-tablet.md"
+    ],
+    "sources": [
+      {
+        "title": "British Museum, The first writing: counting beer for the workers",
+        "url": "https://artsandculture.google.com/asset/the-first-writing-counting-beer-for-the-workers/fgF9ioy89DC2Uw",
+        "access": "Full institutional collection description hosted on Google Arts & Culture.",
+        "accessed_on": "2026-10-28",
+        "locator": "Object 1989,0130.4; date 3100–3000 BCE; vessel and eating signs."
+      }
+    ],
+    "uncertainty": "Distinct date and writing phase kept separate; the catalog's beer-safer-than-water generalization is not adopted."
+  },
+  {
+    "chapter": 3,
+    "claim": "The Met and Maxwell objects have documented modern gift/donation histories.",
+    "wiki_paths": [
+      "stories/the-tablet-was-not-the-recipe.md",
+      "history/ur-iii-beer-ration-tablet.md"
+    ],
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Cuneiform tablet: record of rations of beer, bread, oil, and onions for messengers",
+        "url": "https://www.metmuseum.org/art/collection/search/327069",
+        "access": "Full public collection record.",
+        "accessed_on": "2026-10-28",
+        "locator": "Object 1985.180.2: date, dimensions, Umma attribution, interpretation and 1985 gift credit."
+      },
+      {
+        "title": "Maxwell Museum, Object Monday: Cuneiform Tablet Messenger Text",
+        "url": "https://maxwellmuseum.unm.edu/maxwell-at-home/objects/object-monday-cuneiform-tablet-messenger-text",
+        "access": "Full public entry with transliteration and Andrea Seri's translation.",
+        "accessed_on": "2026-10-28",
+        "locator": "Tablet MMA 67.134.3; Shu-Sin dating; differentiated provisions; donation and exhibition history."
+      }
+    ],
+    "uncertainty": "Modern custody history does not replace missing archaeological excavation context or establish complete provenance."
+  },
+  {
+    "chapter": 4,
+    "claim": "Jiahu's 2004 chemistry proposed rice, honey and fruit, including alternatives for fruit sources.",
+    "wiki_paths": [
+      "stories/two-analyses-one-jiahu-pot.md",
+      "history/jiahu-2004-to-2026-reinterpretation.md",
+      "objects/jiahu-pottery-residue-sampling.md"
+    ],
+    "sources": [
+      {
+        "title": "McGovern et al. (2004), Fermented beverages of pre- and proto-historic China",
+        "url": "https://doi.org/10.1073/pnas.0407921102",
+        "access": "Substantial publisher/PMC indexed abstract, methods, results and discussion; direct PMC challenge and unsuccessful clean PDF download.",
+        "accessed_on": "2026-10-28",
+        "locator": "Jiahu residues, ingredient alternatives, absence of direct ethanol, tartrate and wax interpretations."
+      }
+    ],
+    "uncertainty": "Ingredient inferences are not uniquely specific markers; ancient ethanol itself was not detected."
+  },
+  {
+    "chapter": 4,
+    "claim": "The 2004 announcement discusses Neolithic pottery residues and much later preserved bronze-vessel liquids separately.",
+    "wiki_paths": [
+      "stories/two-analyses-one-jiahu-pot.md",
+      "history/jiahu-2004-to-2026-reinterpretation.md",
+      "objects/jiahu-pottery-residue-sampling.md"
+    ],
+    "sources": [
+      {
+        "title": "Penn Today (2004), Penn Museum Archaeochemist and International Scholars Confirm 9,000-Year History of Chinese Fermented Beverages",
+        "url": "https://penntoday.upenn.edu/news/penn-museum-archaeochemist-and-international-scholars-confirm-9000-year-history-chinese-ferment",
+        "access": "Institutional public research announcement consulted.",
+        "accessed_on": "2026-10-28",
+        "locator": "8 December 2004 announcement; separate discussion of Neolithic pottery and later bronze-vessel liquids."
+      }
+    ],
+    "uncertainty": "Announcement is evidence of presentation, not an independent experiment; the survival of later liquids is not transferred to Jiahu."
+  },
+  {
+    "chapter": 4,
+    "claim": "The 2026 study examines microfossils in sixteen sherds and proposes qu-based and some malt-based processing.",
+    "wiki_paths": [
+      "stories/two-analyses-one-jiahu-pot.md",
+      "history/jiahu-2004-to-2026-reinterpretation.md",
+      "objects/jiahu-pottery-residue-sampling.md"
+    ],
+    "sources": [
+      {
+        "title": "Liu et al. (2026), Revisiting Jiahu's 9000-Year-Old Fermented Beverage",
+        "url": "https://doi.org/10.3390/heritage9080335",
+        "access": "Substantial publisher-indexed methods, results and discussion sections; direct HTML/XML retrieval unsuccessful. Images and supplementary data not independently evaluated.",
+        "accessed_on": "2026-10-28",
+        "locator": "§§2.2–4.2 and 5.1: sixteen sherds, microfossils, Monascus, complementary rather than chemical reanalysis."
+      }
+    ],
+    "uncertainty": "Fungal morphology does not provide a full species/genomic roster; images and raw/supplementary data not independently reassessed."
+  },
+  {
+    "chapter": 4,
+    "claim": "The 2026 work is complementary and does not chemically reanalyse the original 2004 samples.",
+    "wiki_paths": [
+      "stories/two-analyses-one-jiahu-pot.md",
+      "history/jiahu-2004-to-2026-reinterpretation.md",
+      "objects/jiahu-pottery-residue-sampling.md"
+    ],
+    "sources": [
+      {
+        "title": "Liu et al. (2026), Revisiting Jiahu's 9000-Year-Old Fermented Beverage",
+        "url": "https://doi.org/10.3390/heritage9080335",
+        "access": "Substantial publisher-indexed methods, results and discussion sections; direct HTML/XML retrieval unsuccessful. Images and supplementary data not independently evaluated.",
+        "accessed_on": "2026-10-28",
+        "locator": "§§2.2–4.2 and 5.1: sixteen sherds, microfossils, Monascus, complementary rather than chemical reanalysis."
+      }
+    ],
+    "uncertainty": "The chapter avoids asserting identical sherds or contradictory measurements of one ancient portion."
+  },
+  {
+    "chapter": 4,
+    "claim": "The Mijiaya investigation combines plant microfossils, chemistry and equipment context.",
+    "wiki_paths": [
+      "stories/two-analyses-one-jiahu-pot.md",
+      "history/jiahu-2004-to-2026-reinterpretation.md",
+      "objects/jiahu-pottery-residue-sampling.md"
+    ],
+    "sources": [
+      {
+        "title": "Wang et al. (2016), Revealing a 5,000-y-old beer recipe in China",
+        "url": "https://doi.org/10.1073/pnas.1601465113",
+        "access": "Substantial indexed methods, results, discussion and supporting-methods excerpts.",
+        "accessed_on": "2026-10-28",
+        "locator": "Mijiaya assemblage, starch, phytolith and chemical approaches; no adoption of barley-import causation claim."
+      }
+    ],
+    "uncertainty": "Later and separate site; no direct ancestry or single transmission route inferred."
+  },
+  {
+    "chapter": 4,
+    "claim": "Qiaotou offers a separate mold-assisted brewing interpretation associated with a burial-platform setting.",
+    "wiki_paths": [
+      "stories/two-analyses-one-jiahu-pot.md",
+      "history/jiahu-2004-to-2026-reinterpretation.md",
+      "objects/jiahu-pottery-residue-sampling.md"
+    ],
+    "sources": [
+      {
+        "title": "Wang, Jiang and Sun (2021), Early evidence for beer drinking in a 9000-year-old platform mound in southern China",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34383818/",
+        "access": "PubMed abstract only.",
+        "accessed_on": "2026-10-28",
+        "locator": "Qiaotou context and mold-assisted rice/plant fermentation interpretation."
+      }
+    ],
+    "uncertainty": "Abstract-only account; no particular ritual scene or Jiahu-to-Qiaotou descent claimed."
+  },
+  {
+    "chapter": 5,
+    "claim": "Cerro Baúl's damaged brewery and vessels are interpreted as an organized ceremonial closure.",
+    "wiki_paths": [
+      "stories/the-brewery-they-closed-with-fire.md",
+      "history/cerro-baul-wari-brewery.md",
+      "history/cerro-baul-dregs-and-state-brewing.md",
+      "culture/wari-brewing-and-state-hospitality.md"
+    ],
+    "sources": [
+      {
+        "title": "Moseley et al. (2005), Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru",
+        "url": "https://doi.org/10.1073/pnas.0508673102",
+        "access": "Abstract and indexed article passages, including brewery and closure descriptions; no complete clean PDF obtained.",
+        "accessed_on": "2026-10-28",
+        "locator": "Colony, brewing rooms, estimated capacity and intentional termination interpretation."
+      },
+      {
+        "title": "Williams et al. (2019), Archaeometric Approaches to Defining Sustainable Governance",
+        "url": "https://doi.org/10.3390/su11082333",
+        "access": "Publisher HTML rate-limited; complete open PDF subsequently retrieved, with site, methods, results and discussion inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "§§1.1–1.2, 2.1–2.2, 3–4; PDF https://pdfs.semanticscholar.org/aa19/5731e5d74cd7f0e6263e85d9a5b77fa8dcb7.pdf."
+      }
+    ],
+    "uncertainty": "Deliberate closure is a contextual archaeological inference; individual motives, exact speeches and guest lists are unknown."
+  },
+  {
+    "chapter": 5,
+    "claim": "The Wari center lay near Tiwanaku communities and was not an Inca brewery.",
+    "wiki_paths": [
+      "stories/the-brewery-they-closed-with-fire.md",
+      "history/cerro-baul-wari-brewery.md",
+      "history/cerro-baul-dregs-and-state-brewing.md",
+      "culture/wari-brewing-and-state-hospitality.md"
+    ],
+    "sources": [
+      {
+        "title": "Moseley et al. (2005), Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru",
+        "url": "https://doi.org/10.1073/pnas.0508673102",
+        "access": "Abstract and indexed article passages, including brewery and closure descriptions; no complete clean PDF obtained.",
+        "accessed_on": "2026-10-28",
+        "locator": "Colony, brewing rooms, estimated capacity and intentional termination interpretation."
+      },
+      {
+        "title": "Williams et al. (2019), Archaeometric Approaches to Defining Sustainable Governance",
+        "url": "https://doi.org/10.3390/su11082333",
+        "access": "Publisher HTML rate-limited; complete open PDF subsequently retrieved, with site, methods, results and discussion inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "§§1.1–1.2, 2.1–2.2, 3–4; PDF https://pdfs.semanticscholar.org/aa19/5731e5d74cd7f0e6263e85d9a5b77fa8dcb7.pdf."
+      }
+    ],
+    "uncertainty": "Embassy-like characterization is attributed; modern national and state analogies are not assumed exact."
+  },
+  {
+    "chapter": 5,
+    "claim": "The brewery had differentiated working spaces and an estimated batch capacity near 1,800 liters.",
+    "wiki_paths": [
+      "stories/the-brewery-they-closed-with-fire.md",
+      "history/cerro-baul-wari-brewery.md",
+      "history/cerro-baul-dregs-and-state-brewing.md",
+      "culture/wari-brewing-and-state-hospitality.md"
+    ],
+    "sources": [
+      {
+        "title": "Moseley et al. (2005), Burning down the brewery: Establishing and evacuating an ancient imperial colony at Cerro Baúl, Peru",
+        "url": "https://doi.org/10.1073/pnas.0508673102",
+        "access": "Abstract and indexed article passages, including brewery and closure descriptions; no complete clean PDF obtained.",
+        "accessed_on": "2026-10-28",
+        "locator": "Colony, brewing rooms, estimated capacity and intentional termination interpretation."
+      },
+      {
+        "title": "Pomerantz (2024), How a special beer played a part in ancient Peruvian politics",
+        "url": "https://news.asu.edu/20240103-discoveries-how-special-beer-played-part-ancient-peruvian-politics",
+        "access": "Institutional interview with researcher Donna Nash; public indexed interview text.",
+        "accessed_on": "2026-10-28",
+        "locator": "3 January 2024; water/labor, experiments, tupu pins and elite women interpretation."
+      }
+    ],
+    "uncertainty": "Capacity is reconstructed rather than a surviving output log; approximate water-mass calculation is illustrative."
+  },
+  {
+    "chapter": 5,
+    "claim": "Tupu pin evidence contributes to the interpretation of elite women brewing.",
+    "wiki_paths": [
+      "stories/the-brewery-they-closed-with-fire.md",
+      "history/cerro-baul-wari-brewery.md",
+      "history/cerro-baul-dregs-and-state-brewing.md",
+      "culture/wari-brewing-and-state-hospitality.md"
+    ],
+    "sources": [
+      {
+        "title": "Pomerantz (2024), How a special beer played a part in ancient Peruvian politics",
+        "url": "https://news.asu.edu/20240103-discoveries-how-special-beer-played-part-ancient-peruvian-politics",
+        "access": "Institutional interview with researcher Donna Nash; public indexed interview text.",
+        "accessed_on": "2026-10-28",
+        "locator": "3 January 2024; water/labor, experiments, tupu pins and elite women interpretation."
+      }
+    ],
+    "uncertainty": "Sex, status and personal identities are not established for every worker; no invented biography."
+  },
+  {
+    "chapter": 5,
+    "claim": "2019 ceramic sourcing and residue analysis support regional materials and molle use.",
+    "wiki_paths": [
+      "stories/the-brewery-they-closed-with-fire.md",
+      "history/cerro-baul-wari-brewery.md",
+      "history/cerro-baul-dregs-and-state-brewing.md",
+      "culture/wari-brewing-and-state-hospitality.md"
+    ],
+    "sources": [
+      {
+        "title": "Williams et al. (2019), Archaeometric Approaches to Defining Sustainable Governance",
+        "url": "https://doi.org/10.3390/su11082333",
+        "access": "Publisher HTML rate-limited; complete open PDF subsequently retrieved, with site, methods, results and discussion inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "§§1.1–1.2, 2.1–2.2, 3–4; PDF https://pdfs.semanticscholar.org/aa19/5731e5d74cd7f0e6263e85d9a5b77fa8dcb7.pdf."
+      }
+    ],
+    "uncertainty": "Chemical assignments and political resilience argument have distinct confidence; the study itself calls for further compound confirmation."
+  },
+  {
+    "chapter": 5,
+    "claim": "The 2024 dregs study argues for specialized production in its Moquegua comparison.",
+    "wiki_paths": [
+      "stories/the-brewery-they-closed-with-fire.md",
+      "history/cerro-baul-wari-brewery.md",
+      "history/cerro-baul-dregs-and-state-brewing.md",
+      "culture/wari-brewing-and-state-hospitality.md"
+    ],
+    "sources": [
+      {
+        "title": "Nash, Biwer and Witte (2024), Dreg Deposits and Domestic Beer Production: Assessing the Ubiquity of Chicha Production in the Wari Empire",
+        "url": "https://experts.azregents.edu/en/publications/dreg-deposits-and-domestic-beer-production-assessing-the-ubiquity/",
+        "access": "Full institutional abstract and bibliographic metadata only; article not accessed.",
+        "accessed_on": "2026-10-28",
+        "locator": "Abstract; DOI https://doi.org/10.1080/19442890.2023.2284072; Moquegua comparison and experimental scope."
+      }
+    ],
+    "uncertainty": "Only abstract accessed; conclusion not generalized into no household brewing anywhere in the Wari world."
+  },
+  {
+    "chapter": 5,
+    "claim": "Field Museum and Off Color developed a modern beer inspired by Cerro Baúl with purple maize and molle.",
+    "wiki_paths": [
+      "stories/the-brewery-they-closed-with-fire.md",
+      "history/cerro-baul-wari-brewery.md",
+      "history/cerro-baul-dregs-and-state-brewing.md",
+      "culture/wari-brewing-and-state-hospitality.md"
+    ],
+    "sources": [
+      {
+        "title": "Field Museum (2016), Field Museum Releases New Beer Inspired by Ancient Recipe",
+        "url": "https://www.fieldmuseum.org/about/press/field-museum-releases-new-beer-inspired-ancient-recipe",
+        "access": "Full public institutional press release.",
+        "accessed_on": "2026-10-28",
+        "locator": "February 2016; Off Color collaboration, purple maize and molle, development of multiple recipes."
+      }
+    ],
+    "uncertainty": "Evidence only for modern collaboration; not an authentic ancient recipe, exact taste or proof of ancient shelf life."
+  },
+  {
+    "chapter": 6,
+    "claim": "Whitbread's surviving engine was ordered in 1784, installed in 1785, and backed up by a retained horse wheel.",
+    "wiki_paths": [
+      "stories/the-porter-invention-story.md",
+      "history/london-porter-and-industrialization.md"
+    ],
+    "sources": [
+      {
+        "title": "Powerhouse, Boulton and Watt rotative steam engine",
+        "url": "https://collection.powerhouse.com.au/object/7177",
+        "access": "Full public object catalog.",
+        "accessed_on": "2026-10-28",
+        "locator": "History and Production: 1784 order, 1785 installation, horse-wheel backup, driven equipment, 1795 modification."
+      }
+    ],
+    "uncertainty": "Different later modifications are not projected back onto installation; object record is source for machinery facts."
+  },
+  {
+    "chapter": 6,
+    "claim": "The complete Harwood/three-threads account appears late and lacks contemporary support as an invention narrative.",
+    "wiki_paths": [
+      "stories/the-porter-invention-story.md",
+      "history/london-porter-and-industrialization.md"
+    ],
+    "sources": [
+      {
+        "title": "Cornell, Myth 1: Ralph Harwood invented porter as a substitute for three-threads",
+        "url": "https://zythophile.wordpress.com/false-ale-quotes/myth-one-ralph-harwood-invented-porter-as-a-substitute-for-three-threads/",
+        "access": "Full public original historical investigation; historical statements assessed alongside Sumner. Comments are not relied upon.",
+        "accessed_on": "2026-10-28",
+        "locator": "Main article on Feltham 1802 and missing contemporary evidence."
+      },
+      {
+        "title": "Sumner (2008), Status, scale and secret ingredients: the retrospective invention of London porter",
+        "url": "https://www.jbsumner.com/writing/2008-09-history-and-technology-status-scale.pdf",
+        "access": "Full author-hosted scholarly article retrieved and inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "History and Technology 24(3):289–306; especially pp.290–98 on scale, identity and publication transmission; DOI 10.1080/07341510801900409."
+      }
+    ],
+    "uncertainty": "Original 1802 magazine/guidebook pages not directly inspected; late versions read through original historical researchers; no claim no individual ever innovated."
+  },
+  {
+    "chapter": 6,
+    "claim": "Ellis's 1736 manual documents differentiated malts, coordinated mash work, sensory heat judgment and storage concerns.",
+    "wiki_paths": [
+      "stories/the-porter-invention-story.md",
+      "history/london-porter-and-industrialization.md"
+    ],
+    "sources": [
+      {
+        "title": "Ellis [attributed] (1736), The London and Country Brewer, second edition",
+        "url": "https://www.gutenberg.org/files/8900/8900-h/8900-h.htm",
+        "access": "Full public-domain primary text available; preface and relevant chapters inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "Preface and chapters IV, VIII, XVI; malts, mash work, heat judgment, storage."
+      }
+    ],
+    "uncertainty": "Primary text is a practical historical argument, not a source of valid modern medical advice."
+  },
+  {
+    "chapter": 6,
+    "claim": "Sumner relates porter identity to changing scale, storage and industrial concentration.",
+    "wiki_paths": [
+      "stories/the-porter-invention-story.md",
+      "history/london-porter-and-industrialization.md"
+    ],
+    "sources": [
+      {
+        "title": "Sumner (2008), Status, scale and secret ingredients: the retrospective invention of London porter",
+        "url": "https://www.jbsumner.com/writing/2008-09-history-and-technology-status-scale.pdf",
+        "access": "Full author-hosted scholarly article retrieved and inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "History and Technology 24(3):289–306; especially pp.290–98 on scale, identity and publication transmission; DOI 10.1080/07341510801900409."
+      }
+    ],
+    "uncertainty": "A historical interpretation supported by his source analysis; no unsupported universal claim of deliberate producer deception."
+  },
+  {
+    "chapter": 6,
+    "claim": "Repeated printed origin stories can descend from copied accounts rather than independent witnesses.",
+    "wiki_paths": [
+      "stories/the-porter-invention-story.md",
+      "history/london-porter-and-industrialization.md"
+    ],
+    "sources": [
+      {
+        "title": "Sumner (2008), Status, scale and secret ingredients: the retrospective invention of London porter",
+        "url": "https://www.jbsumner.com/writing/2008-09-history-and-technology-status-scale.pdf",
+        "access": "Full author-hosted scholarly article retrieved and inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "History and Technology 24(3):289–306; especially pp.290–98 on scale, identity and publication transmission; DOI 10.1080/07341510801900409."
+      }
+    ],
+    "uncertainty": "Transmission-specific historical claim kept separate from the chapter's general logical analysis of dependence."
+  },
+  {
+    "chapter": 6,
+    "claim": "Powerhouse's drawing record corrects inherited horsepower claims using other evidence.",
+    "wiki_paths": [
+      "stories/the-porter-invention-story.md",
+      "history/london-porter-and-industrialization.md"
+    ],
+    "sources": [
+      {
+        "title": "Powerhouse, Photograph of a drawing of a 1785 Boulton and Watt beam engine",
+        "url": "https://collection.powerhouse.com.au/object/320558",
+        "access": "Full public catalog with original curatorial research note.",
+        "accessed_on": "2026-10-28",
+        "locator": "P1306, Debbie Rudder note (August 2007): inherited horsepower claims and evidence-based correction."
+      },
+      {
+        "title": "Powerhouse, Boulton and Watt rotative steam engine",
+        "url": "https://collection.powerhouse.com.au/object/7177",
+        "access": "Full public object catalog.",
+        "accessed_on": "2026-10-28",
+        "locator": "History and Production: 1784 order, 1785 installation, horse-wheel backup, driven equipment, 1795 modification."
+      }
+    ],
+    "uncertainty": "Correction is attributed to curatorial research; no fresh engineering measurement performed for the book."
+  },
+  {
+    "chapter": 6,
+    "claim": "Longer storage ties up more working stock under otherwise equal production assumptions.",
+    "wiki_paths": [
+      "stories/the-porter-invention-story.md",
+      "history/london-porter-and-industrialization.md"
+    ],
+    "sources": [
+      {
+        "title": "Ellis [attributed] (1736), The London and Country Brewer, second edition",
+        "url": "https://www.gutenberg.org/files/8900/8900-h/8900-h.htm",
+        "access": "Full public-domain primary text available; preface and relevant chapters inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "Preface and chapters IV, VIII, XVI; malts, mash work, heat judgment, storage."
+      },
+      {
+        "title": "Sumner (2008), Status, scale and secret ingredients: the retrospective invention of London porter",
+        "url": "https://www.jbsumner.com/writing/2008-09-history-and-technology-status-scale.pdf",
+        "access": "Full author-hosted scholarly article retrieved and inspected.",
+        "accessed_on": "2026-10-28",
+        "locator": "History and Technology 24(3):289–306; especially pp.290–98 on scale, identity and publication transmission; DOI 10.1080/07341510801900409."
+      }
+    ],
+    "uncertainty": "Twelve monthly batches example is expressly hypothetical arithmetic, not an historical firm's accounts."
+  }
+]
