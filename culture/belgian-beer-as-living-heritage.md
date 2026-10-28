@@ -17,6 +17,13 @@ sources:
   source_kind: institutional-heritage-record
   access_scope: Official inscription and public summary viewed; describes cultural practices, not all individual
     recipes.
+- id: v114-unesco
+  resource: https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062
+  title: Beer culture in Belgium (2016 inscription)
+  author_label: UNESCO Intergovernmental Committee / Belgian submitting communities
+  source_kind: intangible-heritage-inscription
+  access_scope: Full UNESCO inscription page with description of social transmission and food context; inscription
+    is not a technical recipe or heritage status for each named beer.
 regions:
 - Europe
 - Belgium
@@ -68,6 +75,16 @@ The UNESCO inscription is institutional documentation of nominated cultural heri
 
 - [Beer As Intangible Heritage](../categories/beer-as-intangible-heritage.md): UNESCO inscription of named Belgian living practices in 2016; no inference about all breweries.[^v13-belgium-unesco]
 
+
+
+## Edition 1.14: newly sourced connections
+
+UNESCO's 2016 description includes more than the preservation of named beers: it discusses transmission in families and social circles, classes and professional education, and beer's use in cooking and gatherings. An inscription is recognition of **culture and practices**, not proof that every Belgian beer shares a recipe or claims exclusive origin.[^v114-unesco]
+
+For the transmission question, read [learning networks](belgian-beer-learning-networks.md) and [heritage versus style](../categories/heritage-inscription-is-not-a-style.md). The UNESCO statement is an institutional heritage source, not a sample of microbial or sensory measurements.[^v114-unesco]
+
 ## Source notes
 
 [^v13-belgium-unesco]: [Beer culture in Belgium: Representative List inscription 01062 (2016)](https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062). UNESCO Intangible Cultural Heritage. Consulted 2026-10-27. Evidence accessed: Official inscription and public summary viewed; describes cultural practices, not all individual recipes.
+
+[^v114-unesco]: [Beer culture in Belgium (2016 inscription)](https://ich.unesco.org/en/RL/beer-culture-in-belgium-01062). UNESCO Intergovernmental Committee / Belgian submitting communities. Consulted 2026-10-28. Access: Full UNESCO inscription page with description of social transmission and food context; inscription is not a technical recipe or heritage status for each named beer.

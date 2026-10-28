@@ -128,3 +128,10 @@ New evidence-based references (all retain draft status):
 - [Beer antioxidant compounds: chemical stability versus health claims](beer-antioxidants-versus-health-claims.md) — Specific beer phenolics and amino acids studied as oxidation inhibitors, without extrapolation to health claims.
 - [Kigelia fruit fibre as a Muratina fermentation carrier](kigelia-fruit-fibre.md) — Fibrous Kigelia material as a studied culture carrier rather than proof that a fruit was the fermented sugar source.
 - [Sorghum grain quality in Beninese tchoukoutou making](benin-brewing-sorghum-varieties.md) — Consumer- and producer-perceived grain suitability from a 2007 survey, not an objective global sorghum cultivar ranking.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [Brewer’s surplus yeast: culture versus by-product](surplus-brewers-yeast-as-material.md) — Separating managed live brewing culture from residual yeast streams studied for reuse.
+- [Dried hops: crop form, moisture and brewing identity](dried-hops-and-harvest-form.md) — How rapid field-to-kiln handling differs from flavor chemistry and cultivar claims.
+- [Humulinones: aged-hop chemistry beyond bitterness](humulinones-and-aged-hops.md) — A protein-binding experiment on oxidized hop compounds, without extrapolating to every finished beer.

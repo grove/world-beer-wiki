@@ -25,24 +25,38 @@ sources:
   title: Effect of Wort Boiling System and Hopping Regime on Wort and Beer Stale-Flavor Aldehydes (2023)
   author_label: Pilot-brewing aldehyde research team
   source_kind: primary-200l-trials-open-text
-  access_scope: Open 200-L lager pilot study with 15 monitored carbonyls; pressurized/atmospheric comparison
-    and fermentation changes are setting-dependent.
+  access_scope: Open 200-L lager pilot study with 15 monitored carbonyls; pressurized/atmospheric comparison and
+    fermentation changes are setting-dependent.
 - id: v113-aldehydes-2025
   resource: https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548
   title: Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)
   author_label: Carolina Maia and David Cook
   source_kind: primary-analytical-beer-chemistry
-  access_scope: Publisher indexed full abstract and introduction; three commercial lager matrices after
-    freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.
+  access_scope: Publisher indexed full abstract and introduction; three commercial lager matrices after freeze-drying
+    and aldehyde spiking; not a shelf-life prediction for all beer.
+- id: v114-draught
+  resource: https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/
+  title: Draught Beer Quality Manual resource page (2026)
+  author_label: Brewers Association Technical Committee
+  source_kind: industry-technical-guidance
+  access_scope: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives;
+    numerical settings of the linked manual have not been independently assessed and are not prescribed.
+- id: v114-humulinone
+  resource: https://pubmed.ncbi.nlm.nih.gov/37716140/
+  title: Interactions between humulinone derived from aged hops and protein Z enhance foamability (2024 issue)
+  author_label: Chen Xu and colleagues
+  source_kind: primary-protein-chemistry-abstract
+  access_scope: PubMed indexed abstract of protein Z/humulinone interaction assays; model solution results are not
+    consumer tasting data or finished-beer foam guarantees.
 regions:
 - Cross-regional
-scope: 2025 research synthesis of aldehyde formation and storage-related changes; no universal best-before
-  date or oxidation diagnostic.
+scope: 2025 research synthesis of aldehyde formation and storage-related changes; no universal best-before date
+  or oxidation diagnostic.
 evidence_basis:
 - scientific-review-abstract
 source_checked_on: '2026-10-28'
-review_note: Research draft; no independent brewer, scientist, historian, public-health or community review;
-  source access is explicitly bounded.
+review_note: Research draft; no independent brewer, scientist, historian, public-health or community review; source
+  access is explicitly bounded.
 relations:
 - relation: compare_with
   target: processes/packaging-and-aging
@@ -80,9 +94,20 @@ A 2025 study of three concentrated lager-derived matrices investigated aldehyde 
 
 See [beer-matrix binding and release](beer-matrix-bound-aldehydes.md) for the analytical context.
 
+
+
+## Edition 1.14: newly sourced connections
+
+Aged beer and beer served poorly are not synonyms. Technical draught guidance tracks service-system condition, while staling studies analyze chemical changes during storage. A bar-line maintenance issue does not prove a batch underwent a particular aldehyde reaction in its packaging.[^v114-draught]
+
+Likewise, a protein-Z experiment involving humulinone from hop oxidation measured foam behavior, not a universal flavor benefit from age. These endpoints should be kept separate when diagnosing a stale, flat or improperly served pint. See [service and flavor](draught-service-vs-brewery-flavor.md) and [the humulinone experiment](protein-z-humulinone-foam.md).[^v114-humulinone]
+
 ## Source notes
 
 [^v18-aldehydes]: [Technological strategies for controlling aldehyde formation in beer (2025)](https://brewingscience.de/index.php/brewingscience/article/view/517). Maciej Ditrych, Guido Aerts and Mogens Larsen Andersen. Consulted 2026-10-28. Access: Open review abstract on malt, oxidation, packaging and chemical pathways; no universal shelf-life extrapolation.
 [^v111-wort-carbonyl]: [Effect of Wort Boiling System and Hopping Regime on Wort and Beer Stale-Flavor Aldehydes (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10453677/). Pilot-brewing aldehyde research team. Consulted 2026-10-28. Access: Open 200-L lager pilot study with 15 monitored carbonyls; pressurized/atmospheric comparison and fermentation changes are setting-dependent.
 
 [^v113-aldehydes-2025]: [Binding of Staling Aldehydes to the Beer Matrix (online 2025, issue 2026)](https://www.tandfonline.com/doi/full/10.1080/03610470.2025.2585548). Carolina Maia and David Cook. Consulted 2026-10-28. Access: Publisher indexed full abstract and introduction; three commercial lager matrices after freeze-drying and aldehyde spiking; not a shelf-life prediction for all beer.
+
+[^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.
+[^v114-humulinone]: [Interactions between humulinone derived from aged hops and protein Z enhance foamability (2024 issue)](https://pubmed.ncbi.nlm.nih.gov/37716140/). Chen Xu and colleagues. Consulted 2026-10-28. Access: PubMed indexed abstract of protein Z/humulinone interaction assays; model solution results are not consumer tasting data or finished-beer foam guarantees.

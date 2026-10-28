@@ -65,3 +65,9 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.13 — source-scoped additions
 
 - [Muratina, marriage contexts and the danger of inventing dates](muratina-and-marriage-occasions.md) — A dated ethnographic source describing a social occasion, not a public annual calendar or universal event schedule.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [5 October 1842: first batch at the Pilsen Burghers Brewery](first-pilsen-batch-1842.md) — A precisely dated historical brewery event, not a recurring holiday or the invention date of all lager.
+- [English hop harvest: the field-to-kiln season](english-hop-harvest-and-drying-season.md) — Historic England evidence for harvest urgency and drying, not a fixed annual festival date.

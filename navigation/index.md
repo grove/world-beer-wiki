@@ -45,3 +45,8 @@
 ## Research edition 1.13
 
 [Nine new evidence-led trails](edition-1-13-reading-trails.md) · [All 614 subject articles](all-atlas-subjects.md) · [Every scoped name and alias](all-names.md).
+
+
+## Research edition 1.14
+
+- [Edition 1.14 evidence-led reading trails](edition-1-14-reading-trails.md)

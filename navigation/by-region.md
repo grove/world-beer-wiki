@@ -369,3 +369,11 @@ Zimbabwe: [Mahewu](../styles/mahewu.md). Georgia: [Aludi](../styles/aludi-georgi
 ## Edition 1.13 research connections
 
 Kenya: [Muratina](../styles/muratina.md), [fruit carriers](../objects/muratina-fibrous-starter-carriers.md), and [Sagana marriage context](../culture/muratina-and-agikuyu-marriage-negotiation.md). Benin: [Tchoukoutou livelihoods](../culture/tchoukoutou-household-enterprises.md). Uganda: [Bushera](../styles/bushera.md). China: [Jiahu archaeological evidence](../styles/jiahu-fermented-beverage.md).
+
+
+## Edition 1.14 — further routes
+
+- [Pilsen brewery and brewing rights](../culture/pilsen-burgher-brewing-rights.md) (Czechia)
+- [Kent hop farms and seasonal work](../culture/kent-hop-farms-and-work.md) (England)
+- [Tella household practices](../culture/tella-household-vessels-and-hospitality.md) (Ethiopia)
+- [Belgian skills and heritage](../culture/belgian-beer-learning-networks.md) (Belgium)

@@ -45,3 +45,9 @@ New evidence-based references (all retain draft status):
 
 - [Brewery water reuse: contrasting Italian LCA and Portuguese pilot evidence](brewery-water-reuse-italy-portugal.md) — Two distinct water-reclamation research designs: one life-cycle model and one monitored pilot process.
 - [Czech brewery scale, packaging and export: an LCA case](czech-brewery-scale-and-packaging-lca.md) — A 2025 primary life-cycle comparison with context-specific findings for brewery size and bottle routes.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [A closed-loop brewery claim is not a universal LCA result](brewery-closed-loop-case-vs-general-rule.md) — Interpretation of a 2025 case and model involving Tsingtao supply chains and operations.
+- [Hot trub and spent yeast: what reuse studies actually establish](hot-trub-and-spent-yeast-valorization.md) — A 2025 analytical sample study and a 2026 review, distinct from proven field deployment.

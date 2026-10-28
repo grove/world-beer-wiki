@@ -1,8 +1,7 @@
 ---
 type: Fermentation Ecology Reference
 title: Microbial succession and the limits of a species list
-description: How to read changing populations, functional evidence and sampling limits across fermentation
-  studies.
+description: How to read changing populations, functional evidence and sampling limits across fermentation studies.
 tags:
 - microbiology
 - ecology
@@ -12,8 +11,7 @@ status: draft
 generated:
   by: world-beer-wiki/1.2
   at: '2026-10-27T20:20:00Z'
-scope: Interpretation of two specified research settings and of microbial evidence; not a universal succession
-  timetable.
+scope: Interpretation of two specified research settings and of microbial evidence; not a universal succession timetable.
 sources:
 - id: atlas-sesotho
   resource: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01451/full
@@ -21,21 +19,20 @@ sources:
     Africa
   author_label: Errol D. Cason and colleagues
   source_kind: primary-research
-  access_scope: 2020 article, introduction and sampling design; five breweries and five production stages,
-    without biological batch replicates within breweries.
+  access_scope: 2020 article, introduction and sampling design; five breweries and five production stages, without
+    biological batch replicates within breweries.
 - id: atlas-bacteria-overview
   resource: /ingredients/brewing-bacteria.md
   title: Brewing bacteria overview in World Beer Wiki
   source_kind: existing-corpus-synthesis
-  access_scope: Retained distinctions among organism detection, metabolites, sensory effect and inoculation
-    method.
+  access_scope: Retained distinctions among organism detection, metabolites, sensory effect and inoculation method.
 - id: v18-borde
   resource: https://www.sciencedirect.com/science/article/pii/S2666154324005350
   title: 'Characterization of borde: microbial analysis, rheological profiling, and functional attributes (2024)'
   author_label: Borde study authors
   source_kind: primary-laboratory-field-study
-  access_scope: Open publisher abstract and highlights; three Ethiopian sampling locations; biochemical and
-    in-vitro results are not human health effects.
+  access_scope: Open publisher abstract and highlights; three Ethiopian sampling locations; biochemical and in-vitro
+    results are not human health effects.
 - id: v18-jaanr
   resource: https://indianjournals.com/article/ijm-46-4-004
   title: Microbiological and physico-chemical changes during fermentation of kodo ko jaanr (2006)
@@ -53,26 +50,40 @@ sources:
     functions do not demonstrate universal organisms or causation.
 - id: v111-cauim-dynamics
   resource: https://pubmed.ncbi.nlm.nih.gov/20413168/
-  title: Determination of dynamic characteristics of microbiota in a fermented beverage produced by Brazilian
-    Amerindians (2010)
+  title: Determination of dynamic characteristics of microbiota in a fermented beverage produced by Brazilian Amerindians
+    (2010)
   author_label: Fermentation-microbiology research team
   source_kind: primary-mixed-methods-abstract
-  access_scope: PubMed indexed abstract of Tapirapé peanut/rice cauim with culture-dependent and DGGE methods;
-    separate substrate and sample.
+  access_scope: PubMed indexed abstract of Tapirapé peanut/rice cauim with culture-dependent and DGGE methods; separate
+    substrate and sample.
 - id: v113-tchou-2013
   resource: https://pubmed.ncbi.nlm.nih.gov/23756236/
   title: Yeast dynamics during spontaneous fermentation of mawè and tchoukoutou (2013)
   author_label: A. Greppi and colleagues
   source_kind: primary-fermentation-study-abstract
-  access_scope: PubMed indexed abstract, two monitored productions of each food; culture-dependent and
-    -independent profiles differ and do not define a standard starter.
+  access_scope: PubMed indexed abstract, two monitored productions of each food; culture-dependent and -independent
+    profiles differ and do not define a standard starter.
 - id: v113-tchapalo-2022
   resource: https://pubmed.ncbi.nlm.nih.gov/35344598/
   title: Detection of spoilage-causing yeasts and bacteria in tchapalo (2022)
   author_label: C. K. Attchelouwa and colleagues
   source_kind: primary-shelf-life-challenge-study-abstract
-  access_scope: 'PubMed abstract: 11 selected strains inoculated into sterile-filtered tchapalo over three
-    days; sensory and volatiles are specific to that challenge system.'
+  access_scope: 'PubMed abstract: 11 selected strains inoculated into sterile-filtered tchapalo over three days;
+    sensory and volatiles are specific to that challenge system.'
+- id: v114-draught
+  resource: https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/
+  title: Draught Beer Quality Manual resource page (2026)
+  author_label: Brewers Association Technical Committee
+  source_kind: industry-technical-guidance
+  access_scope: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives;
+    numerical settings of the linked manual have not been independently assessed and are not prescribed.
+- id: v114-draught-retail
+  resource: https://cdn.brewersassociation.org/wp-content/uploads/2022/04/04193712/BP22-DBQMR-FINAL.pdf
+  title: Draught Beer Quality Manual for Retailers (2022)
+  author_label: Brewers Association
+  source_kind: industry-technical-excerpt
+  access_scope: Search-indexed excerpt of the retailer PDF on microbial deposits and service conditions; complete
+    manual and local legal requirements not independently reviewed.
 source_checked_on: '2026-10-27'
 review_note: Research draft; no independent microbiologist review.
 relations:
@@ -127,6 +138,14 @@ A 2013 Beninese study monitored spontaneous fermentations and noted that direct 
 
 See [the isolate-method comparison](../categories/yeast-survey-method-disagreements.md) and [tchapalo fermentation versus spoilage](tchapalo-fermentation-versus-spoilage.md).
 
+
+
+## Edition 1.14: newly sourced connections
+
+Microbial succession during intentionally conducted fermentation must be distinguished from changes in **draught-line deposits after packaging**. Brewers Association technical guidance covers line cleaning and dispensing systems, while a retailer manual excerpt describes organic buildup and biofilms as service quality concerns. Neither source establishes that a given venue contains a named pathogen or fermentation culture.[^v114-draught-retail]
+
+This is a useful contrast with lambic and household starters: the timing, purpose and site of microbial activity matter. Compare [draught-line habitats](draught-lines-as-a-different-microbial-habitat.md) and [the keg-to-glass service chain](../processes/draught-quality-from-keg-to-glass.md).[^v114-draught]
+
 ## Source notes
 [^atlas-sesotho]: [Bacterial and Fungal Dynamics During the Fermentation Process of Sesotho, a Traditional Beer of Southern Africa](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01451/full), Cason and colleagues, 2020. Sampling design and abstract consulted 27 October 2026.
 [^atlas-bacteria-overview]: [Brewing bacteria overview in World Beer Wiki](../ingredients/brewing-bacteria.md), retained methodological distinctions and cited sources.
@@ -140,3 +159,6 @@ See [the isolate-method comparison](../categories/yeast-survey-method-disagreeme
 [^v113-tchou-2013]: [Yeast dynamics during spontaneous fermentation of mawè and tchoukoutou (2013)](https://pubmed.ncbi.nlm.nih.gov/23756236/). A. Greppi and colleagues. Consulted 2026-10-28. Access: PubMed indexed abstract, two monitored productions of each food; culture-dependent and -independent profiles differ and do not define a standard starter.
 
 [^v113-tchapalo-2022]: [Detection of spoilage-causing yeasts and bacteria in tchapalo (2022)](https://pubmed.ncbi.nlm.nih.gov/35344598/). C. K. Attchelouwa and colleagues. Consulted 2026-10-28. Access: PubMed abstract: 11 selected strains inoculated into sterile-filtered tchapalo over three days; sensory and volatiles are specific to that challenge system.
+
+[^v114-draught]: [Draught Beer Quality Manual resource page (2026)](https://www.brewersassociation.org/educational-publications/draught-beer-quality-manual/). Brewers Association Technical Committee. Consulted 2026-10-28. Access: Full public BA description of line cleaning, gas balance, pouring, equipment and quality objectives; numerical settings of the linked manual have not been independently assessed and are not prescribed.
+[^v114-draught-retail]: [Draught Beer Quality Manual for Retailers (2022)](https://cdn.brewersassociation.org/wp-content/uploads/2022/04/04193712/BP22-DBQMR-FINAL.pdf). Brewers Association. Consulted 2026-10-28. Access: Search-indexed excerpt of the retailer PDF on microbial deposits and service conditions; complete manual and local legal requirements not independently reviewed.

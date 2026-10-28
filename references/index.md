@@ -43,3 +43,8 @@ Source records, independent publications and independent confirmations are diffe
 [Edition 1.12 annotated source register](atlas-sources-1-12.md): 15 primary/secondary sources, actual access limits and citation backlinks.
 
 [Edition 1.13 source register](atlas-sources-1-13.md): 21 distinct research works, source access descriptions and article backlinks.
+
+
+## Research edition 1.14
+
+- [Edition 1.14 annotated source register](atlas-sources-1-14.md)

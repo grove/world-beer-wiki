@@ -39,3 +39,8 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.13 — source-scoped additions
 
 - [Bushera as grain-based food and drink](bushera-as-fermented-cereal-food.md) — How household cereal processing and fermentation make a locally named food-drink, not automatically a standard beer.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [Beer in Belgian cuisine: heritage evidence versus tasting rules](belgian-beer-and-cooking-as-heritage.md) — How UNESCO records cooking and pairing practices without assigning universal preferred food matches.

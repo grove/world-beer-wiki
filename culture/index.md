@@ -104,3 +104,11 @@ New evidence-based references (all retain draft status):
 - [Commercial Chibuku and the boundary of traditional beer](chibuku-and-industrial-opaque-beer.md) — Industrial opaque sorghum beer as a commercial institution; its history is not the history of every household ferment.
 - [Muratina in a Sagana marriage-practice study](muratina-and-agikuyu-marriage-negotiation.md) — An account of a named fermentation practice within one 2026 community-specific study, not a generalized Kenyan marriage rule.
 - [Tchoukoutou and household brewing enterprises in Benin](tchoukoutou-household-enterprises.md) — Household enterprise and consumer perceptions in a 2007 study of Beninese sorghum-beer production.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [Belgian beer heritage and how skills travel](belgian-beer-learning-networks.md) — What the 2016 UNESCO inscription says about cultural transmission, institutions and cuisine rather than style lists.
+- [Ethiopian tella: household vessels, grain work and hospitality](tella-household-vessels-and-hospitality.md) — A review-scoped comparison of household work, grain diversity and vessel preparation in Ethiopian tella.
+- [Hop farms, drying work and the Kent landscape](kent-hop-farms-and-work.md) — The agricultural, labor and building connections behind hop supply in Kent and neighboring English regions.
+- [Pilsen burghers and collective brewing rights](pilsen-burgher-brewing-rights.md) — Town brewing rights and a joint nineteenth-century brewery in Pilsen; not the invention of all lager.

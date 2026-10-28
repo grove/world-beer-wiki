@@ -90,3 +90,11 @@ New evidence-based references (all retain draft status):
 - [Process measurement in industrial opaque sorghum beer](commercial-opaque-beer-control.md) — How industrial Chibuku quality measurements differ from local household fermentation descriptions.
 - [Reusing a fibrous culture carrier in Muratina fermentation](muratina-sponge-reuse.md) — How a fruit-fibre carrier can introduce a previously cultivated yeast community into a new fermentation.
 - [Water reclamation trains for brewing: evidence and boundaries](brewery-water-reclamation-trains.md) — What pilot treatment and life-cycle studies can and cannot establish about water reuse in brewing.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [From keg to glass: draught-system quality](draught-quality-from-keg-to-glass.md) — Why serving equipment, lines, gas and cleaning can change delivered beer independently of its recipe.
+- [Hop drying: a three-stage historical supply process](hop-drying-cooling-and-packing.md) — A documented English sequence of drying, cooling and packing; not universal modern process settings.
+- [Lager aeration and tank filling as experimental variables](industrial-lager-aeration-and-filling.md) — An industrial 2025 response-surface study of fermentation operations and biological endpoints.
+- [Smoking a tella vessel is not smoking malt](tella-vessel-fumigation-vs-smoked-malt.md) — A cautious interpretation of Ethiopian vessel-preparation descriptions and different smoke pathways.

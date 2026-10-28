@@ -75,3 +75,9 @@ New evidence-based references (all retain draft status):
 
 - [The Jiahu drink changed when scientists asked a new question](two-analyses-one-jiahu-pot.md) — A narrative of how pottery chemistry and microfossils changed an archaeological brewing hypothesis.
 - [The reusable sponge that changes a Kenyan fermentation](what-a-brewing-sponge-can-carry.md) — A material-culture story about yeast colonization and the danger of universalizing one Muratina case study.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [What actually became new in Pilsen in 1842?](what-was-new-in-1842.md) — The more interesting story behind a famous first batch is an institution, not a single miraculous invention.
+- [Why should a beer encyclopedia care about an oast house?](why-a-hop-kiln-belongs-in-a-beer-wiki.md) — Follow the ingredient backward to the people and buildings that made brewing supplies storable.

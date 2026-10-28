@@ -72,3 +72,9 @@ New evidence-based references (all retain draft status):
 ## Research edition 1.13 — source-scoped additions
 
 - [Free, bound and released aldehydes during beer aging](beer-matrix-bound-aldehydes.md) — Concentrated beer-matrix experiments showing that aldehyde binding differs across sampled lager brands.
+
+
+## Research edition 1.14 — evidence-led additions
+
+- [A beer can change between brewery and glass](draught-service-vs-brewery-flavor.md) — Technical service factors that affect the delivered experience without rewriting a beer style.
+- [What happens when an aged-hop molecule meets protein Z?](protein-z-humulinone-foam.md) — Foam behavior in an isolated protein-humulinone experiment rather than a prediction of beer liking.
