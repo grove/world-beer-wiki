@@ -1,14 +1,14 @@
 ---
 type: Implementation Progress Report
-title: Atlas scope and progress — edition 1.18
-description: Finite implementation ledger for 119 work items, with unperformed review explicit.
+title: Atlas scope and progress — edition 1.19
+description: Finite implementation ledger for 124 work items, with unperformed review explicit.
 tags:
 - wiki-documentation
-- edition-1.18
+- edition-1.19
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.18
+  by: world-beer-wiki/1.19
   at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-spec
@@ -16,9 +16,9 @@ sources:
   title: World Beer Atlas expansion specification
 ---
 
-# Atlas scope and progress — edition 1.18
+# Atlas scope and progress — edition 1.19
 
-**Edition 1.18: 116 implemented, 1 planned, 2 deferred work items**. These are finite source-linked file deliverables, **not a percentage of the world's beer knowledge researched**. All new articles remain drafts; no independent community, brewing or scientific review is claimed.
+**Edition 1.19: 121 implemented, 1 planned, 2 deferred work items**. These are finite source-linked file deliverables, **not a percentage of the world's beer knowledge researched**. All new articles remain drafts; no independent community, brewing or scientific review is claimed.
 
 | ID | Deliverable | State | Paths |
 |---|---|---|---|
@@ -153,9 +153,15 @@ sources:
 | ATLAS-118 | 1892 crown-cork and 2026 law dates, material objects and food contact | implemented | [Crown cap](../objects/crown-cork-and-sealing-liner.md) · [Museum can](../objects/baltimore-handled-beer-can.md) · [EU application](../calendar/eu-ppwr-application-2026.md) |
 | ATLAS-119 | Release evidence, navigation, 22-source register and regression tests | implemented | [Sources](../references/atlas-sources-1-18.md) · [Research](research-update-1-18.md) · [Validation](validation-report-1-18.md) · `tests/test_research_quality_v118.py` |
 
+| ATLAS-120 | Process heat integration and model versus field-case analysis | implemented | [Heat model limits](../environment/industrial-heat-pump-model-boundaries.md) · [Field case](../environment/china-brewhouse-field-test-vs-global-model.md) · [Wort recovery](../processes/wort-cooling-and-heat-recovery.md) |
+| ATLAS-121 | Fermenter gas recovery, carbon scopes and small-brewer interviews | implemented | [CO₂ capture](../processes/fermentation-co2-capture-vs-carbonation.md) · [Five interviews](../culture/five-french-breweries-and-co2-reuse.md) · [GHG scopes](../environment/scope-1-2-3-brewing-emissions.md) |
+| ATLAS-122 | Wastewater digestion, resource quality and methane scenarios | implemented | [COD boundaries](../categories/wastewater-cod-is-not-water-footprint.md) · [Digestion](../processes/brewery-wastewater-anaerobic-digestion.md) · [Gas models](../environment/brewery-wastewater-to-renewable-gas-scenarios.md) |
+| ATLAS-123 | Ice houses, refrigeration objects, seasonal work and exports | implemented | [Cooling history](../history/ice-houses-to-mechanical-brewery-cooling.md) · [Norway](../history/norwegian-beer-export-and-natural-ice.md) · [Seasonal ice](../calendar/historic-natural-ice-harvest-season.md) |
+| ATLAS-124 | Edition 1.19 sources, nine routes, indices and regression tests | implemented | [Sources](../references/atlas-sources-1-19.md) · [Research](research-update-1-19.md) · [Validation](validation-report-1-19.md) · `tests/test_research_quality_v119.py` |
+
 ## Limits and next actions
 
-Implemented means the specific file and accepted check exist, not that its subject is exhaustive or human-approved. The [open source-review queue](source-review-queue-1-18.md) records missing expertise, local perspectives and full-text methods. ATLAS-012 remains planned, and ATLAS-013/014 are deferred.
+Implemented means the specific file and accepted check exist, not that its subject is exhaustive or human-approved. The [open source-review queue](source-review-queue-1-19.md) records missing expertise, local perspectives and full-text methods. ATLAS-012 remains planned, and ATLAS-013/014 are deferred.
 
 ## Reproduce the progress ledger
 
@@ -165,4 +171,4 @@ python tools/atlas.py progress
 python tools/atlas.py source-audit
 ```
 
-[Research update](research-update-1-18.md) · [Specification](atlas-specification.md) · [Home](../index.md).
+[Research update](research-update-1-19.md) · [Specification](atlas-specification.md) · [Home](../index.md).

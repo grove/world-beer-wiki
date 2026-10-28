@@ -9,14 +9,14 @@ tags:
 - roadmap
 status: draft
 generated:
-  by: world-beer-wiki/1.18
+  by: world-beer-wiki/1.19
   at: '2026-10-28T11:20:00Z'
 sources:
 - id: atlas-baseline
   resource: /editorial/research-update-1-1.md
   title: Edition 1.1 baseline research update
-specification_version: '1.13'
-implementation_status: research-edition-1.18
+specification_version: '1.14'
+implementation_status: research-edition-1.19
 review_status: not-independently-reviewed
 work_items:
 - id: ATLAS-001
@@ -1078,11 +1078,67 @@ work_items:
   - tests/test_research_quality_v118.py
   delivered_scope: 27 new subjects, 15 canonical sourced revisions, 22 external works and 101 actual article-source placements across thirteen sections with current navigation and negative-case regression tests.
 
+- id: ATLAS-120
+  title: Brewery heat integration, electrification models and industrial case boundaries
+  state: implemented
+  paths:
+  - categories/brewery-heat-cooling-and-carbon-boundaries.md
+  - environment/industrial-heat-pump-model-boundaries.md
+  - environment/china-brewhouse-field-test-vs-global-model.md
+  - processes/wort-cooling-and-heat-recovery.md
+  - objects/brewery-wort-heat-exchanger-as-system.md
+  delivered_scope: Distinguish a 2026 representative brewery pinch model, a 2025 global scenario and a measured Chinese brewery context; no universal payback or carbon savings.
+- id: ATLAS-121
+  title: Biogenic fermentation CO2, gas recovery evidence and emissions scopes
+  state: implemented
+  paths:
+  - ingredients/fermentation-co2-as-a-recovered-material.md
+  - processes/fermentation-co2-capture-vs-carbonation.md
+  - categories/fermentation-co2-recovery-is-not-net-zero.md
+  - environment/scope-1-2-3-brewing-emissions.md
+  - culture/five-french-breweries-and-co2-reuse.md
+  delivered_scope: Attribute five French craft brewery interview results, a 2025 Tsingtao case and GHG Protocol accounting categories without claiming beverage-grade gas or carbon removal.
+- id: ATLAS-122
+  title: Brewery wastewater COD, anaerobic digestion, microbial consortia and energy scenarios
+  state: implemented
+  paths:
+  - categories/wastewater-cod-is-not-water-footprint.md
+  - processes/brewery-wastewater-anaerobic-digestion.md
+  - microbiology/digester-consortia-versus-brewing-starters.md
+  - environment/brewery-wastewater-to-renewable-gas-scenarios.md
+  - stories/the-wastewater-does-not-become-drinking-water.md
+  delivered_scope: Explain a 365-day reactor, small-brewery digestion, gas-upgrading scenarios and composition variability without food-safety, water-reuse or operational prescriptions.
+- id: ATLAS-123
+  title: Natural ice, industrial refrigeration, Norwegian brewing export and social infrastructure
+  state: implemented
+  paths:
+  - history/ice-houses-to-mechanical-brewery-cooling.md
+  - history/norwegian-beer-export-and-natural-ice.md
+  - objects/historical-brewery-ice-house.md
+  - objects/ammonia-refrigeration-catalogue-1899.md
+  - culture/norwegian-beer-export-networks.md
+  - calendar/historic-natural-ice-harvest-season.md
+  delivered_scope: Link university and museum histories with 1860-1900 Norwegian exports, Swiss ice/cellar practices and a dated 1899 catalogue without inventing a fixed holiday or copying museum images.
+- id: ATLAS-124
+  title: Edition 1.19 source manifest, canonical integrations, navigation and research tests
+  state: implemented
+  paths:
+  - references/atlas-source-manifest-1-19.json
+  - references/atlas-sources-1-19.md
+  - editorial/research-update-1-19.md
+  - editorial/validation-report-1-19.md
+  - editorial/source-review-queue-1-19.md
+  - navigation/edition-1-19-reading-trails.md
+  - navigation/all-atlas-subjects.md
+  - navigation/all-names.md
+  - tests/test_research_quality_v119.py
+  delivered_scope: Twenty-six new source-scoped subjects and twenty-one cited canonical revisions across thirteen sections, with 21 distinct works, 109 actual article-source uses and nine reading trails.
+
 ---
 
 # World Beer Atlas expansion specification
 
-**Specification 1.13 · research deliverables tracked through edition 1.18 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
+**Specification 1.14 · research deliverables tracked through edition 1.19 · 28 October 2026.** This is the scope and acceptance contract for extending World Beer Wiki beyond style descriptions. “Atlas” describes the connected reference model, not a compulsory project rename or a claim of complete geographical coverage.
 
 The [human-readable progress report](atlas-progress.md) and `python tools/atlas.py progress` reflect the YAML ledger in this document’s frontmatter. The ledger tracks delivered scope, not human approval.
 
@@ -1339,3 +1395,9 @@ Separate open farm surveys from Arsi, Oromia and Estie describe different contra
 **27 source-scoped new subjects and 15 existing-page sourced revisions** extend the atlas to 740 subjects. ATLAS-115–119 track the finite content and tooling deliverables, not completeness of worldwide brewing knowledge. The two named 2022 and 2024 beer-packaging LCAs study different distributions and comparison formats; neither proves a universal best keg. The EU's 12 August 2026 packaging-law application is a historic legal date, not the completion of later reuse targets or an annual festival. The 1892 crown-cork patent date is exact archival evidence, not the invention of all bottled beer.
 
 Technical work distinguishes liquid and headspace oxygen, multiple aldehyde pathways, specific light-triggered riboflavin chemistry and yeast effects in one unpasteurized-ale experiment. Packaging overpressure is a serious manufacturer safety matter; this wiki does not provide consumer interventions or production recipes. A Smithsonian handled-can object and EU bisphenol food-contact rules answer different questions; neither proves the taste or material composition of every beer can. See the [research update](research-update-1-18.md), [22-work annotated bibliography](../references/atlas-sources-1-18.md), [nine reading trails](../navigation/edition-1-18-reading-trails.md), and [independent-review queue](source-review-queue-1-18.md). **ATLAS-012 remains planned**, with licensed media and live calendar tools deferred.
+
+## 24. Edition 1.19 — three energy and resource systems and industrial refrigeration history
+
+**26 new research articles and 21 substantially sourced canonical revisions** extend the atlas to 766 subjects in 13 sections. ATLAS-120–124 describe file-deliverable work rather than completeness of global brewing knowledge. The 2026 pinch-analysis heat-pump model and 2025 global/field cases do not give identical measured performance; captured fermenter CO₂, CO₂ heat-pump refrigerant and CO₂ dissolved in beer play different roles. The GHG Protocol's scopes prevent an operational efficiency result from being mistaken for an audited whole-beer footprint or an automatic net-zero label.
+
+Wastewater COD is not the same metric as water withdrawal, drinking-water quality or biomethane sold to market. A 365-day experimental wastewater digester is not an actual plant permit or operating procedure, and a modeled renewable-gas scenario is not a verified climate saving. University and museum sources about natural ice, Swiss refrigeration and 1860–1900 Norwegian beer exports describe historical material and trade conditions, not exact modern energy footprints or a fixed yearly ice festival. [Research update](research-update-1-19.md), [21-work source register](../references/atlas-sources-1-19.md), [nine research routes](../navigation/edition-1-19-reading-trails.md) and [open independent review](source-review-queue-1-19.md) retain their evidence limits. **ATLAS-012 remains planned**, with licensed media and real-time calendar features deferred.
