@@ -112,3 +112,7 @@ New evidence-based references (all retain draft status):
 - [Ethiopian tella: household vessels, grain work and hospitality](tella-household-vessels-and-hospitality.md) — A review-scoped comparison of household work, grain diversity and vessel preparation in Ethiopian tella.
 - [Hop farms, drying work and the Kent landscape](kent-hop-farms-and-work.md) — The agricultural, labor and building connections behind hop supply in Kent and neighboring English regions.
 - [Pilsen burghers and collective brewing rights](pilsen-burgher-brewing-rights.md) — Town brewing rights and a joint nineteenth-century brewery in Pilsen; not the invention of all lager.
+
+## Edition 1.15 — sourced evidence and boundaries
+
+- [Who gets to define beer?](institutional-vocabularies-of-beer.md) — The different authority of community naming, legislation, competitions and archived business guidance.

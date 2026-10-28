@@ -79,3 +79,8 @@ New evidence-based references (all retain draft status):
 - [American beer: domestic labor, immigration and the rise of industry](american-beer-households-immigration-and-industry.md) — Smithsonian collection-level evidence for changing American brewing work and its archival limits.
 - [Pilsen 1842: between company chronicle and historical source](pilsen-1842-evidence-and-origin-myths.md) — What a producer chronology and a later historian can support about Pilsen brewing and what they cannot.
 - [When hop kilns became heritage buildings](from-oast-to-preserved-building.md) — What an English building survey can tell us about changing hop technology and land use.
+
+## Edition 1.15 — sourced evidence and boundaries
+
+- [Two US definitions: beer and malt beverage](us-beer-vs-malt-beverage-definitions.md) — Federal tax and federal label meanings are not interchangeable.
+- [From a 1991 ATF marketing circular to TTB terminology](from-1991-atf-circular-to-current-guidance.md) — Two dated documentary snapshots, not a complete legal evolution.

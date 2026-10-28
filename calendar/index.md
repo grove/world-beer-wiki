@@ -71,3 +71,7 @@ New evidence-based references (all retain draft status):
 
 - [5 October 1842: first batch at the Pilsen Burghers Brewery](first-pilsen-batch-1842.md) — A precisely dated historical brewery event, not a recurring holiday or the invention date of all lager.
 - [English hop harvest: the field-to-kiln season](english-hop-harvest-and-drying-season.md) — Historic England evidence for harvest urgency and drying, not a fixed annual festival date.
+
+## Edition 1.15 — sourced evidence and boundaries
+
+- [20 August 1991: ATF marketing circular](atf-nonalcoholic-marketing-circular-1991.md) — A dated industry regulatory record, explicitly not an annual non-alcoholic beer festival.

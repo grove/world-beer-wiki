@@ -88,3 +88,8 @@ New evidence-based references (all retain draft status):
 
 - [An intangible-heritage inscription is not a beer style](heritage-inscription-is-not-a-style.md) — A method for interpreting heritage recognition without assigning recipes, ownership or sensory parameters.
 - [From field to glass: five distinct evidence layers](from-field-to-glass-evidence-chain.md) — A research map from crops, institutions and fermentation to packaging, service and sensory perception.
+
+## Edition 1.15 — sourced evidence and boundaries
+
+- [A regulated name is not a judging style](jurisdictional-beer-names-vs-styles.md) — Legal classes, international style vocabularies and community terminology require different evidence.
+- [No-/low-alcohol descriptors across borders](no-low-alcohol-descriptors-across-borders.md) — US current labels compared with an England-applicable 2023 UK policy consultation, not a supposed enacted rule.

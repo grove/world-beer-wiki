@@ -135,3 +135,7 @@ New evidence-based references (all retain draft status):
 - [Brewer’s surplus yeast: culture versus by-product](surplus-brewers-yeast-as-material.md) — Separating managed live brewing culture from residual yeast streams studied for reuse.
 - [Dried hops: crop form, moisture and brewing identity](dried-hops-and-harvest-form.md) — How rapid field-to-kiln handling differs from flavor chemistry and cultivar claims.
 - [Humulinones: aged-hop chemistry beyond bitterness](humulinones-and-aged-hops.md) — A protein-binding experiment on oxidized hop compounds, without extrapolating to every finished beer.
+
+## Edition 1.15 — sourced evidence and boundaries
+
+- [Dissolved CO2 in beer](dissolved-carbon-dioxide-in-beer.md) — Package carbonation, gas release and glass bubble dynamics in a studied lager.
