@@ -55,3 +55,11 @@ New evidence-based references (all retain draft status):
 ## Edition 1.10 — evidence-based expansion
 
 - [Why some low-alcohol beers taste worty](worty-aroma-in-low-alcohol-beer.md) — Role of residual wort character, aldehydes, esters, ethanol and sugar fermentation in non-alcoholic beer.
+
+
+## Edition 1.11: source-led additions
+
+- [Dry-hop contact time and measured aging](dry-hop-contact-and-aging.md)
+- [Protein–polyphenol haze and intentional cloudiness](haze-and-protein-polyphenol-bonds.md)
+- [Sulfur character during brewing fermentation](sulfur-during-fermentation.md)
+- [Why hoppy ales age in different ways](hoppy-ale-aroma-during-storage.md)

@@ -83,3 +83,8 @@ This edition adds focused histories of Abydos, Andean chicherías, Ghanaian pito
 ## Edition 1.8 follow-up
 
 [The 1.8 research update](research-update-1-8.md) adds situated Shawi, Tanzanian, Ethiopian and Himalayan accounts plus chemical/sensory mechanisms. The complete count is now **457 subject articles** rather than 457 standardized styles. Local-language and community validation, inaccessible full papers and independent expert review remain [open tasks](source-review-queue-1-8.md).
+
+
+## Edition 1.11 evidence gaps
+
+The [research edition 1.11](research-update-1-11.md) addresses specific Mexican, Brazilian, Nigerian and brewing-chemistry examples, not complete regional representation. The [review queue](source-review-queue-1-11.md) identifies full-text and local-language research and community review still required. Extending coverage must not collapse Indigenous groups or treat secondary historical interpretations as living testimony.

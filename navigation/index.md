@@ -31,3 +31,8 @@
 ## Edition 1.10
 
 [Seven evidence-based reading trails](edition-1-10-reading-trails.md) · [Complete subject index](all-atlas-subjects.md) · [Research update](../editorial/research-update-1-10.md).
+
+
+## Edition 1.11
+
+[Edition 1.11 nine research trails](edition-1-11-reading-trails.md) — pulque and colonial archives, Indigenous Brazilian ferments, Nigerian food-drinks and beer-stability chemistry.

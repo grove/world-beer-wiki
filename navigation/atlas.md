@@ -281,3 +281,8 @@ The previous [names and aliases](all-names.md) index remains the 1.1 baseline. T
 ## Edition 1.7 question-led paths
 
 [New edition reading trails](edition-1-7-reading-trails.md) connect 26 newly researched articles and their predecessors across thirteen sections. [Source supplement](../references/atlas-sources-1-7.md).
+
+
+## Edition 1.11 research trails
+
+[Nine evidence-led trails](edition-1-11-reading-trails.md) connect Mexican agave, Brazilian cassava, Nigerian cereal food-drinks, and brewing chemistry without unsupported historical descent claims.

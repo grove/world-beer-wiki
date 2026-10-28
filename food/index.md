@@ -25,3 +25,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.10 — evidence-based expansion
 
 - [Tapai between fermented rice food and drink](tapai-as-food-and-beverage.md) — How edible fermented glutinous rice illustrates overlapping food and beverage functions.
+
+
+## Edition 1.11: source-led additions
+
+- [Fermented cassava as food, drink and social practice](fermented-cassava-as-food-and-drink.md)

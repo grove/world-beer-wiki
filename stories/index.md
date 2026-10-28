@@ -58,3 +58,9 @@ New evidence-based references (all retain draft status):
 
 - [The light, not the skunk: a beer aroma mystery](why-light-makes-some-beer-smell-skunky.md) — How experiments distinguish photochemical light-struck notes from ordinary hopping character.
 - [When brewery contaminant yeasts became brewing candidates](when-contaminant-yeast-became-a-low-alcohol-candidate.md) — How a 2021 isolate-screening project turned a contamination question into a selected low-alcohol fermentation hypothesis.
+
+
+## Edition 1.11: source-led additions
+
+- [When fermentation enters a colonial archive](when-fermentation-enters-a-colonial-archive.md)
+- [Why beer ages without a single culprit](why-beer-ages-without-a-single-culprit.md)

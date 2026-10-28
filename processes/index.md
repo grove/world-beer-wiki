@@ -66,3 +66,11 @@ New evidence-based references (all retain draft status):
 - [Ragi starters: concurrent starch conversion and fermentation](ragi-parallel-starch-and-ethanol-fermentation.md) — Starch breakdown and ethanol production occurring through mixed starter functions in Indonesian tapé models.
 - [Removing alcohol: thermal and membrane methods](thermal-and-membrane-dealcoholisation.md) — Comparison of post-fermentation thermal and membrane approaches, not a validated processing protocol.
 - [Starch conversion when brewing without barley malt](gluten-free-starch-conversion.md) — Enzyme and grain-matrix challenges for replacing barley malt, with explicit gluten-free validation caveat.
+
+
+## Edition 1.11: source-led additions
+
+- [From aguamiel to a maintained pulque ferment](aguamiel-to-pulque.md)
+- [How oxygen enters and remains in packaged beer](beer-package-oxygen-pathways.md)
+- [Kunun-zaki: slurry, heat and mild fermentation](kunun-zaki-slurry-and-gelatinization.md)
+- [Staling precursors formed before beer is packaged](wort-aldehydes-before-packaging.md)

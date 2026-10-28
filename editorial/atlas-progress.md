@@ -1,15 +1,15 @@
 ---
 type: Implementation Progress Report
 title: Atlas scope and progress
-description: Finite scope and evidence ledger for World Beer Atlas edition 1.10.
+description: Finite scope and evidence ledger for World Beer Atlas edition 1.11.
 tags:
 - wiki-documentation
 - atlas
 - progress
 status: draft
 generated:
-  by: world-beer-wiki/1.10
-  at: '2026-10-28T08:50:00Z'
+  by: world-beer-wiki/1.11
+  at: '2026-10-28T08:55:00Z'
 sources:
 - id: atlas-spec
   resource: /editorial/atlas-specification.md
@@ -18,7 +18,7 @@ sources:
 
 # Atlas scope and progress
 
-**Edition 1.10: 69 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
+**Edition 1.11: 76 implemented, 1 planned, 2 deferred** items from the finite scope ledger. An implemented item means its stated file-level deliverable exists, not that a region has been exhaustively covered or independently verified.
 
 | ID | Workstream | Status | Reproducible deliverable paths |
 |---|---|---|---|
@@ -91,6 +91,14 @@ sources:
 | ATLAS-065 | Nubian ancient-grain genetics and archaeological interpretive limits | implemented | [qasr-ibrim-barley-ancient-dna.md](../history/qasr-ibrim-barley-ancient-dna.md) · [barley-row-type-and-brewing-assumptions.md](../ingredients/barley-row-type-and-brewing-assumptions.md) |
 | ATLAS-066 | Cross-domain revisions, original-source register, reproducible QA and reading trails | implemented | [atlas-sources-1-9.md](../references/atlas-sources-1-9.md) · [research-update-1-9.md](../editorial/research-update-1-9.md) · [validation-report-1-9.md](../editorial/validation-report-1-9.md) · [edition-1-9-reading-trails.md](../navigation/edition-1-9-reading-trails.md) · `tests/test_research_quality_v19.py` |
 
+| ATLAS-073 | Document agave sap and Mexican pulque culture | implemented | [pulque.md](../styles/pulque.md) · [agave-aguamiel.md](../ingredients/agave-aguamiel.md) · [chalco-pulque-taxation-1778-1821.md](../history/chalco-pulque-taxation-1778-1821.md) |
+| ATLAS-074 | Deepen Brazilian Indigenous cassava fermentation without erasure | implemented | [cauim.md](../styles/cauim.md) · [giroba.md](../styles/giroba.md) · [cauim-and-colonial-source-problems.md](../history/cauim-and-colonial-source-problems.md) |
+| ATLAS-075 | Document Nigerian food-drinks and South African social use | implemented | [kunun-zaki.md](../styles/kunun-zaki.md) · [umqombothi-and-shared-social-work.md](../culture/umqombothi-and-shared-social-work.md) · [kunun-zaki-dry-season-association.md](../calendar/kunun-zaki-dry-season-association.md) |
+| ATLAS-076 | Reconcile organism detection, process and food-safety evidence | implemented | [pulque-five-stage-metagenomics.md](../microbiology/pulque-five-stage-metagenomics.md) · [tapirape-cauim-bacteria-and-yeast.md](../microbiology/tapirape-cauim-bacteria-and-yeast.md) · [acidification-is-not-safety-certification.md](../categories/acidification-is-not-safety-certification.md) |
+| ATLAS-077 | Extend hoppy-aging, aldehyde and colloidal science | implemented | [hoppy-ale-aroma-during-storage.md](../sensory/hoppy-ale-aroma-during-storage.md) · [haze-and-protein-polyphenol-bonds.md](../sensory/haze-and-protein-polyphenol-bonds.md) · [wort-aldehydes-before-packaging.md](../processes/wort-aldehydes-before-packaging.md) |
+| ATLAS-078 | Revise canonical reference pages with cited context | implemented | [umqombothi.md](../styles/umqombothi.md) · [burukutu.md](../styles/burukutu.md) · [oxidative-aging.md](../sensory/oxidative-aging.md) |
+| ATLAS-079 | Publish 1.11 source ledger, navigation and checks | implemented | [atlas-sources-1-11.md](../references/atlas-sources-1-11.md) · [edition-1-11-reading-trails.md](../navigation/edition-1-11-reading-trails.md) · [research-update-1-11.md](../editorial/research-update-1-11.md) · [test_research_quality_v111.py](../tests/test_research_quality_v111.py) |
+
 ## What remains unverified
 
 **ATLAS-012**, independent community and specialist review, is still planned. Source access from a publisher abstract or a project narrative is not equivalent to reading all underlying records; an archival citation cannot certify the account’s representativeness. Licensed illustrations/recordings and a live interactive calendar remain deferred. The [edition 1.7 review queue](source-review-queue-1-7.md) and [earlier 1.6 queue](source-review-queue-1-6.md) identify specific work.
@@ -125,3 +133,8 @@ The following scoped items are implemented, not independently reviewed.
 **What remains open:** ATLAS-012 community and independent subject-specialist reviews; additional source full-text/translation verification; actual product safety and gluten testing outside this encyclopedia. Licensed media and a live interactive calendar remain deferred.
 
 [New research update](research-update-1-10.md) · [Sources](../references/atlas-sources-1-10.md) · [Review queue](source-review-queue-1-10.md).
+
+
+## Edition 1.11 audit
+
+Read [newly sourced research](research-update-1-11.md), [access limits and source backlinks](../references/atlas-sources-1-11.md) and [review queue](source-review-queue-1-11.md). **This progress report describes deliverables, not independent verification.**

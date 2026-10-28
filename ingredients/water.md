@@ -22,15 +22,14 @@ sources:
   title: Water — Beer Exam Study Guide
   author_label: Beer Judge Certification Program
   source_kind: official-technical-education
-  access_scope: retrieved sections on alkalinity, hardness, pH and ions; not historical source-water
-    measurements
+  access_scope: retrieved sections on alkalinity, hardness, pH and ions; not historical source-water measurements
 - id: ing-palmer-water
   resource: https://cdn.homebrewersassociation.org/wp-content/uploads/2022/09/20162325/CollabHour_BrewingWaterAdjustment_Presentation.pdf
   title: Adjusting Brewing Water for Style
   author_label: John Palmer; Brewers Association Collab Hour
   source_kind: author-technical-presentation
-  access_scope: PDF text, especially slides on source water, ion groups, hardness and water adjustment;
-    no webinar audio reviewed
+  access_scope: PDF text, especially slides on source water, ion groups, hardness and water adjustment; no
+    webinar audio reviewed
 - id: v14-water
   resource: https://www.mdpi.com/2073-4441/17/8/1179
   title: Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)
@@ -38,12 +37,19 @@ sources:
   source_kind: industrial-case-study
   access_scope: 'Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide
     average.'
+- id: v111-metals
+  resource: https://onlinelibrary.wiley.com/doi/10.1002/jib.699
+  title: 'Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)'
+  author_label: Tuur Mertens, Thomas Kunz and Brian R. Gibson
+  source_kind: open-technical-review
+  access_scope: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels
+    are reported ranges, not regulatory limits.
 aliases:
 - Brewing liquor
 regions:
 - Cross-regional
-scope: Brewing-water concepts and interpretation; not a water-treatment recipe or a reconstruction of
-  historical city supplies.
+scope: Brewing-water concepts and interpretation; not a water-treatment recipe or a reconstruction of historical
+  city supplies.
 evidence_basis:
 - author-technical-presentation
 - official-technical-education
@@ -95,6 +101,12 @@ These sources explain brewing chemistry and contemporary practice. This page del
 
 A Greek industrial brewery case study distinguishes process water, wastewater treatment, and proposals for restricted reuse. The case illustrates why the total water footprint cannot be inferred from a beer’s recipe alone. See [water and wastewater](../environment/brewery-water-and-wastewater.md).[^v14-water]
 
+## Edition 1.11: newly sourced connections
+
+Iron, copper and manganese can enter brewing systems via water and other materials and participate in oxidative reactions. A 2022 review discusses their catalytic roles but also why concentrations alone do not dictate a beer's future flavor: chemical form, processing, oxygen and beer matrix matter.[^v111-metals]
+
+Consult [trace metals in brewing](transition-metals-in-brewing.md) and [package oxygen pathways](../processes/beer-package-oxygen-pathways.md). This addition is **not** a water-treatment or medical safety protocol, and the source's reported industrial concentration ranges should not be mistaken for regulatory limits.
+
 ## Source notes
 
 [^ing-water-aha]: [Understanding Water for Homebrewing](https://homebrewersassociation.org/how-to-brew/understanding-water-for-homebrewing/). American Homebrewers Association. Consulted 2026-10-27. Evidence used: published educational article; general chemistry, not universal recipe targets.
@@ -102,3 +114,4 @@ A Greek industrial brewery case study distinguishes process water, wastewater tr
 [^ing-palmer-water]: [Adjusting Brewing Water for Style](https://cdn.homebrewersassociation.org/wp-content/uploads/2022/09/20162325/CollabHour_BrewingWaterAdjustment_Presentation.pdf). John Palmer; Brewers Association Collab Hour. Consulted 2026-10-27. Evidence used: PDF text, especially slides on source water, ion groups, hardness and water adjustment; no webinar audio reviewed.
 
 [^v14-water]: [Water Footprint, Energy and Brewery Wastewater Treatment in Greece (2025)](https://www.mdpi.com/2073-4441/17/8/1179). Greek brewery case-study research team. Consulted 2026-10-27. Access: Open full paper and abstract: case brewery volumes and wastewater options, not an industry-wide average.
+[^v111-metals]: [Transition metals in brewing and their role in wort and beer oxidative stability: a review (2022)](https://onlinelibrary.wiley.com/doi/10.1002/jib.699). Tuur Mertens, Thomas Kunz and Brian R. Gibson. Consulted 2026-10-28. Access: Open full review of iron/copper/manganese, oxygen uptake, and shelf-life; tabulated levels are reported ranges, not regulatory limits.

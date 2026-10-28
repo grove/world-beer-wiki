@@ -30,3 +30,8 @@ New evidence-based references (all retain draft status):
 ## Edition 1.10 — evidence-based expansion
 
 - [Low-alcohol beer: energy, water and processing boundaries](low-alcohol-beer-processing-tradeoffs.md) — What environmental questions can and cannot be inferred from no-alcohol brewing method descriptions.
+
+
+## Edition 1.11: source-led additions
+
+- [Packaging protection versus environmental footprint](packaging-chemistry-and-life-cycle.md)

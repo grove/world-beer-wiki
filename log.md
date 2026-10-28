@@ -51,3 +51,7 @@ Add 31 source-scoped subject articles, 18 source-cited updates, eight cross-cate
 ## 2026-10-28 — Research edition 1.10
 
 27 evidence-bounded new subjects, 15 existing-article sourced extensions, 19 annotated source works and seven question-led trails. Adds Yaminahua and Cusco cultural cases, a specific Wari specialization hypothesis, Indonesian/Thai rice ferments, brewing alternative-grain constraints, low-alcohol microbial challenges, and lightstruck chemistry. Previous canonical paths and older review status retained; independent community and expert review remains open. See [release research update](editorial/research-update-1-10.md), [source records](references/atlas-sources-1-10.md) and [validation](editorial/validation-report-1-10.md).
+
+## 2026-10-28 — Research edition 1.11
+
+34 new source-bounded articles and 18 substantively revised subjects, extending cultural and historical context around pulque, Brazilian cassava food-drinks, kunun-zaki, tepache, and brewing staling science. Adds 21 named external works with explicit access limitations, 9 linked research trails, directory navigation and regression checks (106 passing tests); preserves the 166 original profile paths. See [research update](editorial/research-update-1-11.md), [source supplement](references/atlas-sources-1-11.md), [validation](editorial/validation-report-1-11.md), and [outstanding review](editorial/source-review-queue-1-11.md). No independent community or specialist endorsement is claimed.

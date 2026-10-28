@@ -47,3 +47,8 @@ Ingredient references connect material roles with named beers and traditions. Th
 For conversion methods and cultural scope, read [Starch fermentation and the boundaries of beer](../categories/starch-fermentation-and-beer-boundaries.md). For the complete materials section, see the [ingredient directory](../ingredients/index.md).
 
 [All profiles](../styles/index.md) · [Category guides](../categories/index.md) · [Home](../index.md)
+
+
+## Edition 1.11: new materials and their different drinks
+
+[Aguamiel](../ingredients/agave-aguamiel.md) → [Pulque](../styles/pulque.md). [Pineapple rind and piloncillo](../ingredients/pineapple-rind-and-piloncillo.md) → [Tepache](../styles/tepache.md). [Cassava](../ingredients/cassava.md) → [Cauim](../styles/cauim.md) and [Giroba](../styles/giroba.md). [Millet](../ingredients/sorghum-and-millet.md) → [Kunun-zaki](../styles/kunun-zaki.md). A material connection is not a mandatory ingredient rule for every named community.

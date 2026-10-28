@@ -355,3 +355,8 @@ These are the geographical focus labels supplied by each beer or tradition profi
 ## Edition 1.10: related ferments and new situated cases
 
 Peru: [Yaminahua masateadas](../culture/yaminahua-masateadas-and-kinship.md), [Cusco chicherías](../culture/cusco-chicherias-maize-and-gendered-work.md), [North-coast production](../culture/north-peru-chicha-labor-and-scale.md). Indonesia: [Tapai ketan](../styles/tapai-ketan.md). Thailand: [Khao mak](../styles/khao-mak-thai-fermented-rice.md). These are additional situated references, not new national coverage counts.
+
+
+## Edition 1.11: additional geographically scoped related ferments
+
+**Mexico:** [Pulque](../styles/pulque.md) · [Tepache](../styles/tepache.md). **Brazil:** [Cauim](../styles/cauim.md) · [Giroba](../styles/giroba.md). **Nigeria:** [Kunun-zaki](../styles/kunun-zaki.md). These are local focus labels, not exclusive places of origin or complete regional surveys.

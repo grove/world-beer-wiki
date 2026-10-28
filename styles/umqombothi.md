@@ -1,8 +1,8 @@
 ---
 type: Beer Tradition
 title: Umqombothi
-description: South African umqombothi, its maize-and-sorghum base, two-stage fermentation, and suspended-grain texture, separating
-  customary practice from laboratory optimization.
+description: South African umqombothi, its maize-and-sorghum base, two-stage fermentation, and suspended-grain
+  texture, separating customary practice from laboratory optimization.
 tags:
 - sorghum
 - maize
@@ -29,7 +29,8 @@ sources:
   author_label: Hlangwani et al.
 - id: trad-umqombothi-stages
   resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC10803943/
-  title: Physicochemical and microbiological changes during two-stage fermentation production of umqombothi (2024)
+  title: Physicochemical and microbiological changes during two-stage fermentation production of umqombothi
+    (2024)
   author: team:trad-umqombothi-stages-authors
   source_kind: primary-research
   access_scope: full-text original research; three laboratory temperature treatments and consumer evaluation
@@ -39,8 +40,22 @@ sources:
   title: Analysis of the bacterial and fungal populations in South African sorghum beer (umqombothi) (2023)
   author_label: Study authors
   source_kind: primary-microbial-profiling
-  access_scope: Open Springer article abstract and indexed results comparing mixed ingredients, customary
-    brew and optimized brew; inferred pathways are not measured production rates.
+  access_scope: Open Springer article abstract and indexed results comparing mixed ingredients, customary brew
+    and optimized brew; inferred pathways are not measured production rates.
+- id: v111-umqombothi-museum
+  resource: https://nationalmuseumpublications.co.za/umqombothi-our-african-beer/
+  title: 'Umqombothi: Our African Beer (National Museum publication, 2019)'
+  author_label: National Museum Publications (South Africa)
+  source_kind: museum-cultural-account
+  access_scope: Museum narrative with context on ancestor offerings, cooperative work and vessels; not a representative
+    survey of all communities.
+- id: v111-umqombothi-review
+  resource: https://www.mdpi.com/2227-9717/8/11/1451
+  title: Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer) (2020)
+  author_label: Processing-review authors
+  source_kind: regional-process-review-open-text
+  access_scope: Open review text covering several South African social occasions and production accounts; secondary
+    synthesis with variation.
 aliases:
 - Umqomboti
 regions:
@@ -50,7 +65,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary fermentation research; regional scope limited to cited samples
 source_checked_on: '2026-10-28'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/sesotho-beer
@@ -104,6 +120,12 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.11: newly sourced connections
+
+The South African National Museum account stresses sharing and work reciprocity alongside ancestral and other social contexts. A processing review documents several named ceremonial occasions but does not establish that all households or language communities follow the same practice. These sources are different genres, and neither creates a compulsory ritual list or one recipe.[^v111-umqombothi-museum][^v111-umqombothi-review]
+
+Read [Umqombothi, ancestors and shared work](../culture/umqombothi-and-shared-social-work.md) for the evidence boundaries, and compare [sorghum and millet](../ingredients/sorghum-and-millet.md) for the grain rather than treating social function as a brewing ingredient. Museum observations and regional review synthesis should not erase named producers' contemporary variation.
+
 ## Source notes
 
 [^umqombothi-review]: [Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer) (2020)](https://www.mdpi.com/2227-9717/8/11/1451). Hlangwani et al. Consulted 2026-10-27. Evidence used: published process and sensory overview.
@@ -119,3 +141,5 @@ A 2023 South African umqombothi experiment compared microbial sequence patterns 
 Read [the methods interpretation](../microbiology/umqombothi-amplicons-and-predicted-function.md) before assuming a taxon is required in all sorghum beer. This is a newly consulted study, not a replacement for lived maker knowledge.
 
 [^v16-umqom-micro]: [Analysis of the bacterial and fungal populations in South African sorghum beer (umqombothi) (2023)](https://link.springer.com/article/10.1007/s11274-023-03764-4). Study authors. Consulted 2026-10-28. Access: Open Springer article abstract and indexed results comparing mixed ingredients, customary brew and optimized brew; inferred pathways are not measured production rates.
+[^v111-umqombothi-museum]: [Umqombothi: Our African Beer (National Museum publication, 2019)](https://nationalmuseumpublications.co.za/umqombothi-our-african-beer/). National Museum Publications (South Africa). Consulted 2026-10-28. Access: Museum narrative with context on ancestor offerings, cooperative work and vessels; not a representative survey of all communities.
+[^v111-umqombothi-review]: [Processing, Characteristics and Composition of Umqombothi (a South African Traditional Beer) (2020)](https://www.mdpi.com/2227-9717/8/11/1451). Processing-review authors. Consulted 2026-10-28. Access: Open review text covering several South African social occasions and production accounts; secondary synthesis with variation.

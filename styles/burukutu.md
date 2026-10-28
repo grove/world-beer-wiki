@@ -14,11 +14,20 @@ generated:
 sources:
 - id: burukutu-research
   resource: https://www.researchgate.net/publication/287292436_Microbiological_and_chemical_processes_associated_with_the_production_of_burukutu_a_traditional_beer_in_Ghana
-  title: Microbiological and chemical processes associated with the production of burukutu, a traditional beer in Ghana (2014)
+  title: Microbiological and chemical processes associated with the production of burukutu, a traditional beer
+    in Ghana (2014)
   author: team:atter-obiri-danso-and-amoa-awua
   source_kind: primary-research
   access_scope: author-shared article and abstract; Ghana production sites
   author_label: Atter, Obiri-Danso and Amoa-Awua
+- id: v111-kunun-study
+  resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/
+  title: Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun
+    zaki) produced from millet (2015)
+  author_label: Kunun-zaki fortification study authors
+  source_kind: primary-food-experiment-open-text
+  access_scope: Open experimental article with modified millet protocol and fortification context; seasonal/background
+    descriptions are secondary, not nationwide consumption data.
 aliases: []
 regions:
 - West Africa
@@ -27,7 +36,8 @@ tradition_status: living-tradition
 scope: The named tradition as documented in the cited sources; local variation is not exhaustively represented.
 evidence_basis: primary fermentation research; regional scope limited to cited samples
 source_checked_on: '2026-10-27'
-review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community representative.
+review_note: AI source-checked research draft; not independently reviewed by a historian, brewer, or community
+  representative.
 relations:
 - relation: compare_with
   target: styles/pito
@@ -69,6 +79,13 @@ Comparison links are not claims of direct ancestry.
 
 [All beer entries](../styles/index.md) · [Browse by region](../navigation/by-region.md) · [How to read the evidence](../editorial/methodology.md)
 
+## Edition 1.11: newly sourced connections
+
+The new [kunun-zaki profile](kunun-zaki.md) offers a useful but **non-identical** Nigerian cereal comparison. A 2015 experiment describes kunun-zaki as a mildly fermented, commonly nonalcoholic millet refreshment, whereas the cited Ghanaian burukutu field study here concerns an alcoholic sour sorghum beer. Similar grains do not authorize renaming the drinks or merging their fermentation timelines.[^v111-kunun-study]
+
+The comparative [cereal food-drinks guide](../categories/fermented-cereal-beverages-as-food.md) distinguishes local food identity, malt versus wet-milled slurry processes and how the source was sampled. This is a cross-reference, not fresh fieldwork on Burukutu makers or a revised universal strength specification.
+
 ## Source notes
 
 [^burukutu-research]: [Microbiological and chemical processes associated with the production of burukutu, a traditional beer in Ghana (2014)](https://www.researchgate.net/publication/287292436_Microbiological_and_chemical_processes_associated_with_the_production_of_burukutu_a_traditional_beer_in_Ghana). Atter, Obiri-Danso and Amoa-Awua. Consulted 2026-10-27. Evidence used: author-shared article and abstract; Ghana production sites.
+[^v111-kunun-study]: [Determination of vitamins, minerals, and microbial loads of fortified nonalcoholic beverage (kunun zaki) produced from millet (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4708626/). Kunun-zaki fortification study authors. Consulted 2026-10-28. Access: Open experimental article with modified millet protocol and fortification context; seasonal/background descriptions are secondary, not nationwide consumption data.

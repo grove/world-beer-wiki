@@ -132,3 +132,12 @@ These short explanations are reading aids. Follow the linked profile for context
 ## References
 
 Each linked article provides the relevant source context. [Research method](methodology.md) · [Home](../index.md).
+
+
+## Edition 1.11 linked terminology
+
+- **Aguamiel:** maguey sap fermented in [pulque](../styles/pulque.md), not barley wort or distilled agave spirit.
+- **Cauim:** a context-dependent Brazilian fermented food/drink term; see [named communities and evidence](../styles/cauim.md).
+- **Giroba:** a cassava preparation described in [Tupinambá de Olivença ethnography](../styles/giroba.md); not a synonym for all cauim.
+- **Total package oxygen:** dissolved plus headspace oxygen after filling, distinct from subsequent closure ingress; see [oxygen pathways](../processes/beer-package-oxygen-pathways.md).
+- **Haze-active protein/polyphenol:** constituents discussed in [colloidal haze](../sensory/haze-and-protein-polyphenol-bonds.md), not a defect diagnosis for every intentionally hazy beer.
