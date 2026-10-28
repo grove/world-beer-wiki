@@ -1,0 +1,214 @@
+{
+  "title": "The Beer Detective",
+  "subtitle": "Uncovering the Myths, Mysteries and Untold Stories of Beer",
+  "attribution": "A World Beer Wiki book project",
+  "edition": "Review edition, October 2026",
+  "baseline_commit": "3b985c19a9dcccef8d334be54b5405e42093e812",
+  "research_cutoff": "2026-10-28",
+  "chapter_count": 24,
+  "part_count": 4,
+  "narrative_words": 36953,
+  "count_definition": "Introduction, 24 chapter bodies and afterword; headings, note markers, notes, acknowledgments, methodology and bibliography excluded. Unicode word tokens with internal apostrophes/hyphens retained.",
+  "chapter_words": 35500,
+  "introduction_words": 969,
+  "afterword_words": 484,
+  "notes": 160,
+  "registered_claims": 173,
+  "unique_source_urls": 131,
+  "human_review": "Not performed; awaiting independent editorial, specialist and community review.",
+  "master_sha256": "883601c8011442aa7720514a5452b9beedf4555d6656e60779328f65c36c9f28",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "1. Before the Field",
+      "narrative_words": 1426,
+      "notes": 7,
+      "registered_claims": 6,
+      "file": "chapters/01-before-the-field.md"
+    },
+    {
+      "chapter": 2,
+      "title": "2. A Goddess in the Brewhouse",
+      "narrative_words": 1433,
+      "notes": 6,
+      "registered_claims": 6,
+      "file": "chapters/02-a-goddess-in-the-brewhouse.md"
+    },
+    {
+      "chapter": 3,
+      "title": "3. The Accountant's Beer",
+      "narrative_words": 1462,
+      "notes": 7,
+      "registered_claims": 7,
+      "file": "chapters/03-the-accountants-beer.md"
+    },
+    {
+      "chapter": 4,
+      "title": "4. What the Pottery Remembered",
+      "narrative_words": 1413,
+      "notes": 7,
+      "registered_claims": 7,
+      "file": "chapters/04-what-the-pottery-remembered.md"
+    },
+    {
+      "chapter": 5,
+      "title": "5. The Last Service",
+      "narrative_words": 1444,
+      "notes": 6,
+      "registered_claims": 7,
+      "file": "chapters/05-the-last-service.md"
+    },
+    {
+      "chapter": 6,
+      "title": "6. The Inventor Arrives Late",
+      "narrative_words": 1454,
+      "notes": 6,
+      "registered_claims": 7,
+      "file": "chapters/06-the-inventor-arrives-late.md"
+    },
+    {
+      "chapter": 7,
+      "title": "7. The Banana That Was Never Added",
+      "narrative_words": 1464,
+      "notes": 6,
+      "registered_claims": 6,
+      "file": "chapters/07-the-banana-that-was-never-added.md"
+    },
+    {
+      "chapter": 8,
+      "title": "8. Two Beers, One Number",
+      "narrative_words": 1479,
+      "notes": 7,
+      "registered_claims": 6,
+      "file": "chapters/08-two-beers-one-number.md"
+    },
+    {
+      "chapter": 9,
+      "title": "9. The Culprit Was Light",
+      "narrative_words": 1437,
+      "notes": 7,
+      "registered_claims": 7,
+      "file": "chapters/09-the-culprit-was-light.md"
+    },
+    {
+      "chapter": 10,
+      "title": "10. The Bottle Kept Changing",
+      "narrative_words": 1500,
+      "notes": 8,
+      "registered_claims": 7,
+      "file": "chapters/10-the-bottle-kept-changing.md"
+    },
+    {
+      "chapter": 11,
+      "title": "11. The Foam That Came from the Field",
+      "narrative_words": 1490,
+      "notes": 6,
+      "registered_claims": 6,
+      "file": "chapters/11-the-foam-that-came-from-the-field.md"
+    },
+    {
+      "chapter": 12,
+      "title": "12. The Missing Parent",
+      "narrative_words": 1468,
+      "notes": 7,
+      "registered_claims": 7,
+      "file": "chapters/12-the-missing-parent.md"
+    },
+    {
+      "chapter": 13,
+      "title": "13. The Women in the Fine Book",
+      "narrative_words": 1546,
+      "notes": 6,
+      "registered_claims": 6,
+      "file": "chapters/13-the-women-in-the-fine-book.md"
+    },
+    {
+      "chapter": 14,
+      "title": "14. The Brewery with Many Front Doors",
+      "narrative_words": 1565,
+      "notes": 6,
+      "registered_claims": 6,
+      "file": "chapters/14-the-brewery-with-many-front-doors.md"
+    },
+    {
+      "chapter": 15,
+      "title": "15. The Ingredient That Had to Be Carried",
+      "narrative_words": 1454,
+      "notes": 6,
+      "registered_claims": 7,
+      "file": "chapters/15-the-ingredient-that-had-to-be-carried.md"
+    },
+    {
+      "chapter": 16,
+      "title": "16. A Flag Outside the House",
+      "narrative_words": 1453,
+      "notes": 7,
+      "registered_claims": 6,
+      "file": "chapters/16-a-flag-outside-the-house.md"
+    },
+    {
+      "chapter": 17,
+      "title": "17. The Cake That Would Not Be a Strain",
+      "narrative_words": 1532,
+      "notes": 6,
+      "registered_claims": 7,
+      "file": "chapters/17-the-cake-that-would-not-be-a-strain.md"
+    },
+    {
+      "chapter": 18,
+      "title": "18. The Beer Made in Two Directions",
+      "narrative_words": 1496,
+      "notes": 8,
+      "registered_claims": 8,
+      "file": "chapters/18-the-beer-made-in-two-directions.md"
+    },
+    {
+      "chapter": 19,
+      "title": "19. The Three-Ingredient Alibi",
+      "narrative_words": 1413,
+      "notes": 6,
+      "registered_claims": 8,
+      "file": "chapters/19-the-three-ingredient-alibi.md"
+    },
+    {
+      "chapter": 20,
+      "title": "20. Thirty-Six Barrels and a Date",
+      "narrative_words": 1504,
+      "notes": 7,
+      "registered_claims": 9,
+      "file": "chapters/20-thirty-six-barrels-and-a-date.md"
+    },
+    {
+      "chapter": 21,
+      "title": "21. The Water in the Bowl",
+      "narrative_words": 1431,
+      "notes": 5,
+      "registered_claims": 8,
+      "file": "chapters/21-the-water-in-the-bowl.md"
+    },
+    {
+      "chapter": 22,
+      "title": "22. The Beer the Eyes Ordered",
+      "narrative_words": 1428,
+      "notes": 5,
+      "registered_claims": 8,
+      "file": "chapters/22-the-beer-the-eyes-ordered.md"
+    },
+    {
+      "chapter": 23,
+      "title": "23. The Borrowed Winter",
+      "narrative_words": 1595,
+      "notes": 7,
+      "registered_claims": 8,
+      "file": "chapters/23-the-borrowed-winter.md"
+    },
+    {
+      "chapter": 24,
+      "title": "24. The Field Ahead",
+      "narrative_words": 1613,
+      "notes": 9,
+      "registered_claims": 13,
+      "file": "chapters/24-the-field-ahead.md"
+    }
+  ]
+}

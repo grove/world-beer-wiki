@@ -22,7 +22,7 @@ The light did not have to be ultraviolet. Visible light drove the relevant chemi
 
 The explanation is more satisfying than the vague idea that sunlight makes beer go bad. It specifies materials already present, energy arriving from outside and a pathway by which new molecules can form. It also shows why an unopened package is not necessarily a protected package. A seal controls the passage of material through a closure; transparent walls admit energy without opening a hole. Nothing needs to crawl under the cap.
 
-Several experiments can therefore be true without being interchangeable. A laser study can reveal an intermediate. A model mixture can isolate a reaction. A finished beer can show whether a change remains detectable amid hundreds of other components. Treating every experiment as a complete miniature brewery would flatten precisely the differences that make the investigation persuasive. The researchers approach the same problem with different ways of removing the surrounding noise.
+Following the mechanism into finished beer brings a practical question: what can investigators measure in the more crowded liquid as light exposure proceeds?
 
 Richard Pozdrik and colleagues took a useful step toward the actual drink in 2006. They examined mainstream lager and model beer, tracking the disappearance of riboflavin's absorbance at 445 nanometers during light exposure. That change was associated with the development of lightstruck character. Several tested additions reduced the changes but did not stop them. In the model system, increasing isohumulone could diminish the protective effect of some additions.[^c09-5]
 
@@ -38,7 +38,7 @@ From this perspective, the package is neither an innocent wrapper nor a universa
 
 This does not mean that every sulfurous smell is MBT, or that a familiar aromatic impression proves one mechanism without further evidence. It means that a particular explanation has earned its place through experiments. If the smell is suspected to be lightstruck, the exposure, formulation and analytical result matter. If it is ordinary aging, another investigation is needed. Placing everything under a single heading such as stale would hide the useful differences.
 
-The sequence of research is a kind of slow-motion reconstruction. A smell invites attention. A tiny amount of a compound proves sufficient to matter. Instruments detect short-lived intermediates. Model systems identify participants, and beer experiments test what happens in the more complicated liquid. Measurements of glass explain how the energy can arrive. No single paper contains the entire story; the force of the explanation comes from the way the separate observations fit.
+The glass measurements complete the route from the surroundings to the smell. Exposure supplies energy; the package controls how much reaches the beer; molecules inside participate in reactions; a small amount of their product can become perceptible. Each link gives investigators something specific to test when a bottle develops the suspected aroma.
 
 The cap, meanwhile, can remain perfectly tight. That is what gives this case its pleasingly unfair conclusion. The brewer may have guarded the liquid against a host of material intruders while the culprit entered through the walls, carrying no substance of its own. It was light, doing what light does when an accommodating molecule is waiting on the other side.[^c09-7]
 

@@ -1,14 +1,14 @@
 # 22. The Beer the Eyes Ordered
 
-For three days in December 2016, visitors to the Musical Instruments Museum in Brussels could take part in an experiment involving beer. The researchers had prepared two versions of a blond ale. One was pale; the other was darkened. Before the main experiment, a small sensory test, with the colors hidden, had failed to find a statistically significant difference in the participants' ability to distinguish their flavors.[^c22-1]
+For three days in December 2016, visitors to the Musical Instruments Museum in Brussels could take part in an experiment involving beer. The researchers had prepared two color-adjusted versions of the same base blond ale, one pale and one dark. Before the main experiment, a small sensory test, with the colors hidden, had failed to show that tasters could distinguish the beers by flavor alone.[^c22-1]
 
 Now the eyes were allowed back in.
 
-The people in the main study were asked to assess the beers before and after tasting. Their expectations differed. The dark drink suggested a different experience. After tasting, however, the relevant ratings converged: the visual differences had not produced the corresponding differences in experienced flavor. This is not the ending usually attached to a story about the senses being fooled. It is more useful for that reason.
+The dark beer was expected to taste more bitter and stronger, with more body; participants expected to like the pale beer more. After tasting, those gaps narrowed, and the reported comparisons found no statistically significant difference between beers on those ratings. The first impression had not simply carried through unchanged. This is not the ending usually attached to a story about the senses being fooled.
 
 One hundred and thirty-six people took part in the main experiment. Its authors, Felipe Reinoso Carvalho, Pieter Moors, Johan Wagemans and Charles Spence, reported the work in 2017. The result showed why expectation and experience need to be measured separately. People can anticipate a difference without continuing to report it after they have had the opportunity to taste.
 
-A dramatic account might stop at the first questionnaire. Dark beer looks heavier, stronger, richer; therefore the eyes have rewritten the tongue. But the second questionnaire was part of the investigation too. Removing it would turn an experiment about the limits of an effect into a demonstration of its power. The missing evidence would be hidden in the edit rather than in the glass.
+A dramatic account might stop at the first questionnaire. Dark beer promises more body, strength and bitterness; therefore the eyes have rewritten the tongue. But the second questionnaire was part of the investigation too. Removing it would turn an experiment about the limits of an effect into a demonstration of its power. The missing evidence would be hidden in the edit rather than in the glass.
 
 The experiment's preliminary test also deserves careful reading. It did not prove that the two liquids were chemically identical or that nobody could ever distinguish them. It failed to establish a detectable flavor difference under that test's conditions. This is a narrower and more defensible starting point. The researchers were trying to make visual appearance the salient contrast, not proclaim a universal equivalence between every aspect of the beers.
 

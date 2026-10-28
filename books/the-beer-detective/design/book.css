@@ -1,0 +1,32 @@
+@font-face { font-family: "Book Serif"; src: url("../fonts/Body.ttf"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "Book Serif"; src: url("../fonts/BodyItalic.ttf"); font-weight: normal; font-style: italic; }
+@font-face { font-family: "Book Serif"; src: url("../fonts/BodyBold.ttf"); font-weight: bold; font-style: normal; }
+@font-face { font-family: "Book Display"; src: url("../fonts/Display.ttf"); }
+body { font-family: "Book Serif", Georgia, serif; line-height: 1.45; margin: 5%; color: #1d252a; }
+h1, h2 { font-family: "Book Display", sans-serif; line-height: 1.13; font-weight: bold; text-align: left; }
+h1 { font-size: 2em; margin: 1.8em 0 1.2em; }
+h2 { font-size: 1.65em; margin: 1.5em 0 1.2em; }
+h2.subtitle { font-family: "Book Serif", Georgia, serif; font-size: 1.3em; font-weight: normal; }
+span.subtitle { display: block; font-family: "Book Serif", Georgia, serif; font-size: 1.3em; font-weight: normal; line-height: 1.3; }
+p { margin: 0; text-indent: 1.2em; orphans: 2; widows: 2; }
+h1 + p, h2 + p, section > p:first-child { text-indent: 0; }
+section.part { margin-top: 25%; }
+section.part p { font-size: 1.12em; line-height: 1.5; text-indent: 0; }
+section#title-page { text-align: center; margin-top: 25%; }
+section#title-page h1, section#title-page h2 { text-align: center; }
+section#title-page p { margin-top: 2em; text-indent: 0; }
+section#edition p { margin-bottom: 1em; text-indent: 0; font-size: 0.9em; }
+section#contents ul, nav ol { list-style: none; padding-left: 0; }
+section#contents ul ul, nav ol ol { padding-left: 1.2em; }
+li { margin: 0.5em 0; }
+li p { text-indent: 0; }
+a { color: inherit; text-decoration: underline; }
+sup { line-height: 0; font-size: 0.7em; }
+sup a { text-decoration: none; }
+section.note-group { font-size: 0.9em; }
+section.note-group h2 { font-size: 1.35em; }
+section.note-group li { margin-bottom: 0.9em; }
+section.note-group a, section.reading-group a { overflow-wrap: break-word; }
+code { font-family: monospace; font-size: 0.8em; overflow-wrap: anywhere; }
+img { max-width: 100%; height: auto; }
+@media (prefers-color-scheme: dark) { body { color: inherit; } }

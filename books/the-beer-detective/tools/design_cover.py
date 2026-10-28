@@ -2,9 +2,7 @@
 """Draw three original vector covers and export the selected front cover."""
 from pathlib import Path
 from xml.sax.saxutils import escape
-import os
 import shutil
-import subprocess
 import sys
 import xml.etree.ElementTree as ET
 
@@ -24,6 +22,7 @@ def fonts():
     specifications = [
         ('EBGaramond-variable.ttf', 'Body.ttf', {'wght': 400}),
         ('EBGaramond-variable.ttf', 'BodyBold.ttf', {'wght': 650}),
+        ('EBGaramond-Italic-variable.ttf', 'BodyItalic.ttf', {'wght': 400}),
         ('BricolageGrotesque-variable.ttf', 'Display.ttf',
          {'wght': 800, 'wdth': 90, 'opsz': 48}),
         ('BricolageGrotesque-variable.ttf', 'Sans.ttf',
@@ -31,8 +30,20 @@ def fonts():
     ]
     for source, target, axes in specifications:
         destination = out / target
-        if not destination.exists():
+        unique_name = 'BeerDetective' + destination.stem
+        cached_name = TTFont(destination)['name'].getDebugName(6) if destination.exists() else None
+        if cached_name != unique_name or destination.stat().st_mtime < (DESIGN / 'fonts' / source).stat().st_mtime:
             font = instantiateVariableFont(TTFont(DESIGN / 'fonts' / source), axes, inplace=True)
+            # Distinct PostScript names prevent PDF engines conflating different
+            # static instances; derivative names avoid reserved upstream names.
+            for record in font['name'].names:
+                if record.nameID in {1, 3, 4, 6}:
+                    value = unique_name
+                elif record.nameID == 2:
+                    value = 'Regular'
+                else:
+                    continue
+                font['name'].setName(value, record.nameID, record.platformID, record.platEncID, record.langID)
             font.save(destination)
     conf = BUILD / 'fonts.conf'
     conf.write_text('<?xml version="1.0"?><!DOCTYPE fontconfig SYSTEM "fonts.dtd">'
@@ -141,12 +152,13 @@ def main():
     shutil.copyfile(DESIGN / 'concept-a.svg', DESIGN / 'cover.svg')
     cairosvg.svg2png(bytestring=outlined(concept_a()), output_width=1800, output_height=2700,
                     write_to=str(DESIGN / 'cover.png'))
-    # A 6 × 9 inch front cover, with the same vector artwork and embedded fonts.
+    # A 6 × 9 inch front cover, with the same vector artwork and exact glyph outlines.
     print_svg = (DESIGN / 'cover.svg').read_text().replace('width="1800" height="2700"',
                                                          'width="6in" height="9in"')
     (BUILD / 'cover-print.svg').write_text(print_svg, encoding='utf-8')
     cairosvg.svg2pdf(bytestring=outlined(print_svg), write_to=str(DESIGN / 'cover-print.pdf'))
     from PIL import Image, ImageDraw, ImageFont
+    Image.open(DESIGN / 'cover.png').convert('RGB').save(DESIGN / 'cover.png', dpi=(300, 300))
     sheet = Image.new('RGB', (1920, 1020), '#eeeae2')
     draw = ImageDraw.Draw(sheet)
     for i, name in enumerate('abc'):

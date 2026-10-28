@@ -27,8 +27,9 @@ would require a printer's paper stock, spine width and bleed template; this
 package supplies a front cover, not a fabricated production specification.
 
 To edit text, install the fonts in `fonts/`. To rebuild exports, run
-`python tools/design_cover.py` from the book directory. Inkscape, Pillow and
-fontTools are required. Private build fonts and caches remain in `.build/`.
+`python tools/design_cover.py` from the book directory. CairoSVG, Pillow and
+fontTools are required. Raster and PDF exports use exact glyph outlines; the
+editable SVGs retain live text. Private build fonts and caches remain in `.build/`.
 
 Font sources: [EB Garamond](https://github.com/google/fonts/tree/main/ofl/ebgaramond)
 and [Bricolage Grotesque](https://github.com/google/fonts/tree/main/ofl/bricolagegrotesque).

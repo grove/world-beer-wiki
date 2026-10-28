@@ -2,6 +2,8 @@
 
 Scope: chapters 7–12. Review performed during drafting and again against the completed text on 28 October 2026. These are actual AI drafting, verification and editing passes. No human specialist, independent laboratory, cultural consultant or external peer reviewer was engaged. Publication-level expert review remains outstanding.
 
+This record describes the drafting pass. Subsequent edits and their rationale appear in [the cross-part review](cross-review-part-ii.md), which supersedes descriptions here wherever noted. In particular, the Tonto collection date remains in the source register rather than the narrative, and chapter 8's access qualification now appears in its source note.
+
 ## Developmental pass
 
 The six chapters were read together for progression and duplication. Their central questions are deliberately different: ingredient provenance, analytical meaning, a photochemical route, storage reactions, gas-release mechanisms, and microbial ancestry. The shared theme is the difference between a suggestive observation and an explanatory test. The first chapter begins with an accusation about ingredients; the last returns to physical samples that can redraw a family tree. Chapters 9 and 10 explicitly separate light damage from ordinary aging so the reader is not given the same bottle mystery twice.

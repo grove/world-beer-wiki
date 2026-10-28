@@ -483,6 +483,24 @@
     "uncertainty": "Abstract-only account; no particular ritual scene or Jiahu-to-Qiaotou descent claimed."
   },
   {
+    "chapter": 4,
+    "claim": "Qu is a grain-based fermentation starter carrying organisms and enzymes; mold-mediated starch conversion and yeast fermentation can proceed together when the starter is mixed with prepared starchy ingredients.",
+    "wiki_paths": [
+      "stories/two-analyses-one-jiahu-pot.md",
+      "history/jiahu-2004-to-2026-reinterpretation.md"
+    ],
+    "sources": [
+      {
+        "title": "Revealing the 2300-Year-Old Fermented Beverage in a Bronze Bottle from Shaanxi, China",
+        "url": "https://doi.org/10.3390/fermentation10070365",
+        "access": "Publisher-indexed full-text introduction and relevant process discussion consulted during cross-part review; direct page returned 429. Not a claim to inspect all figures or supplementary data.",
+        "accessed_on": "2026-10-28",
+        "locator": "Li Liu and colleagues, Fermentation 10 (2024), 365; introduction describing qu starters and simultaneous saccharification and fermentation; discussion of qu materials"
+      }
+    ],
+    "uncertainty": "Used for the explanation of the fermentation mechanism, not to assert a direct route of descent, an identical starter community, or equivalence between the 2300-year-old Qin drink and Neolithic Jiahu. The 2026 Jiahu paper’s indexed process discussion was also rechecked; direct access remained blocked."
+  },
+  {
     "chapter": 5,
     "claim": "Cerro Baúl's damaged brewery and vessels are interpreted as an organized ceremonial closure.",
     "wiki_paths": [
